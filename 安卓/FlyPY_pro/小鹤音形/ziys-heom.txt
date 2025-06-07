@@ -43747,7 +43747,7 @@ IP地址	ipdv
 洭	kleg
 𫛭	klkm
 硿	ksm
-矻	kum
+酷	kum
 圐	kuws
 戣	kvni
 煃	kvf
@@ -43792,7 +43792,7 @@ IP地址	ipdv
 坑	kgg
 狂	klkg
 哭	kurk
-酷	kum
+矻	kum
 壳	kegn
 烤	kcfs
 坎	kjgo
@@ -48336,7 +48336,7 @@ IP地址	ipdv
 知	vio
 真	vf
 震	vf
-直	vijm
+直	vij
 直	vijv
 站	vj
 占	vj
@@ -49038,7 +49038,6 @@ IP地址	ipdv
 吾	wumr
 鋈	wuec
 挽	wjq
-纹	wfv
 雾	wums
 弯	wjyn
 胃	www
@@ -53697,6 +53696,8 @@ GDP	gdp
 臭	iz
 见	j
 极	ji
+鸡	jie
+济	jie
 贱	jmb
 佳	jx
 块	k
