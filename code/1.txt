@@ -15002,6 +15002,7 @@ IP地址	ipdv
 巨款	jukr
 巨浪	julh
 距离	juli
+举例	juli
 剧烈	julp
 拘留	julq
 巨龙	juls
@@ -43967,6 +43968,8 @@ IP地址	ipdv
 略	ltw
 烈	lpmf
 另	lk
+灵	lks
+聆	lks
 陆	lqn
 陆	lunu
 楼	lz
@@ -47995,6 +47998,7 @@ IP地址	ipdv
 屎	uisd
 麝	uei
 呻	ufrl
+世	uip
 恃	uip
 鳝	ujn
 塾	uuyg
@@ -52216,7 +52220,7 @@ GDP	gdp
 绝对	jd
 尽管	jg
 渐渐	jj
-举例	jl
+酱	jl
 极其	jq
 假如	jr
 即使	ju

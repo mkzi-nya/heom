@@ -15002,6 +15002,7 @@ IP地址	ipdv
 巨款	jukr
 巨浪	julh
 距离	juli
+举例	juli
 剧烈	julp
 拘留	julq
 巨龙	juls
@@ -43967,6 +43968,8 @@ IP地址	ipdv
 略	ltw
 烈	lpmf
 另	lk
+灵	lks
+聆	lks
 陆	lqn
 陆	lunu
 楼	lz
@@ -47995,6 +47998,7 @@ IP地址	ipdv
 屎	uisd
 麝	uei
 呻	ufrl
+世	uip
 恃	uip
 鳝	ujn
 塾	uuyg
@@ -52216,7 +52220,7 @@ GDP	gdp
 绝对	jd
 尽管	jg
 渐渐	jj
-举例	jl
+酱	jl
 极其	jq
 假如	jr
 即使	ju
@@ -93876,12 +93880,19 @@ https://flypy.cc/#/gn	orm
 𫗢	zons
 𬬽	zoos
 𮉣	zovs
-﻿噢噢	oo
+﻿git add . && git commit -m "meow" && git push origin main	push
+git pull origin main	pull
+查分器	ifqi
+http://mhtlim.top/	ifqi
+https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
+http://mhtlim.top/usage/usage.html	uomk
+milthm	milt
+github	gith
+deepseek	deep
+ちゃん	jl
+噢噢	oo
 准度	vydu
-🤔	oisk
-😨	oikj
 日々早八，日々早八，烦たま死，この天天让我早八の世界早晚爆破する，この日々の早八の生活いつまで是个头，早八我されにま，早く西内，早八不西内私就要天に昇る了	zcba
-冒个泡泡	mgpp
 皆さん、おはようございます。朝の太陽が優しく輝き、新しい一日が始まりました。眠い目を擦りながら起きる朝は、少しだけつらいかもしれませんが、今日も一日充実して過ごせるように、心を引き締めて、微笑みを浮かべていきましょう。昨日の疲れは置き去りにして、新たな希望と活力でこの日を迎えましょう。お互いに励まし合い、素敵な一日を共に創りましょう。	ohyo
 あ	a
 い	i
@@ -204593,7 +204604,6 @@ https://flypy.cc/#/gn	orm
 ℉	yyyc
 °	yyyc
 …	yyyc
-。	yyyc
 ÷	yyyd
 ±	yyyd
 ≦	yyyd

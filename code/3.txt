@@ -1,9 +1,16 @@
-﻿噢噢	oo
+﻿git add . && git commit -m "meow" && git push origin main	push
+git pull origin main	pull
+查分器	ifqi
+http://mhtlim.top/	ifqi
+https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
+http://mhtlim.top/usage/usage.html	uomk
+milthm	milt
+github	gith
+deepseek	deep
+ちゃん	jl
+噢噢	oo
 准度	vydu
-🤔	oisk
-😨	oikj
 日々早八，日々早八，烦たま死，この天天让我早八の世界早晚爆破する，この日々の早八の生活いつまで是个头，早八我されにま，早く西内，早八不西内私就要天に昇る了	zcba
-冒个泡泡	mgpp
 皆さん、おはようございます。朝の太陽が優しく輝き、新しい一日が始まりました。眠い目を擦りながら起きる朝は、少しだけつらいかもしれませんが、今日も一日充実して過ごせるように、心を引き締めて、微笑みを浮かべていきましょう。昨日の疲れは置き去りにして、新たな希望と活力でこの日を迎えましょう。お互いに励まし合い、素敵な一日を共に創りましょう。	ohyo
 あ	a
 い	i
@@ -110715,7 +110722,6 @@
 ℉	yyyc
 °	yyyc
 …	yyyc
-。	yyyc
 ÷	yyyd
 ±	yyyd
 ≦	yyyd
