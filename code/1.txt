@@ -42909,6 +42909,7 @@ IP地址	ipdv
 皎	jn
 架	jxk
 锦	jbo
+仅	jbo
 杰	jpd
 聚	jus
 迹	jiy
