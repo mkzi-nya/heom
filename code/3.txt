@@ -1,4 +1,5 @@
-﻿git add . && git commit -m "meow" && git push origin main	push
+﻿
+git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull
 查分器	ifqi
 http://mhtlim.top/	ifqi

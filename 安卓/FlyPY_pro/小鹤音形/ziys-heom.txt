@@ -7194,6 +7194,7 @@ AA制	aavi
 扶正	fuvg
 付账	fuvh
 复制	fuvi
+赋值	fuvi
 服装	fuvl
 附着	fuvo
 浮肿	fuvs
@@ -48344,6 +48345,7 @@ IP地址	ipdv
 专	vrq
 职	vis
 只	vi
+知	vi
 志	vigp
 至	vim
 指	viq
@@ -48363,7 +48365,7 @@ IP地址	ipdv
 州	vzi
 州	vzm
 整	vgd
-知	vio
+值	vio
 真	vf
 震	vf
 直	vij
@@ -51977,7 +51979,7 @@ GDP	gdp
 矾	fjm
 敷	fuik
 蜉	ful
-脯	fub
+脯	fubb
 凫	fup
 俯	fuo
 弗	ful
@@ -52259,7 +52261,6 @@ GDP	gdp
 这次	vc
 直到	vd
 只会	vh
-支持	vi
 追求	vq
 只是	vu
 真正	vv

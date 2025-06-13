@@ -1,5 +1,6 @@
 #!/bin/bash
-
+OLD_DIR="$(pwd)"
+cd "$(cd "$(dirname "$0")" && pwd)"
 # 清空旧的输出文件
 > "../heom.txt"
 > "../heom.dict.yaml"
@@ -20,3 +21,4 @@ for file in 0.txt ../heom.txt; do
         echo "警告：文件 $file 不存在，跳过。"
     fi
 done
+cd "$OLD_DIR"
