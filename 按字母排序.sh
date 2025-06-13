@@ -1,1 +1,0 @@
-LC_ALL=C sort -t $'\t' -k2,2 --stable ./heom.txt > ./heom_s.txt

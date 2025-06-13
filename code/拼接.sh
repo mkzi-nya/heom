@@ -21,4 +21,5 @@ for file in 0.txt ../heom.txt; do
         echo "警告：文件 $file 不存在，跳过。"
     fi
 done
+sort -s -t $'\t' -k2,2 ../heom.txt > ../heom_s.txt
 cd "$OLD_DIR"
