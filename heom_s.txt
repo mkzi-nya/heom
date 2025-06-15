@@ -181520,6 +181520,7 @@ http://flypy.ysepan.com	xhwp
 香菇	xlgu
 塂	xlgu
 向	xlh
+箱	xlh
 稥	xlha
 𩡌	xlha
 𩡠	xlha
@@ -181545,7 +181546,6 @@ http://flypy.ysepan.com	xhwp
 𧖿	xlht
 相互	xlhu
 香	xlhu
-箱	xlhu
 相会	xlhv
 忀	xlhv
 像话	xlhx
