@@ -3,6 +3,8 @@ git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull
 git fetch origin && git reset --hard origin/main && git clean -fd	pull
 查分器	ifqi
+Ciallo～(∠・ω< )⌒☆	cial
+哔叻卟叻哔叻卟叻der~	brbr
 http://mhtlim.top/	ifqi
 https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 http://mhtlim.top/usage/usage.html	uomk
@@ -112274,5 +112276,3 @@ deepseek	deep
 ㄤ	ang
 ㄥ	eng
 ㄦ	er
-Ciallo～(∠・ω< )⌒☆	cial
-哔叻卟叻哔叻卟叻der~	brbr

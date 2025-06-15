@@ -12146,6 +12146,7 @@ AA制	aavi
 畅通	ihts
 成何体统	ihtt
 长途	ihtu
+长条	ihtn
 长沙	ihua
 常设	ihue
 厂商	ihuh
@@ -43980,6 +43981,7 @@ IP地址	ipdv
 类	lw
 累	lw
 连	lm
+练	lm
 落	lo
 乐	le
 六	lq
@@ -53713,6 +53715,7 @@ GDP	gdp
 济	jie
 贱	jmb
 佳	jx
+甲	jxw
 块	k
 抠	kz
 立	l
@@ -93894,6 +93897,8 @@ git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull
 git fetch origin && git reset --hard origin/main && git clean -fd	pull
 查分器	ifqi
+Ciallo～(∠・ω< )⌒☆	cial
+哔叻卟叻哔叻卟叻der~	brbr
 http://mhtlim.top/	ifqi
 https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 http://mhtlim.top/usage/usage.html	uomk
@@ -206165,5 +206170,3 @@ deepseek	deep
 ㄤ	ang
 ㄥ	eng
 ㄦ	er
-Ciallo～(∠・ω< )⌒☆	cial
-哔叻卟叻哔叻卟叻der~	brbr
