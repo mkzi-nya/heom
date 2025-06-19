@@ -44245,7 +44245,6 @@ IP地址	ipdv
 箩	loh
 遛	lqy
 銮	lryc
-靓	llq
 濂	lmec
 痢	lik
 喽	lzr
@@ -47866,7 +47865,7 @@ IP地址	ipdv
 声	ugg
 适	uiy
 试	uiim
-伸	ufo
+什	ufo
 审	ufj
 属	uus
 剩	ugh
@@ -50053,7 +50052,6 @@ IP地址	ipdv
 元	yr
 也	ye
 与	yu
-园	yrwu
 员	yrr
 已	yis
 应	yk
@@ -50520,7 +50518,6 @@ IP地址	ipdv
 洇	ybek
 嵛	yuun
 嵛	yuuv
-鞅	yht
 狺	ybk
 夤	ybnc
 瘿	ykkv
@@ -52092,7 +52089,7 @@ GDP	gdp
 椭	tod
 桐	tsd
 厍	uem
-什	ufo
+伸	ufo
 裳	uhf
 湜	uie
 舐	uihv
