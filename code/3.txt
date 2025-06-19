@@ -1,4 +1,4 @@
-﻿查分器	ifqi
+查分器	ifqi
 git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull
 git fetch origin && git reset --hard origin/main && git clean -fd	pull

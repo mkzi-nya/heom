@@ -1,3 +1,5 @@
+只是用来存一下代码，防止弄丢罢了，反正除了我应该也没人会用这种东西  
+  
 可到[https://mkzi-nya.github.io/IME-Converter-web/index.html](https://mkzi-nya.github.io/IME-Converter-web/index.html)试用  
 是以鹤形为基础将形码部分改成仓颉改的输入法  
 比如鹤：鹤=hedn，仓：鹤=ogpym，加起来变成heom  
