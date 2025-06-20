@@ -2,6 +2,7 @@
 git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull
 git fetch origin && git reset --hard origin/main && git clean -fd	pull
+iphp	php -S 127.0.0.1:8000
 查分器	ifqi
 Ciallo～(∠・ω< )⌒☆	cial
 哔叻卟叻哔叻卟叻der~	brbr
