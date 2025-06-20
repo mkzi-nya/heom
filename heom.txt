@@ -50906,6 +50906,8 @@ IP地址	ipdv
 族	zuy
 足	zur
 字	zi
+紫	zi
+紫	ziy
 曾	zgc
 泽	zee
 座	zoi
