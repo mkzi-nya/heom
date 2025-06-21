@@ -7985,8 +7985,8 @@
 䪂	getb
 䪺	gegc
 䫦	gegc
-佮	geor
 個	geor
+佮	geor
 匌	gepr
 呄	genr
 嗰	gerr
