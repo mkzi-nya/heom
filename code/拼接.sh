@@ -8,7 +8,7 @@ cd "$(cd "$(dirname "$0")" && pwd)"
 > "../ziys/heom.dict.yaml"
 
 # 按顺序拼接 1.txt 2.txt 3.txt
-for file in 1.txt 2.txt 3.txt; do
+for file in 1.txt 2.txt; do
     if [ -f "$file" ]; then
         cat "$file" >> "../heom.txt"
     else
@@ -23,7 +23,7 @@ for file in 0.txt ../heom.txt; do
         echo "警告：文件 $file 不存在，跳过。"
     fi
 done
-for file in ../heom.txt ./4.txt ./5.txt; do
+for file in ../heom.txt 3.txt ./4.txt ./5.txt; do
     if [ -f "$file" ]; then
         cat "$file" >> "../ziys/heom.txt"
     else

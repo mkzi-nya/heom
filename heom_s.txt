@@ -1,8 +1,6 @@
 啊	a
 按	a
 安装	a
-あ	a
-ア	a
 阿	aa
 腌	aab
 阿爸	aaba
@@ -957,8 +955,6 @@ AA制	aavi
 吧	b
 比较	b
 把	ba
-ば	ba
-バ	ba
 巴	baa
 𢻷	baae
 𧎱	baai
@@ -1948,8 +1944,6 @@ AA制	aavi
 不打自招	bdzv
 败走	bdzz
 不饿	be
-べ	be
-ベ	be
 博而不精	beb
 避而不见	bebj
 避而不谈	bebt
@@ -2454,8 +2448,6 @@ AA制	aavi
 棒子	bhzi
 比	bi
 逼	bi
-び	bi
-ビ	bi
 鵖	biaf
 閉	biah
 閟	biah
@@ -4140,8 +4132,6 @@ AA制	aavi
 婊子	bnzi
 不能自已	bnzy
 拨	bo
-ぼ	bo
-ボ	bo
 𣋵	boad
 㬧	boaf
 𦃙	boaf
@@ -4673,7 +4663,6 @@ AA制	aavi
 不请自来	bqzl
 不起作用	bqzy
 不然	br
-哔叻卟叻哔叻卟叻der~	brbr
 勃然变色	brbs
 不仁不义	brby
 不认得	brde
@@ -4786,8 +4775,6 @@ AA制	aavi
 不太一样	btyy
 部	bu
 步	bu
-ぶ	bu
-ブ	bu
 晡	bua
 晡	buab
 𨴪	buab
@@ -5081,7 +5068,6 @@ AA制	aavi
 不识时务	buuw
 不顺	buuy
 部首	buuz
-⽇⽈⾨⾉⽉⺝⺼⾻⻣⺳⺴⻅⺼⺱⽹⺵⼞⺜⻉⽤⾘⽫⽬⾙⾒⿍⾦⺑⺏⽗⾕⽊⽪⼨⺘⾱⿆⽔⽕⽶⺢⺗⼟⾚⿎⾛⼃⽵⽩⾹⿃⾎⾃⾈⽲⿉⼡⼢⺣⺤⺥⾤⺧⺁⼺⾡⺅⽖⽄⼏⺇⺈⽎⾵⻛⼋⼻⾏⽜⽣⽑⾩⻕⼓⼾⺆⿁⻤⿐⽠⽒⾅⺽⾝⻱⿏⺖⼂⼽⼧⺀⺍⽧⺡⻍⿇⽝⻰⼇⼎⼍⺭⻂⻎⻂⻌⻈⼷⿅⼗⽳⽀⼶⺾⺿⺹⽼⼠⿆⺺⾞⼤⼶⽘⺨⻋⼒⺨⼪⺐⼁⼱⽱⺌⾪⺦⻔⽚⺊⺻⾍⾮⻀⼍⾾⺉⾀⼌⺆⾲⼉⼀⽽⻚⾴⾣⻄⺩⽟⼚⺂⾄⼲⾆⽆⾬⻗⻃⼯⼆⽰⺬⾠⽍⽯⿀⾖⾗⺎⾑⼕⼖⽛⺛⽡⾯⼅⼸⾊⾓⻇⻆⼩⼦⼣⽭⾇⽨⼜⻏⻖⼹⼵⽋⻜⾶⼄⺄⻠⻢⿂⻲⻥⻳⿔⺪⽦⼈⾁⾫⼊⾷⻝⻞⻟⺮⽸⽮⺙⽓⻐⿕⼼⻓⽐⻦⼿⽾⾭⻘⻨⻙⼝⾢⻪⺒⺠⿌⻊⾜⼫⼑⾽⽿⼙⾂⺕⻒⽻⾧⻑⾺⼰⺋⿋⺷⾸⾰⻩⽢⺸⿈⽺⺶⼭⼔⼬⾿⼬⾋⼥⼛⼳⺓⽷⺯⼐⺃⽙⺔⺰⻡⼮⽥⺲⾥⿊⽏⺫⺟⼘⿓⽁⼴⽅⾐⽃⽂⻬⻫⽌⺡⾔⿒⻭⻮⺞⻍⾌⻁⾼⽴⾳⾟⻯⽞⿄⻧⿑	buuz
 㚴	buvb
 䋠	buvb
 部长	buvh
@@ -5575,8 +5561,6 @@ AA制	aavi
 比下有余	bxyy
 不肖子孙	bxzs
 必要	by
-びゃ	bya
-ビャ	bya
 不一般	bybj
 不依不饶	bybr
 暴饮暴食	bybu
@@ -5611,8 +5595,6 @@ AA制	aavi
 比翼连枝	bylv
 比翼鸟	bynn
 布宜诺斯艾利斯	byns
-びょ	byo
-ビョ	byo
 不厌其烦	byqf
 比翼齐飞	byqf
 变压器	byqi
@@ -5620,8 +5602,6 @@ AA制	aavi
 避孕套	bytc
 别有天地	bytd
 白衣天使	bytu
-びゅ	byu
-ビュ	byu
 比翼双飞	byuf
 毕业生	byug
 不要说	byuo
@@ -6229,8 +6209,6 @@ AA制	aavi
 曾在	cgzd
 藏	ch
 仓	ch
-ちゃ	cha
-チャ	cha
 藏宝	chbc
 苍白	chbd
 残花败柳	chbl
@@ -6258,8 +6236,6 @@ AA制	aavi
 𤚬	chhr
 舱	chhu
 才华横溢	chhy
-ち	chi
-チ	chi
 仓皇出逃	chit
 仓储	chiu
 𰃷	chiu
@@ -6281,8 +6257,6 @@ AA制	aavi
 藏匿	chni
 舱内	chnw
 仓	cho
-ちょ	cho
-チョ	cho
 鶬	chof
 𩀞	chog
 鸧	chom
@@ -6304,8 +6278,6 @@ AA制	aavi
 蒼	chtr
 藏	chts
 𦾝	chtu
-ちゅ	chu
-チュ	chu
 仓皇失措	chuc
 藏身	chuf
 苍生	chug
@@ -6329,7 +6301,6 @@ AA制	aavi
 次	ci
 此	ci
 慈爱	ciai
-Ciallo～(∠・ω< )⌒☆	cial
 此岸	cian
 赐	cib
 此唱彼和	cibh
@@ -7667,8 +7638,6 @@ Ciallo～(∠・ω< )⌒☆	cial
 大概	d
 大	da
 达	da
-だ	da
-ダ	da
 大爱	daai
 答案	daan
 𠞈	daan
@@ -8569,8 +8538,6 @@ Ciallo～(∠・ω< )⌒☆	cial
 傣族	ddzu
 带走	ddzz
 得	de
-で	de
-デ	de
 𠮊	deae
 𣌏	deae
 㝵	deai
@@ -8594,7 +8561,6 @@ Ciallo～(∠・ω< )⌒☆	cial
 𡭂	dedi
 㯖	dedp
 淂	deei
-deepseek	deep
 得法	defa
 得分	deff
 地	deg
@@ -10565,8 +10531,6 @@ deepseek	deep
 刁钻	dnzr
 调走	dnzz
 多	do
-ど	do
-ド	do
 多爱	doai
 躲避	dobi
 多半	dobj
@@ -12518,8 +12482,6 @@ deepseek	deep
 二	e
 嗯	e
 嗯嗯	e
-え	e
-エ	e
 恩爱	ea
 而不	eb
 饿不饿	ebee
@@ -14896,8 +14858,6 @@ deepseek	deep
 繁体字	ftzi
 副	fu
 复	fu
-ふ	fu
-フ	fu
 𨵟	fuae
 父爱	fuai
 伏案	fuan
@@ -16034,8 +15994,6 @@ deepseek	deep
 管	g
 关系	g
 嘎	ga
-が	ga
-ガ	ga
 胳	gab
 朒	gabo
 胳	gabr
@@ -16545,8 +16503,6 @@ GDP	gdp
 公道自在人心	gdzx
 各	ge
 哥	ge
-げ	ge
-ゲ	ge
 割爱	geai
 𢆜	geaj
 个案	gean
@@ -17265,8 +17221,6 @@ GDP	gdp
 光合作用	ghzy
 刚走	ghzz
 过程	gi
-ぎ	gi
-ギ	gi
 高处不胜寒	gibh
 攻城拔寨	gibv
 肝肠寸断	gicd
@@ -17285,7 +17239,6 @@ GDP	gdp
 功成名就	gimj
 鼓唇弄舌	ginu
 滚出去	giqu
-github	gith
 工程师	giui
 功成身退	giut
 共产主义	givy
@@ -17871,8 +17824,6 @@ github	gith
 故弄玄虚	gnxx
 过	go
 果	go
-ご	go
-ゴ	go
 虢	gob
 腘	gob
 锅巴	goba
@@ -18781,8 +18732,6 @@ github	gith
 狗腿子	gtzi
 古	gu
 故	gu
-ぐ	gu
-グ	gu
 𨵐	guae
 孤傲	guao
 股	gub
@@ -19711,8 +19660,6 @@ github	gith
 瓜子	gxzi
 关心则乱	gxzl
 滚	gy
-ぎゃ	gya
-ギャ	gya
 过一遍	gyb
 睔	gybb
 𩩌	gybf
@@ -19781,8 +19728,6 @@ github	gith
 𱇢	gyni
 𠃌	gynn
 顾影弄姿	gynz
-ぎょ	gyo
-ギョ	gyo
 工艺品	gypb
 滚屏	gypk
 惃	gypp
@@ -19808,8 +19753,6 @@ github	gith
 过一天算一天	gytt
 蓘	gytv
 蔉	gytv
-ぎゅ	gyu
-ギュ	gyu
 工欲善其事，必先利其器	gyuq
 工欲善其事	gyuu
 更有甚者	gyuv
@@ -20072,8 +20015,6 @@ github	gith
 化	h
 忽略	h
 哈	ha
-は	ha
-ハ	ha
 哈达	hada
 𬢇	haeu
 哈佛	hafo
@@ -20667,8 +20608,6 @@ github	gith
 厚德载物	hdzw
 何	he
 合	he
-へ	he
-ヘ	he
 曷	hea
 䫘	heac
 鶡	heaf
@@ -21440,8 +21379,6 @@ github	gith
 好孩子	hhzi
 怀恨在心	hhzx
 好处	hi
-ひ	hi
-ヒ	hi
 何尝不是	hibu
 何出此言	hicy
 回肠荡气	hidq
@@ -22268,8 +22205,6 @@ github	gith
 还能怎样	hnzy
 或	ho
 火	ho
-ほ	ho
-ホ	ho
 䦝	hoac
 曤	hoag
 𣉒	hoag
@@ -24665,8 +24600,6 @@ github	gith
 化作	hxzo
 好戏在后头	hxzt
 混	hy
-ひゃ	hya
-ヒャ	hya
 閽	hyaa
 𣇲	hyaa
 𦟲	hyab
@@ -24785,8 +24718,6 @@ github	gith
 𩽼	hynq
 含饴弄孙	hyns
 𧣢	hynv
-ひょ	hyo
-ヒョ	hyo
 𠉣	hyoa
 㑮	hyoj
 倱	hyop
@@ -24832,8 +24763,6 @@ github	gith
 荤	hytq
 混同	hyts
 馄饨	hyty
-ひゅ	hyu
-ヒュ	hyu
 婚纱	hyua
 浑身	hyuf
 婚事	hyui
@@ -25076,8 +25005,6 @@ github	gith
 出	i
 初	i
 重新	i
-い	i
-イ	i
 差	ia
 𣆗	iaar
 插拔	iaba
@@ -25966,10 +25893,6 @@ github	gith
 抻	ifq
 吃饭去	ifq
 捵	ifqc
-查分器	ifqi
-查分器	ifqi
-http://mhtlim.top/	ifqi
-https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 吃饭去了	ifql
 揨	ifqn
 臣妾	ifqp
@@ -27735,7 +27658,6 @@ https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 产品	ip
 长篇大论	ipdl
 IP地址	ipdv
-php -S 127.0.0.1:8000	iphp
 长篇累牍	ipld
 长篇小说	ipxu
 重启	iq
@@ -29111,8 +29033,6 @@ php -S 127.0.0.1:8000	iphp
 见	j
 键盘	j
 骄傲	ja
-じゃ	ja
-ジャ	ja
 桀骜不驯	jabx
 举案齐眉	jaqm
 居安思危	jasw
@@ -29717,10 +29637,6 @@ php -S 127.0.0.1:8000	iphp
 叫花子	jhzi
 几	ji
 极	ji
-じ	ji
-ぢ	ji
-ジ	ji
-ヂ	ji
 即	jia
 𣇳	jiac
 䳭	jiaf
@@ -31129,7 +31045,6 @@ php -S 127.0.0.1:8000	iphp
 竞走	jkzz
 将	jl
 酱	jl
-ちゃん	jl
 膙	jlb
 䁰	jlbc
 接连不断	jlbd
@@ -32475,8 +32390,6 @@ php -S 127.0.0.1:8000	iphp
 叫作	jnzo
 基诺族	jnzu
 奇偶	jo
-じょ	jo
-ジョ	jo
 接	jp
 解	jp
 昅	jpae
@@ -33923,8 +33836,6 @@ php -S 127.0.0.1:8000	iphp
 家庭作业	jtzy
 据	ju
 即使	ju
-じゅ	ju
-ジュ	ju
 济世安邦	juab
 㬬	juag
 𨍯	juaj
@@ -35174,8 +35085,6 @@ php -S 127.0.0.1:8000	iphp
 块	k
 可以	k
 卡	ka
-か	ka
-カ	ka
 胩	kab
 胩	kaby
 鉲	kacy
@@ -35534,8 +35443,6 @@ php -S 127.0.0.1:8000	iphp
 开罪	kdzv
 刻	ke
 克	ke
-け	ke
-ケ	ke
 可爱	keai
 𪓮	keau
 瞌	keb
@@ -36048,8 +35955,6 @@ php -S 127.0.0.1:8000	iphp
 葵花籽	khzi
 扛走	khzz
 开车	ki
-き	ki
-キ	ki
 开场白	kibd
 开诚布公	kibg
 口齿不清	kibq
@@ -36555,8 +36460,6 @@ php -S 127.0.0.1:8000	iphp
 可能性	knxk
 肯尼亚	knya
 扩	ko
-こ	ko
-コ	ko
 䦢	koai
 闊	koar
 𨶐	koar
@@ -36842,8 +36745,6 @@ php -S 127.0.0.1:8000	iphp
 口头语	ktyu
 哭	ku
 酷	ku
-く	ku
-ク	ku
 酷爱	kuai
 苦熬	kuao
 𦛏	kubg
@@ -37354,8 +37255,6 @@ php -S 127.0.0.1:8000	iphp
 夸赞	kxzj
 困	ky
 昆	kya
-きゃ	kya
-キャ	kya
 㫻	kyab
 閫	kyad
 鵾	kyaf
@@ -37451,8 +37350,6 @@ php -S 127.0.0.1:8000	iphp
 鯤	kynp
 𫘥	kynp
 锟	kyo
-きょ	kyo
-キョ	kyo
 锟	kyop
 悃	kypd
 鲲鹏	kypg
@@ -37474,8 +37371,6 @@ php -S 127.0.0.1:8000	iphp
 髨	kysu
 菎	kytp
 崑	kyu
-きゅ	kyu
-キュ	kyu
 跨越式	kyui
 崑	kyup
 崐	kyup
@@ -43524,8 +43419,6 @@ php -S 127.0.0.1:8000	iphp
 目录	m
 吗	ma
 骂	ma
-ま	ma
-マ	ma
 閁	maah
 马鞍	maan
 𥉊	mabf
@@ -44292,8 +44185,6 @@ php -S 127.0.0.1:8000	iphp
 麦子	mdzi
 卖座	mdzo
 么	me
-め	me
-メ	me
 秘而不宣	mebx
 马尔代夫	medf
 摩尔多瓦	medw
@@ -44817,8 +44708,6 @@ php -S 127.0.0.1:8000	iphp
 名花有主	mhyv
 𤰡	mhyw
 米	mi
-み	mi
-ミ	mi
 𨷬	miab
 明察暗访	miaf
 谜案	mian
@@ -44975,7 +44864,6 @@ php -S 127.0.0.1:8000	iphp
 迷恋	milm
 冖	miln
 迷乱	milr
-milthm	milt
 迷路	milu
 𧐎	milu
 密码	mima
@@ -45901,8 +45789,6 @@ milthm	milt
 苗子	mnzi
 苗族	mnzu
 摸	mo
-も	mo
-モ	mo
 默哀	moai
 𣋟	moai
 昩	moaj
@@ -46397,8 +46283,6 @@ milthm	milt
 漫天要价	mtyj
 猫头鹰	mtyk
 目	mu
-む	mu
-ム	mu
 母爱	muai
 睦	mub
 目	mub
@@ -46972,8 +46856,6 @@ milthm	milt
 慢性子	mxzi
 扪心自问	mxzw
 没有	my
-みゃ	mya
-ミャ	mya
 绵延不断	mybd
 没有办法	mybf
 贸易保护	mybh
@@ -47014,8 +46896,6 @@ milthm	milt
 贸易逆差	myni
 每一年	mynm
 面有难色	myns
-みょ	myo
-ミョ	myo
 慢一拍	mypd
 卖淫嫖娼	mypi
 明月清风	myqf
@@ -47028,8 +46908,6 @@ milthm	milt
 买一送一	mysy
 每一天	mytm
 名扬天下	mytx
-みゅ	myu
-ミュ	myu
 名义上	myuh
 贸易顺差	myui
 民以食为天	myut
@@ -47143,11 +47021,7 @@ milthm	milt
 你	n
 哪	n
 内容	n
-ん	n
-ン	n
 那	na
-な	na
-ナ	na
 𣅚	naab
 肭	nab
 哪边	nab
@@ -47625,8 +47499,6 @@ milthm	milt
 奶子	ndzi
 奶嘴	ndzv
 呢	ne
-ね	ne
-ネ	ne
 眲	nebj
 男儿当自强	nedq
 䅞	nehi
@@ -47767,8 +47639,6 @@ milthm	milt
 男孩子	nhzi
 你	ni
 泥	ni
-に	ni
-ニ	ni
 䦵	niab
 溺爱	niai
 昵	niap
@@ -48586,8 +48456,6 @@ milthm	milt
 鸟嘴	nnzv
 喃喃自语	nnzy
 挪	no
-の	no
-ノ	no
 𣆚	noan
 𦡃	nobg
 𡬥	nobi
@@ -49122,8 +48990,6 @@ milthm	milt
 䖋	ntyo
 䖈	ntyp
 怒	nu
-ぬ	nu
-ヌ	nu
 奴婢	nubi
 奴才	nucd
 怒放	nufh
@@ -49392,8 +49258,6 @@ milthm	milt
 弄虚作假	nxzj
 纳西族	nxzu
 那样	ny
-にゃ	nya
-ニャ	nya
 捏一把汗	nybh
 南辕北辙	nybv
 奴颜婢膝	nybx
@@ -49411,11 +49275,7 @@ milthm	milt
 娘要嫁人	nyjr
 奴颜媚骨	nymg
 讷言敏行	nymx
-にょ	nyo
-ニョ	nyo
 年月日	nyri
-にゅ	nyu
-ニュ	nyu
 能言善辩	nyub
 难于上青天	nyut
 哪一种	nyvs
@@ -49480,8 +49340,6 @@ milthm	milt
 念兹在兹	nzzz
 哦	o
 哦哦	o
-お	o
-オ	o
 一	oba
 鱼	oba
 冖	obb
@@ -49577,7 +49435,6 @@ milthm	milt
 哦对	od
 藕断丝连	odsl
 偶尔	oe
-々	of
 点数u	ofd
 单位w	ofd
 ⒈	ofdu
@@ -50269,7 +50126,6 @@ $	ofhb
 ǘ	ohv
 ǚ	ohv
 ǜ	ohv
-皆さん、おはようございます。朝の太陽が優しく輝き、新しい一日が始まりました。眠い目を擦りながら起きる朝は、少しだけつらいかもしれませんが、今日も一日充実して過ごせるように、心を引き締めて、微笑みを浮かべていきましょう。昨日の疲れは置き去りにして、新たな希望と活力でこの日を迎えましょう。お互いに励まし合い、素敵な一日を共に創りましょう。	ohyo
 😊	oi
 🤫	oiaj
 😌	oiax
@@ -51004,8 +50860,6 @@ $	otm
 屁	p
 便宜	p
 怕	pa
-ぱ	pa
-パ	pa
 杷	pad
 爬到	padc
 杷	padu
@@ -51496,8 +51350,6 @@ $	otm
 排在	pdzd
 牌子	pdzi
 普洱	pe
-ぺ	pe
-ペ	pe
 破而后立	pehl
 盆	pf
 皮肤病	pfbk
@@ -51835,8 +51687,6 @@ $	otm
 庞杂	phza
 胖子	phzi
 批	pi
-ぴ	pi
-ピ	pi
 闢	piaj
 皮袄	piao
 𨵡	piau
@@ -52837,8 +52687,6 @@ $	otm
 票子	pnzi
 飘走	pnzz
 破	po
-ぽ	po
-ポ	po
 破案	poan
 謈	poar
 昢	poau
@@ -53123,8 +52971,6 @@ PPT	ppt
 排他性	ptxk
 葡萄牙	ptya
 普	pu
-ぷ	pu
-プ	pu
 曝	pua
 㬥	puad
 暴	puae
@@ -53201,8 +53047,6 @@ PPT	ppt
 盘山路	pul
 𧙛	pulb
 扑来	puld
-git pull origin main	pull
-git fetch origin && git reset --hard origin/main && git clean -fd	pull
 䗱	pulo
 𤗵	pulo
 铺路	pulu
@@ -53262,7 +53106,6 @@ git fetch origin && git reset --hard origin/main && git clean -fd	pull
 䮒	pusb
 𡰿	puse
 𩯱	puse
-git add . && git commit -m "meow" && git push origin main	push
 䑑	puso
 朴素	pusu
 蒲	put
@@ -53477,8 +53320,6 @@ git add . && git commit -m "meow" && git push origin main	push
 平行线	pxxm
 偏信则暗	pxza
 拼音	py
-ぴゃ	pya
-ピャ	pya
 碰一鼻子灰	pybh
 疲于奔命	pybm
 漂洋过海	pygh
@@ -53487,10 +53328,6 @@ git add . && git commit -m "meow" && git push origin main	push
 平易近人	pyjr
 破衣烂衫	pylu
 便宜没好货	pymh
-ぴょ	pyo
-ピョ	pyo
-ぴゅ	pyu
-ピュ	pyu
 平庸之辈	pyvb
 片言只语	pyvy
 便宜无好货	pywh
@@ -57642,8 +57479,6 @@ git add . && git commit -m "meow" && git push origin main	push
 入	r
 然后	r
 热爱	ra
-ら	ra
-ラ	ra
 日本	rb
 容不得	rbde
 肉包打狗	rbdg
@@ -57744,8 +57579,6 @@ git add . && git commit -m "meow" && git push origin main	push
 人多嘴杂	rdzz
 热	re
 惹	re
-れ	re
-レ	re
 热爱	reai
 𤑄	rebf
 热播	rebo
@@ -58171,8 +58004,6 @@ git add . && git commit -m "meow" && git push origin main	push
 𤬥	rhyv
 让座	rhzo
 日	ri
-り	ri
-リ	ri
 日	ria
 日	riaa
 日报	ribc
@@ -58428,8 +58259,6 @@ git add . && git commit -m "meow" && git push origin main	push
 阮囊羞涩	rnxs
 若	ro
 弱	ro
-ろ	ro
-ロ	ro
 䐞	robh
 䐞	robm
 若不	robu
@@ -58834,8 +58663,6 @@ git add . && git commit -m "meow" && git push origin main	push
 热腾腾	rttg
 人头税	rtuv
 如	ru
-る	ru
-ル	ru
 曘	ruab
 乳白	rubd
 人善被人欺	rubq
@@ -59174,8 +59001,6 @@ git add . && git commit -m "meow" && git push origin main	push
 人心向背	rxxb
 日新月异	rxyy
 容易	ry
-りゃ	rya
-リャ	rya
 䦞	ryag
 閏	ryag
 閠	ryai
@@ -59215,8 +59040,6 @@ git add . && git commit -m "meow" && git push origin main	push
 人仰马翻	rymf
 𩀋	rymg
 闰年	rynm
-りょ	ryo
-リョ	ryo
 日用品	rypb
 人以群分	ryqf
 忍一忍	ryrf
@@ -59234,8 +59057,6 @@ git add . && git commit -m "meow" && git push origin main	push
 如影随形	rysx
 日益突出	ryti
 日月潭	rytj
-りゅ	ryu
-リュ	ryu
 㠈	ryug
 润湿	ryui
 如蝇逐臭	ryvi
@@ -59366,8 +59187,6 @@ git add . && git commit -m "meow" && git push origin main	push
 随	s
 所有	s
 撒	sa
-さ	sa
-サ	sa
 𨷆	saam
 脎	sab
 脎	sabc
@@ -59676,8 +59495,6 @@ git add . && git commit -m "meow" && git push origin main	push
 塞子	sdzi
 色	se
 涩	se
-せ	se
-セ	se
 閪	seaw
 色斑	sebj
 死而不僵	sebj
@@ -59860,8 +59677,6 @@ git add . && git commit -m "meow" && git push origin main	push
 三个字	sgz
 四个字	sgzi
 似乎	sh
-しゃ	sha
-シャ	sha
 𣉕	shad
 𣊝	shad
 𦟄	shbd
@@ -59883,8 +59698,6 @@ git add . && git commit -m "meow" && git push origin main	push
 丧	shgv
 䘮	shgv
 喪	shgv
-し	shi
-シ	shi
 䫙	shjc
 䡦	shjd
 桒	shjd
@@ -59904,8 +59717,6 @@ git add . && git commit -m "meow" && git push origin main	push
 桑拿	shna
 𩺞	shnd
 𱈎	shnd
-しょ	sho
-ショ	sho
 丧偶	shou
 搡	shq
 搡	shqd
@@ -59919,8 +59730,6 @@ git add . && git commit -m "meow" && git push origin main	push
 岁寒三友	shsy
 桑田	shtm
 死胡同	shts
-しゅ	shu
-シュ	shu
 桑葚	shuf
 丧生	shug
 丧失	shui
@@ -60500,8 +60309,6 @@ git add . && git commit -m "meow" && git push origin main	push
 斯诺克	snke
 三年清知府，十万雪花银	snqy
 所	so
-そ	so
-ソ	so
 暛	soam
 睃	sob
 缩编	sob
@@ -60995,8 +60802,6 @@ git add . && git commit -m "meow" && git push origin main	push
 三天三夜说不完	stsw
 苏	su
 酥	su
-す	su
-ス	su
 㬘	suax
 膆	subf
 撒手不管	subg
@@ -61739,8 +61544,6 @@ git add . && git commit -m "meow" && git push origin main	push
 它	t
 提供	t
 她	ta
-た	ta
-タ	ta
 𨵝	taaa
 闒	taam
 𦐇	taam
@@ -62394,8 +62197,6 @@ git add . && git commit -m "meow" && git push origin main	push
 添丁增口	tdzk
 太祖	tdzu
 特	te
-て	te
-テ	te
 特别	tebp
 𥊸	tebp
 𥌩	tebp
@@ -64225,8 +64026,6 @@ git add . && git commit -m "meow" && git push origin main	push
 条子	tnzi
 挑嘴	tnzv
 拖	to
-と	to
-ト	to
 脱	tob
 妥	tob
 拖把	toba
@@ -64954,8 +64753,6 @@ git add . && git commit -m "meow" && git push origin main	push
 通途	tstu
 通透	tstz
 同事	tsu
-つ	tsu
-ツ	tsu
 㠉	tsug
 同上	tsuh
 同时	tsui
@@ -65932,8 +65729,6 @@ git add . && git commit -m "meow" && git push origin main	push
 是	u
 时	u
 时候	u
-う	u
-ウ	u
 啥	ua
 厦	ua
 𣉜	uaae
@@ -68912,7 +68707,6 @@ git add . && git commit -m "meow" && git push origin main	push
 硕	uom
 碩	uomc
 说明	uomk
-http://mhtlim.top/usage/usage.html	uomk
 硕	uomo
 说媒	uomw
 矟	uonb
@@ -75344,8 +75138,6 @@ http://mhtlim.top/usage/usage.html	uomk
 位	w
 位置	w
 挖	wa
-わ	wa
-ワ	wa
 腽	wab
 𦚩	wabd
 𩩤	wabm
@@ -76674,8 +76466,6 @@ http://mhtlim.top/usage/usage.html	uomk
 无奈之下	wnvx
 无能为力	wnwl
 我	wo
-を	wo
-ヲ	wo
 𣇫	woad
 肟	wob
 臒	wobe
@@ -83780,8 +83570,6 @@ http://flypy.ysepan.com	xhwp
 有时	y
 亚	ya
 雅	ya
-や	ya
-ヤ	ya
 雅安	yaan
 䦪	yaav
 睚	yab
@@ -88363,8 +88151,6 @@ http://flypy.ysepan.com	xhwp
 英年早逝	ynzu
 疑难杂症	ynzv
 哟	yo
-よ	yo
-ヨ	yo
 唷	yor
 唷	yorb
 哟	yori
@@ -89430,8 +89216,6 @@ http://flypy.ysepan.com	xhwp
 月租	ytzu
 与	yu
 欲	yu
-ゆ	yu
-ユ	yu
 昱	yua
 㬂	yuab
 𨶢	yuaf
@@ -91419,8 +91203,6 @@ http://flypy.ysepan.com	xhwp
 子	z
 自动	z
 咋	za
-ざ	za
-ザ	za
 臜	zab
 𦠛	zaba
 臢	zabc
@@ -91566,7 +91348,6 @@ http://flypy.ysepan.com	xhwp
 早	zcaj
 𨚰	zcal
 早安	zcan
-日々早八，日々早八，烦たま死，この天天让我早八の世界早晚爆破する，この日々の早八の生活いつまで是个头，早八我されにま，早く西内，早八不西内私就要天に昇る了	zcba
 早报	zcbc
 早班	zcbj
 早操	zccc
@@ -91897,8 +91678,6 @@ http://flypy.ysepan.com	xhwp
 在座	zdzo
 自导自演	zdzy
 则	ze
-ぜ	ze
-ゼ	ze
 昃	zea
 昗	zeac
 𢧠	zeai
@@ -92866,8 +92645,6 @@ http://flypy.ysepan.com	xhwp
 做牛做马	znzm
 做	zo
 坐	zo
-ぞ	zo
-ゾ	zo
 昨	zoa
 做爱	zoai
 作案	zoan
@@ -93408,10 +93185,6 @@ http://flypy.ysepan.com	xhwp
 自弹自唱	ztzi
 贼头贼脑	ztzn
 组	zu
-ず	zu
-づ	zu
-ズ	zu
-ヅ	zu
 阻碍	zuai
 座上宾	zubb
 作声不得	zubd
