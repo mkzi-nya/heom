@@ -3,6 +3,7 @@
 安装	a
 あ	a
 ア	a
+ㄚ	a
 阿	aa
 腌	aab
 阿爸	aaba
@@ -136,6 +137,7 @@ AA制	aavi
 昂扬	ahyh
 肮脏	ahzh
 爱	ai
+ㄞ	ai
 暧	aia
 暧	aiae
 昹	aiae
@@ -407,6 +409,7 @@ AA制	aavi
 安眠药	amyc
 爱面子	amzi
 安	an
+ㄢ	an
 暗	ana
 暗	anaa
 闇	anaa
@@ -450,6 +453,7 @@ AA制	aavi
 案犯	anfj
 安抚	anfu
 埯	ang
+ㄤ	ang
 暗格	ange
 𡎑	angh
 堓	angj
@@ -671,6 +675,7 @@ AA制	aavi
 案子	anzi
 安坐	anzo
 奥	ao
+ㄠ	ao
 傲岸	aoan
 嗷嗷	aoao
 䐿	aobk
@@ -956,6 +961,7 @@ AA制	aavi
 不	b
 吧	b
 比较	b
+ㄅ	b
 把	ba
 ば	ba
 バ	ba
@@ -5700,6 +5706,7 @@ AA制	aavi
 才	c
 此	c
 词库	c
+ㄘ	c
 擦	ca
 擦边	cabm
 擦背	cabw
@@ -6229,6 +6236,7 @@ AA制	aavi
 曾在	cgzd
 藏	ch
 仓	ch
+ㄔ	ch
 ちゃ	cha
 チャ	cha
 藏宝	chbc
@@ -7665,6 +7673,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 的	d
 打	d
 大概	d
+ㄉ	d
 大	da
 达	da
 だ	da
@@ -12520,6 +12529,7 @@ deepseek	deep
 嗯嗯	e
 え	e
 エ	e
+ㄜ	e
 恩爱	ea
 而不	eb
 饿不饿	ebee
@@ -12903,6 +12913,7 @@ deepseek	deep
 儿化音	ehyb
 二合一	ehyi
 欸	ei
+ㄟ	ei
 欸	eii
 诶	eiik
 诶	eiik
@@ -12928,12 +12939,14 @@ deepseek	deep
 恶名昭彰	emvv
 耳目一新	emyx
 恩	en
+ㄣ	en
 恩爱	enai
 恩赐	enci
 恩德	ende
 恩典	endm
 婀娜多姿	endz
 煾	enfp
+ㄥ	eng
 恩公	engs
 嗯哼	enhg
 䅰	enhp
@@ -12976,6 +12989,7 @@ deepseek	deep
 耳旁风	epfg
 而且	eq
 而	er
+ㄦ	er
 二八	erba
 二百	erbd
 二笔	erbi
@@ -13220,6 +13234,7 @@ deepseek	deep
 发	f
 非	f
 复杂	f
+ㄈ	f
 法	fa
 閥	faai
 法案	faan
@@ -16033,6 +16048,7 @@ deepseek	deep
 个	g
 管	g
 关系	g
+ㄍ	g
 嘎	ga
 が	ga
 ガ	ga
@@ -20071,6 +20087,7 @@ github	gith
 和	h
 化	h
 忽略	h
+ㄏ	h
 哈	ha
 は	ha
 ハ	ha
@@ -29110,6 +29127,7 @@ php -S 127.0.0.1:8000	iphp
 就	j
 见	j
 键盘	j
+ㄐ	j
 骄傲	ja
 じゃ	ja
 ジャ	ja
@@ -35173,6 +35191,7 @@ php -S 127.0.0.1:8000	iphp
 可	k
 块	k
 可以	k
+ㄎ	k
 卡	ka
 か	ka
 カ	ka
@@ -37633,6 +37652,7 @@ php -S 127.0.0.1:8000	iphp
 了	l
 立	l
 理解	l
+ㄌ	l
 啦	la
 旯	laan
 腊	lab
@@ -43522,6 +43542,7 @@ php -S 127.0.0.1:8000	iphp
 没	m
 嘛	m
 目录	m
+ㄇ	m
 吗	ma
 骂	ma
 ま	ma
@@ -47145,6 +47166,7 @@ milthm	milt
 内容	n
 ん	n
 ン	n
+ㄋ	n
 那	na
 な	na
 ナ	na
@@ -49482,6 +49504,7 @@ milthm	milt
 哦哦	o
 お	o
 オ	o
+ㄛ	o
 一	oba
 鱼	oba
 冖	obb
@@ -50524,6 +50547,7 @@ $	otm
 ↑	otz
 ↓	otz
 欧	ou
+ㄡ	ou
 𣉾	ouar
 腢	oubb
 𥈬	oubb
@@ -51003,6 +51027,7 @@ $	otm
 平	p
 屁	p
 便宜	p
+ㄆ	p
 怕	pa
 ぱ	pa
 パ	pa
@@ -53535,6 +53560,7 @@ git add . && git commit -m "meow" && git push origin main	push
 去	q
 期	q
 其他	q
+ㄑ	q
 亲爱的	qade
 乞哀告怜	qagl
 弃暗投明	qatm
@@ -57641,6 +57667,7 @@ git add . && git commit -m "meow" && git push origin main	push
 人	r
 入	r
 然后	r
+ㄖ	r
 热爱	ra
 ら	ra
 ラ	ra
@@ -59365,6 +59392,7 @@ git add . && git commit -m "meow" && git push origin main	push
 三	s
 随	s
 所有	s
+ㄙ	s
 撒	sa
 さ	sa
 サ	sa
@@ -59860,6 +59888,7 @@ git add . && git commit -m "meow" && git push origin main	push
 三个字	sgz
 四个字	sgzi
 似乎	sh
+ㄕ	sh
 しゃ	sha
 シャ	sha
 𣉕	shad
@@ -61738,6 +61767,7 @@ git add . && git commit -m "meow" && git push origin main	push
 他	t
 它	t
 提供	t
+ㄊ	t
 她	ta
 た	ta
 タ	ta
@@ -76921,6 +76951,7 @@ http://mhtlim.top/usage/usage.html	uomk
 文韬武略	wtwl
 无	wu
 五	wu
+ㄨ	wu
 晤	wua
 𨶇	wuaf
 无碍	wuai
@@ -78215,6 +78246,7 @@ http://mhtlim.top/usage/usage.html	uomk
 小	x
 性	x
 显示	x
+ㄒ	x
 西安	xa
 西安交大	xajd
 笑傲江湖	xajh
@@ -85890,6 +85922,7 @@ http://flypy.ysepan.com	xhwp
 洋罪	yhzv
 以	yi
 亦	yi
+ㄧ	yi
 易	yia
 暆	yiad
 敡	yiae
@@ -89432,6 +89465,7 @@ http://flypy.ysepan.com	xhwp
 欲	yu
 ゆ	yu
 ユ	yu
+ㄩ	yu
 昱	yua
 㬂	yuab
 𨶢	yuaf
@@ -91418,6 +91452,7 @@ http://flypy.ysepan.com	xhwp
 在	z
 子	z
 自动	z
+ㄗ	z
 咋	za
 ざ	za
 ザ	za
@@ -92174,6 +92209,7 @@ http://flypy.ysepan.com	xhwp
 曾祖	zgzu
 载歌载舞	zgzw
 藏	zh
+ㄓ	zh
 藏獒	zhao
 脏	zhb
 赃	zhb
@@ -94113,3 +94149,4 @@ http://flypy.ysepan.com	xhwp
 走运	zzyy
 自作自受	zzzu
 走走	zzzz
+ㄝ	ê
