@@ -42904,9 +42904,9 @@ IP地址	ipdv
 阶	jpn
 假	jxo
 酒	jqe
-巨	jus
 既	jiau
 久	jq
+九	jq
 激	jiek
 绝	jtv
 警	jktr
@@ -43426,7 +43426,6 @@ IP地址	ipdv
 阶	jpnl
 酒	jqew
 巨	juss
-久	jqno
 角	jnng
 角	jnnq
 觉	jnfu
@@ -54766,3 +54765,5 @@ $	ofhb
 为什么	wsm
 无差别	wibp
 干什么	gsme
+魔改	mogd
+早八	zcba
