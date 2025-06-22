@@ -7,7 +7,6 @@ cd "$(cd "$(dirname "$0")" && pwd)"
 > "../ziys/heom.txt"
 > "../ziys/heom.dict.yaml"
 
-# 按顺序拼接 1.txt 2.txt 3.txt
 for file in 1.txt 2.txt; do
     if [ -f "$file" ]; then
         cat "$file" >> "../heom.txt"
