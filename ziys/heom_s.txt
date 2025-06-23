@@ -66740,10 +66740,11 @@ php -S 127.0.0.1:8000	iphp
 濋	iueo
 初二	iuer
 滀	iuew
+出发	iuf
 焈	iuf
 凞	iuf
 𰝽	iuf
-出发	iufa
+触发	iufa
 处罚	iufa
 䊰	iufa
 𤏱	iufe
@@ -89825,6 +89826,7 @@ php -S 127.0.0.1:8000	iphp
 𨎷	lmjc
 𭣖	lmje
 联机	lmji
+连击	lmji
 𪍦	lmjj
 𧙧	lmjj
 练剑	lmjm
@@ -168480,6 +168482,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𠔨	vitx
 咫尺天涯	vity
 指头	vitz
+知识	viu
 乣	viu
 至少	viuc
 𡽆	viuc
@@ -168491,7 +168494,7 @@ http://mhtlim.top/usage/usage.html	uomk
 智商	viuh
 豒	viuh
 娏	viuh
-知识	viui
+指示	viui
 峙	viui
 崻	viui
 𠚅	viui

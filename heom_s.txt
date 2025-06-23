@@ -28060,7 +28060,8 @@ IP地址	ipdv
 濋	iueo
 初二	iuer
 滀	iuew
-出发	iufa
+出发	iuf
+触发	iufa
 处罚	iufa
 䊰	iufa
 𤏱	iufe
@@ -40422,6 +40423,7 @@ IP地址	ipdv
 连襟	lmjb
 𨎷	lmjc
 联机	lmji
+连击	lmji
 𪍦	lmjj
 练剑	lmjm
 连接	lmjp
@@ -71814,6 +71816,7 @@ PPT	ppt
 𦭮	vitw
 咫尺天涯	vity
 指头	vitz
+知识	viu
 至少	viuc
 𡽆	viuc
 直射	viue
@@ -71823,7 +71826,7 @@ PPT	ppt
 之上	viuh
 智商	viuh
 豒	viuh
-知识	viui
+指示	viui
 峙	viui
 崻	viui
 𠚅	viui

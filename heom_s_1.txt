@@ -28060,7 +28060,8 @@ iued	滁
 iueo	濋
 iuer	初二
 iuew	滀
-iufa	出发
+iuf	出发
+iufa	触发
 iufa	处罚
 iufa	䊰
 iufe	𤏱
@@ -40422,6 +40423,7 @@ lmj	帘
 lmjb	连襟
 lmjc	𨎷
 lmji	联机
+lmji	连击
 lmjj	𪍦
 lmjm	练剑
 lmjp	连接
@@ -71814,6 +71816,7 @@ vitu	𦴀
 vitw	𦭮
 vity	咫尺天涯
 vitz	指头
+viu	知识
 viuc	至少
 viuc	𡽆
 viue	直射
@@ -71823,7 +71826,7 @@ viug	只剩
 viuh	之上
 viuh	智商
 viuh	豒
-viui	知识
+viui	指示
 viui	峙
 viui	崻
 viui	𠚅
