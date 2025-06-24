@@ -34876,6 +34876,7 @@ fjyi	翻译
 fjyi	訉
 fjyj	繁衍
 fjyj	𪹞
+fjyk	反应
 fjyk	反映
 fjyo	𧦟
 fjyt	翻阅
@@ -63035,6 +63036,7 @@ ihld	常来
 ihlh	长廊
 ihlh	畅
 ihlh	暢
+ihll	常量
 ihll	敞亮
 ihll	𢋯
 ihlm	春花烂漫
@@ -74747,6 +74749,7 @@ jpg	𱖠
 jpga	堦
 jpgb	𡩋
 jpgc	截稿
+jpgc	頡
 jpgc	𩔄
 jpgd	鸡皮疙瘩
 jpgf	𪁍
@@ -93061,9 +93064,8 @@ lvwr	𦊼
 lvx	履行
 lvxk	旅行
 lvxm	绿线
-lvy	旅
-lvy	虑
 lvy	率
+lvy	虑
 lvy	𠄓
 lvya	𧈔
 lvya	𧜊
@@ -143347,7 +143349,7 @@ sjhq	毦
 sjhq	𰚶
 sjhr	𦕮
 sjhs	𱻸
-sjhu	散户
+sjhu	三角函数
 sjhu	𠒱
 sjhu	聭
 sjhu	𦗨

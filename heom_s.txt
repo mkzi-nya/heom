@@ -14642,6 +14642,7 @@ AA制	aavi
 翻译	fjyi
 訉	fjyi
 繁衍	fjyj
+反应	fjyk
 反映	fjyk
 𧦟	fjyo
 翻阅	fjyt
@@ -26349,6 +26350,7 @@ GDP	gdp
 长廊	ihlh
 畅	ihlh
 暢	ihlh
+常量	ihll
 敞亮	ihll
 春花烂漫	ihlm
 𫊪	ihlo
@@ -32374,6 +32376,7 @@ IP地址	ipdv
 劫	jpg
 堦	jpga
 截稿	jpgc
+頡	jpgc
 𩔄	jpgc
 鸡皮疙瘩	jpgd
 𪁍	jpgf
@@ -42613,9 +42616,8 @@ IP地址	ipdv
 履行	lvx
 旅行	lvxk
 绿线	lvxm
-旅	lvy
-虑	lvy
 率	lvy
+虑	lvy
 𧈔	lvya
 𧜊	lvya
 绿茵	lvyb
@@ -59465,7 +59467,7 @@ PPT	ppt
 䉈	sjhk
 䈀	sjhn
 散伙	sjho
-散户	sjhu
+三角函数	sjhu
 散会	sjhv
 三句话	sjhx
 叁	sji

@@ -34876,6 +34876,7 @@ deepseek	deep
 訉	fjyi
 繁衍	fjyj
 𪹞	fjyj
+反应	fjyk
 反映	fjyk
 𧦟	fjyo
 翻阅	fjyt
@@ -63035,6 +63036,7 @@ https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 长廊	ihlh
 畅	ihlh
 暢	ihlh
+常量	ihll
 敞亮	ihll
 𢋯	ihll
 春花烂漫	ihlm
@@ -74747,6 +74749,7 @@ php -S 127.0.0.1:8000	iphp
 堦	jpga
 𡩋	jpgb
 截稿	jpgc
+頡	jpgc
 𩔄	jpgc
 鸡皮疙瘩	jpgd
 𪁍	jpgf
@@ -93061,9 +93064,8 @@ php -S 127.0.0.1:8000	iphp
 履行	lvx
 旅行	lvxk
 绿线	lvxm
-旅	lvy
-虑	lvy
 率	lvy
+虑	lvy
 𠄓	lvy
 𧈔	lvya
 𧜊	lvya
@@ -143347,7 +143349,7 @@ git add . && git commit -m "meow" && git push origin main	push
 𰚶	sjhq
 𦕮	sjhr
 𱻸	sjhs
-散户	sjhu
+三角函数	sjhu
 𠒱	sjhu
 聭	sjhu
 𦗨	sjhu

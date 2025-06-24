@@ -14642,6 +14642,7 @@ fjyf	富甲一方
 fjyi	翻译
 fjyi	訉
 fjyj	繁衍
+fjyk	反应
 fjyk	反映
 fjyo	𧦟
 fjyt	翻阅
@@ -26349,6 +26350,7 @@ ihld	常来
 ihlh	长廊
 ihlh	畅
 ihlh	暢
+ihll	常量
 ihll	敞亮
 ihlm	春花烂漫
 ihlo	𫊪
@@ -32374,6 +32376,7 @@ jpfw	劫匪
 jpg	劫
 jpga	堦
 jpgc	截稿
+jpgc	頡
 jpgc	𩔄
 jpgd	鸡皮疙瘩
 jpgf	𪁍
@@ -42613,9 +42616,8 @@ lvwr	𦊼
 lvx	履行
 lvxk	旅行
 lvxm	绿线
-lvy	旅
-lvy	虑
 lvy	率
+lvy	虑
 lvya	𧈔
 lvya	𧜊
 lvyb	绿茵
@@ -59465,7 +59467,7 @@ sjhh	𧗋
 sjhk	䉈
 sjhn	䈀
 sjho	散伙
-sjhu	散户
+sjhu	三角函数
 sjhv	散会
 sjhx	三句话
 sji	叁
