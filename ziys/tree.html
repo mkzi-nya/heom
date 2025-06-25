@@ -161,18 +161,26 @@ function render(raw) {
     codes.forEach(c => expandPath(hierarchy, c,raw));
   } else {
     // 是字符或词语搜索，直接展开目标编码节点
-    for (const c of codes) {
-      let cur = hierarchy;
-      for (const l of c) {
-        const next = (cur.children || cur._children || []).find(n => n.data.name === l && n.data.type === 'letter');
-        if (!next) break;
-        if (!cur.children) {
-          cur.children = cur._children;
-          cur._children = null;
-        }
-        cur = next;
-      }
+for (const c of codes) {
+  let cur = hierarchy;
+  for (let i = 0; i < c.length; i++) {
+    const l = c[i];
+    const next = (cur.children || cur._children || []).find(
+      n => n.data.name === l && n.data.type === 'letter'
+    );
+    if (!next) break;
+
+    // 只在非最后一层时展开
+    if (i < c.length - 1 && !cur.children) {
+      cur.children = cur._children;
+      cur._children = null;
     }
+
+    // 如果是最后一层，不展开 next 的子节点
+    cur = next;
+  }
+}
+
   }
 
   const layout = d3.tree().nodeSize([30, 100]);
