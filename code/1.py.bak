@@ -11,7 +11,7 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-TABLE_FILE = Path(__file__).resolve().parent.with_name("heom.txt")      # ./1.txt
+TABLE_FILE = Path(__file__).resolve()parent.with_name("heom.txt")      # ./1.txt
 ENCODING = "utf-8"
 
 # ------------------------------------------------------------

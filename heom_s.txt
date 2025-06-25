@@ -24086,6 +24086,7 @@ GDP	gdp
 𨘲	hvyg
 话中有话	hvyh
 𧬨	hvyh
+回忆	hvyi
 会议	hvyi
 𧖢	hvyi
 汇演	hvyj
@@ -85596,7 +85597,8 @@ PPT	ppt
 铱	yiov
 食	yiov
 偯	yiov
-肄	yip
+疑	yip
+忆	yip
 怡	yip
 一品	yipb
 一排	yipd
@@ -85625,6 +85627,7 @@ PPT	ppt
 𠤗	yipp
 𢖺	yipp
 𢘽	yipp
+肄	yipq
 怿	yipq
 觺	yipq
 勚	yips

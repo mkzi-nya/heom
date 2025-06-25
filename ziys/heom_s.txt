@@ -58224,6 +58224,7 @@ github	gith
 𧬨	hvyh
 𪕇	hvyh
 𪕃	hvyh
+回忆	hvyi
 会议	hvyi
 𧖢	hvyi
 汇演	hvyj
@@ -190822,7 +190823,8 @@ http://mhtlim.top/usage/usage.html	uomk
 食	yiov
 偯	yiov
 𧜍	yiov
-肄	yip
+疑	yip
+忆	yip
 怡	yip
 𪫼	yip
 𫐟	yip
@@ -190855,6 +190857,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𠤗	yipp
 𢖺	yipp
 𢘽	yipp
+肄	yipq
 怿	yipq
 觺	yipq
 勚	yips
