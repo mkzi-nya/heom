@@ -27,6 +27,21 @@ html,body{
 .node circle{fill:var(--accent);}/* 圆点颜色 */
 .node text{fill:var(--fg);font-size:.85rem;user-select:none;}
 .link{fill:none;stroke:var(--fg);stroke-width:1px;opacity:.6;}
+@font-face {
+  font-family: 'Plangothic';
+  src: url('./Plangothic-Web-V2.9.5779/PlangothicP1-Regular.woff2') format('woff2'),
+       url('./Plangothic-Web-V2.9.5779/PlangothicP2-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+html,body {
+  margin:0;padding:0;width:100%;height:100%;
+  background:var(--bg);color:var(--fg);
+  font-family:'Plangothic', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  overflow:hidden;
+}
 </style>
 </head>
 
