@@ -3758,6 +3758,7 @@ AA制	aavi
 大神	dauf
 打水	dauv
 大声	daug
+打赏	dauh
 打伤	dauh
 大师	daui
 搭讪	dauj
@@ -16968,7 +16969,6 @@ IP地址	ipdv
 泸沽湖	lghu
 冷汗	lghj
 冷场	lgih
-两国交兵，不斩来使	lgju
 冷寂	lgji
 冷静	lgjk
 冷箭	lgjm
@@ -16995,7 +16995,7 @@ IP地址	ipdv
 冷热	lgre
 冷死	lgsi
 冷色	lgse
-卢甘斯克	lgsk
+棱台	lgtd
 冷烫	lgth
 冷天	lgtm
 冷水	lguv
@@ -28165,6 +28165,7 @@ IP地址	ipdv
 实习	uixi
 实行	uixk
 事项	uixl
+事先	uix
 实现	uixm
 失效	uixn
 失修	uixq
@@ -52172,7 +52173,7 @@ GDP	gdp
 伊	yio
 彝	yiv
 奕	yiyk
-怡	yip
+怡	yipr
 淹	yje
 衍	yjhn
 铅	yjo

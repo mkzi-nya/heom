@@ -30,7 +30,7 @@ for file in ../heom.txt ./3.txt ./4.txt ./5.txt; do
     fi
 done
 
-for file in ../heom.txt ./4.txt ./5.txt; do
+for file in ../heom.txt ./3.txt ./4.txt ./5.txt; do
     if [ -f "$file" ]; then
         cat "$file" >> "../ziys/heom.dict.yaml"
     else

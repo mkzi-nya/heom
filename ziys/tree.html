@@ -28,20 +28,25 @@ html,body{
 .node text{fill:var(--fg);font-size:.85rem;user-select:none;}
 .link{fill:none;stroke:var(--fg);stroke-width:1px;opacity:.6;}
 @font-face {
-  font-family: 'Plangothic';
-  src: url('../Plangothic-Web-V2.9.5779/PlangothicP1-Regular.woff2') format('woff2'),
-       url('../Plangothic-Web-V2.9.5779/PlangothicP2-Regular.woff2') format('woff2');
+  font-family: 'PlangothicP1';
+  src: url('../Plangothic-Web-V2.9.5779/PlangothicP1-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
-html,body {
-  margin:0;padding:0;width:100%;height:100%;
-  background:var(--bg);color:var(--fg);
-  font-family:'Plangothic', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
-  overflow:hidden;
+@font-face {
+  font-family: 'PlangothicP2';
+  src: url('../Plangothic-Web-V2.9.5779/PlangothicP2-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
+
+html, body {
+  font-family: 'PlangothicP1', 'PlangothicP2', sans-serif;
+}
+
 </style>
 </head>
 
@@ -103,87 +108,60 @@ function render(raw) {
       .text(msg);
   };
 
-  let codes = [];
-  let isCharSearch = false;
+  // 拆分输入为多个部分（编码或字符）
+  const parts = raw.split(',').map(s => s.trim()).filter(Boolean);
+  if (parts.length === 0) {
+    showMessage(`未找到「${raw}」`);
+    return;
+  }
 
-  if (raw.includes(',')) {
-    // 逗号分隔多个字
-    const chars = raw.split(',').map(s => s.trim()).filter(Boolean);
-    chars.forEach(ch => {
-      if (char2codes.has(ch)) {
-        char2codes.get(ch).forEach(c => codes.push(c));
-      }
-    });
-    isCharSearch = true;
-  } else if (char2codes.has(raw)) {
-    // 直接是一个词（如“好玩”）
-    char2codes.get(raw).forEach(c => codes.push(c));
-    isCharSearch = true;
-  } else if (/^[a-zA-Z\*]+$/.test(raw)) {
-    // 是编码
-    codes = matchCodes(raw.toLowerCase());
-    isCharSearch = false;
+  const codes = new Set();
 
-    if (codes.length === 0) {
-      // 判断该编码是否为已有编码的前缀
-      let hasChild = false;
-      for (const c of code2chars.keys()) {
-        if (c.startsWith(raw.toLowerCase())) {
-          hasChild = true;
-          break;
+  for (const part of parts) {
+    const isCode = /^[a-zA-Z\*]+$/.test(part);
+    if (isCode) {
+      const matched = matchCodes(part.toLowerCase());
+      if (matched.length === 0) {
+        // 检查是否是现有编码的前缀
+        let hasChild = false;
+        for (const c of code2chars.keys()) {
+          if (c.startsWith(part.toLowerCase())) {
+            hasChild = true;
+            break;
+          }
+        }
+        if (!hasChild) {
+          showMessage(`未找到「${part}」`);
+          return;
         }
       }
-      if (!hasChild) {
-        showMessage(`未找到「${raw}」`);
+      matched.forEach(c => codes.add(c));
+    } else {
+      if (char2codes.has(part)) {
+        char2codes.get(part).forEach(c => codes.add(c));
+      } else {
+        showMessage(`未找到「${part}」`);
         return;
       }
     }
-  } else {
-    // 非法输入：既不是字符也不是编码
+  }
+
+  if (codes.size === 0) {
     showMessage(`未找到「${raw}」`);
     return;
   }
 
-  codes = [...new Set(codes)];
-  if (codes.length === 0) {
-    showMessage(`未找到「${raw}」`);
-    return;
-  }
-
-  // 构建树数据
-  const { root, nodeMap } = buildTreeData(codes);
+  // 构建树结构
+  const { root, nodeMap } = buildTreeData([...codes]);
   const hierarchy = d3.hierarchy(root);
 
   computeStats(hierarchy);
   collapseByDefault(hierarchy);
 
-  if (!isCharSearch) {
-    codes.forEach(c => expandPath(hierarchy, c,raw));
-  } else {
-    // 是字符或词语搜索，直接展开目标编码节点
-for (const c of codes) {
-  let cur = hierarchy;
-  for (let i = 0; i < c.length; i++) {
-    const l = c[i];
-    const next = (cur.children || cur._children || []).find(
-      n => n.data.name === l && n.data.type === 'letter'
-    );
-    if (!next) break;
+  // 始终统一由 expandPath 执行展开逻辑
+  expandPath(hierarchy, raw);
 
-    // 只在非最后一层时展开
-    if (i < c.length - 1 && !cur.children) {
-      cur.children = cur._children;
-      cur._children = null;
-    }
-
-    // 如果是最后一层，不展开 next 的子节点
-    cur = next;
-  }
-}
-
-  }
-
-  const layout = d3.tree().nodeSize([30, 100]);
+  const layout = d3.tree().nodeSize([30, 80]);
   update(hierarchy);
   center();
 
@@ -334,25 +312,45 @@ function computeStats(h){
   }
 
   /* ---------- 10. 展开至指定编码 ---------- */
-function expandPath(rootHierarchy, code,raw) {
-  let cur = rootHierarchy;
-  for (let i = 0; i < code.length; i++) {
-    const l = code[i];
-    const next = (cur.children || cur._children || []).find(n => n.data.name === l && n.data.type === 'letter');
-    if (!next) return;
+function expandPath(rootHierarchy, raw) {
+  const parts = raw.split(',').map(s => s.trim()).filter(Boolean); // 拆分多个编码或字符
+  const codesToExpand = new Set();
 
-    // 展开当前节点
-    if (!cur.children) {
-      cur.children = cur._children;
-      cur._children = null;
+  for (const part of parts) {
+    const isCode = /^[a-zA-Z\*]+$/.test(part);
+    if (isCode) {
+      codesToExpand.add(part.toLowerCase());
+    } else {
+      if (char2codes.has(part)) {
+        char2codes.get(part).forEach(c => codesToExpand.add(c));
+      }
     }
+  }
 
-    // 如果是最后一层（展开到 n*），则不展开它的子节点
-    if (i === raw.length) {
-      return;
+  for (const code of codesToExpand) {
+    let cur = rootHierarchy;
+    for (let i = 0; i < code.length; i++) {
+      const l = code[i];
+      const children = cur.children || cur._children || [];
+      const next = children.find(n => n.data.name === l && n.data.type === 'letter');
+      if (!next) break;
+
+      // 展开当前节点
+      if (!cur.children) {
+        cur.children = cur._children;
+        cur._children = null;
+      }
+
+      // 最后一个字母：也展开它的 children（显示字符）
+      if (i === code.length - 1) {
+        if (!next.children) {
+          next.children = next._children;
+          next._children = null;
+        }
+      }
+
+      cur = next;
     }
-
-    cur = next;
   }
 }
 
