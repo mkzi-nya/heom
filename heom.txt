@@ -1,3 +1,4 @@
+：	;
 ：“	;q
 ？	;w
 （	;e
@@ -24,6 +25,18 @@
 _	;b
 「	;n
 」	;m
+积雪	jixt
+尸体	uit
+湛蓝	vjl
+簌簌	susu
+深厚	ufhz
+身后	ufhz
+升起	ugqi
+会响	hvxl
+样貌	yhmc
+通灵	tslk
+空空荡荡	kkdd
+惊疑不定	jybd
 阿爸	aaba
 嗷嗷待哺	aadb
 阿哥	aage
@@ -4288,7 +4301,6 @@ AA制	aavi
 大红大紫	dhdz
 待会儿	dher
 荡妇	dhfu
-党费	dhfw
 读后感	dhgj
 当官	dhgr
 党纲	dhgh
@@ -4497,6 +4509,7 @@ AA制	aavi
 弟兄	dixs
 滴血	dixt
 地下	dixx
+底下	dixx
 抵押	diya
 低音	diyb
 第一	diyi
@@ -8520,7 +8533,6 @@ AA制	aavi
 过夜	goye
 过眼	goyj
 国营	goyk
-果园	goyr
 国药	goyc
 国运	goyy
 国有	goyz
@@ -22328,6 +22340,7 @@ IP地址	ipdv
 起因	qiyb
 企业	qiye
 歧义	qiyi
+奇异	qiyi
 气焰	qiyj
 弃婴	qiyk
 青出于蓝	qiyl
@@ -27728,7 +27741,6 @@ IP地址	ipdv
 生日	ugri
 胜任	ugrf
 生涩	ugse
-圣僧	ugsg
 生死	ugsi
 绳索	ugso
 胜算	ugsr
@@ -35292,7 +35304,7 @@ IP地址	ipdv
 源代码	ydma
 有点麻烦	ydmf
 雅典娜	ydna
-一大片	ydpm
+一大片	ydp
 一大批	ydpi
 一大群	ydqy
 一刀切	ydqp
@@ -40339,7 +40351,7 @@ IP地址	ipdv
 锋	fgo
 贩	fjb
 仿	fho
-浮	fued
+浮	fue
 覆	fum
 辅	fuk
 冯	fgi
@@ -41969,7 +41981,7 @@ IP地址	ipdv
 泾	jkem
 剿	jnv
 灸	jqnf
-嚼	jnr
+嚼	jnri
 嚼	jtr
 绢	jrv
 藉	jit
@@ -42038,7 +42050,7 @@ IP地址	ipdv
 矍	jtb
 靓	jkqu
 浃	jxe
-缙	jbv
+缙	jbva
 柩	jqd
 鲫	jinl
 诘	jiir
@@ -42138,7 +42150,7 @@ IP地址	ipdv
 苴	jutm
 讵	juis
 廑	jbim
-妗	jbv
+妗	jbvn
 炅	jsa
 枧	jmdu
 洚	jleq
@@ -42429,7 +42441,7 @@ IP地址	ipdv
 葵	kvt
 窥	kvj
 咳	ker
-磕	kemt
+磕	kem
 拷	kcq
 糠	khf
 槛	kjd
@@ -42770,7 +42782,7 @@ IP地址	ipdv
 帘	lmj
 懒	ljp
 沥	lies
-霖	lbm
+霖	lbmd
 陇	lsnp
 卵	lrh
 擂	lwq
@@ -43362,7 +43374,7 @@ IP地址	ipdv
 楣	mwdu
 谧	miit
 泯	mbe
-谟	moi
+谟	moik
 茗	mkt
 娩	mmv
 淼	mne
@@ -43468,7 +43480,6 @@ IP地址	ipdv
 硭	mhm
 漭	mhe
 鹛	mwam
-钔	mfo
 瞢	mgtu
 礞	mgm
 喵	mnr
@@ -43733,7 +43744,7 @@ IP地址	ipdv
 齉	nhhv
 𨺙	nin
 薿	nit
-萳	njt
+萳	njtj
 婻	njv
 苧	nktn
 𦰡	not
@@ -44116,7 +44127,7 @@ IP地址	ipdv
 皮影戏	pyx
 去	q
 全	qr
-企	qio
+企	qiom
 区	qu
 前	qm
 其	qi
@@ -44538,7 +44549,7 @@ IP地址	ipdv
 肉	rz
 若	ro
 弱	ro
-仁	rfom
+仁	rfo
 软	rr
 弱	ron
 绕	rc
@@ -44739,6 +44750,7 @@ IP地址	ipdv
 邃	svyo
 酥	su
 嵩	ssu
+簌	suh
 夙	suh
 伺	sior
 梢	scdb
@@ -44766,7 +44778,6 @@ IP地址	ipdv
 娑	soev
 濉	sve
 嗖	szr
-簌	suho
 怂	sso
 稣	sun
 卅	sat
@@ -44914,9 +44925,9 @@ IP地址	ipdv
 套	tc
 听	tk
 庭	tki
+托	to
 拖	to
 讨	tci
-探	tjqd
 退	tvy
 停	tko
 厅	tkm
@@ -44934,11 +44945,11 @@ IP地址	ipdv
 痛	tsk
 挑	tnq
 跳	tnr
+探	tjq
 摊	tjq
 弹	tjn
 陶	tcn
 腾	tgb
-托	toq
 炭	tju
 糖	thf
 坛	tjgi
@@ -45296,7 +45307,7 @@ IP地址	ipdv
 视	uii
 首	uzt
 身	ufh
-神	ufil
+神	ufi
 神	ufml
 率	ukyj
 识	uiic
@@ -45562,7 +45573,7 @@ IP地址	ipdv
 埘	uigi
 弑	uikm
 蒴	uot
-谂	ufi
+谂	ufip
 摅	uuqp
 唼	uarv
 歃	uah
@@ -45571,7 +45582,7 @@ IP地址	ipdv
 滠	ueee
 矧	ufol
 胂	ufb
-蓍	uit
+蓍	uita
 鲺	uini
 贳	uipo
 搠	uoq
@@ -45714,7 +45725,7 @@ IP地址	ipdv
 助	vubs
 致	vime
 致	vimk
-洲	vzel
+洲	vze
 站	vjy
 章	vhy
 置	viwm
@@ -46515,7 +46526,7 @@ IP地址	ipdv
 洗	xie
 悉	xihp
 辛	xby
-祥	xliq
+祥	xli
 祥	xlmq
 鞋	xpt
 幸	xkg
@@ -46594,7 +46605,7 @@ IP地址	ipdv
 馨	xbg
 轩	xrk
 穴	xtj
-邪	xpml
+邪	xpm
 吓	xxr
 朽	xqd
 羡	xmt
@@ -46740,8 +46751,8 @@ IP地址	ipdv
 芗	xlth
 埙	xyg
 樨	xidq
-巽	xyr
-巽	xys
+巽	xyrc
+巽	xysc
 噱	xtr
 鲑	xpn
 瀣	xpem
@@ -46982,7 +46993,7 @@ IP地址	ipdv
 已	yis
 应	yk
 由	yzl
-意	yiyp
+意	yiy
 营	yktr
 议	yii
 矣	yiik
@@ -47063,7 +47074,7 @@ IP地址	ipdv
 柚子厨	yziu
 硬	ykm
 勇	ysn
-遗	yiy
+遗	yiyo
 裔	yiy
 邀	ycy
 援	yrq
@@ -47483,7 +47494,7 @@ IP地址	ipdv
 说	yti
 岈	yauh
 珧	ycmo
-撄	ykq
+撄	ykqv
 舁	yuht
 眢	yrnu
 箢	yrh
@@ -48685,7 +48696,7 @@ GDP	gdp
 株	vud
 诬	wui
 葳	wwt
-畏	www
+畏	wwwv
 浠	xie
 熄	xif
 嬉	xiv
@@ -48693,7 +48704,7 @@ GDP	gdp
 奚	xib
 硒	xim
 惺	xkp
-庠	xli
+庠	xliq
 岘	xmu
 蚬	xml
 娴	xmv
@@ -48943,6 +48954,7 @@ GDP	gdp
 洗手间	xuj
 学术性	xux
 西游记	xyj
+尋	xys
 小意思	xys
 又不是	ybu
 一次性	ycx
@@ -49603,7 +49615,6 @@ GDP	gdp
 栖息	qixi
 气喘吁吁	qixx
 欺压	qiya
-起义	qiyi
 青出于蓝而胜于蓝	qiyl
 契约	qiyt
 棋子	qizi
@@ -52805,6 +52816,7 @@ $	ofhb
 苪	bktb
 鞆	bktb
 𩋒	bktb
+並	bkt
 並	bktc
 𦼹	bktd
 鵧	bktf
@@ -54097,6 +54109,7 @@ $	ofhb
 㛑	cjyv
 𡛝	cjyv
 睉	cobg
+錯	coc
 錯	coca
 銼	cocg
 棤	coda
@@ -54227,6 +54240,7 @@ $	ofhb
 𧐱	cshi
 囪	cshk
 㼻	cshn
+從	csh
 從	csho
 従	csho
 篵	csho
@@ -56431,6 +56445,7 @@ $	ofhb
 𢟋	dvpr
 㨃	dvqd
 𦶏	dvtg
+對	dvt
 對	dvti
 薱	dvti
 𰰱	dvti
@@ -57432,10 +57447,11 @@ $	ofhb
 𱈕	fjnw
 𠒾	fjny
 𱃴	fjny
-飯	fjoe
+飯	fjo
 仮	fjoe
 㶗	fjoe
 瀪	fjoe
+飯	fjoe
 䋣	fjof
 䌓	fjof
 緐	fjof
@@ -61655,9 +61671,10 @@ $	ofhb
 廻	hvnr
 鮰	hvnr
 𫚔	hvnr
-會	hvoa
+會	hvo
 㑹	hvoa
 𣌭	hvoa
+會	hvoa
 儶	hvob
 饖	hvoh
 𰽷	hvoi
@@ -61916,6 +61933,7 @@ $	ofhb
 譁	hxyj
 𧨋	hxym
 誮	hxyp
+話	hxy
 話	hxyr
 諣	hxyr
 䛡	hxyr
@@ -66620,9 +66638,10 @@ $	ofhb
 𢴭	jtvq
 㔢	jtvs
 𫦳	jtvs
-絕	jtvu
+絕	jtv
 絶	jtvu
 𦁐	jtvu
+絕	jtvu
 𡈅	jtwl
 爴	jtwo
 譎	jtyb
@@ -69905,6 +69924,7 @@ $	ofhb
 溓	lmec
 濓	lmec
 湅	lmef
+漣	lme
 漣	lmej
 瀲	lmek
 𣾍	lmek
@@ -71606,6 +71626,7 @@ $	ofhb
 攠	maqy
 唛	mare
 嘜	mare
+嗎	mar
 嗎	marf
 駡	marf
 嚜	marg
@@ -71914,6 +71935,7 @@ $	ofhb
 𧱘	mdyl
 ⻨	mdze
 濹	meeg
+麼	mei
 麼	meii
 麽	meii
 癦	mekg
@@ -71952,6 +71974,8 @@ $	ofhb
 璊	mfmb
 𨳔	mfmn
 玧	mfmu
+們	mfo
+钔	mfos
 們	mfon
 㥃	mfpn
 㦖	mfpp
@@ -73662,6 +73686,7 @@ $	ofhb
 𢪈	njqm
 𢬷	njqr
 䔜	njtb
+難	njt
 難	njtg
 𧕴	njti
 𦶈	njtm
@@ -77365,6 +77390,7 @@ $	ofhb
 𩨷	qtbp
 𧢩	qtbu
 𧢭	qtbu
+卻	qtc
 卻	qtcl
 𣛵	qtde
 㰌	qtdg
@@ -80101,6 +80127,7 @@ $	ofhb
 骵	tibm
 𥉘	tibn
 睼	tibo
+體	tib
 體	tibt
 朑	tibt
 𥉘	tibu
@@ -80544,9 +80571,10 @@ $	ofhb
 𦐿	tksg
 耵	tksn
 聤	tksn
-聽	tksp
+聽	tks
 聴	tksp
 𦗟	tksp
+聽	tksp
 鞓	tktg
 艼	tktn
 嵉	tkun
@@ -81483,6 +81511,7 @@ $	ofhb
 㼥	tzjn
 牏	tzln
 牏	tzlv
+頭	tzm
 頭	tzmc
 酘	tzme
 𣪌	tzme
@@ -82062,6 +82091,7 @@ $	ofhb
 呏	ugrt
 𧿘	ugrt
 㗂	ugru
+聖	ugs
 聖	ugsg
 𨲓	ugsu
 苼	ugtm
@@ -82709,6 +82739,7 @@ $	ofhb
 𩅪	ulmu
 𩽧	ulne
 𫘭	ulnk
+雙	ulo
 雙	uloe
 慡	ulpk
 㦼	ulqi
@@ -82771,8 +82802,9 @@ $	ofhb
 愬	uotp
 𣀝	uove
 𦋞	uown
-說	uoyu
+說	uoy
 説	uoyu
+說	uoyu
 閂	uram
 𣔫	urdg
 𣠸	urdt
@@ -85771,6 +85803,7 @@ $	ofhb
 聞	wfaj
 閺	wfak
 㼔	wfao
+問	wfa
 問	wfar
 㬈	wfat
 昷	wfat

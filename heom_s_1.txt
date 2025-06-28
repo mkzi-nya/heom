@@ -1,3 +1,4 @@
+;	：
 ;a	！
 ;b	_
 ;c	”
@@ -3499,6 +3500,7 @@ bkss	𡲍
 bkst	屏
 bksw	𩮟
 bksy	不可思议
+bkt	並
 bkta	病榻
 bktb	苪
 bktb	鞆
@@ -6909,6 +6911,7 @@ cob	脞
 cobd	挫败
 cobg	睉
 cobj	搓板
+coc	錯
 coca	錯
 cocg	銼
 coci	措辞
@@ -7136,6 +7139,7 @@ csfj	从犯
 csfp	焧
 csfp	燪
 csh	囱
+csh	從
 cshc	𠙂
 cshe	从何
 cshf	䉘
@@ -8985,7 +8989,6 @@ dhfn	瓽
 dhfo	㼕
 dhfu	荡妇
 dhfu	𨝦
-dhfw	党费
 dhfw	當
 dhg	垱
 dhgh	党纲
@@ -9580,6 +9583,7 @@ dixn	抵消
 dixs	弟兄
 dixt	滴血
 dixx	地下
+dixx	底下
 diy	递
 diy	帝
 diya	抵押
@@ -12147,6 +12151,7 @@ dvqn	等着瞧
 dvqy	断章取义
 dvrf	对人
 dvry	大智若愚
+dvt	對
 dvtg	𦶏
 dvti	對
 dvti	薱
@@ -14725,10 +14730,11 @@ fjnw	𱈕
 fjny	𠒾
 fjny	𱃴
 fjo	繁
-fjoe	飯
+fjo	飯
 fjoe	仮
 fjoe	㶗
 fjoe	瀪
+fjoe	飯
 fjof	䋣
 fjof	䌓
 fjof	緐
@@ -15109,8 +15115,8 @@ fuds	浮动
 fudu	幅度
 fudu	枹
 fudu	𣑿
+fue	浮
 fuec	滏
-fued	浮
 fuee	澓
 fuei	溥
 fuei	泭
@@ -18255,7 +18261,6 @@ goyj	过眼
 goyj	𩫏
 goyk	国营
 goyn	𧭣
-goyr	果园
 goyr	過
 goyt	𥂣
 goyu	过于
@@ -24255,9 +24260,10 @@ hvnr	廻
 hvnr	鮰
 hvnr	𫚔
 hvo	会
-hvoa	會
+hvo	會
 hvoa	㑹
 hvoa	𣌭
+hvoa	會
 hvob	儶
 hvoh	饖
 hvoi	𰽷
@@ -24411,6 +24417,7 @@ hvwu	会晤
 hvww	回味
 hvxb	回信
 hvxk	彗星
+hvxl	会响
 hvxl	回想
 hvxm	灰线
 hvxp	诙谐
@@ -24852,6 +24859,7 @@ hxxn	花销
 hxxt	化学
 hxxu	花絮
 hxxx	华夏
+hxy	話
 hxya	画押
 hxya	諙
 hxya	譮
@@ -29727,9 +29735,8 @@ jbui	近视
 jbuj	金山
 jbuu	金属
 jbuv	进水
-jbv	缙
-jbv	妗
 jbv	记不住
+jbva	缙
 jbva	縉
 jbvc	今朝
 jbvc	䋮
@@ -29741,6 +29748,7 @@ jbvi	禁止
 jbvj	进展
 jbvm	䌍
 jbvm	嫤
+jbvn	妗
 jbvn	紟
 jbvn	𫄛
 jbvo	金镯
@@ -30944,6 +30952,7 @@ jixn	绩效
 jixp	机械
 jixq	机修
 jixs	鸡胸
+jixt	积雪
 jixu	继续
 jixx	记下
 jixy	集训
@@ -32714,7 +32723,6 @@ jnqr	捁
 jnqu	郊区
 jnqu	撹
 jnqu	攪
-jnr	嚼
 jnr	跤
 jnrb	𨇕
 jnrc	搅扰
@@ -32723,6 +32731,7 @@ jnrd	𫪧
 jnrf	噍
 jnrh	叫嚷
 jnrh	嘐
+jnri	嚼
 jnrj	呌
 jnrk	咬
 jnrk	噭
@@ -34321,6 +34330,7 @@ jtuu	崫
 jtuu	𡳾
 jtuv	嵑
 jtv	绝
+jtv	絕
 jtvc	绝招
 jtvf	家庭主妇
 jtvg	绝症
@@ -34334,9 +34344,9 @@ jtvs	绝种
 jtvs	㔢
 jtvs	𫦳
 jtvu	角逐
-jtvu	絕
 jtvu	絶
 jtvu	𦁐
+jtvu	絕
 jtwd	经天纬地
 jtwg	进退维谷
 jtwh	绝望
@@ -35403,6 +35413,7 @@ jxzw	家贼
 jy	均
 jya	晙
 jyb	军
+jybd	惊疑不定
 jybd	䐃
 jybd	𥇘
 jybe	皲
@@ -36183,6 +36194,7 @@ kelt	𧜡
 kelu	刻录
 kelu	𱿣
 kely	客轮
+kem	磕
 kemc	𠪒
 keme	𩰻
 kemj	客满
@@ -36194,7 +36206,6 @@ kemr	㕉
 kemr	碦
 kemr	𣧤
 kemr	𥔽
-kemt	磕
 kemt	礚
 kemt	㕎
 kemt	醘
@@ -36752,6 +36763,7 @@ kkbu	快步
 kkcj	快餐
 kkda	檜
 kkdc	快到
+kkdd	空空荡荡
 kkdi	快递
 kkdi	桧
 kkdm	快点
@@ -38402,7 +38414,7 @@ lblw	累不累
 lbly	利比里亚
 lbm	琳
 lbm	磷
-lbm	霖
+lbmd	霖
 lbmd	碄
 lbmf	临门
 lbmf	𤌎
@@ -41072,6 +41084,7 @@ lmdu	𧡴
 lmdu	𫌫
 lmdv	连队
 lmdw	欄
+lme	漣
 lmec	濂
 lmec	溓
 lmec	濓
@@ -44119,6 +44132,7 @@ maqt	麻雀
 maqu	㨸
 maqy	攠
 mar	嘛
+mar	嗎
 mare	唛
 mare	嘜
 marf	骂人
@@ -44758,6 +44772,7 @@ medw	摩尔多瓦
 meeg	濹
 mege	明儿个
 meh	么
+mei	麼
 meii	麼
 meii	麽
 mekg	癦
@@ -44836,8 +44851,9 @@ mfmn	𨳔
 mfmu	玧
 mfmw	门楣
 mfnu	马放南山
-mfo	钔
+mfo	們
 mfon	們
+mfos	钔
 mfpd	门派
 mfpn	门票
 mfpn	㥃
@@ -46472,7 +46488,6 @@ mohu	覛
 mohv	衇
 mohw	抹黑
 moi	磨
-moi	谟
 moi	摩
 moia	抹茶
 moib	䯢
@@ -46481,6 +46496,7 @@ moii	魔
 moii	麽
 moii	麼
 moii	庅
+moik	谟
 moik	𢊗
 moil	𨟖
 moim	𲎉
@@ -48557,12 +48573,13 @@ njrf	男人
 njrj	赧然
 njrs	难容
 njsl	那就算了
-njt	萳
+njt	難
 njtb	䔜
 njtc	难逃
 njtg	難
 njti	难题
 njti	𧕴
+njtj	萳
 njtk	难听
 njtm	那几天
 njtm	𦶈
@@ -54410,7 +54427,6 @@ qint	隑
 qinu	青春年少
 qinv	妻女
 qinw	气馁
-qio	企
 qio	气
 qioc	倛
 qioc	𠐾
@@ -54426,6 +54442,7 @@ qiok	気
 qiok	饑
 qiol	𠁭
 qiol	𠓪
+qiom	企
 qion	乞
 qioo	僛
 qioo	欫
@@ -54688,7 +54705,7 @@ qiye	𪗅
 qiyf	齌
 qiyf	𪗏
 qiyi	歧义
-qiyi	起义
+qiyi	奇异
 qiyi	𪙧
 qiyj	气焰
 qiyj	斊
@@ -56933,6 +56950,7 @@ qtbu	却不
 qtbu	𧢩
 qtbu	𧢭
 qtbw	却被
+qtc	卻
 qtcc	墙头草
 qtci	缺词
 qtcl	卻
@@ -58059,6 +58077,7 @@ rfni	𩵕
 rfno	魜
 rfno	𬶁
 rfnp	𩠈
+rfo	仁
 rfoc	賃
 rfod	栠
 rfof	㶵
@@ -58072,7 +58091,6 @@ rfoh	仞
 rfoh	𨉃
 rfoi	仞
 rfok	仭
-rfom	仁
 rfom	𬸊
 rfoo	赁
 rfop	恁
@@ -61136,6 +61154,7 @@ sugl	𣝝
 sugl	𧥆
 sugv	𧞺
 sugx	𧽷
+suh	簌
 suh	夙
 suha	䑿
 suha	𩘰
@@ -61150,7 +61169,6 @@ suhl	𩙨
 suhl	𩳒
 suhm	𩲵
 suho	私生活
-suho	簌
 suhv	速回
 suhx	俗话
 suhx	𩘹
@@ -61278,6 +61296,7 @@ susd	随时随地
 susj	缩手缩脚
 susr	速算
 suss	诉讼
+susu	簌簌
 susu	速速
 susx	驌
 sut	蔌
@@ -62881,6 +62900,7 @@ tiao	𣉆
 tiap	惖
 tiau	𧡨
 tiau	𨴼
+tib	體
 tiba	提拔
 tibb	𥉈
 tibc	提包
@@ -63449,11 +63469,11 @@ tjpj	憛
 tjpk	摊平
 tjpm	憻
 tjpx	天将破晓
+tjq	探
 tjq	摊
 tjqb	探亲
 tjqb	弹琴
 tjqb	抩
-tjqd	探
 tjqf	㨏
 tjqg	攤
 tjqi	叹气
@@ -63722,6 +63742,7 @@ tkqn	耓
 tkqu	听取
 tkrf	听任
 tkrg	𨁗
+tks	聽
 tksc	挺骚
 tksd	停赛
 tkse	挺色
@@ -63729,9 +63750,9 @@ tksg	𡔛
 tksg	𦐿
 tksn	耵
 tksn	聤
-tksp	聽
 tksp	聴
 tksp	𦗟
+tksp	聽
 tkss	挺松
 tksu	挺俗
 tkt	葶
@@ -64325,6 +64346,7 @@ tnyy	调匀
 tnzc	跳蚤
 tnzi	条子
 tnzv	挑嘴
+to	托
 to	拖
 tob	脱
 tob	妥
@@ -64517,7 +64539,6 @@ topi	脱皮
 topj	托盘
 topm	𦑑
 topu	拓扑
-toq	托
 toq	拓
 toqb	撱
 toqd	扡
@@ -64993,6 +65014,7 @@ tsle	同乐
 tslf	䳋
 tsli	同理
 tslj	统揽
+tslk	通灵
 tslk	同龄
 tslm	㠽
 tsln	同僚
@@ -65965,6 +65987,7 @@ tzln	牏
 tzlp	偷猎
 tzlu	透露
 tzlv	牏
+tzm	頭
 tzmc	頭
 tzme	酘
 tzme	𣪌
@@ -66944,7 +66967,9 @@ ufhu	兟
 ufhu	𥳱
 ufhv	深灰
 ufhx	神话
-ufi	谂
+ufhz	深厚
+ufhz	身后
+ufi	神
 ufia	审查
 ufid	𠘆
 ufid	𢊖
@@ -66957,10 +66982,10 @@ ufih	𢈯
 ufih	𰄁
 ufii	申斥
 ufii	𣔗
-ufil	神
 ufil	谉
 ufil	𨝐
 ufim	叄
+ufip	谂
 ufir	身穿
 ufiu	伸出
 ufiu	诜
@@ -67390,6 +67415,7 @@ ugpu	憴
 ugpu	𰑪
 ugpw	甸
 ugqb	生擒
+ugqi	升起
 ugqi	生气
 ugqk	盛情
 ugqm	省钱
@@ -67403,8 +67429,8 @@ ugri	生日
 ugrt	呏
 ugrt	𧿘
 ugru	㗂
+ugs	聖
 ugse	生涩
-ugsg	圣僧
 ugsg	聖
 ugsi	生死
 ugso	绳索
@@ -68225,7 +68251,8 @@ uisr	失算
 uisu	时速
 uisv	十岁
 uisy	石笋
-uit	蓍
+uit	尸体
+uita	蓍
 uita	𧄹
 uitb	蒒
 uitb	𰰳
@@ -68936,6 +68963,7 @@ ulne	𩽧
 ulnj	上了年纪
 ulnk	𫘭
 ulnu	骦
+ulo	雙
 uloe	雙
 ulpb	双拼
 ulpd	双排
@@ -69162,8 +69190,9 @@ uoxl	说项
 uoxn	说笑
 uoxp	说些
 uoxx	说下
-uoyu	說
+uoy	說
 uoyu	説
+uoyu	說
 up	双拼
 upjx	双拼加形
 upmm	水平面
@@ -73314,6 +73343,7 @@ vjkf	㺘
 vjkj	𰹼
 vjkl	战况
 vjkv	辗
+vjl	湛蓝
 vjlb	𢅺
 vjld	直截了当
 vjle	占了
@@ -75502,8 +75532,8 @@ vzcw	鈾
 vzcy	重在参与
 vzcy	𨦞
 vzdc	周到
+vze	洲
 vzeg	注
-vzel	洲
 vzem	𣻱
 vzer	周二
 vzer	淍
@@ -76031,6 +76061,7 @@ weuw	望而生畏
 wevy	万恶之源
 wf	问
 wf	文
+wfa	問
 wfae	閿
 wfae	闅
 wfaf	𨶭
@@ -78444,7 +78475,6 @@ wwvy	为准
 wwvy	唯物主义
 wwvz	无妄之灾
 www	胃
-www	畏
 www	呜呜呜
 wwwa	䵳
 wwwf	慰问
@@ -78458,6 +78488,7 @@ wwwq	圍
 wwws	围
 wwwt	囲
 wwwu	威武
+wwwv	畏
 wwwv	𡇦
 wwww	微微
 wwxb	威信
@@ -80395,8 +80426,8 @@ xlhv	相会
 xlhv	忀
 xlhx	像话
 xlhz	向后
+xli	祥
 xli	详
-xli	庠
 xlia	相差
 xlia	麘
 xlib	兴利除弊
@@ -80406,7 +80437,7 @@ xlih	香肠
 xlih	血流成河
 xlii	相持
 xlil	心理承受能力
-xliq	祥
+xliq	庠
 xlir	相传
 xliu	相处
 xliu	廂
@@ -81948,6 +81979,7 @@ xplu	邪路
 xplv	斜率
 xplv	𤗈
 xplz	泄露
+xpm	邪
 xpma	瑎
 xpmb	𩂪
 xpmc	頁
@@ -81957,7 +81989,6 @@ xpmf	㕐
 xpmg	𩰳
 xpmi	泄密
 xpmk	写明
-xpml	邪
 xpml	祄
 xpmm	斜面
 xpmm	𩐁
@@ -84258,9 +84289,9 @@ xyqk	殉情
 xyqq	寻求
 xyqu	揗
 xyr	勋
-xyr	巽
 xyr	吸引人
 xyra	𨀴
+xyrc	巽
 xyrc	噀
 xyrc	䠝
 xyrc	巺
@@ -84273,9 +84304,10 @@ xyrj	熏染
 xyrs	勛
 xyrz	熏肉
 xys	寻
-xys	巽
+xys	尋
 xys	小意思
 xysa	駨
+xysc	巽
 xyse	逊色
 xysf	焄
 xysi	寻思
@@ -85679,8 +85711,8 @@ ydma	源代码
 ydmf	有点麻烦
 ydmg	厓
 ydna	雅典娜
+ydp	一大片
 ydpi	一大批
-ydpm	一大片
 ydqp	一刀切
 ydqx	以大欺小
 ydqy	一大群
@@ -86375,6 +86407,7 @@ yhlu	𱌀
 yhlv	𧓲
 yhlx	烟花柳巷
 yhm	玚
+yhmc	样貌
 yhmc	羊毛
 yhmd	𣐫
 yhmh	瑒
@@ -87624,7 +87657,7 @@ yixq	衣袖
 yixs	疑凶
 yixt	医学
 yixx	以下
-yiy	遗
+yiy	意
 yiy	裔
 yiya	咿呀
 yiya	詣
@@ -87675,10 +87708,10 @@ yiyn	迻
 yiyn	䖌
 yiyn	誃
 yiyn	謻
+yiyo	遗
 yiyo	訳
 yiyo	豙
 yiyo	𧱏
-yiyp	意
 yiyp	䪰
 yiyp	悥
 yiyp	詑
@@ -88808,7 +88841,6 @@ ykpo	颍
 ykpo	颕
 ykpr	𢥏
 ykpw	甸
-ykq	撄
 ykq	一口气
 ykqi	硬气
 ykqk	𦔃
@@ -88817,6 +88849,7 @@ ykqt	盈缺
 ykqt	㨕
 ykqu	迎娶
 ykqu	摬
+ykqv	撄
 ykqv	攍
 ykqv	攖
 ykrb	啨
