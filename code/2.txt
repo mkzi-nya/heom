@@ -968,6 +968,7 @@
 邫	bhqu
 𩦠	bhsn
 𩮗	bhst
+並	bht
 並	bhtc
 𦰥	bhtl
 並	bhtm
@@ -2783,6 +2784,7 @@
 㛑	cjyv
 𡛝	cjyv
 睉	cobg
+錯	coc
 錯	coca
 銼	cocg
 棤	coda
@@ -2913,6 +2915,7 @@
 𧐱	cshi
 囪	cshk
 㼻	cshn
+從	csh
 從	csho
 従	csho
 篵	csho
@@ -5117,6 +5120,7 @@
 𢟋	dvpr
 㨃	dvqd
 𦶏	dvtg
+對	dvt
 對	dvti
 薱	dvti
 𰰱	dvti
@@ -6118,10 +6122,11 @@
 𱈕	fjnw
 𠒾	fjny
 𱃴	fjny
-飯	fjoe
+飯	fjo
 仮	fjoe
 㶗	fjoe
 瀪	fjoe
+飯	fjoe
 䋣	fjof
 䌓	fjof
 緐	fjof
@@ -10341,9 +10346,10 @@
 廻	hvnr
 鮰	hvnr
 𫚔	hvnr
-會	hvoa
+會	hvo
 㑹	hvoa
 𣌭	hvoa
+會	hvoa
 儶	hvob
 饖	hvoh
 𰽷	hvoi
@@ -10602,6 +10608,7 @@
 譁	hxyj
 𧨋	hxym
 誮	hxyp
+話	hxy
 話	hxyr
 諣	hxyr
 䛡	hxyr
@@ -15306,9 +15313,10 @@
 𢴭	jtvq
 㔢	jtvs
 𫦳	jtvs
-絕	jtvu
+絕	jtv
 絶	jtvu
 𦁐	jtvu
+絕	jtvu
 𡈅	jtwl
 爴	jtwo
 譎	jtyb
@@ -20292,6 +20300,7 @@
 攠	maqy
 唛	mare
 嘜	mare
+嗎	mar
 嗎	marf
 駡	marf
 嚜	marg
@@ -20600,6 +20609,7 @@
 𧱘	mdyl
 ⻨	mdze
 濹	meeg
+麼	mei
 麼	meii
 麽	meii
 癦	mekg
@@ -20638,6 +20648,8 @@
 璊	mfmb
 𨳔	mfmn
 玧	mfmu
+們	mfo
+钔	mfos
 們	mfon
 㥃	mfpn
 㦖	mfpp
@@ -22348,6 +22360,7 @@
 𢪈	njqm
 𢬷	njqr
 䔜	njtb
+難	njt
 難	njtg
 𧕴	njti
 𦶈	njtm
@@ -26051,6 +26064,7 @@
 𩨷	qtbp
 𧢩	qtbu
 𧢭	qtbu
+卻	qtc
 卻	qtcl
 𣛵	qtde
 㰌	qtdg
@@ -29230,9 +29244,10 @@
 𦐿	tksg
 耵	tksn
 聤	tksn
-聽	tksp
+聽	tks
 聴	tksp
 𦗟	tksp
+聽	tksp
 鞓	tktg
 艼	tktn
 嵉	tkun
@@ -30169,6 +30184,7 @@
 㼥	tzjn
 牏	tzln
 牏	tzlv
+頭	tzm
 頭	tzmc
 酘	tzme
 𣪌	tzme
@@ -30748,6 +30764,7 @@
 呏	ugrt
 𧿘	ugrt
 㗂	ugru
+聖	ugs
 聖	ugsg
 𨲓	ugsu
 苼	ugtm
@@ -31395,6 +31412,7 @@
 𩅪	ulmu
 𩽧	ulne
 𫘭	ulnk
+雙	ulo
 雙	uloe
 慡	ulpk
 㦼	ulqi
@@ -31457,8 +31475,9 @@
 愬	uotp
 𣀝	uove
 𦋞	uown
-說	uoyu
+說	uoy
 説	uoyu
+說	uoyu
 閂	uram
 𣔫	urdg
 𣠸	urdt
@@ -34457,6 +34476,7 @@
 聞	wfaj
 閺	wfak
 㼔	wfao
+問	wfa
 問	wfar
 㬈	wfat
 昷	wfat

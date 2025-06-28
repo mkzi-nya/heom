@@ -4288,7 +4288,6 @@ AA制	aavi
 大红大紫	dhdz
 待会儿	dher
 荡妇	dhfu
-党费	dhfw
 读后感	dhgj
 当官	dhgr
 党纲	dhgh
@@ -8521,7 +8520,6 @@ AA制	aavi
 过夜	goye
 过眼	goyj
 国营	goyk
-果园	goyr
 国药	goyc
 国运	goyy
 国有	goyz
@@ -27729,7 +27727,6 @@ IP地址	ipdv
 生日	ugri
 胜任	ugrf
 生涩	ugse
-圣僧	ugsg
 生死	ugsi
 绳索	ugso
 胜算	ugsr
@@ -42771,7 +42768,7 @@ IP地址	ipdv
 帘	lmj
 懒	ljp
 沥	lies
-霖	lbm
+霖	lbmd
 陇	lsnp
 卵	lrh
 擂	lwq
@@ -43469,7 +43466,6 @@ IP地址	ipdv
 硭	mhm
 漭	mhe
 鹛	mwam
-钔	mfo
 瞢	mgtu
 礞	mgm
 喵	mnr
@@ -43734,7 +43730,7 @@ IP地址	ipdv
 齉	nhhv
 𨺙	nin
 薿	nit
-萳	njt
+萳	njtj
 婻	njv
 苧	nktn
 𦰡	not
@@ -44915,9 +44911,9 @@ IP地址	ipdv
 套	tc
 听	tk
 庭	tki
+托	to
 拖	to
 讨	tci
-探	tjqd
 退	tvy
 停	tko
 厅	tkm
@@ -44935,11 +44931,11 @@ IP地址	ipdv
 痛	tsk
 挑	tnq
 跳	tnr
+探	tjq
 摊	tjq
 弹	tjn
 陶	tcn
 腾	tgb
-托	toq
 炭	tju
 糖	thf
 坛	tjgi
@@ -45297,7 +45293,7 @@ IP地址	ipdv
 视	uii
 首	uzt
 身	ufh
-神	ufil
+神	ufi
 神	ufml
 率	ukyj
 识	uiic
@@ -45563,7 +45559,7 @@ IP地址	ipdv
 埘	uigi
 弑	uikm
 蒴	uot
-谂	ufi
+谂	ufip
 摅	uuqp
 唼	uarv
 歃	uah
@@ -46741,8 +46737,8 @@ IP地址	ipdv
 芗	xlth
 埙	xyg
 樨	xidq
-巽	xyr
-巽	xys
+巽	xyrc
+巽	xysc
 噱	xtr
 鲑	xpn
 瀣	xpem
@@ -48944,6 +48940,7 @@ GDP	gdp
 洗手间	xuj
 学术性	xux
 西游记	xyj
+尋	xys
 小意思	xys
 又不是	ybu
 一次性	ycx

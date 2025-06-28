@@ -22,7 +22,7 @@ for file in 0.txt ../heom.txt; do
         echo "警告：文件 $file 不存在，跳过。"
     fi
 done
-for file in ../heom.txt ./3.txt ./4.txt ./5.txt; do
+for file in ../heom.txt ./3.txt ./5.txt; do
     if [ -f "$file" ]; then
         cat "$file" >> "../ziys/heom.txt"
     else
@@ -30,7 +30,7 @@ for file in ../heom.txt ./3.txt ./4.txt ./5.txt; do
     fi
 done
 
-for file in ../heom.txt ./3.txt ./4.txt ./5.txt; do
+for file in ../heom.dict.yaml ./3.txt ./5.txt; do
     if [ -f "$file" ]; then
         cat "$file" >> "../ziys/heom.dict.yaml"
     else
