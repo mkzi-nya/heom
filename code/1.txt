@@ -1,3 +1,4 @@
+：	;
 ：“	;q
 ？	;w
 （	;e
@@ -24,6 +25,18 @@
 _	;b
 「	;n
 」	;m
+积雪	jixt
+尸体	uit
+湛蓝	vjl
+簌簌	susu
+深厚	ufhz
+身后	ufhz
+升起	ugqi
+会响	hvxl
+样貌	yhmc
+通灵	tslk
+空空荡荡	kkdd
+惊疑不定	jybd
 阿爸	aaba
 嗷嗷待哺	aadb
 阿哥	aage
@@ -22327,6 +22340,7 @@ IP地址	ipdv
 起因	qiyb
 企业	qiye
 歧义	qiyi
+奇异	qiyi
 气焰	qiyj
 弃婴	qiyk
 青出于蓝	qiyl
@@ -35290,7 +35304,7 @@ IP地址	ipdv
 源代码	ydma
 有点麻烦	ydmf
 雅典娜	ydna
-一大片	ydpm
+一大片	ydp
 一大批	ydpi
 一大群	ydqy
 一刀切	ydqp
@@ -40337,7 +40351,7 @@ IP地址	ipdv
 锋	fgo
 贩	fjb
 仿	fho
-浮	fued
+浮	fue
 覆	fum
 辅	fuk
 冯	fgi
@@ -41967,7 +41981,7 @@ IP地址	ipdv
 泾	jkem
 剿	jnv
 灸	jqnf
-嚼	jnr
+嚼	jnri
 嚼	jtr
 绢	jrv
 藉	jit
@@ -42036,7 +42050,7 @@ IP地址	ipdv
 矍	jtb
 靓	jkqu
 浃	jxe
-缙	jbv
+缙	jbva
 柩	jqd
 鲫	jinl
 诘	jiir
@@ -42136,7 +42150,7 @@ IP地址	ipdv
 苴	jutm
 讵	juis
 廑	jbim
-妗	jbv
+妗	jbvn
 炅	jsa
 枧	jmdu
 洚	jleq
@@ -42427,7 +42441,7 @@ IP地址	ipdv
 葵	kvt
 窥	kvj
 咳	ker
-磕	kemt
+磕	kem
 拷	kcq
 糠	khf
 槛	kjd
@@ -43360,7 +43374,7 @@ IP地址	ipdv
 楣	mwdu
 谧	miit
 泯	mbe
-谟	moi
+谟	moik
 茗	mkt
 娩	mmv
 淼	mne
@@ -44113,7 +44127,7 @@ IP地址	ipdv
 皮影戏	pyx
 去	q
 全	qr
-企	qio
+企	qiom
 区	qu
 前	qm
 其	qi
@@ -44535,7 +44549,7 @@ IP地址	ipdv
 肉	rz
 若	ro
 弱	ro
-仁	rfom
+仁	rfo
 软	rr
 弱	ron
 绕	rc
@@ -44736,6 +44750,7 @@ IP地址	ipdv
 邃	svyo
 酥	su
 嵩	ssu
+簌	suh
 夙	suh
 伺	sior
 梢	scdb
@@ -44763,7 +44778,6 @@ IP地址	ipdv
 娑	soev
 濉	sve
 嗖	szr
-簌	suho
 怂	sso
 稣	sun
 卅	sat
@@ -45568,7 +45582,7 @@ IP地址	ipdv
 滠	ueee
 矧	ufol
 胂	ufb
-蓍	uit
+蓍	uita
 鲺	uini
 贳	uipo
 搠	uoq
@@ -46512,7 +46526,7 @@ IP地址	ipdv
 洗	xie
 悉	xihp
 辛	xby
-祥	xliq
+祥	xli
 祥	xlmq
 鞋	xpt
 幸	xkg
@@ -46591,7 +46605,7 @@ IP地址	ipdv
 馨	xbg
 轩	xrk
 穴	xtj
-邪	xpml
+邪	xpm
 吓	xxr
 朽	xqd
 羡	xmt
@@ -46979,7 +46993,7 @@ IP地址	ipdv
 已	yis
 应	yk
 由	yzl
-意	yiyp
+意	yiy
 营	yktr
 议	yii
 矣	yiik
@@ -47060,7 +47074,7 @@ IP地址	ipdv
 柚子厨	yziu
 硬	ykm
 勇	ysn
-遗	yiy
+遗	yiyo
 裔	yiy
 邀	ycy
 援	yrq
@@ -47480,7 +47494,7 @@ IP地址	ipdv
 说	yti
 岈	yauh
 珧	ycmo
-撄	ykq
+撄	ykqv
 舁	yuht
 眢	yrnu
 箢	yrh
@@ -48690,7 +48704,7 @@ GDP	gdp
 奚	xib
 硒	xim
 惺	xkp
-庠	xli
+庠	xliq
 岘	xmu
 蚬	xml
 娴	xmv
@@ -49601,7 +49615,6 @@ GDP	gdp
 栖息	qixi
 气喘吁吁	qixx
 欺压	qiya
-起义	qiyi
 青出于蓝而胜于蓝	qiyl
 契约	qiyt
 棋子	qizi
