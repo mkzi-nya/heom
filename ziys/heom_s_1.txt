@@ -45156,7 +45156,7 @@ gzzf	工作作风
 gzzi	钩子
 gzzj	工作总结
 h	和
-h	化
+h	还
 h	忽略
 h	竹
 h	丿
@@ -46546,7 +46546,7 @@ hczd	好在
 hczi	耗子
 hczo	好做
 hczz	好走
-hd	还
+hd	害
 hd	禾
 hd	𠂌
 hd	𥝌
@@ -55836,7 +55836,6 @@ hrxn	欢笑
 hrxs	浣熊
 hrxu	𪓑
 hrxx	换下
-hry	还
 hry	𠧨
 hrya	换牙
 hryb	𱻱
@@ -57824,6 +57823,7 @@ huzh	⻁
 huzi	胡子
 huzv	活受罪
 hv	会
+hv	毁
 hv	𥫭
 hv	𧘇
 hva	晖
@@ -58023,7 +58023,6 @@ hvgv	回归
 hvgy	回滚
 hvgz	回购
 hvh	徽
-hvh	毁
 hvh	秽
 hvh	𠂎
 hvha	徻
@@ -58876,7 +58875,7 @@ hwyy	毫无意义
 hwyy	毫无怨言
 hwzi	黑字
 hx	话
-hx	华
+hx	化
 hx	臼
 hx	𦥑
 hx	𨈑
@@ -59191,7 +59190,7 @@ hxnp	𩵏
 hxns	𬛹
 hxnw	𩶿
 hxny	花香鸟语
-hxo	化
+hxo	华
 hxo	铧
 hxo	臾
 hxod	𰽗
@@ -192435,7 +192434,7 @@ yinv	义女
 yinv	䧇
 yinv	饻
 yinw	以内
-yio	依
+yio	亿
 yio	伊
 yio	𫝅
 yio	𮞃
@@ -202293,6 +202292,7 @@ yyrf	𨙎
 yyrg	𨘿
 yyri	𧶊
 yyrj	喗
+yyrk	音游人的手指扣人痛吗？先不说底力的问题，音游人一般都很有耐心，你如果想被扣就会一直扣你，而且音游人的手指因为长期打音游早就变得和一般拉拉的力度不一样了，面对抒情曲会打的很温柔，说明她们很会看人脸色，会把你扣爽不会把你扣痛，所以音游人的手指扣人不痛。
 yyrl	余音绕梁
 yyrl	鄖
 yyrl	𨛡

@@ -45156,7 +45156,7 @@ github	gith
 钩子	gzzi
 工作总结	gzzj
 和	h
-化	h
+还	h
 忽略	h
 竹	h
 丿	h
@@ -46546,7 +46546,7 @@ github	gith
 耗子	hczi
 好做	hczo
 好走	hczz
-还	hd
+害	hd
 禾	hd
 𠂌	hd
 𥝌	hd
@@ -55836,7 +55836,6 @@ github	gith
 浣熊	hrxs
 𪓑	hrxu
 换下	hrxx
-还	hry
 𠧨	hry
 换牙	hrya
 𱻱	hryb
@@ -57824,6 +57823,7 @@ github	gith
 胡子	huzi
 活受罪	huzv
 会	hv
+毁	hv
 𥫭	hv
 𧘇	hv
 晖	hva
@@ -58023,7 +58023,6 @@ github	gith
 回滚	hvgy
 回购	hvgz
 徽	hvh
-毁	hvh
 秽	hvh
 𠂎	hvh
 徻	hvha
@@ -58876,7 +58875,7 @@ github	gith
 毫无怨言	hwyy
 黑字	hwzi
 话	hx
-华	hx
+化	hx
 臼	hx
 𦥑	hx
 𨈑	hx
@@ -59191,7 +59190,7 @@ github	gith
 𬛹	hxns
 𩶿	hxnw
 花香鸟语	hxny
-化	hxo
+华	hxo
 铧	hxo
 臾	hxo
 𰽗	hxod
@@ -62492,7 +62491,6 @@ github	gith
 𪪥	ifqc
 𫀇	ifqd
 禊	ifqh
-查分器	ifqi
 查分器	ifqi
 http://mhtlim.top/	ifqi
 https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
@@ -192435,7 +192433,7 @@ http://mhtlim.top/usage/usage.html	uomk
 䧇	yinv
 饻	yinv
 以内	yinw
-依	yio
+亿	yio
 伊	yio
 𫝅	yio
 𮞃	yio
@@ -202293,6 +202291,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𨘿	yyrg
 𧶊	yyri
 喗	yyrj
+音游人的手指扣人痛吗？先不说底力的问题，音游人一般都很有耐心，你如果想被扣就会一直扣你，而且音游人的手指因为长期打音游早就变得和一般拉拉的力度不一样了，面对抒情曲会打的很温柔，说明她们很会看人脸色，会把你扣爽不会把你扣痛，所以音游人的手指扣人不痛。	yyrk
 余音绕梁	yyrl
 鄖	yyrl
 𨛡	yyrl

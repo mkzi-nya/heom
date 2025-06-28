@@ -20203,7 +20203,7 @@ gzzf	工作作风
 gzzi	钩子
 gzzj	工作总结
 h	和
-h	化
+h	还
 h	忽略
 ha	哈
 hacr	鉿
@@ -20583,7 +20583,7 @@ hczd	好在
 hczi	耗子
 hczo	好做
 hczz	好走
-hd	还
+hd	害
 hdan	海岸
 hdao	閡
 hdb	骸
@@ -23074,7 +23074,6 @@ hrxm	环线
 hrxn	欢笑
 hrxs	浣熊
 hrxx	换下
-hry	还
 hrya	换牙
 hrye	换页
 hryg	讙
@@ -23944,6 +23943,7 @@ huzh	⻁
 huzi	胡子
 huzv	活受罪
 hv	会
+hv	毁
 hva	晖
 hvaa	𣋘
 hvac	闠
@@ -24073,7 +24073,6 @@ hvgv	回归
 hvgy	回滚
 hvgz	回购
 hvh	徽
-hvh	毁
 hvh	秽
 hvha	徻
 hvha	𥱵
@@ -24554,7 +24553,7 @@ hwyy	毫无意义
 hwyy	毫无怨言
 hwzi	黑字
 hx	话
-hx	华
+hx	化
 hxaj	𨶱
 hxam	𨶬
 hxba	还行吧
@@ -24727,7 +24726,7 @@ hxnj	华南
 hxnn	花鸟
 hxnp	𩵏
 hxny	花香鸟语
-hxo	化
+hxo	华
 hxo	铧
 hxod	𰽗
 hxoi	𩲏
@@ -87219,7 +87218,7 @@ yinv	义女
 yinv	䧇
 yinv	饻
 yinw	以内
-yio	依
+yio	亿
 yio	伊
 yiob	佾
 yioc	㑊

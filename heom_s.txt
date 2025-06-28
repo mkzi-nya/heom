@@ -20203,7 +20203,7 @@ GDP	gdp
 钩子	gzzi
 工作总结	gzzj
 和	h
-化	h
+还	h
 忽略	h
 哈	ha
 鉿	hacr
@@ -20583,7 +20583,7 @@ GDP	gdp
 耗子	hczi
 好做	hczo
 好走	hczz
-还	hd
+害	hd
 海岸	hdan
 閡	hdao
 骸	hdb
@@ -23074,7 +23074,6 @@ GDP	gdp
 欢笑	hrxn
 浣熊	hrxs
 换下	hrxx
-还	hry
 换牙	hrya
 换页	hrye
 讙	hryg
@@ -23944,6 +23943,7 @@ GDP	gdp
 胡子	huzi
 活受罪	huzv
 会	hv
+毁	hv
 晖	hva
 𣋘	hvaa
 闠	hvac
@@ -24073,7 +24073,6 @@ GDP	gdp
 回滚	hvgy
 回购	hvgz
 徽	hvh
-毁	hvh
 秽	hvh
 徻	hvha
 𥱵	hvha
@@ -24554,7 +24553,7 @@ GDP	gdp
 毫无怨言	hwyy
 黑字	hwzi
 话	hx
-华	hx
+化	hx
 𨶱	hxaj
 𨶬	hxam
 还行吧	hxba
@@ -24727,7 +24726,7 @@ GDP	gdp
 花鸟	hxnn
 𩵏	hxnp
 花香鸟语	hxny
-化	hxo
+华	hxo
 铧	hxo
 𰽗	hxod
 𩲏	hxoi
@@ -87219,7 +87218,7 @@ PPT	ppt
 䧇	yinv
 饻	yinv
 以内	yinw
-依	yio
+亿	yio
 伊	yio
 佾	yiob
 㑊	yioc
