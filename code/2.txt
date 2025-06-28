@@ -968,7 +968,6 @@
 邫	bhqu
 𩦠	bhsn
 𩮗	bhst
-並	bht
 並	bhtc
 𦰥	bhtl
 並	bhtm
@@ -1492,6 +1491,7 @@
 苪	bktb
 鞆	bktb
 𩋒	bktb
+並	bkt
 並	bktc
 𦼹	bktd
 鵧	bktf
@@ -18599,6 +18599,7 @@
 溓	lmec
 濓	lmec
 湅	lmef
+漣	lme
 漣	lmej
 瀲	lmek
 𣾍	lmek
@@ -28801,6 +28802,7 @@
 骵	tibm
 𥉘	tibn
 睼	tibo
+體	tib
 體	tibt
 朑	tibt
 𥉘	tibu
