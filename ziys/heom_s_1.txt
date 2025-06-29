@@ -34210,6 +34210,7 @@ jtgs	集团公司
 jtgu	䞷
 jtgu	趉
 jtgy	姜太公钓鱼
+jth	覺
 jthc	绝好
 jthd	集体活动
 jthe	㸕
@@ -68212,6 +68213,7 @@ uiiu	𧠜
 uiiz	世仇
 uij	实
 uij	时间
+uij	事件
 uija	耆
 uijb	使劲
 uijc	實
@@ -87259,6 +87261,7 @@ yijk	㝣
 yijl	宧
 yijl	𨛯
 yijm	意见
+yijm	一键
 yijm	宐
 yijn	移交
 yijn	㝖
