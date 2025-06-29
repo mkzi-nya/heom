@@ -5967,6 +5967,7 @@ AA制	aavi
 𩫥	ccvb
 草纸	ccvi
 𦋿	ccwa
+莪	ccwo
 草屋	ccwu
 操心	ccxb
 草席	ccxi
@@ -17059,6 +17060,7 @@ GDP	gdp
 𬱝	gfao
 𩓓	gfbc
 根本	gfbf
+巭孬嫑夯昆勥茓	gfbh
 跟班	gfbj
 高分辨率	gfbl
 𥃩	gfbp
@@ -33005,6 +33007,7 @@ php -S 127.0.0.1:8000	iphp
 𩩰	jpba
 解包	jpbc
 洁白	jpbd
+结伴	jpbj
 接班	jpbj
 结冰	jpbk
 街边	jpbm
@@ -38784,6 +38787,7 @@ php -S 127.0.0.1:8000	iphp
 老龄	lclk
 老练	lclm
 蛯	lclp
+𦒹	lclq
 牢笼	lcls
 蟧	lcls
 劳碌	lclu
@@ -64416,6 +64420,7 @@ git add . && git commit -m "meow" && git push origin main	push
 樤	tndd
 𣟐	tndg
 调低	tndi
+跳蛋	tndj
 𪌪	tndo
 跳动	tnds
 拖泥带水	tndu
@@ -72908,6 +72913,7 @@ http://mhtlim.top/usage/usage.html	uomk
 职场	viih
 支持	viii
 庤	viii
+咫尺	viii
 𢇨	viii
 𫍶	viik
 痔疮	viil
@@ -77223,6 +77229,7 @@ http://mhtlim.top/usage/usage.html	uomk
 玩味	wjww
 惋惜	wjxi
 万幸	wjxk
+万象	wjxl
 玩笑	wjxn
 晚霞	wjxx
 玩意	wjy
@@ -87929,6 +87936,7 @@ http://mhtlim.top/usage/usage.html	uomk
 疑凶	yixs
 医学	yixt
 以下	yixx
+𠀳	yixx
 意	yiy
 裔	yiy
 咿呀	yiya
@@ -88827,6 +88835,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𣃾	yjyv
 𣄑	yjyv
 𣄉	yjyw
+又惊又喜	yjyx
 眼晕	yjyy
 𪗤	yjyy
 燕子	yjzi

@@ -32900,6 +32900,7 @@ IP地址	ipdv
 𩩰	jpba
 解包	jpbc
 洁白	jpbd
+结伴	jpbj
 接班	jpbj
 结冰	jpbk
 街边	jpbm
@@ -64185,6 +64186,7 @@ PPT	ppt
 樤	tndd
 𣟐	tndg
 调低	tndi
+跳蛋	tndj
 𪌪	tndo
 跳动	tnds
 拖泥带水	tndu
@@ -72670,6 +72672,7 @@ PPT	ppt
 职场	viih
 支持	viii
 庤	viii
+咫尺	viii
 𢇨	viii
 𫍶	viik
 痔疮	viil
@@ -76983,6 +76986,7 @@ PPT	ppt
 玩味	wjww
 惋惜	wjxi
 万幸	wjxk
+万象	wjxl
 玩笑	wjxn
 晚霞	wjxx
 玩意	wjy
@@ -88580,6 +88584,7 @@ PPT	ppt
 𣃾	yjyv
 𣄑	yjyv
 𣄉	yjyw
+又惊又喜	yjyx
 眼晕	yjyy
 𪗤	yjyy
 燕子	yjzi

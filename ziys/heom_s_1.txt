@@ -3043,6 +3043,7 @@ bjbc	𦝤
 bjbd	半百
 bjbe	𣪂
 bjbf	版本
+bjbh	不急不缓
 bjbh	朌
 bjbh	肦
 bjbi	半壁
@@ -5966,6 +5967,7 @@ ccva	㜖
 ccvb	𩫥
 ccvi	草纸
 ccwa	𦋿
+ccwo	莪
 ccwu	草屋
 ccxb	操心
 ccxi	草席
@@ -6696,6 +6698,7 @@ cj	参
 cj	参加
 cjan	惨案
 cjbc	残暴
+cjbd	惨白
 cjbd	惨败
 cjbi	䏼
 cjbi	𢧮
@@ -7822,6 +7825,7 @@ dacs	大葱
 dada	大大
 dadc	大道
 dadh	搭档
+dadi	大地
 dadi	打底
 dadj	大胆
 dadm	打点
@@ -10175,6 +10179,7 @@ dktx	刀口舔血
 dkuc	盯梢
 dkuc	嵿
 dkug	鼎盛
+dkuh	顶上
 dkuh	盯上
 dkui	定时
 dkuj	大开杀戒
@@ -11490,8 +11495,8 @@ dshw	䵔
 dshw	𢔅
 dshx	动画
 dshy	笗
+dsi	冻
 dsia	洞察
-dsid	冻
 dsid	𮷅
 dsie	动车
 dsij	动产
@@ -17055,6 +17060,7 @@ gfao	𫖱
 gfao	𬱝
 gfbc	𩓓
 gfbf	根本
+gfbh	巭孬嫑夯昆勥茓
 gfbj	跟班
 gfbl	高分辨率
 gfbp	𥃩
@@ -21852,7 +21858,6 @@ hjiw	𠗴
 hjiz	汗臭
 hjj	韩
 hjj	寒
-hjj	汉奸
 hjje	𥀐
 hjjf	䮧
 hjjf	鶾
@@ -23936,6 +23941,7 @@ huu	岵
 huuc	呼哨
 huud	浑身是胆
 huuf	护身
+huug	活生生
 huug	呼声
 huui	忽视
 huui	护士
@@ -24830,6 +24836,7 @@ hxpi	画皮
 hxpj	㦊
 hxpj	𫺆
 hxpk	花瓶
+hxpo	划破
 hxpo	滑坡
 hxpo	𱞌
 hxpr	含血喷人
@@ -31307,6 +31314,7 @@ jkhm	徑
 jkhn	秔
 jkhp	氏
 jkhs	𥯙
+jkhu	惊呼
 jkhu	𩳯
 jkhx	精华
 jkhy	惊魂
@@ -32999,6 +33007,7 @@ jpba	𦝨
 jpba	𩩰
 jpbc	解包
 jpbd	洁白
+jpbj	结伴
 jpbj	接班
 jpbk	结冰
 jpbm	街边
@@ -34166,6 +34175,7 @@ jtde	欔
 jtde	𩏺
 jtdf	鴂
 jtdg	柽
+jtdk	绝顶
 jtdk	决定
 jtdk	㭈
 jtdm	𱉔
@@ -34711,6 +34721,7 @@ juit	聚沙成塔
 juit	旧事重提
 juiu	举出
 juiy	积水成渊
+juj	咀嚼
 jujb	拘谨
 juji	聚集
 jujj	車
@@ -35808,6 +35819,7 @@ kahc	卡号
 kahr	衉
 kahr	䘔
 kaia	咔嚓
+kaia	喀嚓
 kaie	卡车
 kaka	咔咔
 kaly	裃
@@ -35998,6 +36010,8 @@ kdgr	开关
 kdgs	开工
 kdgt	塏
 kdha	𢔡
+kdhe	开盒
+kdhe	开合
 kdhk	开怀
 kdhl	开荒
 kdhn	哭爹喊娘
@@ -38773,6 +38787,7 @@ lcli	劳力
 lclk	老龄
 lclm	老练
 lclp	蛯
+lclq	𦒹
 lcls	牢笼
 lcls	蟧
 lclu	劳碌
@@ -44803,6 +44818,7 @@ mdjj	马达加斯加
 mdjq	没多久
 mdjx	买家
 mdkd	目瞪口呆
+mdkd	迈开
 mdkg	狸
 mdks	卖空
 mdl	马德里
@@ -45558,19 +45574,19 @@ miiu	麑
 miiu	𪋢
 miiv	𩞇
 miiy	靡
+mij	密
 mij	蜜
-mij	秘籍
 mijc	𧶡
 mijd	㝥
 mijf	𪅮
 mijh	宓
 miji	密集
+miji	秘籍
 mijm	蜜饯
 mijm	𡬐
 mijq	米酒
 mijt	秘诀
 mijt	𥧧
-miju	密
 miju	䁇
 miju	宻
 mik	猕
@@ -45699,6 +45715,7 @@ miub	𡾱
 miuf	㟜
 miug	峚
 miuh	迷上
+miui	觅食
 miui	迷失
 miuu	秘书
 miuy	㠧
@@ -54174,6 +54191,7 @@ qian	㫓
 qiar	闙
 qib	脐
 qib	岂不
+qiba	七八
 qiba	𥉙
 qibc	起爆
 qibd	七百
@@ -60491,6 +60509,7 @@ siqq	死囚
 siqu	死去
 sir	嘶
 sirf	私人
+sirf	死人
 sirf	噝
 sirm	咝
 siro	㕽
@@ -62107,11 +62126,11 @@ tafa	挞伐
 tafh	塌方
 tafm	𤒻
 tafm	𪹹
+tag	塔
 tag	塌
 taga	䶁
 taga	𡌩
 tagq	𦍒
-tagr	塔
 tagr	䶀
 tagu	𪔕
 tagw	墖
@@ -64401,6 +64420,7 @@ tndb	天南地北
 tndd	樤
 tndg	𣟐
 tndi	调低
+tndj	跳蛋
 tndo	𪌪
 tnds	跳动
 tndu	拖泥带水
@@ -65314,6 +65334,7 @@ tsqi	同期
 tsqk	同情
 tsqm	铜钱
 tsr	嗵
+tsrf	瞳仁
 tsrf	同仁
 tsri	同日
 tsrr	哃
@@ -67122,6 +67143,7 @@ ufbs	伤风败俗
 ufbv	脤
 ufcd	身材
 ufcd	神采
+ufce	身侧
 ufcg	深层
 ufch	深藏
 ufcj	身残
@@ -67469,6 +67491,7 @@ ufzc	深造
 ufzd	身在
 ufzh	肾脏
 ufzi	身子
+ufzr	收发自如
 ug	生
 ug	省
 ugai	琞
@@ -68567,12 +68590,14 @@ uivp	𡚼
 uivs	始终
 uivu	施主
 uivy	失准
+uiw	失误
 uiwd	室外
 uiwh	失望
 uiwj	十万
 uiwm	师出无名
 uiwp	𦌿
-uiwu	失误
+uiwu	食物
+uiwu	事物
 uiwu	十五
 uiww	视为
 uix	事先
@@ -72888,6 +72913,7 @@ viig	祬
 viih	职场
 viii	支持
 viii	庤
+viii	咫尺
 viii	𢇨
 viik	𫍶
 viil	痔疮
@@ -77203,6 +77229,7 @@ wjwu	𪐬
 wjww	玩味
 wjxi	惋惜
 wjxk	万幸
+wjxl	万象
 wjxn	玩笑
 wjxx	晚霞
 wjy	玩意
@@ -78291,7 +78318,6 @@ wwgu	䞔
 wwgv	违规
 wwgv	㙎
 wwgv	㙗
-wwh	委
 wwh	微
 wwh	无外乎
 wwha	䭳
@@ -78340,6 +78366,7 @@ wwhu	覣
 wwhu	𧢒
 wwhu	𩗘
 wwhu	𩗜
+wwhv	委
 wwhv	㣦
 wwhv	𥯜
 wwhv	𦩬
@@ -78719,9 +78746,10 @@ wwvv	𦈓
 wwvy	为准
 wwvy	唯物主义
 wwvz	无妄之灾
-www	胃
+www	围
 www	呜呜呜
 wwwa	䵳
+wwwb	胃
 wwwf	慰问
 wwwg	𪑭
 wwwh	威望
@@ -78730,7 +78758,6 @@ wwwj	委婉
 wwwo	帷幄
 wwwq	望闻问切
 wwwq	圍
-wwws	围
 wwwt	囲
 wwwu	威武
 wwwv	畏
@@ -83160,6 +83187,7 @@ xtch	雪藏
 xtdc	学到
 xtdd	㰒
 xtdi	学弟
+xtdi	雪地
 xtdm	学点
 xtdm	樰
 xtds	樰
@@ -86767,6 +86795,7 @@ yhug	养生
 yhuh	养伤
 yhuh	崵
 yhuh	𫵵
+yhui	仰视
 yhui	样式
 yhuj	野火烧不尽
 yhuk	岟
@@ -87907,6 +87936,7 @@ yixq	衣袖
 yixs	疑凶
 yixt	医学
 yixx	以下
+yixx	𠀳
 yiy	意
 yiy	裔
 yiya	咿呀
@@ -88805,6 +88835,7 @@ yjyv	䛳
 yjyv	𣃾
 yjyv	𣄑
 yjyw	𣄉
+yjyx	又惊又喜
 yjyy	眼晕
 yjyy	𪗤
 yjzi	燕子
@@ -91248,6 +91279,7 @@ yuud	𡷎
 yuue	预设
 yuuf	以身试法
 yuug	余生
+yuug	硬生生
 yuuh	遇上
 yuuh	𡿥
 yuui	于是
