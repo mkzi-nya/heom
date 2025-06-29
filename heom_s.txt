@@ -29993,6 +29993,7 @@ IP地址	ipdv
 饥寒交迫	jhjp
 见好就收	jhju
 静候佳音	jhjy
+就好了	jhl
 酒后乱性	jhlx
 激活码	jhma
 计划没有变化快	jhmk
@@ -77184,6 +77185,7 @@ PPT	ppt
 窝火	woho
 𠿟	wohr
 𦤨	woht
+我会	wohv
 𢦴	woig
 卧床	woil
 龌龊	woio

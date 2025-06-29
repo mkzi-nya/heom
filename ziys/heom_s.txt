@@ -30093,6 +30093,7 @@ php -S 127.0.0.1:8000	iphp
 饥寒交迫	jhjp
 见好就收	jhju
 静候佳音	jhjy
+就好了	jhl
 酒后乱性	jhlx
 激活码	jhma
 计划没有变化快	jhmk
@@ -77429,6 +77430,7 @@ http://mhtlim.top/usage/usage.html	uomk
 窝火	woho
 𠿟	wohr
 𦤨	woht
+我会	wohv
 𢦴	woig
 卧床	woil
 龌龊	woio
