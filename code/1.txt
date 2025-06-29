@@ -35,6 +35,25 @@ _	;b
 会响	hvxl
 样貌	yhmc
 通灵	tslk
+食物	uiwu
+事物	uiwu
+大地	dadi
+顶上	dkuh
+绝顶	jtdk
+惨白	cjbd
+开盒	kdhe
+开合	kdhe
+划破	hxpo
+瞳仁	tsrf
+仰视	yhui
+身侧	ufce
+七八	qiba
+惊呼	jkhu
+咀嚼	juj
+觅食	miui
+活生生	huug
+不急不缓	bjbh
+收发自如	ufzr
 空空荡荡	kkdd
 惊疑不定	jybd
 阿爸	aaba
@@ -28141,7 +28160,7 @@ IP地址	ipdv
 施主	uivu
 室外	uiwd
 失望	uiwh
-失误	uiwu
+失误	uiw
 十万	uiwj
 师出无名	uiwm
 视为	uiww
@@ -39869,7 +39888,7 @@ IP地址	ipdv
 跌	dp
 堤	dig
 蒂	dit
-冻	dsid
+冻	dsi
 吊	dnr
 锻	dro
 蹈	dcrx
@@ -43230,7 +43249,6 @@ IP地址	ipdv
 卖	mdj
 毛	mc
 某	mz
-密	miju
 木	mud
 亩	muy
 棉	mmd
@@ -43317,6 +43335,7 @@ IP地址	ipdv
 茫	mhtv
 眠	mmb
 霉	mwm
+密	mij
 蜜	mij
 沫	moej
 睦	mub
@@ -44938,7 +44957,7 @@ IP地址	ipdv
 坦	tjg
 拓	taq
 泰	tdqe
-塔	tagr
+塔	tag
 透	tzy
 贴	tp
 唐	thi
@@ -46178,7 +46197,7 @@ IP地址	ipdv
 物	wuh
 文	wfy
 问	wf
-委	wwh
+委	wwhv
 务	wuh
 无	wu
 五	wu
@@ -46191,7 +46210,6 @@ IP地址	ipdv
 维	wwv
 稳	wfh
 卫	wws
-围	wwws
 网	whb
 晚	wja
 湾	wje
@@ -46240,7 +46258,8 @@ IP地址	ipdv
 挽	wjq
 雾	wums
 弯	wjyn
-胃	www
+围	www
+胃	wwwb
 蔓	wjte
 帷	wwl
 喂	wwrv
@@ -48224,7 +48243,6 @@ GDP	gdp
 豪绅	hcu
 何妨	hef
 何尝	hei
-汉奸	hjj
 皇权	hlq
 火势	hou
 活着	hov
@@ -48294,7 +48312,7 @@ GDP	gdp
 卖主	mdv
 懵逼	mgb
 蜜蜂	mif
-秘籍	mij
+秘籍	miji
 满族	mjz
 命名	mkm
 明知	mkv
@@ -51325,3 +51343,8 @@ $	ofhb
 早八	zcba
 事件	uij
 一键	yijm
+死人	sirf
+雪地	xtdi
+迈开	mdkd
+喀嚓	kaia
+硬生生	yuug

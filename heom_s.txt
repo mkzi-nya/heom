@@ -3029,6 +3029,7 @@ AA制	aavi
 半百	bjbd
 𣪂	bjbe
 版本	bjbf
+不急不缓	bjbh
 朌	bjbh
 肦	bjbh
 半壁	bjbi
@@ -6659,6 +6660,7 @@ AA制	aavi
 参加	cj
 惨案	cjan
 残暴	cjbc
+惨白	cjbd
 惨败	cjbd
 䏼	cjbi
 𢧮	cjbi
@@ -7782,6 +7784,7 @@ AA制	aavi
 大大	dada
 大道	dadc
 搭档	dadh
+大地	dadi
 打底	dadi
 大胆	dadj
 打点	dadm
@@ -10132,6 +10135,7 @@ AA制	aavi
 盯梢	dkuc
 嵿	dkuc
 鼎盛	dkug
+顶上	dkuh
 盯上	dkuh
 定时	dkui
 大开杀戒	dkuj
@@ -11445,8 +11449,8 @@ AA制	aavi
 𢔅	dshw
 动画	dshx
 笗	dshy
+冻	dsi
 洞察	dsia
-冻	dsid
 𮷅	dsid
 动车	dsie
 动产	dsij
@@ -21771,7 +21775,6 @@ GDP	gdp
 汗臭	hjiz
 韩	hjj
 寒	hjj
-汉奸	hjj
 𥀐	hjje
 䮧	hjjf
 鶾	hjjf
@@ -23853,6 +23856,7 @@ GDP	gdp
 呼哨	huuc
 浑身是胆	huud
 护身	huuf
+活生生	huug
 呼声	huug
 忽视	huui
 护士	huui
@@ -24747,6 +24751,7 @@ GDP	gdp
 㦊	hxpj
 𫺆	hxpj
 花瓶	hxpk
+划破	hxpo
 滑坡	hxpo
 𱞌	hxpo
 含血喷人	hxpr
@@ -31205,6 +31210,7 @@ IP地址	ipdv
 秔	jkhn
 氏	jkhp
 𥯙	jkhs
+惊呼	jkhu
 𩳯	jkhu
 精华	jkhx
 惊魂	jkhy
@@ -34061,6 +34067,7 @@ IP地址	ipdv
 𩏺	jtde
 鴂	jtdf
 柽	jtdg
+绝顶	jtdk
 决定	jtdk
 㭈	jtdk
 𱉔	jtdm
@@ -34604,6 +34611,7 @@ IP地址	ipdv
 旧事重提	juit
 举出	juiu
 积水成渊	juiy
+咀嚼	juj
 拘谨	jujb
 聚集	juji
 車	jujj
@@ -35698,6 +35706,7 @@ IP地址	ipdv
 衉	kahr
 䘔	kahr
 咔嚓	kaia
+喀嚓	kaia
 卡车	kaie
 咔咔	kaka
 裃	kaly
@@ -35888,6 +35897,8 @@ IP地址	ipdv
 开工	kdgs
 塏	kdgt
 𢔡	kdha
+开盒	kdhe
+开合	kdhe
 开怀	kdhk
 开荒	kdhl
 哭爹喊娘	kdhn
@@ -44675,6 +44686,7 @@ IP地址	ipdv
 没多久	mdjq
 买家	mdjx
 目瞪口呆	mdkd
+迈开	mdkd
 狸	mdkg
 卖空	mdks
 马德里	mdl
@@ -45426,19 +45438,19 @@ IP地址	ipdv
 𪋢	miiu
 𩞇	miiv
 靡	miiy
+密	mij
 蜜	mij
-秘籍	mij
 𧶡	mijc
 㝥	mijd
 𪅮	mijf
 宓	mijh
 密集	miji
+秘籍	miji
 蜜饯	mijm
 𡬐	mijm
 米酒	mijq
 秘诀	mijt
 𥧧	mijt
-密	miju
 䁇	miju
 宻	miju
 猕	mik
@@ -45566,6 +45578,7 @@ IP地址	ipdv
 㟜	miuf
 峚	miug
 迷上	miuh
+觅食	miui
 迷失	miui
 秘书	miuu
 㠧	miuy
@@ -53983,6 +53996,7 @@ PPT	ppt
 闙	qiar
 脐	qib
 岂不	qib
+七八	qiba
 𥉙	qiba
 起爆	qibc
 七百	qibd
@@ -60269,6 +60283,7 @@ PPT	ppt
 死去	siqu
 嘶	sir
 私人	sirf
+死人	sirf
 噝	sirf
 咝	sirm
 㕽	siro
@@ -61878,11 +61893,11 @@ PPT	ppt
 塌方	tafh
 𤒻	tafm
 𪹹	tafm
+塔	tag
 塌	tag
 䶁	taga
 𡌩	taga
 𦍒	tagq
-塔	tagr
 䶀	tagr
 𪔕	tagu
 墖	tagw
@@ -65081,6 +65096,7 @@ PPT	ppt
 同情	tsqk
 铜钱	tsqm
 嗵	tsr
+瞳仁	tsrf
 同仁	tsrf
 同日	tsri
 哃	tsrr
@@ -66885,6 +66901,7 @@ PPT	ppt
 脤	ufbv
 身材	ufcd
 神采	ufcd
+身侧	ufce
 深层	ufcg
 深藏	ufch
 身残	ufcj
@@ -67232,6 +67249,7 @@ PPT	ppt
 身在	ufzd
 肾脏	ufzh
 身子	ufzi
+收发自如	ufzr
 生	ug
 省	ug
 琞	ugai
@@ -68330,12 +68348,14 @@ PPT	ppt
 始终	uivs
 施主	uivu
 失准	uivy
+失误	uiw
 室外	uiwd
 失望	uiwh
 十万	uiwj
 师出无名	uiwm
 𦌿	uiwp
-失误	uiwu
+食物	uiwu
+事物	uiwu
 十五	uiwu
 视为	uiww
 事先	uix
@@ -78048,7 +78068,6 @@ PPT	ppt
 违规	wwgv
 㙎	wwgv
 㙗	wwgv
-委	wwh
 微	wwh
 无外乎	wwh
 䭳	wwha
@@ -78097,6 +78116,7 @@ PPT	ppt
 𧢒	wwhu
 𩗘	wwhu
 𩗜	wwhu
+委	wwhv
 㣦	wwhv
 𥯜	wwhv
 𦩬	wwhv
@@ -78476,9 +78496,10 @@ PPT	ppt
 为准	wwvy
 唯物主义	wwvy
 无妄之灾	wwvz
-胃	www
+围	www
 呜呜呜	www
 䵳	wwwa
+胃	wwwb
 慰问	wwwf
 𪑭	wwwg
 威望	wwwh
@@ -78487,7 +78508,6 @@ PPT	ppt
 帷幄	wwwo
 望闻问切	wwwq
 圍	wwwq
-围	wwws
 囲	wwwt
 威武	wwwu
 畏	wwwv
@@ -82916,6 +82936,7 @@ PPT	ppt
 学到	xtdc
 㰒	xtdd
 学弟	xtdi
+雪地	xtdi
 学点	xtdm
 樰	xtdm
 樰	xtds
@@ -86521,6 +86542,7 @@ PPT	ppt
 养伤	yhuh
 崵	yhuh
 𫵵	yhuh
+仰视	yhui
 样式	yhui
 野火烧不尽	yhuj
 岟	yhuk
@@ -90996,6 +91018,7 @@ PPT	ppt
 预设	yuue
 以身试法	yuuf
 余生	yuug
+硬生生	yuug
 遇上	yuuh
 𡿥	yuuh
 于是	yuui
