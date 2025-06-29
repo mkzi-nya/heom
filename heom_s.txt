@@ -3258,6 +3258,7 @@ AA制	aavi
 保家卫国	bjwg
 办完	bjwj
 不尽完美	bjwm
+半握	bjwo
 伴舞	bjwu
 百家姓	bjx
 不拘小节	bjxj
@@ -15611,6 +15612,7 @@ AA制	aavi
 𩋨	futw
 𩍏	futw
 斧头	futz
+服饰	fuu
 㟊	fuud
 辐射	fuue
 㠅	fuue
@@ -15618,6 +15620,7 @@ AA制	aavi
 复生	fuug
 负伤	fuuh
 腐蚀	fuui
+服侍	fuui
 𡵛	fuuk
 岪	fuun
 风生水起	fuuq
@@ -21074,6 +21077,7 @@ GDP	gdp
 𢥳	hepr
 㥺	hept
 和亲	heqb
+合起	heqi
 和气	heqi
 𱋇	heqn
 何求	heqq
@@ -23077,6 +23081,7 @@ GDP	gdp
 欢喜	hrxi
 换洗	hrxi
 唤醒	hrxk
+幻象	hrxl
 幻想	hrxl
 环线	hrxm
 欢笑	hrxn
@@ -27071,10 +27076,11 @@ GDP	gdp
 𫍧	iiit
 㡿	iiiu
 𥚚	iiiu
-漦	iij
+翅	iij
 吃紧	iijb
 麶	iijb
 𪌹	iijb
+漦	iije
 重出江湖	iijh
 驰骋疆场	iiji
 长长久久	iijj
@@ -41178,6 +41184,7 @@ IP地址	ipdv
 连接	lmjp
 𪍴	lmjq
 龙马精神	lmju
+脸颊	lmjx
 廉价	lmjx
 联军	lmjy
 𤣆	lmkf
@@ -60374,6 +60381,7 @@ PPT	ppt
 思想	sixl
 死穴	sixt
 思绪	sixu
+撕下	sixx
 私下	sixx
 死讯	sixy
 司仪	siy
@@ -67473,6 +67481,7 @@ PPT	ppt
 摔跟头	ugtz
 嵊	ugu
 时高时低	ugud
+生生	ugug
 省省	ugug
 省事	ugui
 上个世纪	uguj
@@ -68429,6 +68438,7 @@ PPT	ppt
 世纪	uj
 晱	ujaf
 𣆴	ujam
+山坳	ujao
 閃	ujao
 生机盎然	ujar
 閊	ujau
@@ -80633,6 +80643,7 @@ PPT	ppt
 響	xlva
 心理准备	xlvb
 想着	xlve
+向着	xlve
 乡镇	xlvf
 象征	xlvg
 乡长	xlvh
@@ -82334,6 +82345,7 @@ PPT	ppt
 羞耻	xqii
 宿	xqj
 䡭	xqjg
+修剪	xqjm
 修建	xqjm
 修脚	xqjn
 嗅觉	xqjt
@@ -83075,6 +83087,7 @@ PPT	ppt
 雪橇	xtqn
 乴	xtqn
 𢪎	xtqp
+雪球	xtqq
 噱	xtr
 雪人	xtrf
 吙	xtrf
@@ -87328,6 +87341,7 @@ PPT	ppt
 䭂	yiou
 𧆦	yiou
 𩚂	yiou
+依	yiov
 铱	yiov
 食	yiov
 偯	yiov

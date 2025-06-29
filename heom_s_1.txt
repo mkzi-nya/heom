@@ -3258,6 +3258,7 @@ bjwf	斑纹
 bjwg	保家卫国
 bjwj	办完
 bjwm	不尽完美
+bjwo	半握
 bjwu	伴舞
 bjx	百家姓
 bjxj	不拘小节
@@ -15611,6 +15612,7 @@ futw	𦿁
 futw	𩋨
 futw	𩍏
 futz	斧头
+fuu	服饰
 fuud	㟊
 fuue	辐射
 fuue	㠅
@@ -15618,6 +15620,7 @@ fuuf	复审
 fuug	复生
 fuuh	负伤
 fuui	腐蚀
+fuui	服侍
 fuuk	𡵛
 fuun	岪
 fuuq	风生水起
@@ -21074,6 +21077,7 @@ hepk	和平
 hepr	𢥳
 hept	㥺
 heqb	和亲
+heqi	合起
 heqi	和气
 heqn	𱋇
 heqq	何求
@@ -23077,6 +23081,7 @@ hrxb	欢心
 hrxi	欢喜
 hrxi	换洗
 hrxk	唤醒
+hrxl	幻象
 hrxl	幻想
 hrxm	环线
 hrxn	欢笑
@@ -27071,10 +27076,11 @@ iiir	吃穿
 iiit	𫍧
 iiiu	㡿
 iiiu	𥚚
-iij	漦
+iij	翅
 iijb	吃紧
 iijb	麶
 iijb	𪌹
+iije	漦
 iijh	重出江湖
 iiji	驰骋疆场
 iijj	长长久久
@@ -41178,6 +41184,7 @@ lmjm	练剑
 lmjp	连接
 lmjq	𪍴
 lmju	龙马精神
+lmjx	脸颊
 lmjx	廉价
 lmjy	联军
 lmkf	𤣆
@@ -60374,6 +60381,7 @@ sixk	死刑
 sixl	思想
 sixt	死穴
 sixu	思绪
+sixx	撕下
 sixx	私下
 sixy	死讯
 siy	司仪
@@ -67473,6 +67481,7 @@ ugty	生吞
 ugtz	摔跟头
 ugu	嵊
 ugud	时高时低
+ugug	生生
 ugug	省省
 ugui	省事
 uguj	上个世纪
@@ -68429,6 +68438,7 @@ uj	山
 uj	世纪
 ujaf	晱
 ujam	𣆴
+ujao	山坳
 ujao	閃
 ujar	生机盎然
 ujau	閊
@@ -80633,6 +80643,7 @@ xlva	心理障碍
 xlva	響
 xlvb	心理准备
 xlve	想着
+xlve	向着
 xlvf	乡镇
 xlvg	象征
 xlvh	乡长
@@ -82334,6 +82345,7 @@ xqih	修长
 xqii	羞耻
 xqj	宿
 xqjg	䡭
+xqjm	修剪
 xqjm	修建
 xqjn	修脚
 xqjt	嗅觉
@@ -83075,6 +83087,7 @@ xtqm	学前
 xtqn	雪橇
 xtqn	乴
 xtqp	𢪎
+xtqq	雪球
 xtr	噱
 xtrf	雪人
 xtrf	吙
@@ -87328,6 +87341,7 @@ yiou	俋
 yiou	䭂
 yiou	𧆦
 yiou	𩚂
+yiov	依
 yiov	铱
 yiov	食
 yiov	偯
