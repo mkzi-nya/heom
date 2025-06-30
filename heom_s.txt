@@ -15438,7 +15438,6 @@ AA制	aavi
 父女	funv
 妇女	funv
 付	fuo
-氟	fuo
 俯	fuo
 俌	fuob
 偩	fuoc
@@ -15452,6 +15451,7 @@ AA制	aavi
 傅	fuoi
 𰽮	fuoi
 伏	fuok
+氟	fuol
 𱉜	fuom
 佛	fuon
 㓡	fuon
@@ -26387,7 +26387,6 @@ GDP	gdp
 承购	iggz
 称	igh
 乘	igh
-惩	igh
 稱	ighb
 穪	ighb
 称号	ighc
@@ -26400,6 +26399,7 @@ GDP	gdp
 橙黄	ighl
 䚘	ighn
 成活	igho
+惩	ighp
 懲	ighp
 承欢	ighr
 橙红	ighs

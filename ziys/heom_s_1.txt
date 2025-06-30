@@ -15495,7 +15495,6 @@ funu	𢏍
 funv	父女
 funv	妇女
 fuo	付
-fuo	氟
 fuo	俯
 fuob	俌
 fuoc	偩
@@ -15509,6 +15508,7 @@ fuof	𪂾
 fuoi	傅
 fuoi	𰽮
 fuok	伏
+fuol	氟
 fuom	𱉜
 fuon	佛
 fuon	㓡
@@ -26483,7 +26483,6 @@ iggs	成功
 iggz	承购
 igh	称
 igh	乘
-igh	惩
 ighb	稱
 ighb	穪
 ighc	称号
@@ -26496,6 +26495,7 @@ ighj	秤
 ighl	橙黄
 ighn	䚘
 igho	成活
+ighp	惩
 ighp	懲
 ighr	承欢
 ighs	橙红
@@ -47838,6 +47838,7 @@ nahd	那还
 nahe	笝
 nahe	𤓷
 nahe	𤔀
+nahf	那很
 nahi	䇱
 nahj	呐喊
 nahn	𪐀
@@ -87093,7 +87094,7 @@ yigc	𧾰
 yigd	一概
 yigd	槷
 yigd	𣫙
-yige	一个
+yige	一格
 yige	坄
 yige	敼
 yigf	一根
@@ -87285,11 +87286,13 @@ yiit	凒
 yiit	𢇸
 yiit	𬤞
 yiit	𰵔
+yiiu	溢出
 yiiu	𢈶
 yiiv	扆
 yiiv	䬥
 yiiv	庡
 yij	宜
+yij	一键
 yijb	一斤
 yijc	𩓧
 yijd	䆿
@@ -87303,7 +87306,6 @@ yijk	㝣
 yijl	宧
 yijl	𨛯
 yijm	意见
-yijm	一键
 yijm	宐
 yijn	移交
 yijn	㝖

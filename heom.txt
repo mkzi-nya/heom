@@ -40420,7 +40420,7 @@ IP地址	ipdv
 匪	fws
 甫	fuib
 枫	fgd
-氟	fuo
+氟	fuol
 粪	fffc
 阀	fal
 坟	ffg
@@ -41464,7 +41464,7 @@ IP地址	ipdv
 闯	ill
 赤	iig
 臣	ifs
-惩	igh
+惩	ighp
 绸	izv
 插	iaq
 尘	iff
