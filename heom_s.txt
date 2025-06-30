@@ -29993,7 +29993,6 @@ IP地址	ipdv
 饥寒交迫	jhjp
 见好就收	jhju
 静候佳音	jhjy
-就好了	jhl
 酒后乱性	jhlx
 激活码	jhma
 计划没有变化快	jhmk
@@ -47688,6 +47687,7 @@ IP地址	ipdv
 笝	nahe
 𤓷	nahe
 𤔀	nahe
+那很	nahf
 䇱	nahi
 呐喊	nahj
 𪐀	nahn
@@ -77185,7 +77185,6 @@ PPT	ppt
 窝火	woho
 𠿟	wohr
 𦤨	woht
-我会	wohv
 𢦴	woig
 卧床	woil
 龌龊	woio
@@ -86845,7 +86844,7 @@ PPT	ppt
 一概	yigd
 槷	yigd
 𣫙	yigd
-一个	yige
+一格	yige
 坄	yige
 敼	yige
 一根	yigf
@@ -87037,11 +87036,13 @@ PPT	ppt
 𢇸	yiit
 𬤞	yiit
 𰵔	yiit
+溢出	yiiu
 𢈶	yiiu
 扆	yiiv
 䬥	yiiv
 庡	yiiv
 宜	yij
+一键	yij
 一斤	yijb
 𩓧	yijc
 䆿	yijd
@@ -87055,7 +87056,6 @@ PPT	ppt
 宧	yijl
 𨛯	yijl
 意见	yijm
-一键	yijm
 宐	yijm
 移交	yijn
 㝖	yijn

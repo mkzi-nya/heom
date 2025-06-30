@@ -25,8 +25,6 @@
 _	;b
 「	;n
 」	;m
-我会	wohv
-就好了	jhl
 积雪	jixt
 尸体	uit
 湛蓝	vjl
@@ -66,6 +64,8 @@ _	;b
 半握	bjwo
 脸颊	lmjx
 合起	heqi
+那很	nahf
+溢出	yiiu
 活生生	huug
 又惊又喜	yjyx
 不急不缓	bjbh
@@ -35804,7 +35804,7 @@ IP地址	ipdv
 一番	yifj
 衣服	yifu
 已非	yifw
-一个	yige
+一格	yige
 译稿	yigc
 一概	yigd
 一根	yigf
@@ -51360,7 +51360,7 @@ $	ofhb
 魔改	mogd
 早八	zcba
 事件	uij
-一键	yijm
+一键	yij
 死人	sirf
 雪地	xtdi
 迈开	mdkd

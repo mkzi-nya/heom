@@ -22,9 +22,18 @@ for file in 0.txt ../heom.txt; do
         echo "警告：文件 $file 不存在，跳过。"
     fi
 done
+
 for file in ../heom.txt ./3.txt ./5.txt; do
     if [ -f "$file" ]; then
         cat "$file" >> "../ziys/heom.txt"
+    else
+        echo "警告：文件 $file 不存在，跳过。"
+    fi
+done
+
+for file in ./3.txt ./5.txt; do
+    if [ -f "$file" ]; then
+        cat "$file" >> "../ziys/用户.txt"
     else
         echo "警告：文件 $file 不存在，跳过。"
     fi
