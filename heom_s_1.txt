@@ -71485,6 +71485,7 @@ vewj	折弯
 vewp	𡇠
 veww	这位
 vexm	折现
+vexm	折线
 vexp	这些
 vexq	遮羞
 vext	哲学

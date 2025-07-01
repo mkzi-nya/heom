@@ -71485,6 +71485,7 @@ PPT	ppt
 𡇠	vewp
 这位	veww
 折现	vexm
+折线	vexm
 这些	vexp
 遮羞	vexq
 哲学	vext
