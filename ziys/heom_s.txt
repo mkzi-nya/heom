@@ -9138,6 +9138,7 @@ deepseek	deep
 当日	dhri
 当然	dhrj
 𪠽	dhrm
+多喝热水	dhru覺	jth
 噹	dhrw
 对号入座	dhrz
 𡰨	dhsn
@@ -34226,7 +34227,6 @@ php -S 127.0.0.1:8000	iphp
 䞷	jtgu
 趉	jtgu
 姜太公钓鱼	jtgy
-覺	jth
 绝好	jthc
 集体活动	jthd
 㸕	jthe
@@ -90576,6 +90576,7 @@ http://mhtlim.top/usage/usage.html	uomk
 䐳	yubf
 𥉑	yubg
 一时半会	yubh
+遇事不决	yubj
 语病	yubk
 一声不吭	yubk
 䍞	yubm

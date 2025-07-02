@@ -9094,6 +9094,7 @@ AA制	aavi
 当日	dhri
 当然	dhrj
 𪠽	dhrm
+多喝热水	dhru覺	jth
 噹	dhrw
 对号入座	dhrz
 𡰨	dhsn
@@ -34119,7 +34120,6 @@ IP地址	ipdv
 䞷	jtgu
 趉	jtgu
 姜太公钓鱼	jtgy
-覺	jth
 绝好	jthc
 集体活动	jthd
 㸕	jthe
@@ -90319,6 +90319,7 @@ PPT	ppt
 䐳	yubf
 𥉑	yubg
 一时半会	yubh
+遇事不决	yubj
 语病	yubk
 一声不吭	yubk
 䍞	yubm

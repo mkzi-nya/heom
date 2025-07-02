@@ -9138,6 +9138,7 @@ dhqw	擋
 dhri	当日
 dhrj	当然
 dhrm	𪠽
+dhru覺	多喝热水
 dhrw	噹
 dhrz	对号入座
 dhsn	𡰨
@@ -34226,7 +34227,6 @@ jtgs	集团公司
 jtgu	䞷
 jtgu	趉
 jtgy	姜太公钓鱼
-jth	覺
 jthc	绝好
 jthd	集体活动
 jthe	㸕
@@ -90576,6 +90576,7 @@ yubf	䁩
 yubf	䐳
 yubg	𥉑
 yubh	一时半会
+yubj	遇事不决
 yubk	语病
 yubk	一声不吭
 yubm	䍞
