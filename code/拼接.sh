@@ -46,6 +46,8 @@ for file in ../heom.dict.yaml ./3.txt ./5.txt; do
         echo "警告：文件 $file 不存在，跳过。"
     fi
 done
+cp ../heom.txt ../android/鹤仓/
 sort --stable -t '	' -k2,2 ../heom.txt > ../heom_s.txt
 sort --stable -t '	' -k2,2 ../ziys/heom.txt > ../ziys/heom_s.txt
+sh 转格式.sh
 cd "$OLD_DIR"

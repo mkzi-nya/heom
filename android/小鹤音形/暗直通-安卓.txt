@@ -1,0 +1,118 @@
+----matchcode=ohnn
+-- 暗直通，转码ohnn
+-- 格式：前缀#前缀#前缀#后缀#ohnn#1#1
+-- 前缀数量不限，前缀如含[]，里面内容为可打可不打
+-- 使用方法：前缀+引导键+空格
+眼#$cmd(newkey(ovyj$1),YJ一简词助记)#ohnn#1#1
+肯#$cmd(newkey(ovkf$1),KF快符助记)#ohnn#1#1
+办#$cmd(newkey(ovbj$1),BJ部件助记)#ohnn#1#1
+辦#$cmd(newkey(ovbj$1),BJ部件助記)#ohnn#1#1
+剖#$cmd(newkey(ovpz$1),PZ拼字助記)#ohnn#1#1
+折腾#$cmd(newkey(ovvt$1),VT直通助记)#ohnn#1#1
+折騰#$cmd(newkey(ovvt$1),VT直通助記)#ohnn#1#1
+双拼#$cmd(newkey(ovup$1),UP双拼助记)#ohnn#1#1
+雙拼#$cmd(newkey(ovup$1),UP雙拼助記)#ohnn#1#1
+
+更#$cmd(newkey(ogd$1),GG高度中)#ohnn#1#1
+根本#$cmd(newkey(ogd$2),GB高度高)#ohnn#1#1
+干嘛#$cmd(newkey(ogd$3),GM高度低)#ohnn#1#1
+幹嘛#$cmd(newkey(ogd$3),GM高度低)#ohnn#1#1
+
+代#$cmd(newkey(odg$1),DD默认键盘垫高)#ohnn#1#1
+代表#$cmd(newkey(odg$2),DB垫高一点)#ohnn#1#1
+点#$cmd(newkey(odg$3),DM垫低一点)#ohnn#1#1
+點#$cmd(newkey(odg$3),DM垫低一点)#ohnn#1#1
+
+解决#$cmd(newkey(ojz$1),JJ键字中)#ohnn#1#1
+进#$cmd(newkey(ojz$2),JB键字大)#ohnn#1#1
+间#$cmd(newkey(ojz$3),JM键字小)#ohnn#1#1
+解決#$cmd(newkey(ojz$1),JJ键字中)#ohnn#1#1
+進#$cmd(newkey(ojz$2),JB键字大)#ohnn#1#1
+間#$cmd(newkey(ojz$3),JM键字小)#ohnn#1#1
+
+行#$cmd(newkey(ohz$1),HH候字中)#ohnn#1#1
+何必#$cmd(newkey(ohz$2),HB候字大)#ohnn#1#1
+后面#$cmd(newkey(ohz$3),HM候字小)#ohnn#1#1
+後面#$cmd(newkey(ohz$3),HM候字小)#ohnn#1#1
+
+一片#$cmd(newkey(olyp$1),YP 粤普)#ohnn#1#1
+一直#$cmd(newkey(olyv$1),YV 英中)#ohnn#1#1
+对#$cmd(newkey(oldv$1),DV 德中)#ohnn#1#1
+對#$cmd(newkey(oldv$1),DV 德中)#ohnn#1#1
+
+在#$cmd(newkey(ojtf$1),Z特符)#ohnn#1#1
+小#$cmd(clipboard,X剪贴)#ohnn#1#1
+纔#$cmd(newkey(ojvf$1),C中符)#ohnn#1#1
+才#$cmd(newkey(ojvf$1),C中符)#ohnn#1#1
+這#$cmd(newkey(ojyf$1),V英符)#ohnn#1#1
+这#$cmd(newkey(ojyf$1),V英符)#ohnn#1#1
+没#$cmd(newkey(ojbq$1),eMoji表情)#ohnn#1#1
+沒#$cmd(newkey(ojbq$1),eMoji表情)#ohnn#1#1
+
+只#$cmd(newkey(ojvi$1),VI「展翅键盘」)#ohnn#1#1
+分#$cmd(newkey(ojff$1),FF「放飞键盘」)#ohnn#1#1
+喜欢#$cmd(newkey(ojxh$1),XH「小鹤键盘」)#ohnn#1#1
+喜歡#$cmd(newkey(ojxh$1),XH「小鹤键盘」)#ohnn#1#1
+却#$cmd(newkey(ojqt$1),QT「Q弹键盘」)#ohnn#1#1
+卻#$cmd(newkey(ojqt$1),QT「Q弹键盘」)#ohnn#1#1
+
+坏#$cmd(setbase(color-android=配色——花开.xp),HK「花开配色」)#ohnn#1#1
+沟通#$cmd(setbase(color-android=配色——果糖.xp),GT「果糖配色」)#ohnn#1#1
+碰#$cmd(setbase(color-android=配色——iOS.xp),PG「苹果配色」)#ohnn#1#1
+超#$cmd(setbase(color-android=配色——出彩.xp),IC「出彩配色」)#ohnn#1#1
+将#$cmd(setbase(color-android=配色——简绿.xp),JL「简绿配色」)#ohnn#1#1
+壞#$cmd(setbase(color-android=配色——花开.xp),HK「花开配色」)#ohnn#1#1
+將#$cmd(setbase(color-android=配色——简绿.xp),JL「简绿配色」)#ohnn#1#1
+这么#$cmd(setbase(color-android=配色——朝暮.xp),VM「朝暮配色」)#ohnn#1#1
+這麼#$cmd(setbase(color-android=配色——朝暮.xp),VM「朝暮配色」)#ohnn#1#1
+
+哦繁体&$cmd(set(ime-hans2hant=1), 「繁體」)&ohnn&1&1
+哦簡體&$cmd(set(ime-hans2hant=0), 「简体」)&ohnn&1&1
+哦全角&$cmd(set(ime-quanjiao=1), 「全角」)&ohnn&1&1
+哦半角&$cmd(set(ime-quanjiao=0), 「半角」)&ohnn&1&1
+哦重载&$cmd(set(reload),「重载」)&ohnn&1&1
+哦重載&$cmd(set(reload),「重載」)&ohnn&1&1
+
+哦目录&$cmd(show(配置目录),「安装目录」)&ohnn&1&1
+哦目录&$cmd(show(方案目录),「词库目录」)&ohnn&2&1
+哦目錄&$cmd(show(配置目录),「安装目录」)&ohnn&1&1
+哦目錄&$cmd(show(方案目录),「词库目录」)&ohnn&2&1
+
+哦入门&$cmd(newkey(orm$1),「小鹤入门」)&ohnn&1&1
+哦入門&$cmd(newkey(orm$1),「小鹤入门」)&ohnn&1&1
+
+哦皮肤&$cmd(show(键盘选择),「键盘」)&ohnn&1&1
+哦皮肤&$cmd(show(配色选择),「配色」)&ohnn&2&1
+哦震动&$cmd(set(kb-vibrator=?),「震动开关」)&ohnn&1&1
+哦音效&$cmd(set(kb-keymusic=?),「音效开关」)&ohnn&1&1
+哦皮膚&$cmd(show(键盘选择),「键盘」)&ohnn&1&1
+哦皮膚&$cmd(show(配色选择),「配色」)&ohnn&2&1
+哦震動&$cmd(set(kb-vibrator=?),「震动开关」)&ohnn&1&1
+
+哦展翅&$cmd(newkey(ojvi$1),「展翅键盘」)&ohnn&1&1
+哦高飞&$cmd(newkey(ojgf$1),「高飞键盘」)&ohnn&1&1
+哦小鹤&$cmd(newkey(ojxh$1),「小鹤键盘」)&ohnn&1&1
+哦放飞&$cmd(newkey(ojff$1),「放飞键盘」)&ohnn&1&1
+哦高飛&$cmd(newkey(ojgf$1),「高飞键盘」)&ohnn&1&1
+哦小鶴&$cmd(newkey(ojxh$1),「小鹤键盘」)&ohnn&1&1
+哦放飛&$cmd(newkey(ojff$1),「放飞键盘」)&ohnn&1&1
+哦部件&$cmd(newkey(ovbj$1),「部件键盘」)&ohnn&1&1
+哦双拼&$cmd(newkey(ovup$1),「双拼键盘」)&ohnn&1&1
+哦快符&$cmd(newkey(ovkf$1),「快符键盘」)&ohnn&1&1
+哦直通&$cmd(newkey(ovvt$1),「直通键盘」)&ohnn&1&1
+哦一简&$cmd(newkey(ovyj$1),「一简词键盘」)&ohnn&1&1
+哦拼字&$cmd(newkey(ovpz$1),「拼字键盘」)&ohnn&1&1
+
+哦简绿&$cmd(setbase(color-android=配色——简绿.xp),「简绿配色」)&ohnn&1&1
+哦花开&$cmd(setbase(color-android=配色——花开.xp),「花开配色」)&ohnn&1&1
+哦果糖&$cmd(setbase(color-android=配色——果糖.xp),「果糖配色」)&ohnn&1&1
+哦苹果&$cmd(setbase(color-android=配色——iOS.xp),「苹果配色」)&ohnn&1&1
+哦出彩&$cmd(setbase(color-android=配色——出彩.xp),「出彩配色」)&ohnn&1&1
+哦蘋果&$cmd(setbase(color-android=配色——iOS.xp),「苹果配色」)&ohnn&1&1
+
+哦嵌入&$cmd(set(ime-embedmode=1),[嵌入编码])&ohnn&1&1
+哦嵌入&$cmd(set(ime-embedmode=2),[首选])&ohnn&1&1
+
+哦传统$cmd(newkey(omu$1),[传统])&ohnn&1&1
+哦切分$cmd(newkey(omu$2),[切分])&ohnn&1&1
+哦语句$cmd(newkey(omu$3),[语句])&ohnn&1&1

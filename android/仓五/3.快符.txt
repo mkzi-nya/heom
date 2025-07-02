@@ -1,0 +1,69 @@
+----syntax=cn, code
+----leadkey=\
+----config=ime-kf.ini
+$cmd(newkey(ohhe$1),↶)	_
+$cmd(newkey(ohh$1),ϟ)	_
+：“	q
+？	w
+（	e
+）	r
+@	t
+《	y
+》	u
+$cmd(newkey(oiz$1),[重载])	i
+[	o
+]	p
+！	a
+……	s
+、	d
+$cmd({last_0},{last_0})	f
+·	g
+=	h
++	j
+(	k
+)	l
+“	z
+→	x
+”	c
+——	v
+$cmd(\t,\t)	b
+$cmd(deleteline,↮)	m
+$cmd(xfai_send($box$$clip$),AI)	m
+$cmd(newkey(ohnn$1),/)	n
+
+-- qwer
+$cmd(newkey(omu$1),Q传统)	mq
+$cmd(newkey(omu$2),W切分)	mw
+$cmd(newkey(omu$3),E语句)	me
+$cmd(newkey(orq$2),R日期)	mr
+-- ty
+$cmd(newkey(ojj$3),T初学)	mt
+$cmd(newkey(ojj$1),Y熟手)	my
+-- uiop
+$cmd(set(kb-keyshowcandi=?;kb-keyshowcanditype=1),F键候选)	mu
+$cmd(newkey(ohii$1),I自定)	mi
+$cmd(newkey(opf$2),O键盘选择)	mo
+$cmd(newkey(opf$3),P配色选择)	mp
+
+-- asdf
+$cmd(newkey(olpy$1),A普粤)	ma
+$cmd(newkey(olvy$1),S中英)	ms
+$cmd(newkey(olvd$1),D中德)	md
+$cmd(newkey(ojf$1),F简繁)	mf
+-- g
+$cmd(set(kb-autonightmode=1),G🌙)	mg
+-- hjkl
+$cmd(set(ime-candiwin=?;ime-statuswin=?),H候选栏)	mh
+$cmd(newkey(ovvt$1),J直通)	mj
+$cmd(newkey(ovkf$1),K快符)	mk
+$cmd(newkey(ojgf$1),L高飞)	ml
+
+-- zxcvb
+$cmd(newkey(ohzt$3),Z自字)	mz
+$cmd(newkey(ohzt$2),X系字)	mx
+$cmd(newkey(ohzt$1),C粗细)	mc
+$cmd(newkey(ofv$1),V剪2)	mv
+$cmd(newkey(ofv$2),B剪3)	mb
+-- nm
+$cmd(newkey(opio$1),NiOS)	mn
+$cmd(newkey(opxh$1),M小鹤)	mm

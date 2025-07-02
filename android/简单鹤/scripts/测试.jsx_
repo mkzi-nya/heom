@@ -1,0 +1,24 @@
+#beforequery
+if (text == "ow")
+{
+    // 修改编码为ws
+    return "ws";
+}
+
+#afterquery
+if (text == "test")
+{
+    var list = instance.CandiList;
+    // 清空候选
+    list.Clear();
+
+    // 取消空码设置
+    instance.EmptyMode = false;
+    instance.EmptyCuted = false;
+    
+    var item = new MaBiaoItem();
+    item.Code = text;
+    item.Chinese = "测试一下";
+    // 插入一个新的候选项
+    list.Add(item);
+}
