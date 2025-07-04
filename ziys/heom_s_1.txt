@@ -461,6 +461,7 @@ ancv	銨
 and	桉
 andc	暗道
 andi	暗地
+andj	黯淡
 andj	暗淡
 andk	安定
 andu	安度
@@ -1540,6 +1541,7 @@ bcme	䤖
 bcmi	保密
 bcmj	饱满
 bcmk	报名
+bcmk	保命
 bcmn	虣
 bcmo	薄膜
 bcmo	㻄
@@ -6748,6 +6750,7 @@ cjho	惨祸
 cjhp	𥠩
 cjhp	𦪜
 cjhu	曾几何时
+cji	參
 cjie	餐车
 cjif	𠫭
 cjih	參
@@ -7071,6 +7074,7 @@ cpgu	擦屁股
 cq	采取
 cq	从前
 cqbf	此起彼伏
+cqbl	此起彼落
 cqbq	残缺不全
 cqgr	才气过人
 cqld	藏起来
@@ -7791,7 +7795,7 @@ czyk	𬸷
 czzu	凑足
 d	的
 d	打
-d	大概
+d	地
 d	ㄉ
 da	大
 da	达
@@ -7859,6 +7863,7 @@ dafq	燵
 dafu	答复
 dag	垯
 dagc	大搞
+dagd	大概
 dage	大哥
 dagh	大纲
 dagj	𡍲
@@ -9138,7 +9143,7 @@ dhqw	擋
 dhri	当日
 dhrj	当然
 dhrm	𪠽
-dhru覺	多喝热水
+dhru	多喝热水
 dhrw	噹
 dhrz	对号入座
 dhsn	𡰨
@@ -9195,7 +9200,8 @@ dhyu	党羽
 dhyw	譡
 dhzo	当作
 dhzu	党组
-di	地
+di	第
+di	滴
 diac	題
 diai	低矮
 diai	㫝
@@ -9310,7 +9316,6 @@ digv	递归
 digw	递给
 digx	地瓜
 digz	地沟
-dih	第
 dih	敌
 dih	氐
 dihb	㹍
@@ -9914,12 +9919,13 @@ djqt	但却
 djqu	单曲
 djqu	抌
 djqw	低级趣味
-djr	啖
+djr	單
 djrf	担任
+djrf	啖
 djri	单日
 djrj	淡然
-djrj	單
 djrj	嘾
+djrj	單
 djrk	噉
 djrl	鄲
 djrm	唌
@@ -11380,6 +11386,7 @@ druv	断水
 druz	短寿
 drv	断
 drv	缎
+drv	斷
 drvb	媏
 drve	端着
 drve	緞
@@ -11625,6 +11632,7 @@ dsvm	㚵
 dsvr	姛
 dsvr	絧
 dsvr	𫄡
+dsvu	冻住
 dsvw	娻
 dsvy	㚵
 dswu	动物
@@ -13224,6 +13232,7 @@ erge	儿歌
 ergf	耳根
 ergl	耳光
 ergo	而过
+erh	兒
 erhd	洱海
 erhj	衈
 erhj	𪕔
@@ -14343,9 +14352,10 @@ fhg	坊
 fhge	方格
 fhgo	放过
 fhgu	放虎归山
-fhh	房
 fhh	舫
 fhh	彷
+fhh	舫
+fhh	房
 fhhc	放好
 fhhj	防寒
 fhho	防火
@@ -23173,6 +23183,7 @@ hrxm	环线
 hrxn	欢笑
 hrxs	浣熊
 hrxx	换下
+hry	還
 hrya	换牙
 hrye	换页
 hryg	讙
@@ -30986,6 +30997,7 @@ jiux	𡽉
 jiuz	棘手
 jiv	级
 jiv	继
+jiv	幾
 jivc	績
 jivd	継
 jivd	𦁳
@@ -30997,9 +31009,9 @@ jivg	急症
 jivh	几张
 jivi	机制
 jivi	机智
-jivi	幾
 jivi	繼
 jivi	㡭
+jivi	幾
 jivj	激战
 jivj	缉
 jivj	挤占
@@ -34036,6 +34048,7 @@ jrye	𧭦
 jryh	圈养
 jryi	倦意
 jryj	卷烟
+jrym	救人一命胜造七级浮屠
 jrys	隽永
 jryu	孑然一身
 jryw	拒人于千里之外
@@ -34227,6 +34240,7 @@ jtgs	集团公司
 jtgu	䞷
 jtgu	趉
 jtgy	姜太公钓鱼
+jth	覺
 jthc	绝好
 jthd	集体活动
 jthe	㸕
@@ -35967,6 +35981,7 @@ kcyn	髛
 kcyp	𣨻
 kcyy	𨘴
 kd	开
+kda	開
 kdaj	開
 kdan	𨴆
 kdao	閡
@@ -39163,6 +39178,7 @@ leui	乐事
 leui	𱛔
 leuj	乐山
 leus	屴
+lev	樂
 levd	樂
 lewf	乐而忘返
 lewg	劳而无功
@@ -39779,6 +39795,7 @@ liks	𠠵
 liks	𡯄
 liks	𤜜
 likv	理亏
+lil	裡
 lilb	莅临
 lilb	褵
 lilb	蠣
@@ -39790,7 +39807,6 @@ lild	蟍
 lild	𧑇
 lile	离了
 lile	隶
-lilg	裡
 lilg	䙰
 lilg	𧋎
 lilg	𧕮
@@ -39813,13 +39829,12 @@ lily	理论
 lily	蚸
 lim	历
 lim	励
+lim	丽
 lima	立马
 lima	暦
 lima	曆
-limb	丽
 limb	璃
 limb	醨
-limb	丽
 limb	厲
 limb	酾
 limb	㡂
@@ -40931,11 +40946,11 @@ llce	两侧
 llcf	鍄
 llch	粮仓
 llci	两次
+lld	樑
 lldb	𣓈
 lldc	两道
 lldd	两代
 lldd	唠唠叨叨
-lldd	樑
 lldf	落落大方
 lldf	椋
 lldi	两地
@@ -49910,6 +49925,7 @@ nwbu	内部
 nwbv	脮
 nwbv	腇
 nwc	内侧
+nwce	内侧
 nwce	内测
 nwcg	内层
 nwcj	内参
@@ -49956,9 +49972,10 @@ nwnk	䲎
 nwnv	鯘
 nwnv	鮾
 nwnw	能文能武
-nwob	內
+nwo	內
 nwob	㐻
 nwob	氝
+nwob	內
 nwok	𠑛
 nwov	餧
 nwov	餒
@@ -61737,6 +61754,7 @@ svmo	𨣢
 svms	㻪
 svms	㻽
 svn	随
+svn	隨
 svnb	隋
 svnb	隨
 svnb	𬳅
@@ -62523,6 +62541,7 @@ tcxi	淘洗
 tcxm	套现
 tcxt	逃学
 tcy	逃
+tcy	討
 tcyc	讨要
 tcye	陶冶
 tcye	詜
@@ -63819,6 +63838,7 @@ tjxl	檀香
 tjxm	探险
 tjxu	投井下石
 tjxy	探寻
+tjy	談
 tjya	弹压
 tjyc	䜖
 tjyf	談
@@ -80890,8 +80910,8 @@ xluv	香水
 xluz	享受
 xlv	乡
 xlv	飨
-xlva	心理障碍
 xlva	響
+xlva	心理障碍
 xlvb	心理准备
 xlve	想着
 xlve	向着
@@ -89760,12 +89780,13 @@ yrlu	裷
 yrlv	远虑
 yrlv	褤
 yrm	原
-yrm	瑗
+yrm	願
 yrma	源码
 yrma	𩐘
 yrmc	原貌
 yrmc	願
 yrmc	𠩠
+yrme	瑗
 yrme	厡
 yrme	禐
 yrmf	远门
@@ -89993,6 +90014,7 @@ yrzu	远足
 yrzv	庸人自扰之
 ys	用
 ys	永
+ys	一丝
 ysab	𨴭
 ysau	𢀍
 ysb	臃
@@ -91465,9 +91487,9 @@ yuyv	袬
 yuyv	諭
 yuyw	远胜于我
 yuyx	有说有笑
-yuyy	亦师亦友
 yuyy	於
 yuyy	莺声燕语
+yuyy	亦师亦友
 yuzb	⻗
 yuzd	怨声载道
 yuzh	一失足成千古恨
@@ -93087,6 +93109,7 @@ zea	昃
 zeac	昗
 zeai	𢧠
 zean	𣆽
+zeb	則
 zebc	瞔
 zebc	𦟜
 zebi	戝
@@ -93670,8 +93693,8 @@ zinu	𧥕
 zinv	子女
 zinw	鯔
 zinw	𡗈
-zio	锱
 zio	仔
+zio	锱
 ziod	𫓦
 zioi	镃
 zion	倳

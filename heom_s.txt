@@ -456,6 +456,7 @@ AA制	aavi
 桉	and
 暗道	andc
 暗地	andi
+黯淡	andj
 暗淡	andj
 安定	andk
 安度	andu
@@ -1530,6 +1531,7 @@ AA制	aavi
 保密	bcmi
 饱满	bcmj
 报名	bcmk
+保命	bcmk
 虣	bcmn
 薄膜	bcmo
 㻄	bcmo
@@ -6710,6 +6712,7 @@ AA制	aavi
 𥠩	cjhp
 𦪜	cjhp
 曾几何时	cjhu
+參	cji
 餐车	cjie
 𠫭	cjif
 參	cjih
@@ -7033,6 +7036,7 @@ AA制	aavi
 采取	cq
 从前	cq
 此起彼伏	cqbf
+此起彼落	cqbl
 残缺不全	cqbq
 才气过人	cqgr
 藏起来	cqld
@@ -7753,7 +7757,7 @@ AA制	aavi
 凑足	czzu
 的	d
 打	d
-大概	d
+地	d
 大	da
 达	da
 大爱	daai
@@ -7818,6 +7822,7 @@ AA制	aavi
 答复	dafu
 垯	dag
 大搞	dagc
+大概	dagd
 大哥	dage
 大纲	dagh
 𡍲	dagj
@@ -9094,7 +9099,7 @@ AA制	aavi
 当日	dhri
 当然	dhrj
 𪠽	dhrm
-多喝热水	dhru覺	jth
+多喝热水	dhru
 噹	dhrw
 对号入座	dhrz
 𡰨	dhsn
@@ -9151,7 +9156,8 @@ AA制	aavi
 譡	dhyw
 当作	dhzo
 党组	dhzu
-地	di
+第	di
+滴	di
 題	diac
 低矮	diai
 㫝	diai
@@ -9266,7 +9272,6 @@ AA制	aavi
 递给	digw
 地瓜	digx
 地沟	digz
-第	dih
 敌	dih
 氐	dih
 㹍	dihb
@@ -9870,12 +9875,13 @@ AA制	aavi
 单曲	djqu
 抌	djqu
 低级趣味	djqw
-啖	djr
+單	djr
 担任	djrf
+啖	djrf
 单日	djri
 淡然	djrj
-單	djrj
 嘾	djrj
+單	djrj
 噉	djrk
 鄲	djrl
 唌	djrm
@@ -11334,6 +11340,7 @@ AA制	aavi
 短寿	druz
 断	drv
 缎	drv
+斷	drv
 媏	drvb
 端着	drve
 緞	drve
@@ -11579,6 +11586,7 @@ AA制	aavi
 姛	dsvr
 絧	dsvr
 𫄡	dsvr
+冻住	dsvu
 娻	dsvw
 㚵	dsvy
 动物	dswu
@@ -13170,6 +13178,7 @@ AA制	aavi
 耳根	ergf
 耳光	ergl
 而过	ergo
+兒	erh
 洱海	erhd
 衈	erhj
 𪕔	erhj
@@ -14288,9 +14297,10 @@ AA制	aavi
 方格	fhge
 放过	fhgo
 放虎归山	fhgu
-房	fhh
 舫	fhh
 彷	fhh
+舫	fhh
+房	fhh
 放好	fhhc
 防寒	fhhj
 防火	fhho
@@ -23088,6 +23098,7 @@ GDP	gdp
 欢笑	hrxn
 浣熊	hrxs
 换下	hrxx
+還	hry
 换牙	hrya
 换页	hrye
 讙	hryg
@@ -30882,6 +30893,7 @@ IP地址	ipdv
 棘手	jiuz
 级	jiv
 继	jiv
+幾	jiv
 績	jivc
 継	jivd
 𦁳	jivd
@@ -30893,9 +30905,9 @@ IP地址	ipdv
 几张	jivh
 机制	jivi
 机智	jivi
-幾	jivi
 繼	jivi
 㡭	jivi
+幾	jivi
 激战	jivj
 缉	jivj
 挤占	jivj
@@ -33929,6 +33941,7 @@ IP地址	ipdv
 圈养	jryh
 倦意	jryi
 卷烟	jryj
+救人一命胜造七级浮屠	jrym
 隽永	jrys
 孑然一身	jryu
 拒人于千里之外	jryw
@@ -34120,6 +34133,7 @@ IP地址	ipdv
 䞷	jtgu
 趉	jtgu
 姜太公钓鱼	jtgy
+覺	jth
 绝好	jthc
 集体活动	jthd
 㸕	jthe
@@ -35855,6 +35869,7 @@ IP地址	ipdv
 𣨻	kcyp
 𨘴	kcyy
 开	kd
+開	kda
 開	kdaj
 𨴆	kdan
 閡	kdao
@@ -39035,6 +39050,7 @@ IP地址	ipdv
 𱛔	leui
 乐山	leuj
 屴	leus
+樂	lev
 樂	levd
 乐而忘返	lewf
 劳而无功	lewg
@@ -39651,6 +39667,7 @@ IP地址	ipdv
 𡯄	liks
 𤜜	liks
 理亏	likv
+裡	lil
 莅临	lilb
 褵	lilb
 蠣	lilb
@@ -39662,7 +39679,6 @@ IP地址	ipdv
 𧑇	lild
 离了	lile
 隶	lile
-裡	lilg
 䙰	lilg
 𧋎	lilg
 𧕮	lilg
@@ -39685,13 +39701,12 @@ IP地址	ipdv
 蚸	lily
 历	lim
 励	lim
+丽	lim
 立马	lima
 暦	lima
 曆	lima
-丽	limb
 璃	limb
 醨	limb
-丽	limb
 厲	limb
 酾	limb
 㡂	limb
@@ -40803,11 +40818,11 @@ IP地址	ipdv
 鍄	llcf
 粮仓	llch
 两次	llci
+樑	lld
 𣓈	lldb
 两道	lldc
 两代	lldd
 唠唠叨叨	lldd
-樑	lldd
 落落大方	lldf
 椋	lldf
 两地	lldi
@@ -49750,6 +49765,7 @@ IP地址	ipdv
 脮	nwbv
 腇	nwbv
 内侧	nwc
+内侧	nwce
 内测	nwce
 内层	nwcg
 内参	nwcj
@@ -49796,9 +49812,10 @@ IP地址	ipdv
 鯘	nwnv
 鮾	nwnv
 能文能武	nwnw
-內	nwob
+內	nwo
 㐻	nwob
 氝	nwob
+內	nwob
 𠑛	nwok
 餧	nwov
 餒	nwov
@@ -61507,6 +61524,7 @@ PPT	ppt
 㻪	svms
 㻽	svms
 随	svn
+隨	svn
 隋	svnb
 隨	svnb
 𬳅	svnb
@@ -62290,6 +62308,7 @@ PPT	ppt
 套现	tcxm
 逃学	tcxt
 逃	tcy
+討	tcy
 讨要	tcyc
 陶冶	tcye
 詜	tcye
@@ -63584,6 +63603,7 @@ PPT	ppt
 探险	tjxm
 投井下石	tjxu
 探寻	tjxy
+談	tjy
 弹压	tjya
 䜖	tjyc
 談	tjyf
@@ -80642,8 +80662,8 @@ PPT	ppt
 享受	xluz
 乡	xlv
 飨	xlv
-心理障碍	xlva
 響	xlva
+心理障碍	xlva
 心理准备	xlvb
 想着	xlve
 向着	xlve
@@ -89506,12 +89526,13 @@ PPT	ppt
 远虑	yrlv
 褤	yrlv
 原	yrm
-瑗	yrm
+願	yrm
 源码	yrma
 𩐘	yrma
 原貌	yrmc
 願	yrmc
 𠩠	yrmc
+瑗	yrme
 厡	yrme
 禐	yrme
 远门	yrmf
@@ -89739,6 +89760,7 @@ PPT	ppt
 庸人自扰之	yrzv
 用	ys
 永	ys
+一丝	ys
 𨴭	ysab
 𢀍	ysau
 臃	ysb
@@ -91208,9 +91230,9 @@ PPT	ppt
 諭	yuyv
 远胜于我	yuyw
 有说有笑	yuyx
-亦师亦友	yuyy
 於	yuyy
 莺声燕语	yuyy
+亦师亦友	yuyy
 ⻗	yuzb
 怨声载道	yuzd
 一失足成千古恨	yuzh
@@ -92823,6 +92845,7 @@ PPT	ppt
 昗	zeac
 𢧠	zeai
 𣆽	zean
+則	zeb
 瞔	zebc
 𦟜	zebc
 戝	zebi
@@ -93405,8 +93428,8 @@ PPT	ppt
 子女	zinv
 鯔	zinw
 𡗈	zinw
-锱	zio
 仔	zio
+锱	zio
 𫓦	ziod
 镃	zioi
 倳	zion

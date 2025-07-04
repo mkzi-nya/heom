@@ -66,12 +66,18 @@ _	;b
 合起	heqi
 那很	nahf
 溢出	yiiu
+黯淡	andj
+大概	dagd
+冻住	dsvu
+内侧	nwce
 活生生	huug
+此起彼落	cqbl
 又惊又喜	yjyx
 不急不缓	bjbh
 收发自如	ufzr
 空空荡荡	kkdd
 惊疑不定	jybd
+救人一命胜造七级浮屠	jrym
 依	yiov
 翅	iij
 阿爸	aaba
@@ -33584,6 +33590,7 @@ IP地址	ipdv
 相撞	xlvl
 相中	xlvs
 相助	xlvu
+響	xlva
 心理障碍	xlva
 心理准备	xlvb
 向外	xlwd
@@ -37167,7 +37174,6 @@ IP地址	ipdv
 预约	yuyt
 一生一世	yuyu
 有始有终	yuyv
-亦师亦友	yuyy
 影视作品	yuzp
 一失足成千古恨	yuzh
 玉簪	yuzj
@@ -39808,7 +39814,8 @@ IP地址	ipdv
 打	daq
 搭	daq
 大	da
-地	di
+第	di
+滴	di
 到	dc
 对	dv
 多	do
@@ -39819,7 +39826,6 @@ IP地址	ipdv
 得	de
 得	dw
 电	dml
-第	dih
 代	dd
 当	dh
 度	dui
@@ -40080,7 +40086,7 @@ IP地址	ipdv
 骶	dibm
 骶	dibi
 柁	dodp
-啖	djr
+啖	djrf
 蔸	dzt
 菪	dhtr
 嶝	dgu
@@ -40343,7 +40349,6 @@ IP地址	ipdv
 负	fun
 富	fuj
 份	ffo
-房	fhh
 房	fhi
 房	fhm
 防	fhn
@@ -40455,6 +40460,8 @@ IP地址	ipdv
 吩	ffr
 茯	futk
 彷	fhh
+舫	fhh
+房	fhh
 忿	ffc
 吠	fwrk
 宓	fujh
@@ -43133,7 +43140,7 @@ IP地址	ipdv
 塱	lhig
 㮾	lhid
 峛	liu
-丽	limb
+丽	lim
 璃	limb
 醨	limb
 㰀	lide
@@ -43195,7 +43202,6 @@ IP地址	ipdv
 龙	lsi
 乱	lrh
 礼	limu
-丽	limb
 陵	lkne
 璐	lumr
 靓	llqu
@@ -47038,6 +47044,7 @@ IP地址	ipdv
 因	yb
 院	yrn
 原	yrm
+願	yrm
 研	yjm
 厌	yjm
 运	yyy
@@ -47426,7 +47433,7 @@ IP地址	ipdv
 桠	yad
 胤	yblu
 蝣	yzl
-瑗	yrm
+瑗	yrme
 嘤	ykrv
 疣	yzk
 炀	yhfh
@@ -47835,7 +47842,6 @@ IP地址	ipdv
 訾	ziyr
 滓	ziej
 糌	zjf
-锱	zio
 枞	zsdo
 瓒	zjm
 樽	zyd
@@ -47916,6 +47922,7 @@ IP地址	ipdv
 早	zca
 怎	zfo
 仔	zio
+锱	zio
 在线	zx
 自己	zj
 作品	zp
@@ -50233,6 +50240,7 @@ GDP	gdp
 阴盛阳衰	yuyu
 有说有笑	yuyx
 莺声燕语	yuyy
+亦师亦友	yuyy
 怨声载道	yuzd
 咬舌自尽	yuzj
 言之有理	yvyl
@@ -51332,7 +51340,7 @@ $	ofhb
 安装	a
 比较	b
 词库	c
-大概	d
+地	d
 嗯嗯	e
 复杂	f
 关系	g
@@ -51373,3 +51381,5 @@ $	ofhb
 折线	vexm
 遇事不决	yubj
 多喝热水	dhru
+一丝	ys
+保命	bcmk

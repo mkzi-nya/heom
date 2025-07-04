@@ -2709,6 +2709,7 @@
 𥠩	cjhp
 𦪜	cjhp
 𠫭	cjif
+參	cji
 參	cjih
 𬤄	cjih
 䗝	cjii
@@ -4087,8 +4088,9 @@
 擔	djqr
 𧭃	djqr
 抌	djqu
-單	djrj
+單	djr
 嘾	djrj
+單	djrj
 噉	djrk
 鄲	djrl
 唌	djrm
@@ -4761,6 +4763,7 @@
 剬	drun
 媏	drvb
 緞	drve
+斷	drv
 斷	drvl
 㫁	drvl
 昸	dsam
@@ -5598,6 +5601,7 @@
 衈	erhj
 𪕔	erhj
 𤽓	erhm
+兒	erh
 兒	erhu
 𪕨	erhu
 貳	eric
@@ -9657,6 +9661,7 @@
 㪱	hryk
 𨕹	hrym
 𠟼	hryn
+還	hry
 還	hryv
 晎	hsac
 閧	hsac
@@ -13518,9 +13523,10 @@
 継	jivd
 𦁳	jivd
 級	jive
-幾	jivi
+幾	jiv
 繼	jivi
 㡭	jivi
+幾	jivi
 緝	jivj
 幾	jivk
 姫	jivl
@@ -15949,6 +15955,7 @@
 開	kdaj
 𨴆	kdan
 閡	kdao
+開	kda
 開	kdat
 暟	kdat
 闓	kdat
@@ -17424,6 +17431,7 @@
 艻	lets
 𱛔	leui
 屴	leus
+樂	lev
 樂	levd
 𩐾	leye
 韷	leyu
@@ -17762,7 +17770,7 @@
 𤗫	lilb
 蟍	lild
 𧑇	lild
-裡	lilg
+裡	lil
 䙰	lilg
 𧋎	lilg
 𧕮	lilg
@@ -18502,7 +18510,7 @@
 䀶	llbv
 鍄	llcf
 𣓈	lldb
-樑	lldd
+樑	lld
 鿄	lled
 涼	llef
 鿌	llef
@@ -22931,9 +22939,10 @@
 䲎	nwnk
 鯘	nwnv
 鮾	nwnv
-內	nwob
+內	nwo
 㐻	nwob
 氝	nwob
+內	nwob
 𠑛	nwok
 餧	nwov
 餒	nwov
@@ -28096,6 +28105,7 @@
 𨣢	svmo
 㻪	svms
 㻽	svms
+隨	svn
 隨	svnb
 𬳅	svnb
 鐆	svnc
@@ -28540,6 +28550,7 @@
 縚	tcvx
 𬘺	tcvx
 詜	tcye
+討	tcy
 討	tcyi
 䚯	tcyn
 䛌	tcyu
@@ -29164,6 +29175,7 @@
 𦌪	tjwf
 黮	tjwv
 䜖	tjyc
+談	tjy
 談	tjyf
 𪉧	tjyf
 𧫿	tjyi
@@ -36471,7 +36483,6 @@
 㟄	xluq
 𡹷	xluq
 㟟	xluu
-響	xlva
 蚃	xlvi
 蠁	xlvi
 鄉	xlvl
@@ -42744,6 +42755,7 @@
 賊	zebj
 贼	zebk
 賊	zebk
+則	zeb
 則	zebn
 𠟻	zebn
 䯔	zebp
