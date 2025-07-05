@@ -10505,6 +10505,7 @@ dmvo	婝
 dmvu	店主
 dmvv	点缀
 dmvy	低眉折腰
+dmw	點
 dmwc	𪑩
 dmwf	㸃
 dmwh	电网
@@ -24795,7 +24796,6 @@ hxkr	夻
 hxkv	花魁
 hxl	畫
 hxl	候选栏
-hxl	畫
 hxla	哗啦
 hxlb	花心萝卜
 hxlb	螖
@@ -48629,6 +48629,7 @@ niuo	嶷
 niuo	㠜
 niup	㞾
 niuv	溺水
+niv	妳
 niv	妮
 niva	𡣁
 nivb	𡞭

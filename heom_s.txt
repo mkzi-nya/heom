@@ -10461,6 +10461,7 @@ AA制	aavi
 店主	dmvu
 点缀	dmvv
 低眉折腰	dmvy
+點	dmw
 𪑩	dmwc
 㸃	dmwf
 电网	dmwh
@@ -24710,7 +24711,6 @@ GDP	gdp
 花魁	hxkv
 畫	hxl
 候选栏	hxl
-畫	hxl
 哗啦	hxla
 花心萝卜	hxlb
 螖	hxlb
@@ -48473,6 +48473,7 @@ IP地址	ipdv
 㠜	niuo
 㞾	niup
 溺水	niuv
+妳	niv
 妮	niv
 𡣁	niva
 𡞭	nivb

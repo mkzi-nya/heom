@@ -43669,6 +43669,7 @@ IP地址	ipdv
 倪	nio
 怒	nu
 恼	ncp
+妳	niv
 妮	niv
 奴	nuv
 挠	ncq
@@ -55705,6 +55706,7 @@ $	ofhb
 婝	dmvo
 𪑩	dmwc
 㸃	dmwf
+點	dmw
 點	dmwr
 齻	dmyc
 𱌺	dmyc
@@ -61919,7 +61921,6 @@ $	ofhb
 夻	hxkr
 螖	hxlb
 𧑍	hxlj
-畫	hxl
 畫	hxlm
 𢄶	hxlm
 劃	hxln

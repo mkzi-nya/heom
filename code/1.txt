@@ -43669,6 +43669,7 @@ IP地址	ipdv
 倪	nio
 怒	nu
 恼	ncp
+妳	niv
 妮	niv
 奴	nuv
 挠	ncq
