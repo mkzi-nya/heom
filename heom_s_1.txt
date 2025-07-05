@@ -23378,6 +23378,7 @@ hsuu	红薯
 hsuu	𱛒
 hsuv	洪水
 hsux	活色生香
+hsv	紅
 hsva	轰炸
 hsvc	娂
 hsvi	纮
@@ -23388,8 +23389,8 @@ hsvi	𦁷
 hsvi	𫟄
 hsvi	𰬋
 hsvl	红妆
-hsvm	紅
 hsvm	妅
+hsvm	紅
 hsvs	红肿
 hsvt	好色之徒
 hsvu	红烛

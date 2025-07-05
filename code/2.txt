@@ -9834,8 +9834,9 @@
 𦁷	hsvi
 𫟄	hsvi
 𰬋	hsvi
-紅	hsvm
 妅	hsvm
+紅	hsv
+紅	hsvm
 𱖀	hswa
 𡇳	hswl
 𩐠	hsyc

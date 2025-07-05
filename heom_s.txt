@@ -23378,6 +23378,7 @@ GDP	gdp
 𱛒	hsuu
 洪水	hsuv
 活色生香	hsux
+紅	hsv
 轰炸	hsva
 娂	hsvc
 纮	hsvi
@@ -23388,8 +23389,8 @@ GDP	gdp
 𫟄	hsvi
 𰬋	hsvi
 红妆	hsvl
-紅	hsvm
 妅	hsvm
+紅	hsvm
 红肿	hsvs
 好色之徒	hsvt
 红烛	hsvu
