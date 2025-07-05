@@ -90504,7 +90504,6 @@ PPT	ppt
 雨刮	yugx
 有失公允	yugy
 御	yuh
-禹	yuh
 與	yuh
 䫻	yuha
 𩘤	yuha
@@ -90546,6 +90545,7 @@ PPT	ppt
 𡒊	yuhg
 宇航	yuhh
 𩰪	yuhh
+禹	yuhi
 𨉗	yuhi
 御寒	yuhj
 斞	yuhj

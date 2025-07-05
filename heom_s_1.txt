@@ -90504,7 +90504,6 @@ yugv	堬
 yugx	雨刮
 yugy	有失公允
 yuh	御
-yuh	禹
 yuh	與
 yuha	䫻
 yuha	𩘤
@@ -90546,6 +90545,7 @@ yuhg	𡒃
 yuhg	𡒊
 yuhh	宇航
 yuhh	𩰪
+yuhi	禹
 yuhi	𨉗
 yuhj	御寒
 yuhj	斞
