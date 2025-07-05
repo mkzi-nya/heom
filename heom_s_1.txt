@@ -1,4 +1,4 @@
-	
+	\
 ;	：
 ;a	！
 ;b	_
@@ -34149,7 +34149,7 @@ jtgs	集团公司
 jtgu	䞷
 jtgu	趉
 jtgy	姜太公钓鱼
-jth	        覺
+jth	覺
 jthc	绝好
 jthd	集体活动
 jthe	㸕
