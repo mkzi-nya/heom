@@ -31879,7 +31879,6 @@ php -S 127.0.0.1:8000	iphp
 見	jmbu
 兼备	jmbw
 兼	jmc
-錢	jmc
 鐧	jmca
 鐗	jmcb
 𨰓	jmcb
@@ -55570,6 +55569,7 @@ git add . && git commit -m "meow" && git push origin main	push
 其貌不扬	qmby
 𩨓	qmby
 歉	qmc
+錢	qmc
 钱财	qmcd
 㪠	qmce
 鋟	qmce

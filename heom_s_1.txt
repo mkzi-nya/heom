@@ -31774,7 +31774,6 @@ jmbt	𧲨
 jmbu	見
 jmbw	兼备
 jmc	兼
-jmc	錢
 jmca	鐧
 jmcb	鐗
 jmcb	𨰓
@@ -55375,6 +55374,7 @@ qmbw	前辈
 qmby	其貌不扬
 qmby	𩨓
 qmc	歉
+qmc	錢
 qmcd	钱财
 qmce	㪠
 qmce	鋟
