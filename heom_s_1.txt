@@ -17003,6 +17003,7 @@ geys	歌咏
 geyz	各有
 gez	鸽子
 gezi	各自
+gezi	格子
 gezu	各族
 gf	跟
 gfa	艮
@@ -32762,6 +32763,7 @@ jnrc	搅扰
 jnrd	嘄
 jnrd	𫪧
 jnrf	噍
+jnrf	鲛人
 jnrh	叫嚷
 jnrh	嘐
 jnri	嚼
@@ -60904,6 +60906,7 @@ srif	祘
 srih	三人成虎
 sriu	酸楚
 sriz	酸臭
+sriz	算筹
 srji	算计
 srk	狻
 srke	痠
@@ -63915,6 +63918,7 @@ tlvv	天理昭昭
 tlvy	天籁之音
 tlwg	徒劳无功
 tlwy	徒劳无益
+tlx	天狼星
 tlxb	铁了心
 tlxf	袒露心扉
 tlxi	跳梁小丑
@@ -67891,6 +67895,7 @@ uico	失措
 uico	鍉
 uicp	鉈
 uicr	鉐
+uics	侍从
 uidb	柿
 uidc	世道
 uidd	时代
@@ -92571,12 +92576,12 @@ zce	澡
 zce	蚤
 zcei	𧎮
 zcej	𣴢
-zcf	灶
 zcf	糟
 zcf	造反
 zcfa	㷮
 zcfd	燥
 zcfg	遭逢
+zcfg	灶
 zcfh	造访
 zcfh	𤍜
 zcfh	𰞷

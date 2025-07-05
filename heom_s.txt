@@ -17003,6 +17003,7 @@ GDP	gdp
 各有	geyz
 鸽子	gez
 各自	gezi
+格子	gezi
 各族	gezu
 跟	gf
 艮	gfa
@@ -32762,6 +32763,7 @@ IP地址	ipdv
 嘄	jnrd
 𫪧	jnrd
 噍	jnrf
+鲛人	jnrf
 叫嚷	jnrh
 嘐	jnrh
 嚼	jnri
@@ -60904,6 +60906,7 @@ PPT	ppt
 三人成虎	srih
 酸楚	sriu
 酸臭	sriz
+算筹	sriz
 算计	srji
 狻	srk
 痠	srke
@@ -63915,6 +63918,7 @@ PPT	ppt
 天籁之音	tlvy
 徒劳无功	tlwg
 徒劳无益	tlwy
+天狼星	tlx
 铁了心	tlxb
 袒露心扉	tlxf
 跳梁小丑	tlxi
@@ -67891,6 +67895,7 @@ PPT	ppt
 鍉	uico
 鉈	uicp
 鉐	uicr
+侍从	uics
 柿	uidb
 世道	uidc
 时代	uidd
@@ -92571,12 +92576,12 @@ PPT	ppt
 蚤	zce
 𧎮	zcei
 𣴢	zcej
-灶	zcf
 糟	zcf
 造反	zcf
 㷮	zcfa
 燥	zcfd
 遭逢	zcfg
+灶	zcfg
 造访	zcfh
 𤍜	zcfh
 𰞷	zcfh
