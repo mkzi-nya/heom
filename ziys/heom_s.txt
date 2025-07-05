@@ -15695,6 +15695,7 @@ deepseek	deep
 岪	fuun
 风生水起	fuuq
 附属	fuuu
+复述	fuuu
 赋税	fuuv
 抚顺	fuuy
 扶手	fuuz
@@ -26241,6 +26242,7 @@ github	gith
 軙	ifje
 𣀍	ifje
 趁机	ifji
+沉寂	ifji
 沉静	ifjk
 㥲	ifjp
 陈旧	ifjq
@@ -55250,6 +55252,7 @@ git add . && git commit -m "meow" && git push origin main	push
 青苔	qktd
 檠	qktd
 𰘓	qktd
+倾坍	qktj
 倾听	qktk
 蜻蜓	qktk
 晴天	qktm
@@ -76777,6 +76780,7 @@ http://mhtlim.top/usage/usage.html	uomk
 网点	whdm
 忘掉	whdn
 往东	whds
+妄动	whds
 棢	whdv
 武汉大学	whdx
 网兜	whdz

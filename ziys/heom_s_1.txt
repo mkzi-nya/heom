@@ -15695,6 +15695,7 @@ fuuk	𡵛
 fuun	岪
 fuuq	风生水起
 fuuu	附属
+fuuu	复述
 fuuv	赋税
 fuuy	抚顺
 fuuz	扶手
@@ -26241,6 +26242,7 @@ ifjb	沉浸
 ifje	軙
 ifje	𣀍
 ifji	趁机
+ifji	沉寂
 ifjk	沉静
 ifjp	㥲
 ifjq	陈旧
@@ -55250,6 +55252,7 @@ qktc	䔛
 qktd	青苔
 qktd	檠
 qktd	𰘓
+qktj	倾坍
 qktk	倾听
 qktk	蜻蜓
 qktm	晴天
@@ -76777,6 +76780,7 @@ whdc	王道
 whdm	网点
 whdn	忘掉
 whds	往东
+whds	妄动
 whdv	棢
 whdx	武汉大学
 whdz	网兜
