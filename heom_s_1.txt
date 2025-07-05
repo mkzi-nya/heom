@@ -87738,6 +87738,7 @@ yixt	医学
 yixx	以下
 yiy	意
 yiy	裔
+yiy	逸
 yiya	咿呀
 yiya	詣
 yiya	𪗷
@@ -87765,7 +87766,6 @@ yiyg	𪘬
 yiyg	𱌷
 yiyh	一样
 yiyi	意义
-yiyi	逸
 yiyi	議
 yiyi	讛
 yiyi	𥫃

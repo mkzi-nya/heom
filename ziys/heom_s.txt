@@ -87990,6 +87990,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𠀳	yixx
 意	yiy
 裔	yiy
+逸	yiy
 咿呀	yiya
 詣	yiya
 𪗷	yiya
@@ -88017,7 +88018,6 @@ http://mhtlim.top/usage/usage.html	uomk
 𱌷	yiyg
 一样	yiyh
 意义	yiyi
-逸	yiyi
 議	yiyi
 讛	yiyi
 𥫃	yiyi
