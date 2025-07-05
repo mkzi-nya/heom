@@ -28731,7 +28731,6 @@ IP地址	ipdv
 摴	iuqs
 耡	iuqs
 除却	iuqt
-出去	iuqu
 拀	iuqu
 承上启下	iuqx
 躇	iur
@@ -43530,6 +43529,7 @@ IP地址	ipdv
 𤮎	lwin
 累计	lwji
 累积	lwji
+雷击	lwji
 轠	lwjw
 累加	lwjx
 𤡂	lwkf

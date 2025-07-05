@@ -28828,7 +28828,6 @@ iuqr	除权
 iuqs	摴
 iuqs	耡
 iuqt	除却
-iuqu	出去
 iuqu	拀
 iuqx	承上启下
 iur	躇
@@ -43658,6 +43657,7 @@ lwii	厽
 lwin	𤮎
 lwji	累计
 lwji	累积
+lwji	雷击
 lwjw	轠
 lwjx	累加
 lwkf	𤡂
