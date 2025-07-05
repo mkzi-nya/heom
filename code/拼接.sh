@@ -50,6 +50,6 @@ done
 cp ../heom.txt ../android/鹤仓/
 sort --stable -t '	' -k2,2 ../heom.txt > ../heom_s.txt
 sort --stable -t '	' -k2,2 ../ziys/heom.txt > ../ziys/heom_s.txt
-sh 转格式.sh
-sh push.sh
+awk -F'\t' '{print $2 "\t" $1}' ../heom_s.txt > ../heom_s_1.txt
+awk -F'\t' '{print $2 "\t" $1}' ../ziys/heom_s.txt > ../ziys/heom_s_1.txt
 cd "$OLD_DIR"
