@@ -32762,8 +32762,8 @@ IP地址	ipdv
 搅扰	jnrc
 嘄	jnrd
 𫪧	jnrd
-噍	jnrf
 鲛人	jnrf
+噍	jnrf
 叫嚷	jnrh
 嘐	jnrh
 嚼	jnri

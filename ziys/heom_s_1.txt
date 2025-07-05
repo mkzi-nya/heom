@@ -32867,8 +32867,8 @@ jnrb	𨇕
 jnrc	搅扰
 jnrd	嘄
 jnrd	𫪧
-jnrf	噍
 jnrf	鲛人
+jnrf	噍
 jnrh	叫嚷
 jnrh	嘐
 jnri	嚼
