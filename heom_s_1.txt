@@ -85262,6 +85262,7 @@ ybxk	隐形
 ybxl	印象
 ybxm	阴险
 ybxn	音效
+ybxn	阴枭
 ybxq	咽不下这口气
 ybxt	一比吓一跳
 ybxv	鹬蚌相争

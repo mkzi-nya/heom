@@ -85262,6 +85262,7 @@ PPT	ppt
 印象	ybxl
 阴险	ybxm
 音效	ybxn
+阴枭	ybxn
 咽不下这口气	ybxq
 一比吓一跳	ybxt
 鹬蚌相争	ybxv
