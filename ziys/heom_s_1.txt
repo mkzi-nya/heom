@@ -1,4 +1,3 @@
-	\
 ;	：
 ;a	！
 ;b	_
@@ -62146,6 +62145,7 @@ taaq	闥
 taar	𨶀
 taau	毾
 taav	闧
+tab	\t
 tabj	踏板
 tabp	凸凹不平
 tabu	踏步

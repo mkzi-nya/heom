@@ -1,4 +1,3 @@
-\		tab
 ：	;
 ！	;a
 _	;b
@@ -61913,6 +61912,7 @@ PPT	ppt
 𨶀	taar
 毾	taau
 闧	taav
+\t	tab
 踏板	tabj
 凸凹不平	tabp
 踏步	tabu
