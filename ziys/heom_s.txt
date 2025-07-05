@@ -34211,6 +34211,7 @@ php -S 127.0.0.1:8000	iphp
 绝对	jtdv
 交通大学	jtdx
 决斗	jtdz
+決	jte
 潏	jteb
 泬	jtec
 𪁠	jtef
@@ -67289,6 +67290,7 @@ git add . && git commit -m "meow" && git push origin main	push
 深仇	ufiz
 审	ufj
 煞风景	ufj
+審	ufj
 伸进	ufjb
 𥥍	ufjc
 杀伐决断	ufjd
@@ -84691,6 +84693,7 @@ http://mhtlim.top/usage/usage.html	uomk
 夕阳西下	xyxx
 闲言闲语	xyxy
 迅	xyy
+訊	xyy
 詢	xyya
 迿	xyya
 逡	xyye

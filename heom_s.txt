@@ -34104,6 +34104,7 @@ IP地址	ipdv
 绝对	jtdv
 交通大学	jtdx
 决斗	jtdz
+決	jte
 潏	jteb
 泬	jtec
 𪁠	jtef
@@ -67048,6 +67049,7 @@ PPT	ppt
 深仇	ufiz
 审	ufj
 煞风景	ufj
+審	ufj
 伸进	ufjb
 𥥍	ufjc
 杀伐决断	ufjd
@@ -84443,6 +84445,7 @@ PPT	ppt
 夕阳西下	xyxx
 闲言闲语	xyxy
 迅	xyy
+訊	xyy
 詢	xyya
 迿	xyya
 逡	xyye

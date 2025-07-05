@@ -34104,6 +34104,7 @@ jtdu	㭾
 jtdv	绝对
 jtdx	交通大学
 jtdz	决斗
+jte	決
 jteb	潏
 jtec	泬
 jtef	𪁠
@@ -67048,6 +67049,7 @@ ufiv	祳
 ufiz	深仇
 ufj	审
 ufj	煞风景
+ufj	審
 ufjb	伸进
 ufjc	𥥍
 ufjd	杀伐决断
@@ -84443,6 +84445,7 @@ xyxu	相由心生
 xyxx	夕阳西下
 xyxy	闲言闲语
 xyy	迅
+xyy	訊
 xyya	詢
 xyya	迿
 xyye	逡

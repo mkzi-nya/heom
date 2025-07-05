@@ -15147,6 +15147,7 @@
 潏	jteb
 泬	jtec
 𪁠	jtef
+決	jte
 決	jtek
 㵐	jteo
 灍	jteo
@@ -30605,6 +30606,7 @@
 𥥿	ufjf
 𠃫	ufjs
 覾	ufju
+審	ufj
 審	ufjw
 昚	ufka
 㚞	ufkd
@@ -38535,6 +38537,7 @@
 逡	xyye
 遜	xyyf
 訙	xyyi
+訊	xyy
 訊	xyyj
 訊	xyyk
 䛜	xyyk
