@@ -87500,7 +87500,7 @@ PPT	ppt
 𡄵	yirw
 已	yis
 异	yis
-翼	yis
+翼	yisc
 㔴	yisc
 贀	yisc
 頤	yisc

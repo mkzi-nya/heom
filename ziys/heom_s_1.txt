@@ -87751,7 +87751,7 @@ yirv	𠲖
 yirw	𡄵
 yis	已
 yis	异
-yis	翼
+yisc	翼
 yisc	㔴
 yisc	贀
 yisc	頤
