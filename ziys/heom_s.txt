@@ -82512,8 +82512,7 @@ http://mhtlim.top/usage/usage.html	uomk
 谐谑	xpxt
 些许	xpxu
 写下	xpxx
-邂	xpy
-𬹼	xpy
+謝	xpy
 諧	xpya
 谐音	xpyb
 禼	xpyb
@@ -82535,6 +82534,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𧖁	xpyi
 𩫲	xpyi
 斜眼	xpyj
+𬹼	xpyl
 䚸	xpyl
 斺	xpyl
 齘	xpyl
@@ -82546,6 +82546,7 @@ http://mhtlim.top/usage/usage.html	uomk
 齥	xpyp
 𢤰	xpyp
 𱌱	xpyp
+邂	xpyq
 迦	xpyr
 卨	xpyr
 𥗧	xpyr

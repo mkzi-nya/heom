@@ -82264,8 +82264,7 @@ xpxp	谢谢
 xpxt	谐谑
 xpxu	些许
 xpxx	写下
-xpy	邂
-xpy	𬹼
+xpy	謝
 xpya	諧
 xpyb	谐音
 xpyb	禼
@@ -82287,6 +82286,7 @@ xpyi	𧓂
 xpyi	𧖁
 xpyi	𩫲
 xpyj	斜眼
+xpyl	𬹼
 xpyl	䚸
 xpyl	斺
 xpyl	齘
@@ -82298,6 +82298,7 @@ xpym	𱂎
 xpyp	齥
 xpyp	𢤰
 xpyp	𱌱
+xpyq	邂
 xpyr	迦
 xpyr	卨
 xpyr	𥗧
