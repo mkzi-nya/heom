@@ -24793,7 +24793,9 @@ hxkj	画刊
 hxkr	划款
 hxkr	夻
 hxkv	花魁
+hxl	畫
 hxl	候选栏
+hxl	畫
 hxla	哗啦
 hxlb	花心萝卜
 hxlb	螖

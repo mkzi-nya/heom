@@ -41395,6 +41395,7 @@ IP地址	ipdv
 好无聊	hwl
 核武器	hwq
 红外线	hwx
+畫	hxl
 候选栏	hxl
 换一个	hyg
 好意思	hys
