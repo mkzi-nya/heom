@@ -34102,8 +34102,8 @@ jtde	欔
 jtde	𩏺
 jtdf	鴂
 jtdg	柽
-jtdk	绝顶
 jtdk	决定
+jtdk	绝顶
 jtdk	㭈
 jtdm	𱉔
 jtdn	刔
