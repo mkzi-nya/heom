@@ -19908,6 +19908,7 @@ github	gith
 騧	gxsr
 髺	gxsr
 隔靴搔痒	gxsy
+观星台	gxt
 𪇜	gxtf
 𠟗	gxtn
 䒷	gxtr
@@ -22093,6 +22094,7 @@ github	gith
 汗液	hjye
 涵养	hjyh
 含义	hjyi
+寒意	hjyi
 汗颜	hjyj
 䛞	hjyj
 譀	hjyk
@@ -23012,6 +23014,7 @@ github	gith
 鵍	hrjf
 还击	hrji
 环境	hrjk
+幻境	hrjk
 寏	hrjk
 䆠	hrjl
 𨜌	hrjl
@@ -65424,6 +65427,7 @@ git add . && git commit -m "meow" && git push origin main	push
 通胀	tsvh
 通知	tsvi
 同志	tsvi
+统治	tsvi
 统战	tsvj
 童装	tsvl
 同桌	tsvo
@@ -66289,6 +66293,7 @@ git add . && git commit -m "meow" && git push origin main	push
 牏	tzln
 偷猎	tzlp
 透露	tzlu
+头颅	tzlu
 牏	tzlv
 頭	tzm
 頭	tzmc

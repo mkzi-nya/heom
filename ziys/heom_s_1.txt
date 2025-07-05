@@ -19908,6 +19908,7 @@ gxsr	聒
 gxsr	騧
 gxsr	髺
 gxsy	隔靴搔痒
+gxt	观星台
 gxtf	𪇜
 gxtn	𠟗
 gxtr	䒷
@@ -22093,6 +22094,7 @@ hjxu	含蓄
 hjye	汗液
 hjyh	涵养
 hjyi	含义
+hjyi	寒意
 hjyj	汗颜
 hjyj	䛞
 hjyk	譀
@@ -23012,6 +23014,7 @@ hrjc	𡩂
 hrjf	鵍
 hrji	还击
 hrjk	环境
+hrjk	幻境
 hrjk	寏
 hrjl	䆠
 hrjl	𨜌
@@ -65424,6 +65427,7 @@ tsvf	童贞
 tsvh	通胀
 tsvi	通知
 tsvi	同志
+tsvi	统治
 tsvj	统战
 tsvl	童装
 tsvo	同桌
@@ -66289,6 +66293,7 @@ tzlm	头脸
 tzln	牏
 tzlp	偷猎
 tzlu	透露
+tzlu	头颅
 tzlv	牏
 tzm	頭
 tzmc	頭
