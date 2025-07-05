@@ -15385,6 +15385,7 @@ deepseek	deep
 浮夸	fukx
 幅	ful
 弗	ful
+複	ful
 蜅	fulb
 𧌈	fulb
 頫	fulc
@@ -15393,7 +15394,6 @@ deepseek	deep
 蜉	fuld
 服了	fule
 蝮	fule
-複	fule
 帗	fule
 袚	fule
 𧕡	fule

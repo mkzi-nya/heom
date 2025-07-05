@@ -15385,6 +15385,7 @@ fukw	辐
 fukx	浮夸
 ful	幅
 ful	弗
+ful	複
 fulb	蜅
 fulb	𧌈
 fulc	頫
@@ -15393,7 +15394,6 @@ fulc	蝜
 fuld	蜉
 fule	服了
 fule	蝮
-fule	複
 fule	帗
 fule	袚
 fule	𧕡

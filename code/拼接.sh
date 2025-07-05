@@ -51,8 +51,5 @@ cp ../heom.txt ../android/鹤仓/
 sort --stable -t '	' -k2,2 ../heom.txt > ../heom_s.txt
 sort --stable -t '	' -k2,2 ../ziys/heom.txt > ../ziys/heom_s.txt
 sh 转格式.sh
-cd ..
-git add . && git commit -m "meow" && git push origin main
-cd ../IME-Converter-web/
-git add . && git commit -m "meow" && git push origin main
+sh push.sh
 cd "$OLD_DIR"
