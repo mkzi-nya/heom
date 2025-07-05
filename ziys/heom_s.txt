@@ -36144,13 +36144,13 @@ php -S 127.0.0.1:8000	iphp
 𥃣	kdtt
 开头	kdtz
 凯	kdu
+剀	kdu
 看电视	kdu
 开设	kdue
 开始	kdui
 颽	kdui
 开衫	kduj
 𬱼	kduk
-剀	kdun
 凱	kdun
 剴	kdun
 开涮	kdur
