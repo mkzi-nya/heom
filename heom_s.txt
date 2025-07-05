@@ -41071,6 +41071,7 @@ IP地址	ipdv
 练	lm
 恋爱	lmai
 脸	lmb
+臉	lmb
 联保	lmbc
 臁	lmbc
 䁠	lmbc
@@ -53883,6 +53884,7 @@ PPT	ppt
 亲信	qbxb
 侵袭	qbxi
 勤学	qbxt
+親	qby
 誛	qbye
 亲眼	qbyj
 𩐙	qbyl

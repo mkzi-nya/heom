@@ -41199,6 +41199,7 @@ lm	连
 lm	练
 lmai	恋爱
 lmb	脸
+lmb	臉
 lmbc	联保
 lmbc	臁
 lmbc	䁠
@@ -54078,6 +54079,7 @@ qbwu	勤务
 qbxb	亲信
 qbxi	侵袭
 qbxt	勤学
+qby	親
 qbye	誛
 qbyj	亲眼
 qbyl	𩐙

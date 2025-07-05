@@ -41199,6 +41199,7 @@ php -S 127.0.0.1:8000	iphp
 练	lm
 恋爱	lmai
 脸	lmb
+臉	lmb
 联保	lmbc
 臁	lmbc
 䁠	lmbc
@@ -54078,6 +54079,7 @@ git add . && git commit -m "meow" && git push origin main	push
 亲信	qbxb
 侵袭	qbxi
 勤学	qbxt
+親	qby
 誛	qbye
 亲眼	qbyj
 𩐙	qbyl
