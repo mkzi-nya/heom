@@ -15383,7 +15383,6 @@ fukr	付款
 fukv	浮亏
 fukw	辐
 fukx	浮夸
-ful	幅
 ful	弗
 ful	複
 fulb	蜅
@@ -15431,6 +15430,7 @@ fulu	俘虏
 fulu	艴
 fulu	𣭘
 fulv	风水轮流转
+fulw	幅
 fulw	蝠
 fulw	褔
 fum	覆

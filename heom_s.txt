@@ -15326,7 +15326,6 @@ AA制	aavi
 浮亏	fukv
 辐	fukw
 浮夸	fukx
-幅	ful
 弗	ful
 複	ful
 蜅	fulb
@@ -15374,6 +15373,7 @@ AA制	aavi
 艴	fulu
 𣭘	fulu
 风水轮流转	fulv
+幅	fulw
 蝠	fulw
 褔	fulw
 覆	fum
