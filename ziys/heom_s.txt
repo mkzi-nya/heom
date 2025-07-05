@@ -62145,7 +62145,6 @@ git add . && git commit -m "meow" && git push origin main	push
 𨶀	taar
 毾	taau
 闧	taav
-\t	tab
 踏板	tabj
 凸凹不平	tabp
 踏步	tabu
@@ -87978,6 +87977,7 @@ http://mhtlim.top/usage/usage.html	uomk
 㡫	yivv
 䋵	yivv
 一周	yivz
+意味	yiw
 異	yiwc
 意外	yiwd
 𪐣	yiwd

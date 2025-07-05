@@ -61912,7 +61912,6 @@ taaq	闥
 taar	𨶀
 taau	毾
 taav	闧
-tab	\t
 tabj	踏板
 tabp	凸凹不平
 tabu	踏步
@@ -87727,6 +87726,7 @@ yivv	㛄
 yivv	㡫
 yivv	䋵
 yivz	一周
+yiw	意味
 yiwc	異
 yiwd	意外
 yiwd	𪐣
