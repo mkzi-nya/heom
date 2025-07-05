@@ -31196,6 +31196,7 @@ php -S 127.0.0.1:8000	iphp
 将计就计	jjj
 借酒浇愁	jjji
 斤斤计较	jjjj
+惊惧交加	jjjj
 戒骄戒躁	jjjz
 借记卡	jjka
 健健康康	jjkk

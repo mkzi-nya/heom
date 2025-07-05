@@ -31196,6 +31196,7 @@ jjii	加减乘除
 jjj	将计就计
 jjji	借酒浇愁
 jjjj	斤斤计较
+jjjj	惊惧交加
 jjjz	戒骄戒躁
 jjka	借记卡
 jjkk	健健康康
