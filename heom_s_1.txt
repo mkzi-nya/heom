@@ -76092,6 +76092,7 @@ wdxk	外形
 wdxl	外向
 wdxm	外线
 wdxn	外销
+wdxp	歪斜
 wdxp	外泄
 wdxu	外需
 wdyb	外因

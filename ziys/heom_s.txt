@@ -76336,6 +76336,7 @@ http://mhtlim.top/usage/usage.html	uomk
 外向	wdxl
 外线	wdxm
 外销	wdxn
+歪斜	wdxp
 外泄	wdxp
 外需	wdxu
 外因	wdyb
