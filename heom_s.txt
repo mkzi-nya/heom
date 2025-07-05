@@ -30347,6 +30347,7 @@ IP地址	ipdv
 䀈	jiht
 𢓄	jiht
 几乎	jihu
+疾呼	jihu
 嵇	jihu
 嵆	jihu
 旣	jihu
@@ -31268,6 +31269,7 @@ IP地址	ipdv
 敬酒	jkjq
 𠳬	jkjr
 警觉	jkjt
+惊觉	jkjt
 穽	jkjt
 宑	jkjt
 京剧	jkju
@@ -67131,6 +67133,7 @@ PPT	ppt
 神秘	ufmi
 申明	ufmk
 神	ufml
+神庙	ufmn
 神魔	ufmo
 㰮	ufmo
 震	ufmv

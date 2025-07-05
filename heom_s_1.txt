@@ -30347,6 +30347,7 @@ jiht	笄
 jiht	䀈
 jiht	𢓄
 jihu	几乎
+jihu	疾呼
 jihu	嵇
 jihu	嵆
 jihu	旣
@@ -31268,6 +31269,7 @@ jkjp	境界
 jkjq	敬酒
 jkjr	𠳬
 jkjt	警觉
+jkjt	惊觉
 jkjt	穽
 jkjt	宑
 jkju	京剧
@@ -67131,6 +67133,7 @@ ufme	什么
 ufmi	神秘
 ufmk	申明
 ufml	神
+ufmn	神庙
 ufmo	神魔
 ufmo	㰮
 ufmv	震
