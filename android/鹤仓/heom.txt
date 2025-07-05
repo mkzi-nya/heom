@@ -39556,7 +39556,7 @@ IP地址	ipdv
 欂	bodi
 不	bum
 本	bfd
-别	bpr
+別	bpr
 币	bihb
 逋	buyb
 必须	bx

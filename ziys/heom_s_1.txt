@@ -4689,7 +4689,7 @@ bpq	憋屈
 bpqf	䋢
 bpqi	憋气
 bpqu	别去
-bpr	别
+bpr	別
 bprf	别人
 bprf	𨂅
 bprh	别让
