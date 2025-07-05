@@ -29578,6 +29578,7 @@ IP地址	ipdv
 䆮	jbje
 寖	jbje
 紧急	jbji
+谨记	jbji
 讲不讲理	jbjl
 近郊	jbjn
 进阶	jbjp
@@ -38685,6 +38686,7 @@ IP地址	ipdv
 窂	lcjq
 𦒴	lcju
 老家	lcjx
+牢驾	lcjx
 牢靠	lckc
 㺐	lckd
 唠嗑	lcke

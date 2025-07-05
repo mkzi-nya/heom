@@ -29678,6 +29678,7 @@ jbjd	加班加点
 jbje	䆮
 jbje	寖
 jbji	紧急
+jbji	谨记
 jbjl	讲不讲理
 jbjn	近郊
 jbjp	进阶
@@ -38812,6 +38813,7 @@ lcjp	老姐
 lcjq	窂
 lcju	𦒴
 lcjx	老家
+lcjx	牢驾
 lckc	牢靠
 lckd	㺐
 lcke	唠嗑

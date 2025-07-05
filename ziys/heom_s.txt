@@ -29678,6 +29678,7 @@ php -S 127.0.0.1:8000	iphp
 䆮	jbje
 寖	jbje
 紧急	jbji
+谨记	jbji
 讲不讲理	jbjl
 近郊	jbjn
 进阶	jbjp
@@ -38812,6 +38813,7 @@ php -S 127.0.0.1:8000	iphp
 窂	lcjq
 𦒴	lcju
 老家	lcjx
+牢驾	lcjx
 牢靠	lckc
 㺐	lckd
 唠嗑	lcke
