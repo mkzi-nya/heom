@@ -19069,8 +19069,8 @@ github	gith
 㯏	gugd
 𣖫	gugd
 谷歌	guge
-毂	guge
 骨骼	guge
+毂	guge
 穀	guge
 榖	guge
 䐨	guge
@@ -69758,6 +69758,7 @@ http://mhtlim.top/usage/usage.html	uomk
 瀭	uuev
 顺势而为	uuew
 说说而已	uuey
+术法	uufa
 书法	uufa
 糬	uufa
 舒舒服服	uuff

@@ -19069,8 +19069,8 @@ gugd	股改
 gugd	㯏
 gugd	𣖫
 guge	谷歌
-guge	毂
 guge	骨骼
+guge	毂
 guge	穀
 guge	榖
 guge	䐨
@@ -69758,6 +69758,7 @@ uueo	漱
 uuev	瀭
 uuew	顺势而为
 uuey	说说而已
+uufa	术法
 uufa	书法
 uufa	糬
 uuff	舒舒服服
