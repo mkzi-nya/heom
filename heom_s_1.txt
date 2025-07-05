@@ -1,3 +1,4 @@
+	
 ;	：
 ;a	！
 ;b	_
@@ -34148,7 +34149,7 @@ jtgs	集团公司
 jtgu	䞷
 jtgu	趉
 jtgy	姜太公钓鱼
-jth	覺
+jth	        覺
 jthc	绝好
 jthd	集体活动
 jthe	㸕
@@ -74600,6 +74601,7 @@ vsui	重视
 vsuj	中山
 vsuo	𡻑
 vsuu	中暑
+vsuu	中枢
 vsv	终
 vsvc	中招
 vsvf	忠贞

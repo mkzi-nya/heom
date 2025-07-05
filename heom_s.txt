@@ -1,3 +1,4 @@
+		tab
 ：	;
 ！	;a
 _	;b
@@ -34148,7 +34149,7 @@ IP地址	ipdv
 䞷	jtgu
 趉	jtgu
 姜太公钓鱼	jtgy
-覺	jth
+        覺	jth
 绝好	jthc
 集体活动	jthd
 㸕	jthe
@@ -74600,6 +74601,7 @@ PPT	ppt
 中山	vsuj
 𡻑	vsuo
 中暑	vsuu
+中枢	vsuu
 终	vsv
 中招	vsvc
 忠贞	vsvf
