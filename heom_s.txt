@@ -72103,6 +72103,7 @@ PPT	ppt
 掙	vgqd
 𦓺	vgqd
 整齐	vgqi
+蒸汽	vgqi
 争抢	vgql
 挣钱	vgqm
 正巧	vgqn
@@ -78703,6 +78704,7 @@ PPT	ppt
 婉言谢绝	wyxj
 无一幸免	wyxm
 望洋兴叹	wyxt
+无以言表	wyyb
 唯一一次	wyyc
 无言以对	wyyd
 唯一一个	wyyg
@@ -88539,6 +88541,7 @@ PPT	ppt
 一家之言	yjvy
 兖州	yjvz
 欲加之罪	yjvz
+烟雾	yjw
 罨	yjw
 𤲩	yjwf
 殃及无辜	yjwg

@@ -72345,6 +72345,7 @@ vgqc	揁
 vgqd	掙
 vgqd	𦓺
 vgqi	整齐
+vgqi	蒸汽
 vgql	争抢
 vgqm	挣钱
 vgqn	正巧
@@ -78950,6 +78951,7 @@ wyxi	玩游戏
 wyxj	婉言谢绝
 wyxm	无一幸免
 wyxt	望洋兴叹
+wyyb	无以言表
 wyyc	唯一一次
 wyyd	无言以对
 wyyg	唯一一个
@@ -88791,6 +88793,7 @@ yjvx	𬙁
 yjvy	一家之言
 yjvz	兖州
 yjvz	欲加之罪
+yjw	烟雾
 yjw	罨
 yjwf	𤲩
 yjwg	殃及无辜
