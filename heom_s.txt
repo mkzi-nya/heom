@@ -21785,6 +21785,7 @@ GDP	gdp
 寒碜	hjif
 酣畅	hjih
 寒蝉	hjij
+寒颤	hjij
 𬣸	hjij
 𰶆	hjik
 寒窗	hjil
@@ -32621,6 +32622,7 @@ IP地址	ipdv
 叫绝	jnjt
 焦距	jnju
 𨎬	jnju
+交加	jnjx
 借你吉言	jnjy
 较	jnk
 狡	jnk

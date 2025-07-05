@@ -21868,6 +21868,7 @@ hjid	𣒷
 hjif	寒碜
 hjih	酣畅
 hjij	寒蝉
+hjij	寒颤
 hjij	𬣸
 hjik	𰶆
 hjil	寒窗
@@ -32726,6 +32727,7 @@ jnjr	𡬋
 jnjt	叫绝
 jnju	焦距
 jnju	𨎬
+jnjx	交加
 jnjy	借你吉言
 jnk	较
 jnk	狡

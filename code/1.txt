@@ -51418,4 +51418,6 @@ $	ofhb
 疾呼	jihu
 惊觉	jkjt
 雷击	lwji
+交加	jnjx
+寒颤	hjij
 惊惧交加	jjjj
