@@ -32840,6 +32840,7 @@ jnvh	脚掌
 jnvh	倦鸟知还
 jnvh	𠞰
 jnvi	脚趾
+jnvi	交织
 jnvj	交战
 jnvk	绞
 jnvk	姣
