@@ -56917,6 +56917,7 @@ qrl	权力
 qrle	𧍭
 qrlf	𧈾
 qrlg	蠸
+qrli	全力
 qrli	权利
 qrlo	全裸
 qrm	瑔
@@ -91892,9 +91893,9 @@ yyic	貟
 yyie	晕车
 yyif	匀称
 yyig	运程
-yyii	影影绰绰
 yyii	一语成谶
 yyii	晕晕沉沉
+yyii	影影绰绰
 yyij	囿于成见
 yyim	一夜成名
 yyio	贠

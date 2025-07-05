@@ -56722,6 +56722,7 @@ PPT	ppt
 𧍭	qrle
 𧈾	qrlf
 蠸	qrlg
+全力	qrli
 权利	qrli
 全裸	qrlo
 瑔	qrm
@@ -91635,9 +91636,9 @@ PPT	ppt
 晕车	yyie
 匀称	yyif
 运程	yyig
-影影绰绰	yyii
 一语成谶	yyii
 晕晕沉沉	yyii
+影影绰绰	yyii
 囿于成见	yyij
 一夜成名	yyim
 贠	yyio
