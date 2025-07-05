@@ -71362,6 +71362,7 @@ PPT	ppt
 籷	vefp
 折服	vefu
 周而复始	vefu
+蛰伏	vefu
 粍	vefu
 赭	veg
 喆	veg
@@ -81033,6 +81034,7 @@ PPT	ppt
 軒	xmjj
 軐	xmjj
 陷阱	xmjk
+险境	xmjk
 軐	xmjk
 𬸣	xmjm
 韯	xmjm

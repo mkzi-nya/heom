@@ -71362,6 +71362,7 @@ vefp	烢
 vefp	籷
 vefu	折服
 vefu	周而复始
+vefu	蛰伏
 vefu	粍
 veg	赭
 veg	喆
@@ -81033,6 +81034,7 @@ xmji	先机
 xmjj	軒
 xmjj	軐
 xmjk	陷阱
+xmjk	险境
 xmjk	軐
 xmjm	𬸣
 xmjm	韯
