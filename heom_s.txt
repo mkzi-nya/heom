@@ -33946,6 +33946,7 @@ IP地址	ipdv
 圈养	jryh
 倦意	jryi
 卷烟	jryj
+救人一命，胜造七级浮屠	jrym
 救人一命胜造七级浮屠	jrym
 隽永	jrys
 孑然一身	jryu
@@ -36715,8 +36716,8 @@ IP地址	ipdv
 阚	kjlk
 鬫	kjlk
 戡乱	kjlr
-刊	kjm
 砍	kjm
+刊	kjm
 𥑫	kjmc
 栞	kjmd
 看门	kjmf
@@ -71341,7 +71342,6 @@ PPT	ppt
 赭	veg
 喆	veg
 遮盖	vegd
-这个	vege
 鷙	vegf
 螫	vegi
 蟄	vegi
@@ -91635,6 +91635,7 @@ PPT	ppt
 晕车	yyie
 匀称	yyif
 运程	yyig
+影影绰绰	yyii
 一语成谶	yyii
 晕晕沉沉	yyii
 囿于成见	yyij
