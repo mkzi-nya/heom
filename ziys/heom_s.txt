@@ -20196,6 +20196,7 @@ github	gith
 够忙	gzmh
 狗命	gzmk
 玽	gzmr
+夠	gzn
 𡖑	gzni
 𪚭	gzni
 𱍅	gzni
@@ -90761,6 +90762,7 @@ http://mhtlim.top/usage/usage.html	uomk
 有失公允	yugy
 御	yuh
 禹	yuh
+與	yuh
 䫻	yuha
 𩘤	yuha
 𩘳	yuha
@@ -90770,10 +90772,10 @@ http://mhtlim.top/usage/usage.html	uomk
 𩘻	yuhb
 𬲆	yuhb
 舆	yuhc
-與	yuhc
-鴥	yuhc
 穥	yuhc
+鴥	yuhc
 籅	yuhc
+與	yuhc
 籲	yuhc
 軉	yuhc
 輿	yuhc

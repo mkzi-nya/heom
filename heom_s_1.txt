@@ -20120,6 +20120,7 @@ gzmd	购买
 gzmh	够忙
 gzmk	狗命
 gzmr	玽
+gzn	夠
 gzni	𡖑
 gzni	𪚭
 gzni	𱍅
@@ -90504,6 +90505,7 @@ yugx	雨刮
 yugy	有失公允
 yuh	御
 yuh	禹
+yuh	與
 yuha	䫻
 yuha	𩘤
 yuha	𩘳
@@ -90513,10 +90515,10 @@ yuhb	𨗝
 yuhb	𩘻
 yuhb	𬲆
 yuhc	舆
-yuhc	與
-yuhc	鴥
 yuhc	穥
+yuhc	鴥
 yuhc	籅
+yuhc	與
 yuhc	籲
 yuhc	軉
 yuhc	輿
