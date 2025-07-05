@@ -13450,7 +13450,6 @@ fahx	发话
 fahy	发昏
 faih	法场
 faij	发颤
-faiu	发出
 faiy	发春
 faiz	发愁
 fajb	罚金
@@ -67059,7 +67058,6 @@ ufiz	深仇
 ufj	审
 ufj	審
 ufj	煞风景
-ufj	審
 ufjb	伸进
 ufjc	𥥍
 ufjd	杀伐决断
@@ -80090,6 +80088,7 @@ xjbg	星级宾馆
 xjbi	相交不拆
 xjby	小家碧玉
 xjdg	消极怠工
+xjdi	心惊胆颤
 xjdr	现阶段
 xjdv	心惊胆战
 xjeq	喜极而泣

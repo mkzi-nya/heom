@@ -13450,7 +13450,6 @@ AA制	aavi
 发昏	fahy
 法场	faih
 发颤	faij
-发出	faiu
 发春	faiy
 发愁	faiz
 罚金	fajb
@@ -67059,7 +67058,6 @@ PPT	ppt
 审	ufj
 審	ufj
 煞风景	ufj
-審	ufj
 伸进	ufjb
 𥥍	ufjc
 杀伐决断	ufjd
@@ -80090,6 +80088,7 @@ PPT	ppt
 相交不拆	xjbi
 小家碧玉	xjby
 消极怠工	xjdg
+心惊胆颤	xjdi
 现阶段	xjdr
 心惊胆战	xjdv
 喜极而泣	xjeq
