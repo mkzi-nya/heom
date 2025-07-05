@@ -65265,6 +65265,7 @@ $	ofhb
 䥜	jmcd
 鎫	jmce
 鶼	jmcf
+錢	jmc
 錢	jmci
 銒	jmcj
 釼	jmck
