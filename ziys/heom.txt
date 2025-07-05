@@ -25,6 +25,7 @@
 _	;b
 「	;n
 」	;m
+牆	qlv	
 积雪	jixt
 尸体	uit
 湛蓝	vjl
@@ -44430,7 +44431,7 @@ IP地址	ipdv
 衾	qbov
 鲭	qkn
 亲	qky
-嫱	qlv
+嫱	qlvw
 筇	qsh
 犰	qqkn
 佥	qmom
@@ -76526,7 +76527,6 @@ $	ofhb
 𨄚	qlvo
 牄	qlvr
 㛨	qlvu
-牆	qlv
 嬙	qlvw
 牆	qlvw
 謒	qlyr

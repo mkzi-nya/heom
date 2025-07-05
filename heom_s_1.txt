@@ -55298,9 +55298,8 @@ qlur	枪栓
 qlus	𦯤
 qluv	呛水
 qluz	抢手
-qlv	嫱
-qlv	墙纸
 qlv	牆
+qlv	墙纸
 qlvd	千里之堤
 qlvd	𤕽
 qlve	强者
@@ -55324,6 +55323,7 @@ qlvr	牄
 qlvu	抢注
 qlvu	㛨
 qlvv	情理之中
+qlvw	嫱
 qlvw	嬙
 qlvw	牆
 qlvx	千里之行
