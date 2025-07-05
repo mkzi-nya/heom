@@ -13549,6 +13549,7 @@ famk	𤣹
 famo	罚没
 famu	伐木
 famw	发霉
+fan	發
 fane	發
 fanj	发难
 fanp	発

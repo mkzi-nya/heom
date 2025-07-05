@@ -13549,6 +13549,7 @@ deepseek	deep
 罚没	famo
 伐木	famu
 发霉	famw
+發	fan
 發	fane
 发难	fanj
 発	fanp

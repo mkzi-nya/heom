@@ -57081,6 +57081,7 @@ $	ofhb
 䣹	fami
 琺	fami
 𤣹	famk
+發	fan
 發	fane
 発	fanp
 𤇰	faof
