@@ -48619,7 +48619,7 @@ GDP	gdp
 梵	fjd
 矾	fjm
 敷	fuik
-蜉	ful
+蜉	fuld
 脯	fubb
 凫	fup
 俯	fuo
@@ -51367,6 +51367,7 @@ $	ofhb
 显示	x
 有时	y
 自动	z
+複	fule
 为什么	wsm
 无差别	wibp
 干什么	gsme

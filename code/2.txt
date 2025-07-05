@@ -6375,10 +6375,10 @@
 頫	fulc
 䫍	fulc
 蝜	fulc
-複	fule
 帗	fule
 袚	fule
 𧕡	fule
+複	fule
 蚹	fuli
 袝	fuli
 𢂆	fuli
