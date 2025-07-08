@@ -15903,6 +15903,7 @@ deepseek	deep
 奉为圭臬	fwgn
 飞过	fwgo
 扉	fwh
+¿	fwh
 䑔	fwhb
 𥝊	fwhb
 𥝋	fwhb
@@ -17309,6 +17310,7 @@ GDP	gdp
 更为	ggww
 亘古未有	ggwy
 更新	ggxb
+cd /storage/emulated/0/.ck/heom/code/ && git pull origin main	ggxb
 官官相护	ggxh
 高官显爵	ggxj
 更显	ggxm
@@ -63333,6 +63335,7 @@ git add . && git commit -m "meow" && git push origin main	push
 同场竞技	tijj
 体检	tijm
 提交	tijn
+sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 𣤖	tijo
 题解	tijp
 提价	tijx
