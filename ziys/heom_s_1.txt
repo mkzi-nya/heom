@@ -44977,6 +44977,7 @@ meri	嚒
 meta	马耳他
 meyn	卖儿鬻女
 mf	们
+mfa	門
 mfab	暪
 mfai	𨴺
 mfan	門
@@ -92638,6 +92639,7 @@ yzxq	优秀
 yzxs	右胸
 yzxu	有序
 yzxx	游侠
+yzy	遊
 yzya	优雅
 yzyb	诱因
 yzyb	迶

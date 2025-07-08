@@ -44841,6 +44841,7 @@ IP地址	ipdv
 马耳他	meta
 卖儿鬻女	meyn
 们	mf
+門	mfa
 暪	mfab
 𨴺	mfai
 門	mfan
@@ -92377,6 +92378,7 @@ PPT	ppt
 右胸	yzxs
 有序	yzxu
 游侠	yzxx
+遊	yzy
 优雅	yzya
 诱因	yzyb
 迶	yzyb
