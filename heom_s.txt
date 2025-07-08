@@ -15130,6 +15130,7 @@ AA制	aavi
 麩	fudo
 浮动	fuds
 幅度	fudu
+复读	fudu
 枹	fudu
 𣑿	fudu
 浮	fue

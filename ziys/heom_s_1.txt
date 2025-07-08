@@ -15187,6 +15187,7 @@ fudo	枎
 fudo	麩
 fuds	浮动
 fudu	幅度
+fudu	复读
 fudu	枹
 fudu	𣑿
 fue	浮
