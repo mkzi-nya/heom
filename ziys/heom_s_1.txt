@@ -45374,6 +45374,7 @@ mhgg	蒙混过关
 mhgo	芒果
 mhgs	壾
 mhh	牤
+mhhe	盲盒
 mhhh	牻
 mhhj	莽汉
 mhhl	明晃晃
