@@ -42633,6 +42633,7 @@ php -S 127.0.0.1:8000	iphp
 胧	lsb
 卢森堡	lsbc
 里斯本	lsbf
+😨👉🐉	lsbi
 老死不相往来	lsbl
 眬	lsbp
 矓	lsbp
