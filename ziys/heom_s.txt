@@ -48446,7 +48446,6 @@ milthm	milt
 譨	nhyv
 女孩子	nhz
 男孩子	nhzi
-你	ni
 泥	ni
 に	ni
 ニ	ni

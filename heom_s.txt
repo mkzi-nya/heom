@@ -48288,7 +48288,6 @@ IP地址	ipdv
 譨	nhyv
 女孩子	nhz
 男孩子	nhzi
-你	ni
 泥	ni
 䦵	niab
 溺爱	niai

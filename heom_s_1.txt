@@ -48288,7 +48288,6 @@ nhyu	那还用说
 nhyv	譨
 nhz	女孩子
 nhzi	男孩子
-ni	你
 ni	泥
 niab	䦵
 niai	溺爱
