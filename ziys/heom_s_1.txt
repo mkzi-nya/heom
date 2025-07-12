@@ -20674,6 +20674,7 @@ hcy	豪
 hcy	毫
 hcya	好呀
 hcyb	豪饮
+hcye	好耶
 hcyi	好意
 hcyj	𧬁
 hcyj	𩐮
