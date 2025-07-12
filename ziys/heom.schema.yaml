@@ -36,6 +36,7 @@ engine:
     - selector
     - navigator
     - express_editor
+    - lua_processor@*words_counter
   segmentors:
     - ascii_segmentor
     - matcher
