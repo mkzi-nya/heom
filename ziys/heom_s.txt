@@ -58639,6 +58639,7 @@ git add . && git commit -m "meow" && git push origin main	push
 衵	rila
 日历	rili
 日落	rilo
+rime	rime
 日冕	rimm
 日暮	rimu
 驲	rin

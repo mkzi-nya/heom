@@ -58639,6 +58639,7 @@ rikz	日寇
 rila	衵
 rili	日历
 rilo	日落
+rime	rime
 rimm	日冕
 rimu	日暮
 rin	驲
