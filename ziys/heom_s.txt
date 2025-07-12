@@ -36312,6 +36312,7 @@ php -S 127.0.0.1:8000	iphp
 𢩘	keit
 𢩐	keiu
 客	kej
+氪金	kejb
 𥦨	kejc
 窠	kejd
 𪃭	kejf

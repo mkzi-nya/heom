@@ -36196,6 +36196,7 @@ IP地址	ipdv
 𢩘	keit
 𢩐	keiu
 客	kej
+氪金	kejb
 𥦨	kejc
 窠	kejd
 𪃭	kejf
