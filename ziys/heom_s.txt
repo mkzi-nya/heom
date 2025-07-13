@@ -32479,6 +32479,7 @@ php -S 127.0.0.1:8000	iphp
 举目无亲	jmwq
 𪒹	jmwr
 奸污	jmwu
+msbt.seku.su	jmwv
 键位	jmww
 𢆦	jmww
 坚信	jmxb
@@ -78908,6 +78909,7 @@ http://mhtlim.top/usage/usage.html	uomk
 无暇分身	wxfu
 无暇顾及	wxgj
 万象更新	wxgx
+呃嗯～～哈哦呃咿哈嗯哈哼呃嗯！哼！噢呃咕唔❤！齁	wxhn
 五星红旗	wxhq
 卧薪尝胆	wxid
 胃下垂	wxiv

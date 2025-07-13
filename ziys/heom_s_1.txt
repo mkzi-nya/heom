@@ -32479,6 +32479,7 @@ jmwo	𪒫
 jmwq	举目无亲
 jmwr	𪒹
 jmwu	奸污
+jmwv	msbt.seku.su
 jmww	键位
 jmww	𢆦
 jmxb	坚信
@@ -78908,6 +78909,7 @@ wxdy	妄下断语
 wxfu	无暇分身
 wxgj	无暇顾及
 wxgx	万象更新
+wxhn	呃嗯～～哈哦呃咿哈嗯哈哼呃嗯！哼！噢呃咕唔❤！齁
 wxhq	五星红旗
 wxid	卧薪尝胆
 wxiv	胃下垂
