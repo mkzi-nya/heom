@@ -11,7 +11,7 @@ $cmd({cttg}:yMdHm,{cttg}:yMdHm)	onl
 $cmd({time}:HH:mm ddd,{time}:HH:mm ddd)	ouj
 $cmd({time}:H点m分,{time}:H点m分)	ouj
 $cmd({ctjq},{ctjq})	ojq
-
+$cmd(shell(echo 123),[shell])	oshe
 $cmd(run(https://flypy.com),[小鹤官网])	xhgw
 https://flypy.com	xhg
 $cmd(run(http://flypy.ysepan.com),[小鹤网盘])	xhwp
@@ -23,7 +23,7 @@ $cmd(run(https://flypy.cc/#/sj),[②])	orm
 $cmd(run(https://www.kancloud.cn/flypy/xhrm/3245098),[看云])	orm
 $cmd(set(reload),[重载])	oiz
 $cmd(set(reload),[重载])	ouz
-
+$cmd(shell(sh /storage/emulated/0/test.sh),[test])	oshe
 $cmd(deleteall,[全删])	oqu
 $cmd(recoverdelete,[恢复])	oqu
 $cmd(deleteline,[删行])	oui$!
@@ -279,9 +279,3 @@ $cmd(downloadconfig,[下载])	ohtb
 $cmd(set(kb-floatcandidirection=0;kb-floatmaxwidth=105%),[悬浮_横排])	ohu
 $cmd(set(kb-floatcandidirection=1;kb-floatmaxwidth=1%),[竖排])	ohu
 $cmd(set(base-skin-android=键盘——高飞.xpa;base-color-android=配色——小鹤.xp;ime-imemode=0;ime-quanjiao=0;ime-cnuseensymbol=0;ime-hint=0;ime-push=1;ime-ding=1;ime-pushcodelength=4;ime-pushwhengemax=1;ime-dingcodelength=4;ime-maxcleancount=4;ime-embedmode=1;ime-showphrase=1;ime-inputmode=2;ime-usedassisttype1=-1;ime-usedassisttype1=+2;ime-blockkeys=-1;ime-empty=3;ime-candiwin=1;ime-statuswin=1;kb-spacetext=+小鹤;kb-keyshowcandi=0;assoc-enable=1;assoc-dual=1),→[默认态])	omr
-$cmd(set(base-ime-active=1),[鹤仓])	urf
-$cmd(set(base-ime-active=2),[倉])	urf
-$cmd(set(base-ime-active=0),[鹤])	urf
-$cmd(set(base-ime-active=5),[日仓])	urf
-$cmd(set(base-ime-active=3),[简单鹤])	urf
-$cmd(set(base-ime-active=4),[鲸凉鹤])	urf
