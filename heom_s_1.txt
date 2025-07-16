@@ -34872,10 +34872,11 @@ just	㞐
 jusv	屦
 jusv	屨
 jut	菊
-jut	鞠
+jut	莒
 jut	苣
 jutb	萭
 jutb	𦺖
+jutd	鞠
 jutd	䕮
 jutd	蘜
 jute	𠮑
@@ -34892,7 +34893,6 @@ jutn	𩍔
 jutq	九省通衢
 jutq	𰺅
 jutr	剧团
-jutr	莒
 jutr	鞫
 jutr	蒟
 jutr	𦱅

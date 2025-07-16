@@ -34996,10 +34996,11 @@ msbt.seku.su	jmwv
 屦	jusv
 屨	jusv
 菊	jut
-鞠	jut
+莒	jut
 苣	jut
 萭	jutb
 𦺖	jutb
+鞠	jutd
 䕮	jutd
 蘜	jutd
 𠮑	jute
@@ -35016,7 +35017,6 @@ msbt.seku.su	jmwv
 九省通衢	jutq
 𰺅	jutq
 剧团	jutr
-莒	jutr
 鞫	jutr
 蒟	jutr
 𦱅	jutr
