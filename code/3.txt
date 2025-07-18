@@ -9,6 +9,8 @@ msbt.seku.su	jmwv
 cd /storage/emulated/0/.ck/heom/code/ && git pull origin main	ggxb
 sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 巭孬嫑夯昆勥茓	gfbh
+术力口	ulkz
+ボカロ	ulkz
 查分器	ifqi
 git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull

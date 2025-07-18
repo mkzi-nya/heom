@@ -59105,6 +59105,7 @@ rujn	乳胶
 rujv	如数家珍
 rujv	𡫽
 rujx	儒家
+rukg	入坑
 rukr	㾒
 ruku	入库
 rukz	入口
@@ -69603,12 +69604,13 @@ uuhv	䠼
 uuhv	毺
 uuhx	书画
 uui	书
-uui	庶
+uui	术
 uuia	树杈
 uuia	𢋂
 uuic	朮
 uuid	设身处地
 uuid	术
+uuif	庶
 uuih	舒畅
 uuii	戍
 uuik	说时迟，那时快
@@ -78753,7 +78755,6 @@ wzdt	稳坐钓鱼台
 wzdx	危在旦夕
 wzfb	妄自菲薄
 wzfu	外祖父
-wzfz	王子犯法与庶民同罪
 wzil	望子成龙
 wzjm	无则加勉
 wzjq	五脏俱全

@@ -59105,6 +59105,7 @@ PPT	ppt
 如数家珍	rujv
 𡫽	rujv
 儒家	rujx
+入坑	rukg
 㾒	rukr
 入库	ruku
 入口	rukz
@@ -69603,12 +69604,13 @@ PPT	ppt
 毺	uuhv
 书画	uuhx
 书	uui
-庶	uui
+术	uui
 树杈	uuia
 𢋂	uuia
 朮	uuic
 设身处地	uuid
 术	uuid
+庶	uuif
 舒畅	uuih
 戍	uuii
 说时迟，那时快	uuik
@@ -78753,7 +78755,6 @@ PPT	ppt
 危在旦夕	wzdx
 妄自菲薄	wzfb
 外祖父	wzfu
-王子犯法与庶民同罪	wzfz
 望子成龙	wzil
 无则加勉	wzjm
 五脏俱全	wzjq
