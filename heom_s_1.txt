@@ -75058,6 +75058,7 @@ vusi	屬
 vusk	𡱱
 vusl	斸
 vusl	𣃁
+vusm	这是什么
 vusn	劚
 vusn	㔉
 vuso	住所
