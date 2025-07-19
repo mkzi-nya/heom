@@ -41730,9 +41730,9 @@ lokl	箩筐
 lokr	落款
 lokr	𰺢
 loks	落空
-lol	螺
 lol	裸
 lold	蜾
+lolf	螺
 lolg	𢅾
 lolg	𧟌
 loli	萝莉

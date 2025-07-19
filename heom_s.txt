@@ -41730,9 +41730,9 @@ IP地址	ipdv
 落款	lokr
 𰺢	lokr
 落空	loks
-螺	lol
 裸	lol
 蜾	lold
+螺	lolf
 𢅾	lolg
 𧟌	lolg
 萝莉	loli
