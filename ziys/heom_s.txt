@@ -68361,6 +68361,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 𨙩	uijl
 实践	uijm
 士	uijm
+世间	uijm
 軾	uijm
 视角	uijn
 亊	uijn
