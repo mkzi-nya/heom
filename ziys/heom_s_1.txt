@@ -82493,8 +82493,8 @@ xprq	𠿇
 xprt	㖑
 xprt	𬦯
 xpru	写入
+xps	屑
 xpsa	𩤠
-xpsb	屑
 xpsb	㞕
 xpsb	脋
 xpsc	屓
