@@ -29807,6 +29807,7 @@ IP地址	ipdv
 尽心	jbxb
 箭不虚发	jbxf
 今昔	jbxi
+今夕	jbxi覺	jth
 进行	jbxk
 仅限	jbxm
 今宵	jbxn
@@ -34155,7 +34156,6 @@ IP地址	ipdv
 䞷	jtgu
 趉	jtgu
 姜太公钓鱼	jtgy
-覺	jth
 绝好	jthc
 集体活动	jthd
 㸕	jthe
