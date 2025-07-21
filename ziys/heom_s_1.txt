@@ -33004,6 +33004,7 @@ jnvy	校准
 jnwd	郊外
 jnwh	交往
 jnwj	较晚
+jnwo	教我
 jnwu	教务
 jnww	较为
 jnxb	交心
