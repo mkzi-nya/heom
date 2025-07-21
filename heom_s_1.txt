@@ -8227,6 +8227,7 @@ dcgz	导购
 dch	稻
 dcha	稲
 dchc	倒好
+dchc	盗号
 dche	道贺
 dche	艔
 dchf	鳥

@@ -8227,6 +8227,7 @@ AA制	aavi
 稻	dch
 稲	dcha
 倒好	dchc
+盗号	dchc
 道贺	dche
 艔	dche
 鳥	dchf
