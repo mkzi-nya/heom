@@ -67878,6 +67878,7 @@ uhzd	尚在
 uhzo	上座
 ui	事
 ui	十
+ui	诗
 uia	时
 uiad	㒾
 uiai	時
