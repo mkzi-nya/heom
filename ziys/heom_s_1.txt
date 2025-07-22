@@ -180363,6 +180363,7 @@ pylu	破衣烂衫
 pymh	便宜没好货
 pyo	ぴょ
 pyo	ピョ
+python	pyth
 pyu	ぴゅ
 pyu	ピュ
 pyvb	平庸之辈
