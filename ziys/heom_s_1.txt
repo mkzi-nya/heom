@@ -4482,6 +4482,7 @@ bope	𢠺
 bopi	剥皮
 bopi	愽
 boq	播
+boq	搏
 boqa	拍
 boqd	㩭
 boqd	挬
@@ -4489,7 +4490,6 @@ boqd	𬹇
 boqe	撥
 boqe	㩧
 boqi	勃起
-boqi	搏
 boqk	薄情
 boqk	𢫯
 boqu	博取
@@ -12772,6 +12772,7 @@ edbn	儿大不由娘
 edjl	二等奖
 edyj	恩断义绝
 ee	额
+ee	恶
 eeaa	恩恩爱爱
 eeaf	𨶯
 eean	𤭼
@@ -12901,7 +12902,6 @@ eelu	𧊜
 eelu	𧌄
 eelv	𧌄
 eely	阏
-eem	恶
 eem	厄
 eemc	鹅毛
 eemc	䫷
@@ -14770,10 +14770,10 @@ fjkw	㺕
 fjkw	𰺜
 fjky	犯困
 fjky	犿
+fjl	帆
 fjlc	烦劳
 fjle	烦了
 fjli	范例
-fjli	帆
 fjlj	泛滥
 fjll	饭量
 fjlm	翻脸
@@ -16914,8 +16914,6 @@ gekp	㤎
 gekv	獦
 gekv	𬨍
 gekv	𮝺
-gel	蛤
-gel	袼
 gel	阁
 gelc	阁老
 gele	隔了
@@ -16923,6 +16921,8 @@ gele	㠷
 geli	隔离
 geln	虼
 gelp	割裂
+gelr	袼
+gelr	蛤
 gelr	蛒
 gelr	𧎺
 gelr	𬮤
@@ -17617,6 +17617,7 @@ gjgt	𧾲
 gjgu	干股
 gjgw	各就各位
 gjgx	国际关系
+gjh	竿
 gjh	秆
 gjhc	干好
 gjhc	凲
@@ -17625,7 +17626,6 @@ gjhc	𥸡
 gjhe	干涸
 gjhg	𱸜
 gjhj	干旱
-gjhj	竿
 gjhj	稈
 gjhj	筸
 gjhj	簳
@@ -21772,13 +21772,13 @@ hjam	𱉶
 hjao	暵
 hjar	晗
 hjau	晥
+hjb	罕
 hjbc	汉堡
 hjbe	𦜆
 hjbf	厚积薄发
 hjbf	合久必分
 hjbi	好景不长
 hjbj	好久不见
-hjbj	罕
 hjbj	睅
 hjbj	豻
 hjbj	䍑
@@ -32583,7 +32583,6 @@ jnbh	膠
 jnbi	䂃
 jnbj	搅拌
 jnbj	𥃪
-jnbk	交兵
 jnbk	胶
 jnbk	覐
 jnbk	賋
@@ -32973,7 +32972,6 @@ jnuv	胶水
 jnuz	教授
 jnv	缴
 jnv	娇
-jnv	剿
 jnva	狡诈
 jnvb	嬌
 jnvc	纐
@@ -32996,6 +32994,7 @@ jnvk	繳
 jnvk	嬓
 jnvk	絞
 jnvl	纠
+jnvn	剿
 jnvo	焦灼
 jnvs	较重
 jnvs	勦
@@ -39659,6 +39658,7 @@ ligs	赲
 ligs	𫎱
 ligv	厉鬼
 lih	利
+lih	黎
 lihb	篱
 lihb	䅻
 lihb	犡
@@ -39681,7 +39681,6 @@ lihd	𥶗
 lihd	𩘟
 lihd	𰤕
 lihe	离合
-lihe	黎
 lihe	㴝
 lihe	䉫
 lihe	䴻
@@ -47294,7 +47293,7 @@ musj	𩬍
 muss	目送
 musu	毣
 mut	幕
-mut	苜
+mut	募
 muta	暮
 mutd	莯
 mutg	墓
@@ -47307,7 +47306,7 @@ mutl	没事偷着乐
 mutp	慕
 mutp	𢜯
 muts	木桶
-muts	募
+mutu	苜
 mutz	木头
 muud	𡵬
 muui	目视
@@ -180594,7 +180593,6 @@ qbpu	琴谱
 qbpw	钦佩
 qbq	秦
 qbq	瞧不起
-qbqb	亲亲
 qbqb	擒
 qbqc	捦
 qbqf	㩒
@@ -193322,14 +193320,13 @@ uceb	潲
 ucee	烧鹅
 ucee	溲
 ucer	少儿
-ucf	少
+ucf	烧
 ucfe	𢼼
 ucfg	燿
 ucfj	烧饭
 ucfl	𨙹
 ucfl	𨛍
 ucfu	少妇
-ucfu	烧
 ucfu	燒
 ucfu	焼
 ucfy	神采飞扬
@@ -197353,10 +197350,10 @@ uzju	收据
 uzju	稍纵即逝
 uzjx	售价
 uzjz	说走就走
+uzk	瘦
 uzk	狩
 uzkc	手铐
 uzke	授课
-uzke	瘦
 uzke	痩
 uzkf	首肯
 uzkj	收看
@@ -198054,10 +198051,10 @@ vdip	㡯
 vdir	长大成人
 vdiu	摘除
 vdj	窄
+vdj	寨
 vdj	战斗机
 vdjc	张灯结彩
 vdjd	真的假的
-vdjd	寨
 vdjf	𪀥
 vdjk	𤞮
 vdjp	斋戒
@@ -199264,10 +199261,10 @@ vhxm	彰显
 vhxs	长兄
 vhxu	朝花夕拾
 vhy	章
+vhy	彰
 vhya	长牙
 vhyf	𪅂
 vhyh	张扬
-vhyh	彰
 vhyi	仗义
 vhyi	𠅹
 vhyj	遧
@@ -201818,6 +201815,7 @@ vums	朝生暮死
 vums	劯
 vumu	瞩目
 vumz	主谋
+vun	驻
 vuna	陼
 vuna	鯺
 vunb	鬻
@@ -201829,7 +201827,6 @@ vund	鮢
 vund	𩶄
 vunf	𤎧
 vung	装神弄鬼
-vung	驻
 vunm	逐年
 vunm	阻
 vunn	粥
@@ -214658,7 +214655,6 @@ yiyd	施
 yiyd	迆
 yiyd	訑
 yiyd	𧦧
-yiye	一夜
 yiye	毅
 yiyf	鷾
 yiyf	𪁚
