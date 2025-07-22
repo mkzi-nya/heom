@@ -73074,7 +73074,6 @@ viqj	搱
 viqk	知情
 viqk	㨖
 viqk	𢷸
-viql	咫尺千里
 viql	掷
 viql	擲
 viql	擳
@@ -80698,9 +80697,10 @@ xlsu	像素
 xlsv	相随
 xlsv	驤
 xlt	巷
-xlt	相通
+xlt	翔
 xlta	萫
 xltc	𦺣
+xltd	相通
 xltf	鯗
 xltf	𦍴
 xltg	𦎈
