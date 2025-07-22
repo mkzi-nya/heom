@@ -1,3 +1,11 @@
+㕶	ngrm
+㕶	nnrm
+礼	limu
+𠮾	ngru
+𥎣	zrnv
+𥎣	crnv
+𦥏	vimg
+灰	hvmf
 覺	jth
 錒	aacr
 𨉚	aahu
@@ -25281,6 +25289,7 @@
 塹	qmjg
 𥧬	qmjg
 兛	qmjj
+兛	kgjj
 軡	qmjn
 蹇	qmjo
 䞿	qmjo
@@ -25309,6 +25318,7 @@
 雃	qmmg
 幵	qmmj
 瓩	qmmj
+瓩	kwmj
 𠀼	qmmk
 𥔮	qmmk
 𨝍	qmml

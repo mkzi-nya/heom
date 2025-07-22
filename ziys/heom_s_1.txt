@@ -1827,6 +1827,7 @@ bdjx	败家
 bdjy	败军
 bdkd	掰开
 bdke	百科
+bdke	兡
 bdkh	遍地开花
 bdkj	猈
 bdkn	不大可能
@@ -7129,6 +7130,7 @@ crne	𥍬
 crnf	𥎢
 crnf	𥎤
 crnn	𨼉
+crnv	𥎣
 cro	汆
 cro	镩
 croe	𮸏
@@ -13860,6 +13862,7 @@ ffkc	㿎
 ffkc	獖
 ffkd	分开
 ffke	分科
+ffke	兝
 ffkg	粪坑
 ffko	𬏷
 ffko	𮝷
@@ -24360,6 +24363,7 @@ hvmb	回民
 hvmc	殨
 hvmc	靧
 hvmc	𩔁
+hvmf	灰
 hvmf	䃣
 hvmf	𪈑
 hvmg	䝅
@@ -36615,6 +36619,7 @@ kgja	𨍑
 kgjb	𨌳
 kgjc	䡩
 kgji	𨋔
+kgjj	兛
 kgju	𨌶
 kgjy	𥥳
 kgkb	奟
@@ -37979,6 +37984,7 @@ kwbj	可望不可即
 kwbn	勘误表
 kwej	可望而不可即
 kwju	矿务局
+kwmj	瓩
 kwte	科威特
 kwui	可谓是
 kwvi	矿物质
@@ -39826,6 +39832,7 @@ likd	离开
 likd	轹
 likd	𤠫
 like	立刻
+like	兣
 likg	㻎
 likg	㾖
 liki	𤼚
@@ -39992,6 +39999,7 @@ limt	砬
 limt	雴
 limt	𥁟
 limu	礼
+limu	礼
 limu	䚕
 limu	𧢝
 limu	𰴗
@@ -44714,6 +44722,7 @@ mcju	氂
 mcju	軞
 mck	猫
 mckb	冇
+mcke	兞
 mckg	茅坑
 mcks	毛孔
 mcku	毛裤
@@ -48407,8 +48416,10 @@ ngnv	男耕女织
 ngqj	能工巧匠
 ngr	那个人
 ngrf	能人
+ngrm	㕶
 ngrp	𠹌
 ngrp	𨃳
+ngru	𠮾
 ngsu	年过三十
 ngtn	薴
 ngtu	哪管他人瓦上霜
@@ -49240,6 +49251,7 @@ nnqv	𢸣
 nnqv	𫽲
 nnrf	鸟人
 nnrh	泥牛入海
+nnrm	㕶
 nns	尿
 nnsc	𩭑
 nnse	㞙
@@ -55823,6 +55835,7 @@ qmkb	鬵
 qmkb	𰺉
 qmkd	椠
 qmke	千克
+qmke	兛
 qmkg	𤠿
 qmkq	牵
 qmkr	欠款
@@ -56078,6 +56091,7 @@ qmvu	签注
 qmvv	前缀
 qmw	黔
 qmwa	千瓦
+qmwa	瓩
 qmwh	前往
 qmwj	千万
 qmwj	亲密无间
@@ -68396,6 +68410,7 @@ uikb	𤹌
 uikc	𠡥
 uikd	𤜣
 uike	时刻
+uike	兙
 uikk	石块
 uikk	㹬
 uikk	㹷
@@ -73165,6 +73180,7 @@ vime	致
 vimf	之门
 vimf	示
 vimf	鵄
+vimg	𦥏
 vimg	厔
 vimg	祬
 vimg	臸
@@ -94471,6 +94487,7 @@ zrlh	𰿰
 zrmc	𣪁
 zrnc	䂎
 zrno	𥎝
+zrnv	𥎣
 zro	钻
 zroc	饡
 zrof	𬮃

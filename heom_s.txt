@@ -7082,6 +7082,7 @@ AA制	aavi
 𥎢	crnf
 𥎤	crnf
 𨼉	crnn
+𥎣	crnv
 汆	cro
 镩	cro
 𮸏	croe
@@ -24255,6 +24256,7 @@ GDP	gdp
 殨	hvmc
 靧	hvmc
 𩔁	hvmc
+灰	hvmf
 䃣	hvmf
 𪈑	hvmf
 䝅	hvmg
@@ -36477,6 +36479,7 @@ IP地址	ipdv
 𨌳	kgjb
 䡩	kgjc
 𨋔	kgji
+兛	kgjj
 𨌶	kgju
 𥥳	kgjy
 奟	kgkb
@@ -37835,6 +37838,7 @@ IP地址	ipdv
 勘误表	kwbn
 可望而不可即	kwej
 矿务局	kwju
+瓩	kwmj
 科威特	kwte
 可谓是	kwui
 矿物质	kwvi
@@ -39840,6 +39844,7 @@ IP地址	ipdv
 雴	limt
 𥁟	limt
 礼	limu
+礼	limu
 䚕	limu
 𧢝	limu
 𰴗	limu
@@ -48224,8 +48229,10 @@ IP地址	ipdv
 能工巧匠	ngqj
 那个人	ngr
 能人	ngrf
+㕶	ngrm
 𠹌	ngrp
 𨃳	ngrp
+𠮾	ngru
 年过三十	ngsu
 薴	ngtn
 哪管他人瓦上霜	ngtu
@@ -49055,6 +49062,7 @@ IP地址	ipdv
 𫽲	nnqv
 鸟人	nnrf
 泥牛入海	nnrh
+㕶	nnrm
 尿	nns
 𩭑	nnsc
 㞙	nnse
@@ -72880,6 +72888,7 @@ PPT	ppt
 之门	vimf
 示	vimf
 鵄	vimf
+𦥏	vimg
 厔	vimg
 祬	vimg
 臸	vimg
@@ -94156,6 +94165,7 @@ PPT	ppt
 𣪁	zrmc
 䂎	zrnc
 𥎝	zrno
+𥎣	zrnv
 钻	zro
 饡	zroc
 𬮃	zrof
