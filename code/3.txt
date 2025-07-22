@@ -25,7 +25,7 @@ http://mhtlim.top/usage/usage.html	uomk
 milthm	milt
 github	gith
 deepseek	deep
-pyth	python
+python	pyth
 rime	rime
 ちゃん	jl
 ₍˄·͈༝·͈˄*₎◞ ̑̑	mcmc
