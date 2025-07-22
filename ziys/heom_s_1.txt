@@ -12742,8 +12742,8 @@ dzzi	豆子
 dzzv	斗嘴
 dzzx	刀子嘴豆腐心
 e	二
+e	而
 e	嗯
-e	嗯嗯
 e	え
 e	エ
 e	ㄜ
@@ -13207,7 +13207,8 @@ eo	偶尔
 ep	恶评
 epfg	耳旁风
 eq	而且
-er	而
+er	尔
+er	儿
 er	ㄦ
 erba	二八
 erbb	臑

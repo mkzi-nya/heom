@@ -12686,8 +12686,8 @@ AA制	aavi
 斗嘴	dzzv
 刀子嘴豆腐心	dzzx
 二	e
+而	e
 嗯	e
-嗯嗯	e
 恩爱	ea
 而不	eb
 饿不饿	ebee
@@ -13143,7 +13143,8 @@ AA制	aavi
 恶评	ep
 耳旁风	epfg
 而且	eq
-而	er
+尔	er
+儿	er
 二八	erba
 臑	erbb
 二百	erbd
