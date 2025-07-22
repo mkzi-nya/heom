@@ -25473,7 +25473,6 @@ iaci	釵
 iacm	𨩨
 iaco	差错
 iacp	䤩
-iacu	岔
 iacu	𨪺
 iacx	鍤
 iad	查
@@ -26058,7 +26057,6 @@ iegu	彻骨
 iegu	𧼳
 iegy	䞣
 ieh	彻
-ieh	掣
 iehc	车号
 iehe	㿭
 iehk	徹
@@ -26066,6 +26064,7 @@ iehk	䒆
 iehl	𩗙
 ieho	车祸
 iehp	𱰗
+iehq	掣
 iehr	撤换
 iehs	勶
 iehv	撤回
@@ -50203,8 +50202,9 @@ nzwu	农作物
 nzyb	譳
 nzyv	譨
 nzzz	念兹在兹
+o	也
 o	哦
-o	哦哦
+o	噢
 o	お
 o	オ
 o	ㄛ
@@ -200230,6 +200230,8 @@ vjgr	趈
 vjgu	战鼓
 vjgu	𡕁
 vjgy	𰊅
+vjh	毡
+vjh	飐
 vjhc	战壕
 vjhi	𤜇
 vjhj	𨊈
@@ -200239,8 +200241,6 @@ vjhm	䡀
 vjhm	氊
 vjhm	𥴐
 vjho	战火
-vjhr	毡
-vjhr	飐
 vjhr	黏
 vjhr	颭
 vjhr	𥶕
