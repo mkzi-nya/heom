@@ -204868,6 +204868,7 @@ wwaq	韙
 wwas	𬀩
 wwau	𨴓
 wwav	𨵋
+wwb	爲
 wwba	尾巴
 wwbb	𦢿
 wwbb	𧳪
@@ -204876,7 +204877,6 @@ wwbc	𥌰
 wwbc	𦠻
 wwbc	𧸽
 wwbf	为本
-wwbf	爲
 wwbf	𥊪
 wwbg	眭
 wwbg	𧳞
@@ -219615,6 +219615,7 @@ zczd	早在
 zczi	枣子
 zczv	遭罪
 zd	载
+zd	自动
 zdan	在案
 zday	𣅃
 zdba	躁动不安

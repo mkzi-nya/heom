@@ -47741,6 +47741,7 @@ IP地址	ipdv
 责	zeq
 则	ze
 载	zd
+自动	zd
 族	zuy
 足	zur
 字	zi
