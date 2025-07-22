@@ -1810,6 +1810,7 @@ bdjx	败家
 bdjy	败军
 bdkd	掰开
 bdke	百科
+bdke	兡
 bdkh	遍地开花
 bdkj	猈
 bdkn	不大可能
@@ -13795,6 +13796,7 @@ ffkc	㿎
 ffkc	獖
 ffkd	分开
 ffke	分科
+ffke	兝
 ffkg	粪坑
 ffko	𬏷
 ffko	𮝷
@@ -39678,6 +39680,7 @@ likd	离开
 likd	轹
 likd	𤠫
 like	立刻
+like	兣
 likg	㻎
 likg	㾖
 liki	𤼚
@@ -40425,6 +40428,7 @@ ljzu	拦阻
 ljzv	烂醉
 ljzx	乱箭攒心
 lk	另
+lk	领
 lkai	昤
 lkai	㬡
 lkai	閝
@@ -44560,6 +44564,7 @@ mcju	氂
 mcju	軞
 mck	猫
 mckb	冇
+mcke	兞
 mckg	茅坑
 mcks	毛孔
 mcku	毛裤
@@ -55604,6 +55609,7 @@ qmkb	鬵
 qmkb	𰺉
 qmkd	椠
 qmke	千克
+qmke	兛
 qmkg	𤠿
 qmkq	牵
 qmkr	欠款
@@ -55859,6 +55865,7 @@ qmvu	签注
 qmvv	前缀
 qmw	黔
 qmwa	千瓦
+qmwa	瓩
 qmwh	前往
 qmwj	千万
 qmwj	亲密无间
@@ -68123,6 +68130,7 @@ uikb	𤹌
 uikc	𠡥
 uikd	𤜣
 uike	时刻
+uike	兙
 uikk	石块
 uikk	㹬
 uikk	㹷

@@ -1810,6 +1810,7 @@ AA制	aavi
 败军	bdjy
 掰开	bdkd
 百科	bdke
+兡	bdke
 遍地开花	bdkh
 猈	bdkj
 不大可能	bdkn
@@ -13795,6 +13796,7 @@ AA制	aavi
 獖	ffkc
 分开	ffkd
 分科	ffke
+兝	ffke
 粪坑	ffkg
 𬏷	ffko
 𮝷	ffko
@@ -39678,6 +39680,7 @@ IP地址	ipdv
 轹	likd
 𤠫	likd
 立刻	like
+兣	like
 㻎	likg
 㾖	likg
 𤼚	liki
@@ -40425,6 +40428,7 @@ IP地址	ipdv
 烂醉	ljzv
 乱箭攒心	ljzx
 另	lk
+领	lk
 昤	lkai
 㬡	lkai
 閝	lkai
@@ -44560,6 +44564,7 @@ IP地址	ipdv
 軞	mcju
 猫	mck
 冇	mckb
+兞	mcke
 茅坑	mckg
 毛孔	mcks
 毛裤	mcku
@@ -55604,6 +55609,7 @@ PPT	ppt
 𰺉	qmkb
 椠	qmkd
 千克	qmke
+兛	qmke
 𤠿	qmkg
 牵	qmkq
 欠款	qmkr
@@ -55859,6 +55865,7 @@ PPT	ppt
 前缀	qmvv
 黔	qmw
 千瓦	qmwa
+瓩	qmwa
 前往	qmwh
 千万	qmwj
 亲密无间	qmwj
@@ -68123,6 +68130,7 @@ PPT	ppt
 𠡥	uikc
 𤜣	uikd
 时刻	uike
+兙	uike
 石块	uikk
 㹬	uikk
 㹷	uikk

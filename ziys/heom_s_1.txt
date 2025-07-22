@@ -40580,6 +40580,7 @@ ljzu	拦阻
 ljzv	烂醉
 ljzx	乱箭攒心
 lk	另
+lk	领
 lkai	昤
 lkai	㬡
 lkai	閝
