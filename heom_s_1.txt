@@ -85897,7 +85897,7 @@ ydyy	有多远滚多远
 ydzh	一肚子火
 ydzi	一肚子
 ydzq	一肚子气
-ye	也
+ye	夜
 ye	野
 yead	曗
 yeaj	晔
@@ -92458,8 +92458,8 @@ yzzi	柚子
 yzzi	⺀
 yzzz	游走
 z	在
+z	再
 z	子
-z	自动
 za	咋
 zab	臜
 zaba	𦠛
@@ -92775,7 +92775,6 @@ zczc	早早
 zczd	早在
 zczi	枣子
 zczv	遭罪
-zd	再
 zd	载
 zdan	在案
 zday	𣅃
