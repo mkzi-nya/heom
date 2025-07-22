@@ -13129,7 +13129,6 @@ egeu	恩格尔系数
 egmy	恶贯满盈
 egqj	耳根清净
 egtz	二锅头
-eh	鹤
 ehbu	二话不说
 ehhf	恶狠狠
 ehmu	二话没说
