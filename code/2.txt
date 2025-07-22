@@ -27599,10 +27599,10 @@
 𦭡	sitr
 𦇵	siuf
 㣈	sivb
-絲	sivf
 糸	sivf
 糹	sivf
 鷥	sivf
+絲	sivf
 𦇲	sivg
 厶	sivi
 𡡒	sivl
@@ -33255,10 +33255,10 @@
 妷	vivo
 紩	vivo
 𮉢	vivo
-紙	vivp
 娡	vivp
 綕	vivp
 𬘨	vivp
+紙	vivp
 𪒊	viwe
 𡈊	viwf
 𪑜	viwr

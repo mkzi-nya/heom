@@ -181077,7 +181077,8 @@ qiix	䄢
 qiix	麡
 qiix	𪗆
 qij	七
-qij	耆
+qij	妻
+qija	耆
 qijb	迄今
 qijc	轻车简从
 qijc	賫
@@ -181112,7 +181113,6 @@ qiju	𡫁
 qiju	𣯆
 qiju	𧡺
 qijv	浅尝即止
-qijv	妻
 qijv	𡢖
 qijx	起家
 qik	奇
@@ -187217,10 +187217,10 @@ siv	姒
 sivb	㣈
 sivd	私宅
 sive	死者
-sivf	絲
 sivf	糸
 sivf	糹
 sivf	鷥
+sivf	絲
 sivg	𦇲
 sivi	四肢
 sivi	厶
@@ -200062,10 +200062,10 @@ vivo	执着
 vivo	妷
 vivo	紩
 vivo	𮉢
-vivp	紙
 vivp	娡
 vivp	綕
 vivp	𬘨
+vivp	紙
 vivs	之中
 vivu	蜘蛛
 vivu	支柱
