@@ -33789,13 +33789,13 @@
 塜	vsgo
 𱖽	vsgp
 𱗖	vsgp
-種	vshg
 穜	vshg
 㣫	vshg
 籦	vshg
 𤚏	vshg
 𥷈	vshg
 𨉢	vshg
+種	vshg
 䇗	vshi
 彸	vshi
 𢨱	vshi

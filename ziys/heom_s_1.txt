@@ -28424,7 +28424,6 @@ isgo	𧼙
 isgr	埫
 isgz	重构
 ish	重
-ish	种
 ishd	虫害
 ishe	重合
 ishf	䳯
@@ -28436,6 +28435,7 @@ ishi	䖝
 ishi	𥭥
 ishk	宠坏
 ishk	𢖄
+ishl	种
 ishl	𥫯
 ishl	𨈮
 ishm	𦑝
@@ -195106,8 +195106,8 @@ uipt	𠀍
 uipu	食谱
 uipw	适配
 uipw	失陪
-uiq	拾
 uiq	势
+uiq	拾
 uiqc	銴
 uiqd	揓
 uiqg	觢
@@ -201230,7 +201230,7 @@ vryz	转悠
 vrzd	转载
 vrze	专责
 vs	中
-vs	终
+vs	种
 vsai	钟爱
 vsai	𨳗
 vsb	肿
@@ -201299,14 +201299,14 @@ vsgp	𱗖
 vsgs	中共
 vsgv	终归
 vsh	重
-vsh	种
-vshg	種
+vsh	種
 vshg	穜
 vshg	㣫
 vshg	籦
 vshg	𤚏
 vshg	𥷈
 vshg	𨉢
+vshg	種
 vshh	中行
 vshi	螽
 vshi	䇗
@@ -202700,8 +202700,8 @@ vzzc	周遭
 vzzg	骤增
 vzzi	肘子
 w	我
-w	位
-w	位置
+w	为
+w	为什么
 wa	挖
 wa	わ
 wa	ワ
@@ -204264,7 +204264,6 @@ wsbz	无所不在
 wsdx	无所遁形
 wsgj	无所顾忌
 wsji	𥦷
-wsm	为什么
 wsnv	外孙女
 wsqy	文思泉涌
 wsuc	无所适从
@@ -204511,7 +204510,6 @@ wumc	乌纱帽
 wumc	𩒾
 wumd	雾霾
 wumd	𥒀
-wume	为什么
 wumf	䃖
 wumf	瑦
 wumf	璑
@@ -204854,7 +204852,7 @@ wvyu	稳中有升
 wvyv	为之一振
 wvyx	万众一心
 wvzj	闻者足戒
-ww	为
+ww	位
 ww	未
 wwa	韪
 wwad	𣈎
@@ -205410,6 +205408,7 @@ wwvf	威震
 wwvg	蔚为壮观
 wwvg	維
 wwvh	违章
+wwvi	位置
 wwvi	䗽
 wwvi	𰳚
 wwvl	伪装
