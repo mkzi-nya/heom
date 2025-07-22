@@ -3219,8 +3219,8 @@ bjqg	𢴬
 bjqh	扮
 bjqm	搬迁
 bjqo	㚘
-bjqq	并驾齐驱
 bjqq	拌
+bjqq	并驾齐驱
 bjqr	版权
 bjqu	不计其数
 bjqx	不计前嫌
@@ -10918,7 +10918,6 @@ domm	㻔
 domm	𩃒
 domu	夺目
 don	堕
-don	驮
 donb	隋
 donb	䲊
 donb	陏
@@ -10928,6 +10927,7 @@ dond	𨹃
 dong	墮
 doni	夛
 donj	多难
+donk	驮
 donm	多年
 donn	陊
 donn	刴
@@ -12886,10 +12886,9 @@ eekt	𤸱
 eekt	𤹺
 eeku	轭
 eekv	妿
-eel	阏
+eel	蛾
 eele	饿了
 eelf	𮤸
-eeli	蛾
 eeli	𧔼
 eeli	𧚄
 eelj	𢃲
@@ -12901,6 +12900,7 @@ eelu	蚅
 eelu	𧊜
 eelu	𧌄
 eelv	𧌄
+eely	阏
 eem	恶
 eem	厄
 eemc	鹅毛
@@ -13306,12 +13306,12 @@ ermr	耳濡目染
 ermr	𣩚
 ermu	耳目
 ern	尔
-ern	饵
 ernb	隭
 ernb	𩱓
 ernd	二奶
 erng	而能
 erni	𡦕
+ernj	饵
 ernj	𱅋
 ernl	鲕
 ernl	陑
@@ -13451,7 +13451,7 @@ ez	儿子
 ezju	恶作剧
 f	发
 f	非
-f	复杂
+f	复
 f	ㄈ
 fa	法
 faai	閥
@@ -15116,7 +15116,7 @@ ftyb	非同一般
 ftyu	风调雨顺
 ftzi	繁体字
 fu	副
-fu	复
+fu	服
 fu	ふ
 fu	フ
 fuac	暊
@@ -15128,6 +15128,7 @@ fuar	䦣
 fuax	𣆵
 fub	服
 fub	赋
+fub	腑
 fubb	脯
 fubc	𩓖
 fubd	腐败
@@ -15138,7 +15139,6 @@ fubf	鵩
 fubf	䳕
 fubh	𢒒
 fubi	伏笔
-fubi	腑
 fubi	赙
 fubi	胕
 fubi	賻
@@ -15816,6 +15816,7 @@ fuyw	畗
 fuyy	浮云
 fuyy	訃
 fuyz	富有
+fuza	复杂
 fuzc	浮躁
 fuzd	负载
 fuze	负责
@@ -16292,12 +16293,12 @@ gagh	敢爱敢恨
 gahl	魀
 gaju	公安局
 gaju	軋
-gak	夹
-gak	轧
 gak	尬
 gaka	旮
 gakr	𡯽
+gakt	夹
 gakt	𡯰
+gaku	轧
 gala	旮旯
 gali	咖喱
 gama	伽马
@@ -20484,12 +20485,12 @@ hcfa	毫发
 hcfh	豪放
 hcfj	好烦
 hcfw	耗费
-hcg	郝
+hcg	壕
 hcgc	好高
 hcgj	好感
 hcgk	好乖
+hcgl	郝
 hcgo	好过
-hcgo	壕
 hcgr	好官
 hcgs	𠢕
 hcgu	㘪
@@ -22982,11 +22983,11 @@ hreu	浣
 hrev	澴
 hrev	㶎
 hrf	焕
-hrf	豢
 hrfa	焕发
 hrfk	煥
 hrfk	𥏇
 hrfm	𥹚
+hrfo	豢
 hrfu	换肤
 hrfv	糫
 hrge	换个
@@ -25464,6 +25465,7 @@ iabr	詧
 iabw	茶杯
 iabx	𦝥
 iabx	𧶵
+iac	岔
 iacb	銟
 iacc	插槽
 iacf	鑔
@@ -26336,12 +26338,11 @@ ifou	儬
 ifou	儭
 ifou	𬬵
 ifov	𰾘
+ifp	忱
 ifpc	晨跑
 ifpi	陈皮
 ifpl	乘风破浪
 ifpp	㥲
-ifpu	长风破浪会有时
-ifpu	忱
 ifpv	愖
 ifq	抻
 ifq	吃饭去
@@ -28812,6 +28813,7 @@ iun	雏
 iuna	出纳
 iund	初生牛犊
 iunf	𩿿
+iung	雏
 iunh	初生牛犊不怕虎
 iuni	觸
 iunj	处男
@@ -38356,7 +38358,7 @@ kzyu	口语
 kzzi	口子
 l	了
 l	立
-l	理解
+l	里
 l	ㄌ
 la	啦
 laan	旯
@@ -39515,8 +39517,8 @@ lhyv	𢽂
 lhyy	落花有意
 lhzi	浪子
 lhzu	拉祜族
-li	里
 li	理
+li	历
 liab	㬏
 liab	曞
 liab	𰖩
@@ -39813,6 +39815,7 @@ lijm	𥨻
 lijn	立交
 lijn	𪌱
 lijo	斄
+lijp	理解
 lijp	𢟤
 lijq	犛
 lijq	㹈
@@ -39885,9 +39888,9 @@ lilu	蝷
 lilv	利率
 lily	理论
 lily	蚸
-lim	历
 lim	励
 lim	丽
+lim	栗
 lima	立马
 lima	暦
 lima	曆
@@ -39905,7 +39908,6 @@ limb	𩱇
 limc	礼貌
 limc	𤳓
 limc	𨬑
-limd	栗
 limd	砾
 limd	礫
 limd	䃯
@@ -41022,7 +41024,7 @@ lldr	两端
 lldu	亮度
 lldv	两对
 lle	梁
-lle	粱
+lled	粱
 lled	鿄
 llef	涼
 llef	鿌
@@ -43282,13 +43284,13 @@ lurt	嚧
 lurt	𨇖
 luru	录入
 luru	料事如神
+lus	戮
 lus	勠
 luse	䎑
 luse	䎼
 luse	騄
 lusg	𩣱
 lusi	鹭鸶
-lusi	戮
 lusn	剹
 lusp	騼
 lusp	𦗓
@@ -43374,6 +43376,7 @@ luxt	历史学
 luxu	陆续
 luxy	老少咸宜
 luy	卢
+luy	卤
 luyb	录音
 luyc	六
 luyc	顱
@@ -43392,7 +43395,6 @@ luyi	略胜一筹
 luyi	鹵
 luyi	𧫓
 luyk	露营
-luyk	卤
 luym	鸬
 luyn	𤮧
 luyo	颅
@@ -185011,7 +185013,6 @@ rfux	人非圣贤
 rfuz	忍受
 rfv	纫
 rfv	妊
-rfv	任职
 rfva	人渣
 rfve	忍着
 rfvf	认真
@@ -185024,6 +185025,7 @@ rfvg	𫟃
 rfvh	认账
 rfvh	紉
 rfvi	认知
+rfvi	任职
 rfvi	紉
 rfvj	䌾
 rfvk	紉
@@ -185898,11 +185900,11 @@ rukg	入坑
 rukr	㾒
 ruku	入库
 rukz	入口
+rul	褥
 rulb	蠕
 rulb	襦
 rulc	乳酪
 ruld	如来
-ruli	褥
 rulk	蝡
 rulp	入列
 rulq	入流
@@ -195414,8 +195416,8 @@ ujem	𰛩
 ujeo	㴸
 ujeo	𰛛
 ujer	澹
+ujf	煽
 ujfg	山峰
-ujfm	煽
 ujfm	烻
 ujfm	𤊼
 ujfn	剡
@@ -202292,8 +202294,8 @@ vxnu	招贤纳士
 vxom	𡎬
 vxpd	抓拍
 vxpy	众星捧月
-vxq	中心区
 vxq	挝
+vxq	中心区
 vxqb	撾
 vxqi	抓起
 vxqu	抓取
@@ -206529,7 +206531,6 @@ xilu	西路
 xilu	阋
 xilu	鬩
 xilx	咸吃萝卜淡操心
-xim	西
 xim	硒
 xima	霫
 ximb	豨
@@ -209322,6 +209323,7 @@ xqof	𪀪
 xqog	饈
 xqoh	俢
 xqom	鸺
+xqos	锈
 xqov	𩛢
 xqpw	修配
 xqqi	秀气
@@ -210037,6 +210039,7 @@ xtth	血糖
 xttj	鞾
 xttj	𫖇
 xttm	雪天
+xttp	靴
 xtts	血统
 xttt	䒸
 xttu	学徒
@@ -216483,6 +216486,7 @@ yrnf	𨻣
 yrni	𨸘
 yrnl	𢏮
 yrnm	元年
+yrnm	鸳
 yrno	陨
 yrno	䱲
 yrno	𢐄
@@ -216850,6 +216854,7 @@ ysrb	喁
 ysrb	𠳀
 ysrf	佣人
 ysrg	噰
+ysro	咏
 ysrr	𠹍
 ysrs	雍容
 ysrs	踴
@@ -217301,6 +217306,7 @@ yucr	谷
 yucr	鋊
 yucr	鋙
 yucy	渔村
+yud	榆
 yudb	楀
 yudb	栯
 yudb	棛
@@ -218602,9 +218608,9 @@ yymt	醖
 yymt	醞
 yymu	韵母
 yymu	玧
-yyn	孕
 yyn	陨
 yync	隕
+yynd	孕
 yynj	云南
 yynj	一言难尽
 yynl	酝酿
@@ -219039,11 +219045,11 @@ yzlv	一走了之
 yzlv	䖻
 yzlw	蝤
 yzly	游轮
-yzm	祐
+yzm	憂
 yzmb	游民
 yzmb	酭
-yzme	憂
 yzme	𥜚
+yzme	憂
 yzmf	油门
 yzmk	有名
 yzmk	𣁨
@@ -219054,6 +219060,7 @@ yzmm	酉
 yzmn	幼苗
 yzmo	幽默
 yzmo	㱊
+yzmr	祐
 yzms	丣
 yzms	𣧥
 yzms	𤤬

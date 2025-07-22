@@ -42468,8 +42468,9 @@
 䖻	yzlv
 蝤	yzlw
 酭	yzmb
-憂	yzme
+憂	yzm
 𥜚	yzme
+憂	yzme
 𣁨	yzmk
 鄾	yzml
 𠨦	yzml
