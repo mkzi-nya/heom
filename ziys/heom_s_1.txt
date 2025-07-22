@@ -15317,7 +15317,7 @@ fuhw	𦩡
 fuhx	孵化
 fuhy	复婚
 fui	福
-fui	福
+fui	府
 fuib	腐
 fuib	甫
 fuic	𩒺
@@ -15328,7 +15328,6 @@ fuif	焤
 fuif	𤉨
 fuii	扶持
 fuii	俯首称臣
-fuii	府
 fuii	尃
 fuii	祔
 fuii	禣
@@ -18756,6 +18755,7 @@ gsih	工厂
 gsii	公尺
 gsit	𱍁
 gsiw	隔三岔五
+gsj	宫
 gsj	共计
 gsjb	公斤
 gsjc	輁
@@ -18771,7 +18771,6 @@ gsjn	公交
 gsjn	𥧂
 gsjn	𥨐
 gsjq	贡酒
-gsjr	宫
 gsjr	宮
 gsjs	𨋝
 gsjt	公爵
@@ -186929,7 +186928,7 @@ shyj	四海一家
 shzh	丧葬
 shzi	嗓子
 si	四
-si	寺
+si	丝
 siai	䦙
 sibd	四百
 sibe	𧳙
@@ -186989,6 +186988,7 @@ sifh	私房
 sifl	燍
 sifu	私服
 sifv	𤆟
+sig	寺
 sigd	搜肠刮肚
 sige	四个
 sigl	死光
@@ -187212,8 +187212,7 @@ siui	四十
 siuu	私塾
 siuv	死水
 siuz	死守
-siv	缌
-siv	姒
+siv	絲
 sivb	㣈
 sivd	私宅
 sive	死者
@@ -187226,10 +187225,11 @@ sivi	四肢
 sivi	厶
 sivl	丝绸之路
 sivl	𡡒
-sivm	丝
 sivm	鸶
 sivm	纟
+sivo	姒
 sivo	娰
+sivp	缌
 sivp	媤
 sivp	緦
 sivr	㚶
@@ -200030,13 +200030,13 @@ viuu	指数
 viuv	𡸜
 viuz	制售
 viv	纸
-viv	彘
+viv	织
+viv	紙
 viva	織
 viva	嬂
 vivb	㛿
 vivb	𡠹
 vivc	执照
-vivc	织
 vivc	㜱
 vivd	指摘
 vive	智者
@@ -200062,6 +200062,7 @@ vivo	执着
 vivo	妷
 vivo	紩
 vivo	𮉢
+vivp	彘
 vivp	娡
 vivp	綕
 vivp	𬘨
