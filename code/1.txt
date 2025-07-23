@@ -36194,7 +36194,6 @@ IP地址	ipdv
 英镑	ykbh
 硬币	ykbi
 应变	ykbm
-一客不烦二主	ykbv
 英才	ykcd
 英寸	ykcy
 应答	ykda
@@ -38606,6 +38605,7 @@ IP地址	ipdv
 总数	zsuu
 总账	zsvh
 总之	zsvi
+宗旨	zsvi
 总站	zsvj
 宗主	zsvu
 总务	zswu
@@ -39234,6 +39234,7 @@ IP地址	ipdv
 拔	baq
 胞	bcbu
 贝	bwb
+貝	bwb
 薄	bct
 薄	bot
 邦	bhh
@@ -41859,7 +41860,7 @@ IP地址	ipdv
 兼	jmt
 鉴	jmlc
 禁	jbd
-键	jmo
+键	jmoa
 疾	jik
 叫	jn
 皎	jn
@@ -41903,7 +41904,7 @@ IP地址	ipdv
 镜	jko
 寄	jij
 擊	jij
-晋	jbma
+晋	jbm
 柬	jmd
 嘉	jxg
 捷	jpqo
@@ -41916,7 +41917,7 @@ IP地址	ipdv
 君	jys
 掘	jtq
 驾	jxkm
-剑	jmon
+剑	jmo
 尖	jmf
 肩	jmhb
 肩	jmi
@@ -44204,7 +44205,7 @@ IP地址	ipdv
 勤	qbt
 抢	qlq
 渠	que
-潜	qmea
+潜	qme
 弃	qiy
 倾	qko
 侵	qbo
@@ -45738,6 +45739,7 @@ IP地址	ipdv
 志	vigp
 至	vim
 执	viq
+掷	viq
 证	vgi
 支	vije
 张	vhn
@@ -45912,7 +45914,6 @@ IP地址	ipdv
 浊	voe
 酯	vima
 踵	vsr
-掷	viql
 烛	vuf
 樟	vhd
 峙	viui
@@ -46444,7 +46445,6 @@ IP地址	ipdv
 𬀩	wwas
 我	woh
 王	whm
-纹	wfvk
 潍	wweg
 崴	wwuv
 挝	woqi
@@ -46470,6 +46470,8 @@ IP地址	ipdv
 玩不玩	wbw
 完蛋了	wdl
 稳定性	wdx
+纹	wfv
+紋	wfv
 五分钟	wfv
 无规矩不成方圆	wgj
 未婚夫	whf
@@ -47059,7 +47061,7 @@ IP地址	ipdv
 亿	yion
 优	yzo
 易	yia
-隐	ybnp
+隐	ybn
 引	ybn
 亚	ya
 么	ychi
@@ -47754,7 +47756,7 @@ IP地址	ipdv
 泽	zee
 座	zoi
 早	zc
-综	zsvf
+综	zsv
 罪	zvw
 灾	zdj
 左	zok
@@ -48464,7 +48466,6 @@ GDP	gdp
 宅子	vdz
 正途	vgt
 只管	vig
-值钱	viq
 质问	viw
 战线	vjx
 转头	vrt
@@ -48537,7 +48538,6 @@ GDP	gdp
 做了	zol
 踪迹	zsj
 宗师	zsu
-宗旨	zsv
 纵向	zsx
 纵有	zsy
 阻止	zuv
@@ -48918,6 +48918,7 @@ GDP	gdp
 直到	vd
 只会	vh
 追求	vq
+值钱	vq
 只是	vu
 真正	vv
 这些	vx

@@ -1,3 +1,4 @@
+
 ：	;
 ！	;a
 _	;b
@@ -5316,6 +5317,7 @@ AA制	aavi
 悲哀	bwai
 备案	bwan
 贝	bwb
+貝	bwb
 背部	bwb
 背包	bwbc
 貝	bwbc
@@ -15304,10 +15306,11 @@ AA制	aavi
 讣	fuiy
 复仇	fuiz
 富	fuj
+輔	fuj
 附近	fujb
-輔	fujb
-巿	fujb
 麱	fujb
+巿	fujb
+輔	fujb
 𪍏	fujc
 䴸	fujd
 𥦘	fujd
@@ -16728,6 +16731,7 @@ GDP	gdp
 公道自在人心	gdzx
 各	ge
 哥	ge
+閣	gea
 割爱	geai
 𢆜	geaj
 閘	geal
@@ -19354,10 +19358,11 @@ GDP	gdp
 鬼才	gvcd
 䤥	gvcu
 桂	gvd
+櫃	gvd
 檜	gvda
 轨道	gvdc
-櫃	gvdc
 𩏡	gvdc
+櫃	gvdc
 归档	gvdh
 跪地	gvdi
 桧	gvdi
@@ -19455,6 +19460,7 @@ GDP	gdp
 公众场所	gvis
 祪	gviu
 诡计	gvj
+軌	gvj
 𩓠	gvjc
 窐	gvjg
 轨迹	gvji
@@ -19464,8 +19470,8 @@ GDP	gdp
 贵贱	gvjm
 硅胶	gvjn
 宄	gvjn
-軌	gvjn
 𡬂	gvjn
+軌	gvjn
 归结	gvjp
 归咎	gvjq
 攰	gvjs
@@ -29503,6 +29509,7 @@ IP地址	ipdv
 基本	jb
 㬐	jbaa
 紧挨	jbai
+䤐	jbax
 骄兵必败	jbbb
 近百	jbbd
 紧绷	jbbg
@@ -29677,13 +29684,14 @@ IP地址	ipdv
 䀆	jblt
 𧗁	jblt
 近路	jblu
+晋	jbm
 瑾	jbm
-晋	jbma
-晉	jbma
+晉	jbm
 瑨	jbma
 㬜	jbma
 䃡	jbma
 䤐	jbma
+晉	jbma
 琻	jbmc
 瑧	jbmd
 祲	jbme
@@ -32196,8 +32204,9 @@ IP地址	ipdv
 𧤨	jmnv
 贱内	jmnw
 挤眉弄眼	jmny
-键	jmo
+剑	jmo
 僭	jmo
+键	jmoa
 锏	jmoa
 僣	jmoa
 䭠	jmoc
@@ -32219,7 +32228,6 @@ IP地址	ipdv
 𰾌	jmol
 俭	jmom
 𰿈	jmom
-剑	jmon
 劍	jmon
 剣	jmon
 俿	jmon
@@ -33764,6 +33772,7 @@ IP地址	ipdv
 酒水	jquv
 就手	jquz
 纠	jqv
+糾	jqv
 旧宅	jqvd
 九折	jqve
 就诊	jqvf
@@ -33775,9 +33784,9 @@ IP地址	ipdv
 救治	jqvi
 𣁭	jqvj
 酒庄	jqvl
-糾	jqvl
 丩	jqvl
 紤	jqvl
+糾	jqvl
 𠛩	jqvn
 乆	jqvo
 奺	jqvo
@@ -44913,10 +44922,11 @@ IP地址	ipdv
 卖笑	mdxn
 面对现实	mdxu
 迈	mdy
+邁	mdy
 麦芽	mdya
 卖淫	mdyb
-邁	mdyb
 䜕	mdyb
+邁	mdyb
 买药	mdyc
 卖艺	mdyi
 𧱘	mdyl
@@ -46084,6 +46094,7 @@ IP地址	ipdv
 明确	mkqt
 名曲	mkqu
 鸣	mkr
+鳴	mkr
 名人	mkrf
 鳴	mkrf
 明日	mkri
@@ -55565,8 +55576,8 @@ PPT	ppt
 𣘝	qmdu
 𣟋	qmdv
 轻描淡写	qmdx
+潜	qme
 浅	qme
-潜	qmea
 潛	qmea
 濳	qmea
 灊	qmeb
@@ -57569,6 +57580,9 @@ PPT	ppt
 𨄅	qurr
 屈辱	quru
 㖆	qurw
+𡱺	qurx
+𦕙	qurx
+𦗛	qurx
 取	qus
 屈	qus
 区	qus
@@ -66376,6 +66390,7 @@ PPT	ppt
 傻话	uahx
 𢩖	uahx
 𦩿	uahx
+廈	uai
 刹车	uaie
 廈	uaie
 𫍺	uaie
@@ -66996,6 +67011,7 @@ PPT	ppt
 懾	uepj
 社评	uepk
 摄	ueq
+捨	ueq
 摂	ueqc
 揲	ueqd
 𱂊	ueqd
@@ -67382,6 +67398,7 @@ PPT	ppt
 伸手	ufuz
 绅	ufv
 婶	ufv
+嬸	ufv
 是非之地	ufvd
 綝	ufvd
 深圳	ufvf
@@ -73166,7 +73183,7 @@ PPT	ppt
 㥀	vipv
 支配	vipw
 执	viq
-值钱	viq
+掷	viq
 挚	viq
 晢	viqa
 搘	viqa
@@ -73190,7 +73207,6 @@ PPT	ppt
 知情	viqk
 㨖	viqk
 𢷸	viqk
-掷	viql
 擲	viql
 擳	viql
 𰓜	viql
@@ -74276,6 +74292,7 @@ PPT	ppt
 只怕有心人	vpyr
 正确	vq
 追求	vq
+值钱	vq
 知其不可而为之	vqbv
 只欠东风	vqdf
 沾亲带故	vqdg
@@ -76516,14 +76533,15 @@ PPT	ppt
 文书	wfuu
 温水	wfuv
 温顺	wfuy
+纹	wfv
+紋	wfv
 五分钟	wfv
 文摘	wfvd
 文章	wfvh
 文职	wfvi
 问斩	wfvj
-纹	wfvk
-紋	wfvk
 妏	wfvk
+紋	wfvk
 稳重	wfvs
 缊	wfvt
 稳住	wfvu
@@ -77702,13 +77720,14 @@ PPT	ppt
 为时过早	wugz
 物	wuh
 务	wuh
+烏	wuh
 䑁	wuhb
 晚上好	wuhc
 无害	wuhd
 无痕	wuhf
-烏	wuhf
 䉑	wuhf
 𪄝	wuhf
+烏	wuhf
 箼	wuhg
 𢩈	wuhg
 𥟽	wuhg
@@ -81190,6 +81209,7 @@ PPT	ppt
 献丑	xmiz
 献	xmj
 宪	xmj
+憲	xmj
 先进	xmjb
 鶱	xmjf
 性命交关	xmjg
@@ -81202,8 +81222,8 @@ PPT	ppt
 𬸣	xmjm
 韯	xmjm
 衔接	xmjp
-憲	xmjp
 𨏥	xmjp
+憲	xmjp
 輱	xmjr
 𡫹	xmjr
 先决	xmjt
@@ -84071,6 +84091,7 @@ PPT	ppt
 下回	xxhv
 下滑	xxhx
 夏侯	xxhz
+廈	xxi
 下车	xxie
 瞎扯	xxie
 廈	xxie
@@ -85257,6 +85278,7 @@ PPT	ppt
 𨢂	ybmu
 硍	ybmv
 阴谋	ybmz
+隐	ybn
 引	ybn
 阴	ybn
 𩐞	ybna
@@ -85281,7 +85303,6 @@ PPT	ppt
 鮣	ybnl
 夜不能寐	ybnm
 饮	ybno
-隐	ybnp
 隱	ybnp
 隠	ybnp
 𡖣	ybns
@@ -87988,6 +88009,7 @@ PPT	ppt
 訲	yiyl
 翊	yiym
 誼	yiym
+翊	yiym
 竩	yiym
 辷	yiym
 𱊰	yiym
@@ -88371,6 +88393,10 @@ PPT	ppt
 狠	yjkv
 狿	yjkv
 㿕	yjkx
+珚	yjkx
+礹	yjkx
+釅	yjkz
+𥜒	yjkz
 蜒	yjl
 阎	yjl
 阉	yjl
@@ -88862,6 +88888,7 @@ PPT	ppt
 𣋋	ykau
 婴	ykb
 鹦	ykb
+嬰	ykb
 迎宾	ykbb
 𦡺	ykbb
 賏	ykbc
@@ -88895,11 +88922,10 @@ PPT	ppt
 罌	ykbu
 膡	ykbu
 𦦿	ykbu
-一客不烦二主	ykbv
 媵	ykbv
-嬰	ykbv
 䑉	ykbv
 𥌽	ykbv
+嬰	ykbv
 英才	ykcd
 鐛	ykcf
 鍈	ykck
@@ -94545,15 +94571,15 @@ PPT	ppt
 嵸	zsuo
 𡵝	zsuo
 总数	zsuu
+综	zsv
 纵	zsv
-宗旨	zsv
 緵	zsve
 𡞧	zsve
 𰬯	zsve
-综	zsvf
 綜	zsvf
 总账	zsvh
 总之	zsvi
+宗旨	zsvi
 总站	zsvj
 縱	zsvo
 緃	zsvo

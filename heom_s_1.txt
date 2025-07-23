@@ -1,3 +1,4 @@
+	
 ;	：
 ;a	！
 ;b	_
@@ -5316,6 +5317,7 @@ bwad	㫲
 bwai	悲哀
 bwan	备案
 bwb	贝
+bwb	貝
 bwb	背部
 bwbc	背包
 bwbc	貝
@@ -15304,10 +15306,11 @@ fuiu	付出
 fuiy	讣
 fuiz	复仇
 fuj	富
+fuj	輔
 fujb	附近
-fujb	輔
-fujb	巿
 fujb	麱
+fujb	巿
+fujb	輔
 fujc	𪍏
 fujd	䴸
 fujd	𥦘
@@ -16728,6 +16731,7 @@ gdzu	改组
 gdzx	公道自在人心
 ge	各
 ge	哥
+gea	閣
 geai	割爱
 geaj	𢆜
 geal	閘
@@ -19354,10 +19358,11 @@ gvcc	鐀
 gvcd	鬼才
 gvcu	䤥
 gvd	桂
+gvd	櫃
 gvda	檜
 gvdc	轨道
-gvdc	櫃
 gvdc	𩏡
+gvdc	櫃
 gvdh	归档
 gvdi	跪地
 gvdi	桧
@@ -19455,6 +19460,7 @@ gvil	祈
 gvis	公众场所
 gviu	祪
 gvj	诡计
+gvj	軌
 gvjc	𩓠
 gvjg	窐
 gvji	轨迹
@@ -19464,8 +19470,8 @@ gvjj	各执己见
 gvjm	贵贱
 gvjn	硅胶
 gvjn	宄
-gvjn	軌
 gvjn	𡬂
+gvjn	軌
 gvjp	归结
 gvjq	归咎
 gvjs	攰
@@ -29503,6 +29509,7 @@ jb	进
 jb	基本
 jbaa	㬐
 jbai	紧挨
+jbax	䤐
 jbbb	骄兵必败
 jbbd	近百
 jbbg	紧绷
@@ -29677,13 +29684,14 @@ jblt	盡
 jblt	䀆
 jblt	𧗁
 jblu	近路
+jbm	晋
 jbm	瑾
-jbma	晋
-jbma	晉
+jbm	晉
 jbma	瑨
 jbma	㬜
 jbma	䃡
 jbma	䤐
+jbma	晉
 jbmc	琻
 jbmd	瑧
 jbme	祲
@@ -32196,8 +32204,9 @@ jmnt	𧥈
 jmnv	𧤨
 jmnw	贱内
 jmny	挤眉弄眼
-jmo	键
+jmo	剑
 jmo	僭
+jmoa	键
 jmoa	锏
 jmoa	僣
 jmoc	䭠
@@ -32219,7 +32228,6 @@ jmok	劔
 jmol	𰾌
 jmom	俭
 jmom	𰿈
-jmon	剑
 jmon	劍
 jmon	剣
 jmon	俿
@@ -33764,6 +33772,7 @@ jquu	𦱠
 jquv	酒水
 jquz	就手
 jqv	纠
+jqv	糾
 jqvd	旧宅
 jqve	九折
 jqvf	就诊
@@ -33775,9 +33784,9 @@ jqvh	𠚨
 jqvi	救治
 jqvj	𣁭
 jqvl	酒庄
-jqvl	糾
 jqvl	丩
 jqvl	紤
+jqvl	糾
 jqvn	𠛩
 jqvo	乆
 jqvo	奺
@@ -44913,10 +44922,11 @@ mdxl	迈向
 mdxn	卖笑
 mdxu	面对现实
 mdy	迈
+mdy	邁
 mdya	麦芽
 mdyb	卖淫
-mdyb	邁
 mdyb	䜕
+mdyb	邁
 mdyc	买药
 mdyi	卖艺
 mdyl	𧱘
@@ -46084,6 +46094,7 @@ mkql	掵
 mkqt	明确
 mkqu	名曲
 mkr	鸣
+mkr	鳴
 mkrf	名人
 mkrf	鳴
 mkri	明日
@@ -55565,8 +55576,8 @@ qmdu	櫏
 qmdu	𣘝
 qmdv	𣟋
 qmdx	轻描淡写
+qme	潜
 qme	浅
-qmea	潜
 qmea	潛
 qmea	濳
 qmeb	灊
@@ -57569,6 +57580,9 @@ qurn	请神容易送神难
 qurr	𨄅
 quru	屈辱
 qurw	㖆
+qurx	𡱺
+qurx	𦕙
+qurx	𦗛
 qus	取
 qus	屈
 qus	区
@@ -66376,6 +66390,7 @@ uahv	䈉
 uahx	傻话
 uahx	𢩖
 uahx	𦩿
+uai	廈
 uaie	刹车
 uaie	廈
 uaie	𫍺
@@ -66996,6 +67011,7 @@ uepd	生而平等
 uepj	懾
 uepk	社评
 ueq	摄
+ueq	捨
 ueqc	摂
 ueqd	揲
 ueqd	𱂊
@@ -67382,6 +67398,7 @@ ufuv	渗水
 ufuz	伸手
 ufv	绅
 ufv	婶
+ufv	嬸
 ufvd	是非之地
 ufvd	綝
 ufvf	深圳
@@ -73166,7 +73183,7 @@ vipu	质朴
 vipv	㥀
 vipw	支配
 viq	执
-viq	值钱
+viq	掷
 viq	挚
 viqa	晢
 viqa	搘
@@ -73190,7 +73207,6 @@ viqj	搱
 viqk	知情
 viqk	㨖
 viqk	𢷸
-viql	掷
 viql	擲
 viql	擳
 viql	𰓜
@@ -74276,6 +74292,7 @@ vpyi	占便宜
 vpyr	只怕有心人
 vq	正确
 vq	追求
+vq	值钱
 vqbv	知其不可而为之
 vqdf	只欠东风
 vqdg	沾亲带故
@@ -76516,14 +76533,15 @@ wfui	问世
 wfuu	文书
 wfuv	温水
 wfuy	温顺
+wfv	纹
+wfv	紋
 wfv	五分钟
 wfvd	文摘
 wfvh	文章
 wfvi	文职
 wfvj	问斩
-wfvk	纹
-wfvk	紋
 wfvk	妏
+wfvk	紋
 wfvs	稳重
 wfvt	缊
 wfvu	稳住
@@ -77702,13 +77720,14 @@ wugz	污垢
 wugz	为时过早
 wuh	物
 wuh	务
+wuh	烏
 wuhb	䑁
 wuhc	晚上好
 wuhd	无害
 wuhf	无痕
-wuhf	烏
 wuhf	䉑
 wuhf	𪄝
+wuhf	烏
 wuhg	箼
 wuhg	𢩈
 wuhg	𥟽
@@ -81190,6 +81209,7 @@ xmiv	𡞣
 xmiz	献丑
 xmj	献
 xmj	宪
+xmj	憲
 xmjb	先进
 xmjf	鶱
 xmjg	性命交关
@@ -81202,8 +81222,8 @@ xmjk	軐
 xmjm	𬸣
 xmjm	韯
 xmjp	衔接
-xmjp	憲
 xmjp	𨏥
+xmjp	憲
 xmjr	輱
 xmjr	𡫹
 xmjt	先决
@@ -84071,6 +84091,7 @@ xxhu	毳
 xxhv	下回
 xxhx	下滑
 xxhz	夏侯
+xxi	廈
 xxie	下车
 xxie	瞎扯
 xxie	廈
@@ -85257,6 +85278,7 @@ ybmu	一笔抹杀
 ybmu	𨢂
 ybmv	硍
 ybmz	阴谋
+ybn	隐
 ybn	引
 ybn	阴
 ybna	𩐞
@@ -85281,7 +85303,6 @@ ybnl	䲟
 ybnl	鮣
 ybnm	夜不能寐
 ybno	饮
-ybnp	隐
 ybnp	隱
 ybnp	隠
 ybns	𡖣
@@ -87988,6 +88009,7 @@ yiyk	𣦌
 yiyl	訲
 yiym	翊
 yiym	誼
+yiym	翊
 yiym	竩
 yiym	辷
 yiym	𱊰
@@ -88371,6 +88393,10 @@ yjkv	奄
 yjkv	狠
 yjkv	狿
 yjkx	㿕
+yjkx	珚
+yjkx	礹
+yjkz	釅
+yjkz	𥜒
 yjl	蜒
 yjl	阎
 yjl	阉
@@ -88862,6 +88888,7 @@ ykau	𣈣
 ykau	𣋋
 ykb	婴
 ykb	鹦
+ykb	嬰
 ykbb	迎宾
 ykbb	𦡺
 ykbc	賏
@@ -88895,11 +88922,10 @@ ykbu	罂
 ykbu	罌
 ykbu	膡
 ykbu	𦦿
-ykbv	一客不烦二主
 ykbv	媵
-ykbv	嬰
 ykbv	䑉
 ykbv	𥌽
+ykbv	嬰
 ykcd	英才
 ykcf	鐛
 ykck	鍈
@@ -94545,15 +94571,15 @@ zsuo	总说
 zsuo	嵸
 zsuo	𡵝
 zsuu	总数
+zsv	综
 zsv	纵
-zsv	宗旨
 zsve	緵
 zsve	𡞧
 zsve	𰬯
-zsvf	综
 zsvf	綜
 zsvh	总账
 zsvi	总之
+zsvi	宗旨
 zsvj	总站
 zsvo	縱
 zsvo	緃
