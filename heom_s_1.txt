@@ -2974,7 +2974,6 @@ bivs	比重
 bivt	不吃这一套
 bivt	嬶
 bivt	𦂖
-biw	畀
 biw	畢
 biwf	逼问
 biwf	鷝
@@ -2985,6 +2984,7 @@ biwj	𬙝
 biwj	畢
 biwk	奰
 biwk	㪤
+biwl	畀
 biwp	罷
 biwt	不成问题
 biwu	比武
@@ -23602,8 +23602,6 @@ hugw	𨢋
 hugw	𨢤
 hugy	𡍐
 huh	乎
-huh	鹄
-huh	笏
 huh	戶
 huhb	乕
 huhb	帍
@@ -23624,6 +23622,7 @@ huhf	𤇠
 huhf	𦏗
 huhg	䧼
 huhh	护航
+huhh	笏
 huhh	𩖨
 huhi	𩳨
 huhj	呼喊
@@ -23632,6 +23631,7 @@ huhj	䈸
 huhj	𢨦
 huhj	𥶜
 huhl	火烧火燎
+huhm	鹄
 huhm	䇘
 huhm	𪏳
 huhn	㽇
@@ -39401,10 +39401,12 @@ liam	𣌜
 liam	𨷦
 lian	立案
 lib	里程碑
+lib	离愁别绪
 liba	篱笆
 libb	矋
 libc	礼包
 libd	礼拜
+libd	驴唇不对马嘴
 libd	𥊈
 libe	𥌛
 libe	𥌤
@@ -39422,13 +39424,11 @@ libn	脷
 libn	𠝄
 libp	离别
 libs	𧲡
-libx	离愁别绪
 libx	酾
 libx	㡂
 libx	䄜
 libxz	𨢌
 libxz	𩱇
-libz	驴唇不对马嘴
 libz	礪
 libz	禲
 libz	𦠓
