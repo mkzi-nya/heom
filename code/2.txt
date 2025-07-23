@@ -12463,7 +12463,7 @@
 㕑	iumi
 㕏	iumj
 豠	iumm
-礎	iumo
+礎	ium
 珿	iumo
 璴	iumo
 豖	iumo
@@ -12472,6 +12472,7 @@
 𧯩	iumo
 𧰫	iumo
 𩈤	iumo
+礎	iumo
 祝	iumu
 硫	iumu
 硫	iumv
@@ -15768,8 +15769,9 @@
 𫛤	jxkm
 𫛥	jxkm
 乫	jxkn
-夾	jxko
+夾	jxk
 㿓	jxko
+夾	jxko
 㹢	jxkr
 䂟	jxkr
 𤠙	jxkr
@@ -20841,9 +20843,10 @@
 苎	mgtm
 鹲	mgtm
 𰰡	mgtm
-夢	mgtn
+夢	mgt
 𦿏	mgtn
 𧂛	mgtn
+夢	mgtn
 䠢	mgto
 蕄	mgtp
 𢤘	mgtp
@@ -33053,6 +33056,7 @@
 𧓸	vill
 𢃜	vilm
 袟	vilo
+衹	vil
 衹	vilp
 瓆	vimc
 礩	vimc
@@ -43790,8 +43794,6 @@
 礪	libz
 禲	libz
 𦠓	libz
-𨢌	libz
-𩱇	libz
 𨢌	lixx
 𩱇	lixx
 勵	lisx
@@ -43804,3 +43806,11 @@
 𨈥	mcuz
 𬆾	mcuz
 𲌰	mcxx
+珿	iuox
+璴	iuox
+豖	iuox
+𣢶	iuoz
+𥒭	iuoz
+𧯩	iuoz
+𧰫	iuxx
+𩈤	iuxx

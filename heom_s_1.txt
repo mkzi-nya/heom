@@ -15888,7 +15888,6 @@ fwi	废
 fwi	诽
 fwi	扉
 fwic	匪巢
-fwie	飞车
 fwie	廢
 fwie	祓
 fwig	俯卧撑
@@ -28683,6 +28682,7 @@ iult	赤身裸体
 iulu	出路
 iulu	𧎷
 ium	础
+ium	礎
 iuma	出马
 iuma	禇
 iumd	出卖
@@ -28701,7 +28701,6 @@ iumm	出面
 iumm	豠
 iumn	亍
 iumo	触摸
-iumo	礎
 iumo	珿
 iumo	璴
 iumo	豖
@@ -28710,6 +28709,7 @@ iumo	𥒭
 iumo	𧯩
 iumo	𧰫
 iumo	𩈤
+iumo	礎
 iumu	触目
 iumu	祝
 iumu	硫
@@ -28740,6 +28740,12 @@ iuom	𬬺
 iuoo	儊
 iuov	𠇘
 iuow	傗
+iuox	珿
+iuox	璴
+iuox	豖
+iuoz	𣢶
+iuoz	𥒭
+iuoz	𧯩
 iup	怵
 iupb	出品
 iupd	出牌
@@ -28857,6 +28863,8 @@ iuxt	初学
 iuxu	储蓄
 iuxv	春生夏长
 iuxx	重拾信心
+iuxx	𧰫
+iuxx	𩈤
 iuxy	出巡
 iuy	畜
 iuy	出于
@@ -35251,6 +35259,7 @@ jxjy	将信将疑
 jxjy	渐行渐远
 jxk	架
 jxk	夹
+jxk	夾
 jxkb	𦙺
 jxkc	頰
 jxkc	頬
@@ -35273,8 +35282,8 @@ jxkm	𫛤
 jxkm	𫛥
 jxkn	乫
 jxko	颊
-jxko	夾
 jxko	㿓
+jxko	夾
 jxkr	加宽
 jxkr	痂
 jxkr	㹢
@@ -39435,8 +39444,6 @@ libx	䄜
 libz	礪
 libz	禲
 libz	𦠓
-libz	𨢌
-libz	𩱇
 licb	鎘
 licb	𨯽
 licd	理财
@@ -45197,6 +45204,7 @@ mgso	䰒
 mgso	𩦺
 mgsr	毛骨悚然
 mgt	萌
+mgt	夢
 mgta	𣊔
 mgta	𦷹
 mgtb	莔
@@ -45218,9 +45226,9 @@ mgtm	苎
 mgtm	鹲
 mgtm	𰰡
 mgtn	甍
-mgtn	夢
 mgtn	𦿏
 mgtn	𧂛
+mgtn	夢
 mgto	蒙
 mgto	䠢
 mgtp	蕄
@@ -72929,6 +72937,7 @@ vikp	疧
 vikp	𤞌
 viks	指控
 vil	帜
+vil	衹
 vila	幟
 vila	㸟
 vila	蟙
