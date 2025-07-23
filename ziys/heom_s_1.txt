@@ -32052,9 +32052,9 @@ jmgu	兼顾
 jmgu	坚固
 jmgv	见鬼
 jmh	简
-jmh	兼
-jmh	肩
+jmh	舰
 jmha	簡
+jmhb	肩
 jmhb	𢨿
 jmhc	减号
 jmhc	顅
@@ -32097,7 +32097,6 @@ jmht	艦
 jmht	䄯
 jmht	𮶙
 jmhu	监护
-jmhu	舰
 jmhu	笕
 jmhu	䅐
 jmhu	筧
@@ -32170,8 +32169,9 @@ jmku	艰苦
 jmkv	减亏
 jmkv	𬲕
 jml	坚
-jml	裥
+jml	鉴
 jml	监
+jmla	裥
 jmla	襇
 jmlb	襉
 jmlc	监牢
@@ -209505,6 +209505,7 @@ xrig	宣称
 xrig	𠗻
 xrim	𬤎
 xrir	宣传
+xris	选重
 xriu	选出
 xriv	悬垂
 xrj	宣
