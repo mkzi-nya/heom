@@ -20516,6 +20516,7 @@
 𠤝	mcfp
 𣭮	mcfu
 𤛖	mcgq
+貿	mch
 貿	mchc
 㒵	mchc
 𩿂	mchf
@@ -43791,8 +43792,15 @@
 𦠓	libz
 𨢌	libz
 𩱇	libz
-𨢌	lixz
-𩱇	lixz
+𨢌	lixx
+𩱇	lixx
 勵	lisx
 珕	lisx
 𰦦	lisx
+覒	mcux
+𢅉	mcux
+𣯀	mcux
+𥟪	mcuz
+𨈥	mcuz
+𬆾	mcuz
+𲌰	mcxx

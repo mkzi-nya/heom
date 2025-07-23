@@ -28683,8 +28683,6 @@ iult	赤身裸体
 iulu	出路
 iulu	𧎷
 ium	础
-ium	厨
-ium	亍
 iuma	出马
 iuma	禇
 iumd	出卖
@@ -28694,12 +28692,14 @@ iume	𩂫
 iumf	出门
 iumg	𠁉
 iumh	𢒔
+iumi	厨
 iumi	㕑
 iumj	㕏
 iumk	出名
 iuml	车水马龙
 iumm	出面
 iumm	豠
+iumn	亍
 iumo	触摸
 iumo	礎
 iumo	珿
@@ -40143,8 +40143,8 @@ lixn	离校
 lixq	离休
 lixt	力学
 lixx	立夏
-lixz	𨢌
-lixz	𩱇
+lixx	𨢌
+lixx	𩱇
 liy	离
 liy	裏
 liyb	逦
@@ -44571,6 +44571,7 @@ mcgq	𤛖
 mcgu	莫测高深
 mch	贸
 mch	牦
+mch	貿
 mchc	冒号
 mchc	貿
 mchc	㒵
@@ -44700,6 +44701,12 @@ mcuh	𡹰
 mcui	冒失
 mcuw	名存实亡
 mcux	毛刷
+mcux	覒
+mcux	𢅉
+mcux	𣯀
+mcuz	𥟪
+mcuz	𨈥
+mcuz	𬆾
 mcvc	嫹
 mcve	冒着
 mcvl	㚹
@@ -44717,6 +44724,7 @@ mcwu	𤲰
 mcx	毛线
 mcxl	貌相
 mcxm	冒险
+mcxx	𲌰
 mcy	袤
 mcy	旄
 mcy	毛衣
@@ -49802,6 +49810,7 @@ nvhl	女皇
 nvjj	拿着鸡毛当令箭
 nvjk	女警
 nvjl	年终奖
+nvjm	你指尖跃动的电光，是我此生不灭的信仰
 nvjr	女眷
 nvkg	狃
 nvlg	䖡
@@ -89326,6 +89335,8 @@ ymdx	一马当先
 ymel	迎面而来
 ymeq	掩面而泣
 ymer	爷们儿
+ymey	一命二运三风水四积阴德五读书
+ymey	六名七相八敬神九交贵人十养生
 ymfm	羽毛丰满
 ymgd	有目共睹
 ymgd	榆木疙瘩
