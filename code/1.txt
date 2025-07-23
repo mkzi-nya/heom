@@ -919,8 +919,10 @@ AA制	aavi
 不动如山	bdru
 不打算	bdsr
 白色	bdse
+白丝	bdsi
 冰冻三尺	bdsi
 冰冻三尺，非一日之寒	bdsh
+裸足	lozu
 白送	bdss
 败诉	bdsu
 百岁	bdsv
@@ -17133,6 +17135,8 @@ IP地址	ipdv
 里程碑	lib
 离愁别绪	lib
 驴唇不对马嘴	libd
+驴头不对马嘴	ltbd
+牛头不对马嘴	ntbd
 理财	licd
 历次	lici
 力挫	lico
@@ -20760,7 +20764,6 @@ IP地址	ipdv
 浓郁	nsyu
 浓烟	nsyj
 弄脏	nszh
-牛头不对马嘴	ntbz
 虐待	ntdd
 脑体倒挂	ntdg
 疟疾	ntji

@@ -1898,6 +1898,7 @@ bdrx	不得人心
 bdrz	白肉
 bdse	白色
 bdsh	冰冻三尺，非一日之寒
+bdsi	白丝
 bdsi	冰冻三尺
 bdsr	不打算
 bdss	白送
@@ -6683,6 +6684,7 @@ cixr	次选
 cixs	雌雄
 cixu	次序
 ciy	此
+ciy	詞
 ciyb	𧧒
 ciyc	次要
 ciyd	𡥎
@@ -15796,6 +15798,7 @@ fuxr	复选
 fuxs	父兄
 fuxu	抚恤
 fuxx	服下
+fuy	膚
 fuyb	复印
 fuyb	放手一搏
 fuyb	膚
@@ -29337,6 +29340,7 @@ iyue	唇舌
 iyui	蠢事
 iyuu	纯属
 iyuv	纯水
+iyv	純
 iyva	媋
 iyvf	纯真
 iyvg	纯正
@@ -37424,6 +37428,7 @@ krij	旷日持久
 krio	宽绰
 krit	喟然长叹
 krj	宽
+krj	寬
 krji	苦肉计
 krji	寬
 krjo	窾
@@ -39580,8 +39585,6 @@ libs	𧲡
 libx	酾
 libx	㡂
 libx	䄜
-libxz	𨢌
-libxz	𩱇
 libz	礪
 libz	禲
 libz	𦠓
@@ -40293,6 +40296,8 @@ lixn	离校
 lixq	离休
 lixt	力学
 lixx	立夏
+lixz	𨢌
+lixz	𩱇
 liy	离
 liy	裏
 liyb	逦
@@ -41070,6 +41075,7 @@ llen	湸
 lleu	湸
 llex	量力而行
 llf	粮
+llf	糧
 llff	两份
 llfg	凉风
 llfg	糧
@@ -42094,6 +42100,7 @@ loyt	䇔
 lozd	落在
 lozi	骡子
 lozo	落座
+lozu	裸足
 lp	列
 lpaq	㬯
 lpav	𣋲
@@ -42947,6 +42954,7 @@ lszw	⻯
 lt	略
 lt	聊天
 ltan	㔀
+ltbd	驴头不对马嘴
 ltbr	𦊹
 ltbx	来头不小
 ltcd	鋢
@@ -49860,7 +49868,7 @@ nsyv	譨
 nszh	弄脏
 nt	虐
 ntar	𨵫
-ntbz	牛头不对马嘴
+ntbd	牛头不对马嘴
 ntdd	虐待
 ntdg	脑体倒挂
 nthp	乇
@@ -187959,10 +187967,11 @@ ssrj	悚然
 ssrk	丝丝入扣
 ssrr	松软
 ssrs	松茸
+sss	鬆
 sssi	送死
-sssi	鬆
 sssi	䯳
 sssi	𨱛
+sssi	鬆
 sssj	松散
 sssj	䯷
 sssj	𨱿
@@ -195386,6 +195395,7 @@ uizv	⻠
 uj	山
 uj	时间
 uj	世纪
+uja	閃
 ujaf	晱
 ujam	𣆴
 ujao	山坳
@@ -216669,6 +216679,7 @@ yrux	哑然失笑
 yruz	元首
 yrv	缘
 yrv	媛
+yrv	緣
 yrve	远着
 yrvf	嫄
 yrvg	远征
@@ -216680,9 +216691,9 @@ yrvk	𡣬
 yrvl	原装
 yrvm	引人注目
 yrvo	圆桌
-yrvo	緣
 yrvo	縁
 yrvo	𤬌
+yrvo	緣
 yrvu	援助
 yrvu	妧
 yrvu	跃然纸上

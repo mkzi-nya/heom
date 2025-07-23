@@ -2691,6 +2691,7 @@
 𦍧	ciyq
 𪉪	ciyq
 訾	ciyr
+詞	ciy
 詞	ciyr
 飺	ciyv
 䏼	cjbi
@@ -6619,6 +6620,7 @@
 畉	fuwo
 𦊾	fuwr
 䍖	fuwu
+膚	fuy
 膚	fuyb
 㚆	fuye
 𥪋	fuye
@@ -12671,6 +12673,7 @@
 芚	iytu
 蒓	iytu
 媋	iyva
+純	iyv
 純	iyvu
 𧇶	iyya
 㝇	iyyd
@@ -16594,6 +16597,7 @@
 𣽟	kreo
 𢕫	krho
 𥟓	krhr
+寬	krj
 寬	krji
 窾	krjo
 窽	krjo
@@ -17829,16 +17833,6 @@
 𦠓	limb
 𨢌	limb
 𩱇	limb
-酾	libx
-㡂	libx
-䄜	libx
-礪	libz
-禲	libz
-𦠓	libz
-𨢌	libz
-𩱇	libz
-𨢌	libxz
-𩱇	libxz
 𤳓	limc
 𨬑	limc
 礫	limd
@@ -17916,9 +17910,6 @@
 勵	lims
 珕	lims
 𰦦	lims
-勵	lisx
-珕	lisx
-𰦦	lisx
 禮	limt
 砬	limt
 雴	limt
@@ -18566,6 +18557,7 @@
 湸	llen
 湸	lleu
 糧	llfg
+糧	llf
 煷	llfn
 煷	llfu
 𡑆	llgg
@@ -27927,9 +27919,10 @@
 𢱤	ssqk
 捒	ssql
 𠳼	ssrd
-鬆	sssi
+鬆	sss
 䯳	sssi
 𨱛	sssi
+鬆	sssi
 䯷	sssj
 𨱿	sssj
 䯷	sssk
@@ -31249,6 +31242,7 @@
 ⺮	uizo
 ⻠	uizv
 𣆴	ujam
+閃	uja
 閃	ujao
 閊	ujau
 𣆴	ujav
@@ -41383,9 +41377,10 @@
 嬽	yrvk
 𡢊	yrvk
 𡣬	yrvk
-緣	yrvo
+緣	yrv
 縁	yrvo
 𤬌	yrvo
+緣	yrvo
 𥿎	yrvu
 嬛	yrvv
 媴	yrvv
@@ -43788,3 +43783,16 @@
 兝	ffke
 兣	like
 瓩	qmwa
+酾	libx
+㡂	libx
+䄜	libx
+礪	libz
+禲	libz
+𦠓	libz
+𨢌	libz
+𩱇	libz
+𨢌	lixz
+𩱇	lixz
+勵	lisx
+珕	lisx
+𰦦	lisx

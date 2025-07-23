@@ -1881,6 +1881,7 @@ AA制	aavi
 白肉	bdrz
 白色	bdse
 冰冻三尺，非一日之寒	bdsh
+白丝	bdsi
 冰冻三尺	bdsi
 不打算	bdsr
 白送	bdss
@@ -6636,6 +6637,7 @@ AA制	aavi
 雌雄	cixs
 次序	cixu
 此	ciy
+詞	ciy
 𧧒	ciyb
 次要	ciyc
 𡥎	ciyd
@@ -15727,6 +15729,7 @@ AA制	aavi
 父兄	fuxs
 抚恤	fuxu
 服下	fuxx
+膚	fuy
 复印	fuyb
 放手一搏	fuyb
 膚	fuyb
@@ -29218,6 +29221,7 @@ IP地址	ipdv
 蠢事	iyui
 纯属	iyuu
 纯水	iyuv
+純	iyv
 媋	iyva
 纯真	iyvf
 纯正	iyvg
@@ -37281,6 +37285,7 @@ IP地址	ipdv
 宽绰	krio
 喟然长叹	krit
 宽	krj
+寬	krj
 苦肉计	krji
 寬	krji
 窾	krjo
@@ -39427,8 +39432,6 @@ IP地址	ipdv
 酾	libx
 㡂	libx
 䄜	libx
-𨢌	libxz
-𩱇	libxz
 礪	libz
 禲	libz
 𦠓	libz
@@ -40140,6 +40143,8 @@ IP地址	ipdv
 离休	lixq
 力学	lixt
 立夏	lixx
+𨢌	lixz
+𩱇	lixz
 离	liy
 裏	liy
 逦	liyb
@@ -40917,6 +40922,7 @@ IP地址	ipdv
 湸	lleu
 量力而行	llex
 粮	llf
+糧	llf
 两份	llff
 凉风	llfg
 糧	llfg
@@ -41941,6 +41947,7 @@ IP地址	ipdv
 落在	lozd
 骡子	lozi
 落座	lozo
+裸足	lozu
 列	lp
 㬯	lpaq
 𣋲	lpav
@@ -42790,6 +42797,7 @@ IP地址	ipdv
 略	lt
 聊天	lt
 㔀	ltan
+驴头不对马嘴	ltbd
 𦊹	ltbr
 来头不小	ltbx
 鋢	ltcd
@@ -49672,7 +49680,7 @@ IP地址	ipdv
 弄脏	nszh
 虐	nt
 𨵫	ntar
-牛头不对马嘴	ntbz
+牛头不对马嘴	ntbd
 虐待	ntdd
 脑体倒挂	ntdg
 乇	nthp
@@ -61164,10 +61172,11 @@ PPT	ppt
 丝丝入扣	ssrk
 松软	ssrr
 松茸	ssrs
+鬆	sss
 送死	sssi
-鬆	sssi
 䯳	sssi
 𨱛	sssi
+鬆	sssi
 松散	sssj
 䯷	sssj
 𨱿	sssj
@@ -68575,6 +68584,7 @@ PPT	ppt
 山	uj
 时间	uj
 世纪	uj
+閃	uja
 晱	ujaf
 𣆴	ujam
 山坳	ujao
@@ -89837,6 +89847,7 @@ PPT	ppt
 元首	yruz
 缘	yrv
 媛	yrv
+緣	yrv
 远着	yrve
 嫄	yrvf
 远征	yrvg
@@ -89848,9 +89859,9 @@ PPT	ppt
 原装	yrvl
 引人注目	yrvm
 圆桌	yrvo
-緣	yrvo
 縁	yrvo
 𤬌	yrvo
+緣	yrvo
 援助	yrvu
 妧	yrvu
 跃然纸上	yrvu
