@@ -10853,6 +10853,7 @@ AA制	aavi
 𧙤	dold
 多了	dole
 襗	dolj
+多练	dolm
 袳	doln
 堕落	dolo
 多虑	dolv
@@ -44143,7 +44144,7 @@ IP地址	ipdv
 老祖宗	lzzs
 没	m
 嘛	m
-目录	m
+喵	m
 吗	ma
 骂	ma
 閁	maah
@@ -46421,7 +46422,7 @@ IP地址	ipdv
 面子	mmzi
 免罪	mmzv
 秒	mn
-喵	mn
+妙	mn
 瞄	mnb
 𪃦	mnbf
 眇	mnbh
@@ -46492,8 +46493,8 @@ IP地址	ipdv
 藐视	mnui
 描述	mnuu
 妙手	mnuz
-妙	mnv
 缈	mnv
+缪	mnv
 妙招	mnvc
 嫹	mnvc
 瞄着	mnve
@@ -47124,6 +47125,7 @@ IP地址	ipdv
 幙	mulk
 木料	muln
 幕僚	muln
+目录	mulu
 麻省理工大学	mulx
 𧚀	muly
 木马	muma

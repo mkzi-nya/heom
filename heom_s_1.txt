@@ -10853,6 +10853,7 @@ dold	𧊱
 dold	𧙤
 dole	多了
 dolj	襗
+dolm	多练
 doln	袳
 dolo	堕落
 dolv	多虑
@@ -44143,7 +44144,7 @@ lzzi	乐滋滋
 lzzs	老祖宗
 m	没
 m	嘛
-m	目录
+m	喵
 ma	吗
 ma	骂
 maah	閁
@@ -46421,7 +46422,7 @@ mmze	免责
 mmzi	面子
 mmzv	免罪
 mn	秒
-mn	喵
+mn	妙
 mnb	瞄
 mnbf	𪃦
 mnbh	眇
@@ -46492,8 +46493,8 @@ mnua	秒杀
 mnui	藐视
 mnuu	描述
 mnuz	妙手
-mnv	妙
 mnv	缈
+mnv	缪
 mnvc	妙招
 mnvc	嫹
 mnve	瞄着
@@ -47124,6 +47125,7 @@ muli	牡蛎
 mulk	幙
 muln	木料
 muln	幕僚
+mulu	目录
 mulx	麻省理工大学
 muly	𧚀
 muma	木马
