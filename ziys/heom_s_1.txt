@@ -18426,6 +18426,7 @@ grar	𨷀
 grat	關
 grau	䦎
 grau	𨵄
+grb	冠
 grbc	𥊫
 grbc	𦛤
 grbe	𥉀
@@ -18433,7 +18434,6 @@ grbf	𥉀
 grbg	矔
 grbh	供认不讳
 grbi	关闭
-grbi	冠
 grbj	刚柔并济
 grbk	官兵
 grbl	果然不出所料
@@ -28646,12 +28646,12 @@ iuco	出错
 iucs	鋤
 iucy	储存
 iud	楚
+iud	橱
 iuda	楮
 iudc	出道
 iudg	初等
 iudg	橻
 iudi	触底
-iudi	橱
 iudi	櫥
 iudi	櫉
 iudj	杵
@@ -31731,9 +31731,9 @@ jljx	降价
 jljy	将军
 jlke	讲课
 jll	奖
+jll	桨
 jllb	降临
 jlld	将来
-jlld	桨
 jlle	浆
 jlli	奖励
 jlli	襁
@@ -196712,13 +196712,13 @@ uuvt	㛸
 uuvt	㜐
 uuvu	𫝧
 uuw	署
+uuw	蜀
 uuwc	束手无策
 uuwd	熟视无睹
 uuwf	鸀
 uuwf	𤍓
 uuwg	墅
 uuwi	世事无常
-uuwi	蜀
 uuwi	𦍄
 uuwj	识时务者为俊杰
 uuwn	实属无奈
@@ -197404,6 +197404,7 @@ uzpn	售票
 uzpz	耍嘴皮子
 uzq	手
 uzq	授
+uzq	寿
 uzqb	手勤
 uzqi	收起
 uzqi	寿
@@ -211143,8 +211144,8 @@ xyhu	𦫯
 xyhv	巡回
 xyhx	训话
 xyi	讯
+xyi	询
 xyia	巡查
-xyia	询
 xyia	𥙣
 xyif	心悦诚服
 xyif	鵕

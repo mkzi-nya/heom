@@ -18344,6 +18344,7 @@ GDP	gdp
 關	grat
 䦎	grau
 𨵄	grau
+冠	grb
 𥊫	grbc
 𦛤	grbc
 𥉀	grbe
@@ -18351,7 +18352,6 @@ GDP	gdp
 矔	grbg
 供认不讳	grbh
 关闭	grbi
-冠	grbi
 刚柔并济	grbj
 官兵	grbk
 果然不出所料	grbl
@@ -28529,12 +28529,12 @@ IP地址	ipdv
 鋤	iucs
 储存	iucy
 楚	iud
+橱	iud
 楮	iuda
 出道	iudc
 初等	iudg
 橻	iudg
 触底	iudi
-橱	iudi
 櫥	iudi
 櫉	iudi
 杵	iudj
@@ -31604,9 +31604,9 @@ IP地址	ipdv
 将军	jljy
 讲课	jlke
 奖	jll
+桨	jll
 降临	jllb
 将来	jlld
-桨	jlld
 浆	jlle
 奖励	jlli
 襁	jlli
@@ -69899,13 +69899,13 @@ PPT	ppt
 㜐	uuvt
 𫝧	uuvu
 署	uuw
+蜀	uuw
 束手无策	uuwc
 熟视无睹	uuwd
 鸀	uuwf
 𤍓	uuwf
 墅	uuwg
 世事无常	uuwi
-蜀	uuwi
 𦍄	uuwi
 识时务者为俊杰	uuwj
 实属无奈	uuwn
@@ -70591,6 +70591,7 @@ PPT	ppt
 耍嘴皮子	uzpz
 手	uzq
 授	uzq
+寿	uzq
 手勤	uzqb
 收起	uzqi
 寿	uzqi
@@ -84318,8 +84319,8 @@ PPT	ppt
 巡回	xyhv
 训话	xyhx
 讯	xyi
+询	xyi
 巡查	xyia
-询	xyia
 𥙣	xyia
 心悦诚服	xyif
 鵕	xyif
