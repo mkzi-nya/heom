@@ -747,6 +747,7 @@
 裒	bcyv
 襃	bcyv
 袌	bcyv
+敗	bdb
 敗	bdbk
 贁	bdbk
 栢	bdda
@@ -3425,6 +3426,7 @@
 𫝵	dcui
 䌦	dcvg
 䆃	dcyd
+導	dcy
 導	dcyi
 噵	dcyr
 𨗓	dcyu
@@ -5050,9 +5052,10 @@
 𦌷	duwc
 斁	duwk
 𪐞	duwp
-讀	duyc
+讀	duy
 錖	duyc
 䢱	duyc
+讀	duyc
 読	duyn
 𤫻	duyo
 𤬂	duyo
@@ -7302,8 +7305,9 @@
 涻	gjer
 㶥	gjfj
 粓	gjfm
-趕	gjgj
+趕	gjg
 𱖇	gjgj
+趕	gjgj
 𧾲	gjgt
 凲	gjhc
 魐	gjhc
@@ -11472,6 +11476,7 @@
 𩲹	ihho
 𥠴	ihhp
 兏	ihhu
+廠	ihi
 廠	ihik
 𤢄	ihkk
 䗉	ihla
@@ -12329,6 +12334,7 @@
 蝩	islg
 褈	islg
 𧝎	islg
+蟲	isl
 蟲	isli
 衶	isll
 盅	islt
@@ -13102,7 +13108,6 @@
 覿	jigu
 𥡴	jiha
 稩	jihb
-積	jihc
 稘	jihc
 𥝌	jihd
 𨤹	jihd
@@ -13215,9 +13220,9 @@
 𪌍	jijl
 𠚽	jijn
 𢡴	jijp
-擊	jijq
 撃	jijq
 𰺟	jijq
+擊	jijq
 𠿉	jijr
 𨊻	jijt
 㾊	jikb
@@ -13323,11 +13328,12 @@
 𱇺	jind
 觙	jine
 𨸚	jine
-際	jinf
+際	jin
 䲯	jinf
 焏	jinf
 鰶	jinf
 𪂺	jinf
+際	jinf
 𧥄	jini
 𧤏	jinj
 𧥄	jinj
@@ -13868,6 +13874,7 @@
 疅	jlwm
 𣫳	jlwt
 畕	jlww
+講	jly
 講	jlyb
 間	jmaa
 閒	jmab
@@ -14683,6 +14690,7 @@
 礍	jpmv
 𢎔	jpmv
 𤮌	jpmv
+階	jpn
 階	jpna
 𪀾	jpnf
 㘶	jpng
@@ -19355,6 +19363,7 @@
 𢿢	lrbe
 𦣋	lrbf
 脟	lrbi
+亂	lrb
 亂	lrbu
 釠	lrcn
 灤	lred
@@ -28622,6 +28631,7 @@
 𱃗	tdhr
 㣍	tdih
 能	tdip
+態	tdi
 態	tdip
 斄	tdjo
 大	tdkk
@@ -33533,6 +33543,7 @@
 𩯲	vlsp
 𩮱	vlsx
 荘	vltg
+莊	vlt
 莊	vltg
 焋	vlvf
 壯	vlvg
@@ -34558,6 +34569,7 @@
 𣜺	wfdu
 渂	wfek
 𣶌	wfek
+溫	wfe
 溫	wfet
 熓	wfff
 煴	wfft
@@ -35620,6 +35632,7 @@
 緭	wwvb
 𦇅	wwvc
 彙	wwvd
+維	wwv
 維	wwvg
 䗽	wwvi
 𰳚	wwvi
@@ -36280,10 +36293,11 @@
 䛥	xiyb
 䛊	xiyc
 𧪢	xiyd
-戲	xiyi
+戲	xiy
 戯	xiyi
 戱	xiyi
 𢧽	xiyi
+戲	xiyi
 遟	xiyj
 獻	xiyk
 謑	xiyk
@@ -36481,8 +36495,9 @@
 𤖽	xllr
 𠸮	xlls
 𣅰	xlma
-項	xlmc
+項	xlm
 𥊾	xlmc
+項	xlmc
 𣨳	xlml
 瓨	xlmn
 𤩪	xlmo
@@ -36956,6 +36971,7 @@
 嫺	xmvb
 繊	xmvc
 嫻	xmvd
+線	xmv
 線	xmve
 綅	xmve
 缐	xmve
@@ -37081,6 +37097,7 @@
 窙	xnjd
 𡧕	xnje
 𡦳	xnjf
+較	jnj
 較	xnjk
 獢	xnkb
 痟	xnkb
@@ -38664,12 +38681,13 @@
 厭	yamk
 邪	yaml
 瑘	yaml
-亞	yamm
+亞	yam
 亜	yamm
 䃁	yamm
 𠄮	yamm
 𩃐	yamm
 𱉨	yamm
+亞	yamm
 𠜲	yamn
 𫥼	yamn
 㰳	yamo
@@ -40280,12 +40298,13 @@
 𧅖	yitf
 苐	yith
 𩋌	yith
-義	yiti
+義	yit
 藝	yiti
 兿	yiti
 蓺	yiti
 萟	yiti
 芸	yiti
+義	yiti
 䔱	yitj
 艾	yitk
 蓺	yitk
@@ -41357,6 +41376,7 @@
 𡈛	yrwl
 𡈒	yrwp
 畹	yrwu
+園	yrw
 園	yrwv
 邍	yrye
 謜	yryf

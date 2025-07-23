@@ -30,6 +30,7 @@ _	;b
 許	xuyj
 證	vgy
 鐘	vsc
+臨	lbs
 积雪	jixt
 尸体	uit
 湛蓝	vjl
@@ -84,6 +85,7 @@ _	;b
 烟雾	yjw
 鲛人	jnrf
 活生生	huug
+干什么	gsme
 无以言表	wyyb
 心惊胆颤	xjdi
 此起彼落	cqbl
@@ -40619,7 +40621,7 @@ IP地址	ipdv
 归	gvl
 岗	ghu
 挂	gx
-攻	gsmk
+攻	gsm
 估	guo
 轨	gvk
 冠	grb
@@ -40918,6 +40920,7 @@ IP地址	ipdv
 沟通	gt
 公平	gp
 干嘛	gm
+功名	gs
 各部门	gbm
 跟不上	gbu
 搞错了	gcl
@@ -41265,6 +41268,7 @@ IP地址	ipdv
 轷	hukd
 锾	hroe
 缳	hrvv
+換	hrq
 擐	hrq
 哕	hvri
 阍	hyl
@@ -41375,6 +41379,7 @@ IP地址	ipdv
 核武器	hwq
 红外线	hwx
 畫	hxl
+劃	hxl
 候选栏	hxl
 换一个	hyg
 好意思	hys
@@ -41553,7 +41558,7 @@ IP地址	ipdv
 叱	iirp
 徜	ihh
 漦	iije
-昶	ihi
+昶	ihia
 昶	ihm
 丞	ign
 蟾	ijlr
@@ -41894,6 +41899,7 @@ IP地址	ipdv
 揭	jpq
 镜	jko
 寄	jij
+擊	jij
 晋	jbma
 柬	jmd
 嘉	jxg
@@ -42083,6 +42089,7 @@ IP地址	ipdv
 荠	jitl
 痉	jkk
 橘	jud
+積	jihc
 箕	jihc
 蹶	jtr
 枷	jxd
@@ -42227,7 +42234,7 @@ IP地址	ipdv
 趼	jmrt
 耩	jlq
 喈	jpra
-鲒	jpn
+鲒	jpnr
 刭	jknn
 獍	jkk
 鬏	jqs
@@ -48262,7 +48269,6 @@ GDP	gdp
 公会	gsh
 宫	gsj
 共计	gsj
-功名	gsm
 攻破	gsp
 共用	gsy
 公子	gsz
@@ -48626,7 +48632,7 @@ GDP	gdp
 弗	ful
 槁	gcd
 阁	gel
-汞	gsm
+汞	gsme
 蛄	gulr
 枸	gzd
 濠	hce
@@ -48655,7 +48661,7 @@ GDP	gdp
 骥	jinc
 系	jihf
 继	jiv
-戟	jij
+戟	jiji
 笈	jih
 玑	jim
 计	jii
@@ -48758,7 +48764,7 @@ GDP	gdp
 庠	xliq
 岘	xmu
 蚬	xml
-娴	xmv
+娴	xmvd
 骁	xnn
 蟹	xpn
 谐	xpi
@@ -51377,7 +51383,6 @@ $	ofhb
 複	ful
 袱	ful
 无差别	wibp
-干什么	gsme
 魔改	mogd
 早八	zcba
 事件	uij

@@ -1705,6 +1705,7 @@ bd	白
 bd	拜
 bdb	败
 bdb	不得不
+bdb	敗
 bdbc	百宝
 bdbd	拜拜
 bdbi	败笔
@@ -8384,6 +8385,7 @@ dcxu	倒叙
 dcxx	倒下
 dcxy	大材小用
 dcy	道
+dcy	導
 dcyb	导引
 dcyd	䆃
 dcyi	道义
@@ -11992,12 +11994,13 @@ duxp	读写
 duxp	东施效颦
 duxq	低声下气
 duy	督
+duy	讀
 duya	毒牙
 duyb	读音
 duyc	毒药
-duyc	讀
 duyc	錖
 duyc	䢱
+duyc	讀
 duyd	多少有点
 duye	毒液
 duyj	读研
@@ -17526,12 +17529,13 @@ gjfm	粓
 gjfu	赶赴
 gjfv	孤军奋战
 gjg	赶
+gjg	趕
 gjga	尴尬
 gjge	干戈
 gjgh	各家各户
 gjgj	敢干
-gjgj	趕
 gjgj	𱖇
+gjgj	趕
 gjgl	感光
 gjgl	国际惯例
 gjgm	坩
@@ -18601,6 +18605,7 @@ grzi	馆子
 grzv	灌醉
 grzx	各人自扫门前雪
 gs	共
+gs	功名
 gs	公司
 gsan	公安
 gsap	𨴛
@@ -18727,14 +18732,14 @@ gslu	公路
 gslv	功率
 gslz	供楼
 gsm	工
-gsm	功名
-gsm	汞
+gsm	攻
 gsmb	公民
 gsmc	工贸
 gsmc	珙
 gsmc	貢
 gsmc	碽
 gsme	干什么
+gsme	汞
 gsme	𤨶
 gsmf	𪄌
 gsmi	巩
@@ -18746,7 +18751,6 @@ gsmj	䡗
 gsmj	鞏
 gsmj	𨋑
 gsmk	共鸣
-gsmk	攻
 gsmk	巩
 gsmk	𩃙
 gsmm	共勉
@@ -23019,6 +23023,7 @@ hrpl	郇
 hrpv	懁
 hrpv	𢟿
 hrpv	𫜅
+hrq	換
 hrq	擐
 hrqk	欢庆
 hrqk	換
@@ -24735,6 +24740,7 @@ hxkr	划款
 hxkr	夻
 hxkv	花魁
 hxl	畫
+hxl	劃
 hxl	候选栏
 hxla	哗啦
 hxlb	花心萝卜
@@ -26747,7 +26753,8 @@ ihhp	𥠴
 ihhr	偿还
 ihhs	长虹
 ihhu	兏
-ihi	昶
+ihi	廠
+ihia	昶
 ihib	唇红齿白
 ihig	长城
 ihih	常常
@@ -28365,6 +28372,7 @@ iskg	𰺝
 iski	痋
 iskx	冲垮
 isl	虫
+isl	蟲
 isld	重来
 islg	蝩
 islg	褈
@@ -30284,8 +30292,8 @@ jih	笈
 jiha	籍
 jiha	𥡴
 jihb	稩
-jihc	箕
 jihc	積
+jihc	箕
 jihc	稘
 jihd	季
 jihd	𥝌
@@ -30409,7 +30417,7 @@ jiir	𮷈
 jiiu	基础
 jiix	麡
 jij	寄
-jij	戟
+jij	擊
 jij	警察局
 jijb	基金
 jijc	賫
@@ -30426,6 +30434,7 @@ jijf	繫
 jijf	繋
 jijg	墼
 jiji	积极
+jiji	戟
 jiji	蟿
 jijj	輯
 jijj	轚
@@ -30444,9 +30453,9 @@ jijo	赍
 jijp	季节
 jijp	𢡴
 jijq	急救
-jijq	擊
 jijq	撃
 jijq	𰺟
+jijq	擊
 jijr	𠿉
 jijt	𨊻
 jiju	几句
@@ -30590,6 +30599,7 @@ jimx	𨣧
 jimz	计谋
 jin	急
 jin	及
+jin	際
 jina	缉拿
 jinb	隔
 jinc	骥
@@ -30603,11 +30613,11 @@ jine	觙
 jine	𨸚
 jinf	际
 jinf	𬶭
-jinf	際
 jinf	䲯
 jinf	焏
 jinf	鰶
 jinf	𪂺
+jinf	際
 jing	技能
 jini	𧥄
 jinj	济南
@@ -31745,6 +31755,7 @@ jlxl	奖项
 jlxt	降雪
 jlxu	降序
 jlxx	见猎心喜
+jly	講
 jlya	降压
 jlyb	江阴
 jlyb	講
@@ -32613,6 +32624,7 @@ jniu	交出
 jniy	叫春
 jnj	教
 jnj	窖
+jnj	較
 jnjb	较近
 jnjb	较劲
 jnjb	轎
@@ -33219,7 +33231,7 @@ jpmv	𤮌
 jpmw	姐妹
 jpn	阶
 jpn	桀
-jpn	鲒
+jpn	階
 jpna	接纳
 jpna	階
 jpnf	𪀾
@@ -33242,6 +33254,7 @@ jpnn	𬶀
 jpno	䱄
 jpno	𢎡
 jpnq	觧
+jpnr	鲒
 jpnr	鮚
 jpnr	𩧵
 jpnt	𥁂
@@ -38539,6 +38552,7 @@ lbrg	𡃦
 lbri	㖁
 lbrj	凛然
 lbrq	蹸
+lbs	臨
 lbs	老不死
 lbsd	老不死的
 lbse	吝啬
@@ -42388,6 +42402,7 @@ lqzm	良禽择木
 lqzy	来去自由
 lqzz	溜走
 lr	乱
+lrb	亂
 lrbb	𤔔
 lrbc	老弱病残
 lrbe	𢿢
@@ -62460,6 +62475,7 @@ tdhu	太湖
 tdhw	太黑
 tdhz	太后
 tdi	台
+tdi	態
 tdia	太差
 tdic	太吵
 tdif	炱
@@ -73822,6 +73838,7 @@ vlsp	𩯲
 vlsr	装蒜
 vlsv	撞碎
 vlsx	𩮱
+vlt	莊
 vltd	状态
 vltg	荘
 vltg	莊
@@ -76268,6 +76285,7 @@ wfdt	韞
 wfdu	温度
 wfdu	𣜺
 wfe	温
+wfe	溫
 wfed	闻风而动
 wfek	汶
 wfek	渂
@@ -78603,6 +78621,7 @@ wwuy	望文生义
 wwuz	为首
 wwv	维
 wwv	纬
+wwv	維
 wwva	嬒
 wwvb	媦
 wwvb	緭
@@ -80110,6 +80129,7 @@ xixt	戏谑
 xixu	唏嘘
 xixx	西夏
 xixy	喜讯
+xiy	戲
 xiya	西亚
 xiya	謵
 xiyb	吸引
@@ -80120,10 +80140,10 @@ xiyd	𧪢
 xiyh	夕阳
 xiyi	西医
 xiyi	蜥蜴
-xiyi	戲
 xiyi	戯
 xiyi	戱
 xiyi	𢧽
+xiyi	戲
 xiyj	吸烟
 xiyj	遟
 xiyk	喜迎
@@ -80651,11 +80671,12 @@ xllv	小鹿乱撞
 xllw	响雷
 xlm	项
 xlm	厢
+xlm	項
 xlma	𣅰
 xlmb	乡民
 xlmc	相貌
-xlmc	項
 xlmc	𥊾
+xlmc	項
 xlml	𣨳
 xlmm	相面
 xlmn	瓨
@@ -81418,10 +81439,11 @@ xmuu	娴熟
 xmuu	峴
 xmv	线
 xmv	嫌
-xmv	娴
+xmv	線
 xmvb	嫺
 xmvc	先兆
 xmvc	繊
+xmvd	娴
 xmvd	嫻
 xmve	闲着
 xmve	線
@@ -84713,6 +84735,7 @@ yalv	𧓪
 yalv	𰿴
 yam	压
 yam	牙
+yam	亞
 yama	亚麻
 yama	𣉩
 yamb	襾
@@ -84740,12 +84763,12 @@ yaml	琊
 yaml	邪
 yaml	瑘
 yamm	鸦
-yamm	亞
 yamm	亜
 yamm	䃁
 yamm	𠄮
 yamm	𩃐
 yamm	𱉨
+yamm	亞
 yamn	𠜲
 yamn	𫥼
 yamo	㰳
@@ -87658,6 +87681,7 @@ yisw	醫
 yisy	阳春三月
 yit	益
 yit	艺
+yit	義
 yitb	䕍
 yitc	一套
 yitc	䔬
@@ -87673,12 +87697,12 @@ yitf	𧅖
 yith	一趟
 yith	苐
 yith	𩋌
-yiti	義
 yiti	藝
 yiti	兿
 yiti	蓺
 yiti	萟
 yiti	芸
+yiti	義
 yitj	䔱
 yitk	艾
 yitk	蓺
@@ -89813,6 +89837,7 @@ yrvv	嬛
 yrvv	媴
 yrvx	一人之下
 yrvz	圆周
+yrw	園
 yrwb	以人为本
 yrwc	圓
 yrwc	圎
