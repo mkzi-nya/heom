@@ -19181,6 +19181,7 @@ guqp	姑且
 guqr	股权
 guqr	㧽
 guqu	故去
+gur	咕
 gurc	更是如此
 gurf	古人
 gurg	唃
@@ -19191,7 +19192,6 @@ gurl	高手如林
 guro	呱
 gurq	唃
 gurr	拱手让人
-gurr	咕
 gurr	唂
 gurr	𠻧
 guru	高收入
@@ -30445,7 +30445,7 @@ jijt	𨊻
 jiju	几句
 jijx	计价
 jijy	季军
-jik	辑
+jik	疾
 jik	奇
 jikb	瘠
 jikb	㾊
@@ -30463,10 +30463,10 @@ jikf	瘵
 jiki	犱
 jiki	𠫷
 jiki	𧎿
+jikj	辑
 jikj	㾵
 jikj	𬏟
 jikk	几块
-jikk	疾
 jikk	犱
 jikk	猤
 jikk	瘈
@@ -31603,6 +31603,7 @@ jlju	僵局
 jljx	降价
 jljy	将军
 jlke	讲课
+jll	奖
 jllb	降临
 jlld	将来
 jlld	桨
@@ -31611,7 +31612,6 @@ jlli	奖励
 jlli	襁
 jlli	螀
 jllk	将领
-jllk	奖
 jllk	奨
 jllm	虹
 jllm	䗵
@@ -32072,9 +32072,8 @@ jmlr	䛓
 jmlt	简略
 jmlu	𰴘
 jmlz	简陋
-jmm	肩
 jmm	碱
-jmm	戬
+jmm	歼
 jmma	简码
 jmma	磵
 jmma	𰧃
@@ -32090,12 +32089,12 @@ jmmd	臶
 jmmf	䵡
 jmmf	䵤
 jmmf	鳽
+jmmi	戬
 jmmi	戩
 jmmi	碊
 jmmi	蠒
 jmmi	𡬵
 jmmj	减慢
-jmmj	歼
 jmmj	幵
 jmmj	豣
 jmmk	简明
@@ -32645,7 +32644,6 @@ jnkk	獥
 jnkk	𢼫
 jnkk	𤉧
 jnkk	𤶀
-jnkl	骄狂
 jnkl	轿
 jnkl	㽱
 jnkr	交款
@@ -76724,7 +76722,7 @@ whxm	网线
 whxx	往下
 whxy	未婚先孕
 why	望
-why	网友
+why	亡
 whyb	网银
 whye	网页
 whyg	迋
@@ -76740,11 +76738,11 @@ whym	𣥊
 whys	方
 whyt	望月
 whyu	盲
-whyv	亡
 whyv	妄
 whyv	誷
 whyv	𧧄
 whyz	往右
+whyz	网友
 whzc	⺲
 whzf	玩火自焚
 whzi	王子
@@ -92180,8 +92178,8 @@ yzkw	㾞
 yzkw	𤸈
 yzkw	𬨎
 yzl	由
+yzl	邮
 yzl	蝣
-yzl	蚰
 yzlb	牖
 yzlb	牗
 yzlc	有劳
@@ -92205,6 +92203,7 @@ yzlu	冘
 yzlv	忧虑
 yzlv	一走了之
 yzlv	䖻
+yzlw	蚰
 yzlw	蝤
 yzly	游轮
 yzm	憂
@@ -93019,6 +93018,7 @@ zeon	側
 zeoo	伬
 zeou	择偶
 zeq	责
+zeq	择
 zeqa	措
 zeqc	責
 zeqc	耫
