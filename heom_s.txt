@@ -20249,7 +20249,7 @@ GDP	gdp
 工作总结	gzzj
 和	h
 还	h
-忽略	h
+还是	h
 哈	ha
 鉿	hacr
 哈达	hada
@@ -23740,6 +23740,7 @@ GDP	gdp
 𢎵	huln
 𧌧	huln
 胡乱	hulr
+忽略	hult
 葫芦	hulu
 呼噜	hulu
 䗂	hulu

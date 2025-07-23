@@ -20341,7 +20341,7 @@ gzzi	钩子
 gzzj	工作总结
 h	和
 h	还
-h	忽略
+h	还是
 h	ㄏ
 ha	哈
 ha	は
@@ -23846,6 +23846,7 @@ huln	䗂
 huln	𢎵
 huln	𧌧
 hulr	胡乱
+hult	忽略
 hulu	葫芦
 hulu	呼噜
 hulu	䗂
