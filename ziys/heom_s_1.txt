@@ -11327,6 +11327,7 @@ drig	短程
 drih	断肠
 driu	断触
 driu	短处
+driu	vivo手机短断触解决方式https://www.taptap.cn/moment/654325286527043497
 driv	淡然处之
 drjg	端人家碗，受人家管
 drjm	短见
@@ -200079,7 +200080,6 @@ vivo	执着
 vivo	妷
 vivo	紩
 vivo	𮉢
-vivo	vivo手机短断触解决方式https://www.taptap.cn/moment/654325286527043497
 vivp	彘
 vivp	娡
 vivp	綕
