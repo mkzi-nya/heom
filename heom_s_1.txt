@@ -6101,6 +6101,7 @@ cdtz	彩头
 cduf	财神
 cdui	才是
 cduv	财税
+cdv	纔
 cdvc	彩照
 cdvd	采摘
 cdvd	綵
@@ -9650,6 +9651,7 @@ dizi	弟子
 dizo	底座
 dizv	抵罪
 dj	但
+dj	胆
 djaf	鴠
 djaj	暺
 djam	旦
@@ -9657,8 +9659,8 @@ djam	𣋊
 djam	𱉗
 djau	𣅟
 djb	丹
-djb	胆
 djb	膻
+djb	膽
 djbc	担保
 djbd	蛋白
 djbf	打击报复
@@ -9675,8 +9677,8 @@ djbn	𥄦
 djbo	单薄
 djbo	淡泊
 djbr	赡
-djbr	膽
 djbr	贍
+djbr	膽
 djbu	眈
 djbu	𡵕
 djbu	𧴸
@@ -12919,7 +12921,7 @@ eent	鰪
 eenu	阨
 eenv	娿
 eeo	俄
-eeo	锷
+eeo	餓
 eeof	儑
 eeoi	锇
 eeoi	餓
@@ -12928,6 +12930,7 @@ eeoo	餩
 eeop	僫
 eeop	𨱂
 eeor	钶
+eeos	锷
 eeos	偔
 eeou	𰽞
 eeov	𦛅
@@ -18738,11 +18741,12 @@ gslv	功率
 gslz	供楼
 gsm	工
 gsm	攻
+gsm	貢
 gsmb	公民
 gsmc	工贸
 gsmc	珙
-gsmc	貢
 gsmc	碽
+gsmc	貢
 gsme	干什么
 gsme	汞
 gsme	𤨶
@@ -24100,6 +24104,7 @@ hveq	𰝍
 hver	洄
 hvet	泋
 hvf	烩
+hvf	輝
 hvfa	挥发
 hvfa	燴
 hvfb	烠
@@ -24112,9 +24117,9 @@ hvfg	㷐
 hvfh	回访
 hvfi	𤌋
 hvfj	回返
-hvfj	輝
 hvfj	煇
 hvfj	𠓊
+hvfj	輝
 hvfm	烜
 hvfq	辉
 hvfq	煒
@@ -31198,6 +31203,7 @@ jjyy	兢兢业业
 jjzt	荆棘载途
 jk	经
 jk	竟
+jk	京
 jka	晶
 jkaf	景
 jkaf	㬌
@@ -31526,8 +31532,9 @@ jkxr	精选
 jkxr	竞选
 jkxt	经血
 jkxx	惊吓
-jky	京
+jky	竞
 jky	靖
+jky	競
 jkya	惊讶
 jkyb	静音
 jkyd	梷
@@ -31558,9 +31565,9 @@ jkyr	警员
 jkyr	誩
 jkyu	鲸鱼
 jkyu	竞
-jkyu	競
 jkyu	竸
 jkyu	𣬙
+jkyu	競
 jkyy	金口玉言
 jkzg	净增
 jkzi	镜子
@@ -32301,6 +32308,7 @@ jmsw	𰯲
 jmsy	减损
 jmt	兼
 jmt	茧
+jmt	艱
 jmta	践踏
 jmta	蕳
 jmta	𫈉
@@ -32356,9 +32364,9 @@ jmtr	𦺘
 jmtu	䚊
 jmtu	𧢖
 jmtv	减退
-jmtv	艱
 jmtv	茛
 jmtv	葌
+jmtv	艱
 jmtw	𧀇
 jmtw	𧂢
 jmty	𩍎
@@ -46294,6 +46302,7 @@ mmmi	绵密
 mmml	䤄
 mmmm	密密麻麻
 mmmm	㻰
+mmmn	喵喵喵
 mmmo	面膜
 mmmp	㤁
 mmmr	醎
@@ -53432,6 +53441,7 @@ pupk	铺平
 pupl	婆说婆有理
 pupu	毞
 puq	扑
+puq	撲
 puqb	抪
 puqc	𭠙
 puqd	擈
@@ -54845,6 +54855,7 @@ qixx	旗下
 qixx	气喘吁吁
 qiy	齐
 qiy	弃
+qiy	棄
 qiya	气压
 qiya	欺压
 qiyb	起因
@@ -55350,6 +55361,7 @@ qlpc	枪炮
 qlpd	抢拍
 qlpo	强迫
 qlq	抢
+qlq	搶
 qlqb	抢亲
 qlql	强强
 qlqm	抢钱
@@ -67650,15 +67662,16 @@ ugus	水光山色
 uguu	生疏
 uguz	生手
 ugv	绳
+ugv	繩
 ugvh	生长
 ugvh	省长
 ugvi	升值
 ugvj	圣战
 ugvl	盛装
 ugvu	生猪
-ugvu	繩
 ugvu	縄
 ugvu	𡞞
+ugvu	繩
 ugvv	收官之战
 ugwf	升温
 ugwg	畻
@@ -76800,8 +76813,9 @@ whuh	网上
 whui	往事
 whuo	𣢫
 whup	𡷢
-whv	王者
+whv	網
 whve	望着
+whve	王者
 whvi	网址
 whvj	网站
 whvk	䋄
@@ -87563,6 +87577,7 @@ yiov	偯
 yiov	餏
 yip	疑
 yip	忆
+yip	憶
 yipb	一品
 yipd	一排
 yipe	𢗎
@@ -87584,11 +87599,10 @@ yipn	㥴
 yipn	㽈
 yipn	恞
 yipn	𱉇
-yipp	一瞥
-yipp	憶
 yipp	𠤗
 yipp	𢖺
 yipp	𢘽
+yipp	憶
 yipq	肄
 yipq	怿
 yipq	觺
@@ -89440,6 +89454,7 @@ yorm	喲
 yory	唹
 yoyb	育
 yp	一片
+yp	一瞥
 ypbx	一片冰心
 ypdx	眼皮底下
 ypeh	一炮而红

@@ -2422,6 +2422,7 @@
 縩	cdvf
 𡣮	cdvf
 𮉯	cdvf
+纔	cdv
 纔	cdvi
 𨶨	cean
 𣌧	ceba
@@ -3993,9 +3994,10 @@
 𬂅	djbj
 刐	djbn
 𥄦	djbn
+膽	djb
 赡	djbr
-膽	djbr
 贍	djbr
+膽	djbr
 𡵕	djbu
 𧴸	djbu
 鉭	djcm
@@ -5473,6 +5475,7 @@
 阨	eenu
 娿	eenv
 儑	eeof
+餓	eeo
 餓	eeoi
 𩚬	eeon
 餩	eeoo
@@ -7765,8 +7768,9 @@
 𧘏	gsln
 𬠈	gslo
 𧎡	gslr
-貢	gsmc
+貢	gsm
 碽	gsmc
+貢	gsmc
 𤨶	gsme
 𪄌	gsmf
 蛩	gsmi
@@ -10255,9 +10259,10 @@
 烣	hvff
 㷐	hvfg
 𤌋	hvfi
-輝	hvfj
+輝	hvf
 煇	hvfj
 𠓊	hvfj
+輝	hvfj
 烜	hvfm
 煒	hvfq
 𪸩	hvfq
@@ -13780,9 +13785,10 @@
 逕	jkym
 䪫	jkym
 誩	jkyr
-競	jkyu
+競	jky
 竸	jkyu
 𣬙	jkyu
+競	jkyu
 䁰	jlbc
 䜫	jlcm
 㯍	jldi
@@ -14246,9 +14252,10 @@
 𦺘	jmtr
 䚊	jmtu
 𧢖	jmtu
-艱	jmtv
+艱	jmt
 茛	jmtv
 葌	jmtv
+艱	jmtv
 𧀇	jmtw
 𧂢	jmtw
 𩍎	jmty
@@ -24228,6 +24235,7 @@
 𭠙	puqc
 擈	puqd
 扶	puqo
+撲	puq
 撲	puqo
 𨁏	purb
 䮒	pusb
@@ -24960,6 +24968,7 @@
 齎	qiyc
 𨒅	qiyc
 𩒛	qiyc
+棄	qiy
 棄	qiyd
 竐	qiye
 𨑤	qiye
@@ -25148,6 +25157,7 @@
 𬬰	qlou
 控	qlqm
 㩖	qlqm
+搶	qlq
 搶	qlqr
 蹡	qlri
 嗴	qlri
@@ -30848,9 +30858,10 @@
 𩍋	ugtn
 蕂	ugts
 𦳗	ugtu
-繩	ugvu
+繩	ugv
 縄	ugvu
 𡞞	ugvu
+繩	ugvu
 畻	ugwg
 椉	ugyd
 𧪝	ugyp
@@ -34780,6 +34791,7 @@
 𥾼	whvn
 亾	whvo
 兦	whvo
+網	whv
 網	whvv
 罒	whwl
 迋	whyg
@@ -40200,10 +40212,11 @@
 㽈	yipn
 恞	yipn
 𱉇	yipn
-憶	yipp
+憶	yip
 𠤗	yipp
 𢖺	yipp
 𢘽	yipp
+憶	yipp
 怿	yipq
 觺	yipq
 勚	yips
