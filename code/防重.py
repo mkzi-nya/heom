@@ -45,21 +45,18 @@ def build_code_dict(entries):
 
 def redistribute(code_dict):
     """就地调整 code_dict，使之满足分流规则。"""
-    code_order = list(code_dict.keys())  # 记录输出顺序
+    code_order = list(code_dict.keys())
     for code in list(code_dict.keys()):
         chars = code_dict[code]
-        # 只处理四位编码，其它直接跳过
-        if len(code) != 4 or len(chars) <= MAX_PER_CODE:
+        # 只处理四位编码，且不处理 of 开头
+        if len(code) != 4 or code.startswith("of") or len(chars) <= MAX_PER_CODE:
             continue
         a, b, c, d = code
-
-        # 生成派生编码列表
         variants = DERIVATION_ORDER(a, b, c, d)
-        src_idx = MAX_PER_CODE  # 下一枚待搬运的下标
+        src_idx = MAX_PER_CODE
         for vcode in variants:
-            # 已有则取其列表，否则创建空列表
             vlist = code_dict.get(vcode, [])
-            cap = MAX_PER_CODE - len(vlist)  # 还能装多少
+            cap = MAX_PER_CODE - len(vlist)
             if cap > 0 and src_idx < len(chars):
                 take = min(cap, len(chars) - src_idx)
                 vlist.extend(chars[src_idx:src_idx + take])
@@ -67,9 +64,8 @@ def redistribute(code_dict):
                 if vcode not in code_order:
                     code_order.append(vcode)
                 src_idx += take
-                if src_idx >= len(chars):  # 源已搬空
+                if src_idx >= len(chars):
                     break
-        # 源编码只保留前 3 个
         code_dict[code] = chars[:MAX_PER_CODE]
     return code_order
 
