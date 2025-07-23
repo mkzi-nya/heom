@@ -1,4 +1,3 @@
-
 0721，是一种脑力与体力结合的活动，无数的仁人志士投身于这伟大的活动。有的人运用于实战，沉重地打击了老穗织正绿旗的睡眠，为反封建做出了突出贡献；有的人进行了科技上的革新，以花洒这种坚硬的东西保证了实感和持久性；有的人将此用于课上与老师斗争，展示了她的勇敢与坚毅。不过，我们伟大的绫地宁宁，将0721玩出了新高度，玩出了新水平，成为了0721界的一座丰碑。在0721界，后人看到这时，不得不感叹“天不生宁宁，万古如长夜”。正如赫尔曼拉姆是抢劫界的大贤至圣先师一样，绫地宁宁可以说是0721界的大贤至圣先师。
 在宁宁之前，古典派的0721主要是动手动脑，并且工作环境恶劣，安全没有保障。而我们伟大的绫地宁宁在0721方面进行了伟大的探索，开创了0721现代化、机械化、正规化、多元化的先河，造就了0721界的革命，实现了0721界的伟大进步。这个进步，不亚于两次工业革命！
 长久以来，0721是以手工的形式为主，但我们的宁宁进行了技术上的革新，先是以桌角代替手工，后来为了可持续发展就采用了一种红色的小机械，并将其命名为“起爆器”，意思是爆炸性的革新，据路边社消息宁宁将来很有可能要冲击诺贝尔奖。同时为了高效运作，她将起爆器扩展到了两个，进一步促进了0721生产力的发展，这项成就堪比福特流水线。这场技术革命深深影响了后世，鼓舞后人在这领域创造性转化，创新性发展。
@@ -3809,11 +3808,6 @@ AA制	aavi
 便捷	bmjp
 编剧	bmju
 边距	bmju
-㦚	bmjx
-㵷	bmjx
-辡	bmjx
-辧	bmjz
-𤀲	bmjz
 猵	bmkb
 𢩟	bmkb
 𤺇	bmkb
@@ -17708,7 +17702,6 @@ github	gith
 柑橘	gjju
 乹	gjju
 干架	gjjx
-𣔼	gjjx
 尴	gjk
 疳	gjk
 赶考	gjkc
@@ -28879,12 +28872,6 @@ php -S 127.0.0.1:8000	iphp
 儊	iuoo
 𠇘	iuov
 傗	iuow
-珿	iuox
-璴	iuox
-豖	iuox
-𣢶	iuoz
-𥒭	iuoz
-𧯩	iuoz
 怵	iup
 出品	iupb
 出牌	iupd
@@ -29002,8 +28989,6 @@ php -S 127.0.0.1:8000	iphp
 储蓄	iuxu
 春生夏长	iuxv
 重拾信心	iuxx
-𧰫	iuxx
-𩈤	iuxx
 出巡	iuxy
 畜	iuy
 出于	iuy
@@ -29631,7 +29616,6 @@ php -S 127.0.0.1:8000	iphp
 基本	jb
 㬐	jbaa
 紧挨	jbai
-䤐	jbax
 骄兵必败	jbbb
 近百	jbbd
 紧绷	jbbg
@@ -39076,8 +39060,6 @@ msbt.seku.su	jmwv
 来此	ldci
 錸	ldco
 𨦂	ldcu
-櫴	ldcx
-顂	ldcx
 赖	ldd
 賴	ldd
 来到	lddc
@@ -39620,12 +39602,6 @@ msbt.seku.su	jmwv
 𠝄	libn
 离别	libp
 𧲡	libs
-酾	libx
-㡂	libx
-䄜	libx
-礪	libz
-禲	libz
-𦠓	libz
 鎘	licb
 𨯽	licb
 理财	licd
@@ -40216,9 +40192,6 @@ msbt.seku.su	jmwv
 驪	lisp
 𩥴	lisq
 髦	lisu
-勵	lisx
-珕	lisx
-𰦦	lisx
 莉	lit
 荔	lit
 蓠	litb
@@ -40332,8 +40305,6 @@ msbt.seku.su	jmwv
 离休	lixq
 力学	lixt
 立夏	lixx
-𨢌	lixx
-𩱇	lixx
 离	liy
 裏	liy
 逦	liyb
@@ -44899,12 +44870,6 @@ msbt.seku.su	jmwv
 冒失	mcui
 名存实亡	mcuw
 毛刷	mcux
-覒	mcux
-𢅉	mcux
-𣯀	mcux
-𥟪	mcuz
-𨈥	mcuz
-𬆾	mcuz
 嫹	mcvc
 冒着	mcve
 㚹	mcvl
@@ -44922,7 +44887,6 @@ msbt.seku.su	jmwv
 毛线	mcx
 貌相	mcxl
 冒险	mcxm
-𲌰	mcxx
 袤	mcy
 旄	mcy
 毛衣	mcy
@@ -184337,9 +184301,6 @@ python	pyth
 𨄅	qurr
 屈辱	quru
 㖆	qurw
-𡱺	qurx
-𦕙	qurx
-𦗛	qurx
 取	qus
 屈	qus
 区	qus
@@ -210307,8 +210268,6 @@ http://mhtlim.top/usage/usage.html	uomk
 賉	xubt
 𥅺	xubu
 心术不正	xubv
-繻	xubx
-𦅏	xubx
 鑐	xucb
 𨬗	xucc
 虚词	xuci
@@ -215223,10 +215182,6 @@ http://mhtlim.top/usage/usage.html	uomk
 狠	yjkv
 狿	yjkv
 㿕	yjkx
-珚	yjkx
-礹	yjkx
-釅	yjkz
-𥜒	yjkz
 蜒	yjl
 阎	yjl
 阉	yjl

@@ -1,4 +1,3 @@
-	
 	0721，是一种脑力与体力结合的活动，无数的仁人志士投身于这伟大的活动。有的人运用于实战，沉重地打击了老穗织正绿旗的睡眠，为反封建做出了突出贡献；有的人进行了科技上的革新，以花洒这种坚硬的东西保证了实感和持久性；有的人将此用于课上与老师斗争，展示了她的勇敢与坚毅。不过，我们伟大的绫地宁宁，将0721玩出了新高度，玩出了新水平，成为了0721界的一座丰碑。在0721界，后人看到这时，不得不感叹“天不生宁宁，万古如长夜”。正如赫尔曼拉姆是抢劫界的大贤至圣先师一样，绫地宁宁可以说是0721界的大贤至圣先师。
 	在宁宁之前，古典派的0721主要是动手动脑，并且工作环境恶劣，安全没有保障。而我们伟大的绫地宁宁在0721方面进行了伟大的探索，开创了0721现代化、机械化、正规化、多元化的先河，造就了0721界的革命，实现了0721界的伟大进步。这个进步，不亚于两次工业革命！
 	长久以来，0721是以手工的形式为主，但我们的宁宁进行了技术上的革新，先是以桌角代替手工，后来为了可持续发展就采用了一种红色的小机械，并将其命名为“起爆器”，意思是爆炸性的革新，据路边社消息宁宁将来很有可能要冲击诺贝尔奖。同时为了高效运作，她将起爆器扩展到了两个，进一步促进了0721生产力的发展，这项成就堪比福特流水线。这场技术革命深深影响了后世，鼓舞后人在这领域创造性转化，创新性发展。
@@ -3809,11 +3808,6 @@ bmjo	窆
 bmjp	便捷
 bmju	编剧
 bmju	边距
-bmjx	㦚
-bmjx	㵷
-bmjx	辡
-bmjz	辧
-bmjz	𤀲
 bmkb	猵
 bmkb	𢩟
 bmkb	𤺇
@@ -17708,7 +17702,6 @@ gjjr	国际金融
 gjju	柑橘
 gjju	乹
 gjjx	干架
-gjjx	𣔼
 gjk	尴
 gjk	疳
 gjkc	赶考
@@ -28879,12 +28872,6 @@ iuom	𬬺
 iuoo	儊
 iuov	𠇘
 iuow	傗
-iuox	珿
-iuox	璴
-iuox	豖
-iuoz	𣢶
-iuoz	𥒭
-iuoz	𧯩
 iup	怵
 iupb	出品
 iupd	出牌
@@ -29002,8 +28989,6 @@ iuxt	初学
 iuxu	储蓄
 iuxv	春生夏长
 iuxx	重拾信心
-iuxx	𧰫
-iuxx	𩈤
 iuxy	出巡
 iuy	畜
 iuy	出于
@@ -29631,7 +29616,6 @@ jb	进
 jb	基本
 jbaa	㬐
 jbai	紧挨
-jbax	䤐
 jbbb	骄兵必败
 jbbd	近百
 jbbg	紧绷
@@ -39076,8 +39060,6 @@ ldbx	老大不小
 ldci	来此
 ldco	錸
 ldcu	𨦂
-ldcx	櫴
-ldcx	顂
 ldd	赖
 ldd	賴
 lddc	来到
@@ -39620,12 +39602,6 @@ libn	脷
 libn	𠝄
 libp	离别
 libs	𧲡
-libx	酾
-libx	㡂
-libx	䄜
-libz	礪
-libz	禲
-libz	𦠓
 licb	鎘
 licb	𨯽
 licd	理财
@@ -40216,9 +40192,6 @@ liso	利索
 lisp	驪
 lisq	𩥴
 lisu	髦
-lisx	勵
-lisx	珕
-lisx	𰦦
 lit	莉
 lit	荔
 litb	蓠
@@ -40332,8 +40305,6 @@ lixn	离校
 lixq	离休
 lixt	力学
 lixx	立夏
-lixx	𨢌
-lixx	𩱇
 liy	离
 liy	裏
 liyb	逦
@@ -44899,12 +44870,6 @@ mcuh	𡹰
 mcui	冒失
 mcuw	名存实亡
 mcux	毛刷
-mcux	覒
-mcux	𢅉
-mcux	𣯀
-mcuz	𥟪
-mcuz	𨈥
-mcuz	𬆾
 mcvc	嫹
 mcve	冒着
 mcvl	㚹
@@ -44922,7 +44887,6 @@ mcwu	𤲰
 mcx	毛线
 mcxl	貌相
 mcxm	冒险
-mcxx	𲌰
 mcy	袤
 mcy	旄
 mcy	毛衣
@@ -184337,9 +184301,6 @@ qurn	请神容易送神难
 qurr	𨄅
 quru	屈辱
 qurw	㖆
-qurx	𡱺
-qurx	𦕙
-qurx	𦗛
 qus	取
 qus	屈
 qus	区
@@ -210307,8 +210268,6 @@ xubr	形势逼人
 xubt	賉
 xubu	𥅺
 xubv	心术不正
-xubx	繻
-xubx	𦅏
 xucb	鑐
 xucc	𨬗
 xuci	虚词
@@ -215223,10 +215182,6 @@ yjkv	奄
 yjkv	狠
 yjkv	狿
 yjkx	㿕
-yjkx	珚
-yjkx	礹
-yjkz	釅
-yjkz	𥜒
 yjl	蜒
 yjl	阎
 yjl	阉
