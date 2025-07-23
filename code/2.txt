@@ -649,6 +649,7 @@
 㵡	bceu
 㙅	bcgd
 堢	bcgd
+報	bcg
 報	bcge
 𡉩	bcgk
 㙸	bcgo
@@ -1517,6 +1518,7 @@
 𪑰	bkwt
 稟	bkyd
 鵧	bkyf
+幷	bky
 幷	bkyj
 迸	bkyt
 誁	bkyt
@@ -1635,7 +1637,6 @@
 𤀲	bmyj
 𧩰	bmyo
 邉	bmyr
-邊	bmys
 𠬪	bnbe
 臕	bnbf
 𩪊	bnbf
@@ -5631,6 +5632,7 @@
 𩱊	ermf
 䣵	ermj
 𣧹	ermj
+爾	erm
 爾	ermk
 𦓓	erml
 𦓔	erml
@@ -7219,9 +7221,10 @@
 畊	ggwt
 䢚	ggyk
 罓	ghbk
+剛	ghb
 肮	ghbn
-剛	ghbn
 𤭛	ghbn
+剛	ghbn
 岡	ghbu
 釭	ghcm
 鎠	ghcm
@@ -7623,6 +7626,7 @@
 澣	grej
 㴦	grer
 泴	gret
+覌	gre
 浣	greu
 覌	greu
 㮡	grfd
@@ -7688,6 +7692,7 @@
 䪀	grtp
 菅	grtr
 䩪	grtr
+觀	grt
 觀	grtu
 𦺊	grtu
 綸	grvb
@@ -13022,18 +13027,20 @@
 𪲛	jidd
 㮨	jide
 樭	jidg
-機	jidi
+機	jid
 橶	jidi
 檝	jidi
 檵	jidi
 𣛔	jidi
 枅	jidj
 檝	jidj
+機	jidi
 機	jidk
 槉	jidk
 楖	jidl
 𪌍	jidl
 𪲎	jidl
+極	jid
 極	jidm
 櫭	jidm
 𣏡	jido
@@ -14379,11 +14386,12 @@
 𡥈	jnkd
 𤕝	jnke
 𫐖	jnkh
-敎	jnkk
+敎	jnk
 獥	jnkk
 𢼫	jnkk
 𤉧	jnkk
 𤶀	jnkk
+敎	jnkk
 㽱	jnkl
 𤶳	jnkr
 㽲	jnks
@@ -14799,6 +14807,7 @@
 𠄍	jpvn
 媫	jpvo
 繲	jpvq
+結	jpv
 結	jpvr
 𦀖	jpvs
 𫄦	jpvs
@@ -18091,9 +18100,10 @@
 䶘	liyt
 迣	liyt
 𥉆	liyu
-裏	liyv
+裏	liy
 𧘫	liyv
 𧙉	liyv
+裏	liyv
 闌	ljaf
 暕	ljaf
 𨷻	ljaf
@@ -21318,7 +21328,7 @@
 俛	mmou
 𢣔	mmps
 㨺	mmqb
-麺	mmql
+麺	mmq
 喕	mmrl
 黽	mmru
 䏃	mmsc
@@ -24997,6 +25007,7 @@
 鑋	qkjc
 䡖	qkjg
 軽	qkjg
+輕	qkj
 輕	qkjm
 𨆪	qkjo
 𰼻	qkkc
@@ -26130,10 +26141,11 @@
 寉	qtjg
 猎	qtka
 獡	qtkf
+㕁	qtk
 郄	qtkl
-㕁	qtkl
 㾡	qtkl
 𤷽	qtkl
+㕁	qtkl
 㹱	qtko
 𮸧	qtlb
 𧎯	qtlk
@@ -26489,6 +26501,7 @@
 㪊	qyse
 𣀄	qyse
 𨞗	qysl
+羣	qys
 䭽	qysq
 羣	qysq
 裠	qysv
@@ -30043,8 +30056,9 @@
 𪑏	tuwd
 図	tuwk
 𡇩	tuwn
-圖	tuww
+圖	tuw
 圗	tuww
+圖	tuww
 迌	tuyb
 𧧶	tuyd
 𨑒	tuyg
@@ -30938,6 +30952,7 @@
 埶	uigk
 郝	uigl
 𧻸	uigl
+勢	uig
 勢	uigs
 師	uihb
 篩	uihb
@@ -32705,6 +32720,7 @@
 鱆	vhnj
 𫠒	vhnj
 𫗠	vhno
+張	vhn
 張	vhnv
 傽	vhoj
 餦	vhov
@@ -32914,11 +32930,11 @@
 徔	viho
 𤴛	viho
 𩙾	viho
-氏	vihp
-憄	vihp
 秖	vihp
+憄	vihp
 𢕞	vihp
 𥭡	vihp
+氏	vihp
 穉	vihq
 䆈	vihq
 𤛱	vihq
@@ -33868,6 +33884,7 @@
 終	vsvm
 終	vsvy
 𦌋	vswg
+眾	vsw
 眾	vswo
 𬑔	vswo
 童	vsyg
@@ -34399,6 +34416,7 @@
 詶	vzyl
 逐	vzyo
 𧭍	vzyo
+週	vzy
 調	vzyr
 週	vzyr
 𧇟	vzyr
@@ -35145,6 +35163,7 @@
 𨂣	wuno
 𦎦	wunq
 鯃	wunr
+務	wun
 務	wuns
 陓	wuns
 𧰈	wunt
@@ -36318,6 +36337,7 @@
 㙚	xkgq
 馫	xkha
 臖	xkhb
+興	xkh
 興	xkhc
 皨	xkhg
 𤙡	xkhj
@@ -36533,9 +36553,10 @@
 㐮	xlyv
 𣊺	xmaa
 閒	xmab
-顯	xmac
-㫫	xmac
+顯	xma
 顕	xmac
+㫫	xmac
+顯	xmac
 閑	xmad
 䦥	xmad
 㬗	xmaf
@@ -36772,12 +36793,13 @@
 𰧇	xmmo
 碱	xmmr
 醎	xmmr
-現	xmmu
+現	xmm
 䙹	xmmu
 䨘	xmmu
 珗	xmmu
 𥑻	xmmu
 𧱀	xmmu
+現	xmmu
 𥓒	xmmx
 陥	xmna
 𩱆	xmnb
@@ -38003,6 +38025,7 @@
 𥮪	xuhb
 𦠷	xuhb
 𫷈	xuhb
+須	xuh
 須	xuhc
 䅡	xuhc
 籲	xuhc
@@ -38220,7 +38243,6 @@
 𠆐	xuyf
 𪆛	xuyf
 𧕼	xuyi
-許	xuyj
 𨞣	xuyl
 虛	xuym
 䢕	xuym
@@ -39398,6 +39420,7 @@
 𠥇	yesr
 荼	yetd
 葉	yetd
+業	yet
 業	yetd
 鸈	yetf
 𦰳	yeth
@@ -40250,12 +40273,12 @@
 𧅖	yitf
 苐	yith
 𩋌	yith
-芸	yiti
 義	yiti
 藝	yiti
 兿	yiti
 蓺	yiti
 萟	yiti
+芸	yiti
 䔱	yitj
 艾	yitk
 蓺	yitk
@@ -42358,6 +42381,7 @@
 𬺊	yyyd
 𧥼	yyyi
 𧬞	yyyi
+運	yyy
 運	yyyj
 齳	yyyj
 𱂐	yyyo

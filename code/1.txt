@@ -25,7 +25,10 @@
 _	;b
 「	;n
 」	;m
-牆	qlv	
+牆	qlv
+邊	bmys
+許	xuyj
+證	vgy
 积雪	jixt
 尸体	uit
 湛蓝	vjl
@@ -5244,6 +5247,7 @@ AA制	aavi
 短棍	drgy
 断魂	drhy
 断后	drhz
+断触	driu
 短处	driu
 端茶	dria
 短程	drig
@@ -8063,6 +8067,7 @@ AA制	aavi
 呱呱叫	ggjn
 港澳	ghao
 刚把	ghba
+钢笔	ghbi
 港币	ghbi
 钢板	ghbj
 关怀备至	ghbv
@@ -35901,7 +35906,6 @@ IP地址	ipdv
 一套	yitc
 一台	yitd
 一趟	yith
-一体	yiti
 一天	yitm
 一条	yitn
 依托	yito
@@ -39386,7 +39390,7 @@ IP地址	ipdv
 呗	bdro
 呗	bwr
 砭	bmm
-禀	bky
+禀	bkyf
 膘	bnb
 飙	bni
 蓖	bitp
@@ -40280,7 +40284,7 @@ IP地址	ipdv
 蒽	ent
 珥	erm
 佴	ero
-鸸	erm
+鸸	ermm
 鲕	ernl
 欸	ei
 陑	ernl
@@ -40661,7 +40665,7 @@ IP地址	ipdv
 轧	gaku
 刮	gxh
 龚	gsi
-冈	ghb
+冈	ghbk
 溉	gde
 鬼	gvh
 辜	guj
@@ -42966,7 +42970,7 @@ IP地址	ipdv
 轳	luk
 逯	luye
 喱	lirg
-逦	liy
+逦	liyb
 廪	lbif
 绺	lqv
 渌	luee
@@ -45310,6 +45314,7 @@ IP地址	ipdv
 市	uiy
 生	ug
 实	uij
+士	uij
 设	ue
 社	uei
 社	uem
@@ -45343,7 +45348,6 @@ IP地址	ipdv
 石	uim
 食	uiov
 始	uiv
-士	uijm
 双	ul
 善	ujt
 声	ugg
@@ -45587,7 +45591,7 @@ IP地址	ipdv
 葚	uftv
 熵	uhf
 绱	uhv
-螫	uig
+螫	uigi
 毹	uuou
 妁	uov
 泷	ulep
@@ -46328,7 +46332,7 @@ IP地址	ipdv
 鹜	wunm
 幄	wol
 兀	wumu
-婺	wun
+婺	wunv
 嗡	wgr
 惘	whp
 瓮	wgc
@@ -46539,7 +46543,7 @@ IP地址	ipdv
 谢	xpi
 凶	xsu
 雄	xsk
-徐	xuh
+徐	xuhd
 械	xpd
 析	xid
 休	xqo
@@ -46853,7 +46857,6 @@ IP地址	ipdv
 獯	xyk
 蓰	xito
 祆	xmi
-祆	xmm
 葙	xltu
 魈	xnh
 躞	xpre
@@ -46958,6 +46961,7 @@ IP地址	ipdv
 需要	xy
 希望	xw
 喜欢	xh
+型号	xh
 西安	xa
 相当	xd
 习惯	xg
@@ -47453,7 +47457,7 @@ IP地址	ipdv
 殪	yimt
 痈	ysk
 揠	yaqv
-邺	yet
+邺	yetl
 鳙	ysn
 恹	yjp
 爰	yrb
@@ -48159,7 +48163,6 @@ GDP	gdp
 哪些	nax
 哪样	nay
 权势	qru
-时间	uij
 水平	uvp
 席位	xiw
 下级	xxj
@@ -48243,7 +48246,6 @@ GDP	gdp
 高速	gcs
 高效	gcx
 鸽子	gez
-钢笔	ghb
 纲要	ghy
 光纤	glx
 国徽	goh
@@ -48252,7 +48254,7 @@ GDP	gdp
 裹挟	gox
 聒噪	goz
 惯例	grl
-关头	grt
+关头	grtz
 官网	grw
 公会	gsh
 宫	gsj
@@ -48364,7 +48366,7 @@ GDP	gdp
 颇费	pof
 破例	pol
 岂不	qib
-清静	qkj
+清静	qkjk
 青涩	qks
 情谊	qky
 枪毙	qlb
@@ -48427,7 +48429,7 @@ GDP	gdp
 声明	ugm
 赏赐	uhc
 上场	uhi
-使馆	uig
+使馆	uigr
 使坏	uih
 闪亮	ujl
 说道	uod
@@ -48482,7 +48484,7 @@ GDP	gdp
 玩意	wjy
 微风	wwf
 心算	xbs
-幸好	xkh
+幸好	xkhc
 行程	xki
 性急	xkj
 醒了	xkl
@@ -48896,6 +48898,7 @@ GDP	gdp
 投资	tz
 束缚	uf
 伤害	uh
+时间	uj
 世纪	uj
 试试	uu
 食物	uw
@@ -48958,7 +48961,6 @@ GDP	gdp
 教科书	jku
 加拿大	jnd
 吉尼斯	jns
-柬埔寨	jpv
 警惕性	jtx
 记事本	jub
 局限性	jxx
@@ -48971,7 +48973,6 @@ GDP	gdp
 老年人	lnr
 两只手	lvu
 老顽童	lwt
-六月份	lyf
 懒洋洋	lyy
 巧克力	qkl
 情况下	qkx
@@ -49413,7 +49414,6 @@ GDP	gdp
 畸形	jixk
 机箱	jixl
 积压	jiya
-觊觎	jiyu
 加减乘除	jjii
 句句属实	jjuu
 惊艳	jkyj
@@ -51443,3 +51443,4 @@ $	ofhb
 造势	zcui
 实权	uiqr
 起誓	qiui
+觊觎	jy

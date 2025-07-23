@@ -55,7 +55,10 @@ encoder:
 _	;b
 「	;n
 」	;m
-牆	qlv	
+牆	qlv
+邊	bmys
+許	xuyj
+證	vgy
 积雪	jixt
 尸体	uit
 湛蓝	vjl
@@ -5274,6 +5277,7 @@ AA制	aavi
 短棍	drgy
 断魂	drhy
 断后	drhz
+断触	driu
 短处	driu
 端茶	dria
 短程	drig
@@ -8093,6 +8097,7 @@ AA制	aavi
 呱呱叫	ggjn
 港澳	ghao
 刚把	ghba
+钢笔	ghbi
 港币	ghbi
 钢板	ghbj
 关怀备至	ghbv
@@ -35931,7 +35936,6 @@ IP地址	ipdv
 一套	yitc
 一台	yitd
 一趟	yith
-一体	yiti
 一天	yitm
 一条	yitn
 依托	yito
@@ -39416,7 +39420,7 @@ IP地址	ipdv
 呗	bdro
 呗	bwr
 砭	bmm
-禀	bky
+禀	bkyf
 膘	bnb
 飙	bni
 蓖	bitp
@@ -40310,7 +40314,7 @@ IP地址	ipdv
 蒽	ent
 珥	erm
 佴	ero
-鸸	erm
+鸸	ermm
 鲕	ernl
 欸	ei
 陑	ernl
@@ -40691,7 +40695,7 @@ IP地址	ipdv
 轧	gaku
 刮	gxh
 龚	gsi
-冈	ghb
+冈	ghbk
 溉	gde
 鬼	gvh
 辜	guj
@@ -42996,7 +43000,7 @@ IP地址	ipdv
 轳	luk
 逯	luye
 喱	lirg
-逦	liy
+逦	liyb
 廪	lbif
 绺	lqv
 渌	luee
@@ -45340,6 +45344,7 @@ IP地址	ipdv
 市	uiy
 生	ug
 实	uij
+士	uij
 设	ue
 社	uei
 社	uem
@@ -45373,7 +45378,6 @@ IP地址	ipdv
 石	uim
 食	uiov
 始	uiv
-士	uijm
 双	ul
 善	ujt
 声	ugg
@@ -45617,7 +45621,7 @@ IP地址	ipdv
 葚	uftv
 熵	uhf
 绱	uhv
-螫	uig
+螫	uigi
 毹	uuou
 妁	uov
 泷	ulep
@@ -46358,7 +46362,7 @@ IP地址	ipdv
 鹜	wunm
 幄	wol
 兀	wumu
-婺	wun
+婺	wunv
 嗡	wgr
 惘	whp
 瓮	wgc
@@ -46569,7 +46573,7 @@ IP地址	ipdv
 谢	xpi
 凶	xsu
 雄	xsk
-徐	xuh
+徐	xuhd
 械	xpd
 析	xid
 休	xqo
@@ -46883,7 +46887,6 @@ IP地址	ipdv
 獯	xyk
 蓰	xito
 祆	xmi
-祆	xmm
 葙	xltu
 魈	xnh
 躞	xpre
@@ -46988,6 +46991,7 @@ IP地址	ipdv
 需要	xy
 希望	xw
 喜欢	xh
+型号	xh
 西安	xa
 相当	xd
 习惯	xg
@@ -47483,7 +47487,7 @@ IP地址	ipdv
 殪	yimt
 痈	ysk
 揠	yaqv
-邺	yet
+邺	yetl
 鳙	ysn
 恹	yjp
 爰	yrb
@@ -48189,7 +48193,6 @@ GDP	gdp
 哪些	nax
 哪样	nay
 权势	qru
-时间	uij
 水平	uvp
 席位	xiw
 下级	xxj
@@ -48273,7 +48276,6 @@ GDP	gdp
 高速	gcs
 高效	gcx
 鸽子	gez
-钢笔	ghb
 纲要	ghy
 光纤	glx
 国徽	goh
@@ -48282,7 +48284,7 @@ GDP	gdp
 裹挟	gox
 聒噪	goz
 惯例	grl
-关头	grt
+关头	grtz
 官网	grw
 公会	gsh
 宫	gsj
@@ -48394,7 +48396,7 @@ GDP	gdp
 颇费	pof
 破例	pol
 岂不	qib
-清静	qkj
+清静	qkjk
 青涩	qks
 情谊	qky
 枪毙	qlb
@@ -48457,7 +48459,7 @@ GDP	gdp
 声明	ugm
 赏赐	uhc
 上场	uhi
-使馆	uig
+使馆	uigr
 使坏	uih
 闪亮	ujl
 说道	uod
@@ -48512,7 +48514,7 @@ GDP	gdp
 玩意	wjy
 微风	wwf
 心算	xbs
-幸好	xkh
+幸好	xkhc
 行程	xki
 性急	xkj
 醒了	xkl
@@ -48926,6 +48928,7 @@ GDP	gdp
 投资	tz
 束缚	uf
 伤害	uh
+时间	uj
 世纪	uj
 试试	uu
 食物	uw
@@ -48988,7 +48991,6 @@ GDP	gdp
 教科书	jku
 加拿大	jnd
 吉尼斯	jns
-柬埔寨	jpv
 警惕性	jtx
 记事本	jub
 局限性	jxx
@@ -49001,7 +49003,6 @@ GDP	gdp
 老年人	lnr
 两只手	lvu
 老顽童	lwt
-六月份	lyf
 懒洋洋	lyy
 巧克力	qkl
 情况下	qkx
@@ -49443,7 +49444,6 @@ GDP	gdp
 畸形	jixk
 机箱	jixl
 积压	jiya
-觊觎	jiyu
 加减乘除	jjii
 句句属实	jjuu
 惊艳	jkyj
@@ -51473,6 +51473,7 @@ $	ofhb
 造势	zcui
 实权	uiqr
 起誓	qiui
+觊觎	jy
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -52124,6 +52125,7 @@ $	ofhb
 㵡	bceu
 㙅	bcgd
 堢	bcgd
+報	bcg
 報	bcge
 𡉩	bcgk
 㙸	bcgo
@@ -52992,6 +52994,7 @@ $	ofhb
 𪑰	bkwt
 稟	bkyd
 鵧	bkyf
+幷	bky
 幷	bkyj
 迸	bkyt
 誁	bkyt
@@ -53110,7 +53113,6 @@ $	ofhb
 𤀲	bmyj
 𧩰	bmyo
 邉	bmyr
-邊	bmys
 𠬪	bnbe
 臕	bnbf
 𩪊	bnbf
@@ -57106,6 +57108,7 @@ $	ofhb
 𩱊	ermf
 䣵	ermj
 𣧹	ermj
+爾	erm
 爾	ermk
 𦓓	erml
 𦓔	erml
@@ -58694,9 +58697,10 @@ $	ofhb
 畊	ggwt
 䢚	ggyk
 罓	ghbk
+剛	ghb
 肮	ghbn
-剛	ghbn
 𤭛	ghbn
+剛	ghbn
 岡	ghbu
 釭	ghcm
 鎠	ghcm
@@ -59098,6 +59102,7 @@ $	ofhb
 澣	grej
 㴦	grer
 泴	gret
+覌	gre
 浣	greu
 覌	greu
 㮡	grfd
@@ -59163,6 +59168,7 @@ $	ofhb
 䪀	grtp
 菅	grtr
 䩪	grtr
+觀	grt
 觀	grtu
 𦺊	grtu
 綸	grvb
@@ -64497,18 +64503,20 @@ $	ofhb
 𪲛	jidd
 㮨	jide
 樭	jidg
-機	jidi
+機	jid
 橶	jidi
 檝	jidi
 檵	jidi
 𣛔	jidi
 枅	jidj
 檝	jidj
+機	jidi
 機	jidk
 槉	jidk
 楖	jidl
 𪌍	jidl
 𪲎	jidl
+極	jid
 極	jidm
 櫭	jidm
 𣏡	jido
@@ -65854,11 +65862,12 @@ $	ofhb
 𡥈	jnkd
 𤕝	jnke
 𫐖	jnkh
-敎	jnkk
+敎	jnk
 獥	jnkk
 𢼫	jnkk
 𤉧	jnkk
 𤶀	jnkk
+敎	jnkk
 㽱	jnkl
 𤶳	jnkr
 㽲	jnks
@@ -66274,6 +66283,7 @@ $	ofhb
 𠄍	jpvn
 媫	jpvo
 繲	jpvq
+結	jpv
 結	jpvr
 𦀖	jpvs
 𫄦	jpvs
@@ -69566,9 +69576,10 @@ $	ofhb
 䶘	liyt
 迣	liyt
 𥉆	liyu
-裏	liyv
+裏	liy
 𧘫	liyv
 𧙉	liyv
+裏	liyv
 闌	ljaf
 暕	ljaf
 𨷻	ljaf
@@ -72793,7 +72804,7 @@ $	ofhb
 俛	mmou
 𢣔	mmps
 㨺	mmqb
-麺	mmql
+麺	mmq
 喕	mmrl
 黽	mmru
 䏃	mmsc
@@ -76472,6 +76483,7 @@ $	ofhb
 鑋	qkjc
 䡖	qkjg
 軽	qkjg
+輕	qkj
 輕	qkjm
 𨆪	qkjo
 𰼻	qkkc
@@ -77605,10 +77617,11 @@ $	ofhb
 寉	qtjg
 猎	qtka
 獡	qtkf
+㕁	qtk
 郄	qtkl
-㕁	qtkl
 㾡	qtkl
 𤷽	qtkl
+㕁	qtkl
 㹱	qtko
 𮸧	qtlb
 𧎯	qtlk
@@ -77964,6 +77977,7 @@ $	ofhb
 㪊	qyse
 𣀄	qyse
 𨞗	qysl
+羣	qys
 䭽	qysq
 羣	qysq
 裠	qysv
@@ -81518,8 +81532,9 @@ $	ofhb
 𪑏	tuwd
 図	tuwk
 𡇩	tuwn
-圖	tuww
+圖	tuw
 圗	tuww
+圖	tuww
 迌	tuyb
 𧧶	tuyd
 𨑒	tuyg
@@ -82413,6 +82428,7 @@ $	ofhb
 埶	uigk
 郝	uigl
 𧻸	uigl
+勢	uig
 勢	uigs
 師	uihb
 篩	uihb
@@ -84180,6 +84196,7 @@ $	ofhb
 鱆	vhnj
 𫠒	vhnj
 𫗠	vhno
+張	vhn
 張	vhnv
 傽	vhoj
 餦	vhov
@@ -84389,11 +84406,11 @@ $	ofhb
 徔	viho
 𤴛	viho
 𩙾	viho
-氏	vihp
-憄	vihp
 秖	vihp
+憄	vihp
 𢕞	vihp
 𥭡	vihp
+氏	vihp
 穉	vihq
 䆈	vihq
 𤛱	vihq
@@ -85343,6 +85360,7 @@ $	ofhb
 終	vsvm
 終	vsvy
 𦌋	vswg
+眾	vsw
 眾	vswo
 𬑔	vswo
 童	vsyg
@@ -85874,6 +85892,7 @@ $	ofhb
 詶	vzyl
 逐	vzyo
 𧭍	vzyo
+週	vzy
 調	vzyr
 週	vzyr
 𧇟	vzyr
@@ -86620,6 +86639,7 @@ $	ofhb
 𨂣	wuno
 𦎦	wunq
 鯃	wunr
+務	wun
 務	wuns
 陓	wuns
 𧰈	wunt
@@ -87793,6 +87813,7 @@ $	ofhb
 㙚	xkgq
 馫	xkha
 臖	xkhb
+興	xkh
 興	xkhc
 皨	xkhg
 𤙡	xkhj
@@ -88008,9 +88029,10 @@ $	ofhb
 㐮	xlyv
 𣊺	xmaa
 閒	xmab
-顯	xmac
-㫫	xmac
+顯	xma
 顕	xmac
+㫫	xmac
+顯	xmac
 閑	xmad
 䦥	xmad
 㬗	xmaf
@@ -88247,12 +88269,13 @@ $	ofhb
 𰧇	xmmo
 碱	xmmr
 醎	xmmr
-現	xmmu
+現	xmm
 䙹	xmmu
 䨘	xmmu
 珗	xmmu
 𥑻	xmmu
 𧱀	xmmu
+現	xmmu
 𥓒	xmmx
 陥	xmna
 𩱆	xmnb
@@ -89478,6 +89501,7 @@ $	ofhb
 𥮪	xuhb
 𦠷	xuhb
 𫷈	xuhb
+須	xuh
 須	xuhc
 䅡	xuhc
 籲	xuhc
@@ -89695,7 +89719,6 @@ $	ofhb
 𠆐	xuyf
 𪆛	xuyf
 𧕼	xuyi
-許	xuyj
 𨞣	xuyl
 虛	xuym
 䢕	xuym
@@ -90873,6 +90896,7 @@ $	ofhb
 𠥇	yesr
 荼	yetd
 葉	yetd
+業	yet
 業	yetd
 鸈	yetf
 𦰳	yeth
@@ -91725,12 +91749,12 @@ $	ofhb
 𧅖	yitf
 苐	yith
 𩋌	yith
-芸	yiti
 義	yiti
 藝	yiti
 兿	yiti
 蓺	yiti
 萟	yiti
+芸	yiti
 䔱	yitj
 艾	yitk
 蓺	yitk
@@ -93833,6 +93857,7 @@ $	ofhb
 𬺊	yyyd
 𧥼	yyyi
 𧬞	yyyi
+運	yyy
 運	yyyj
 齳	yyyj
 𱂐	yyyo
