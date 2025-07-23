@@ -1044,7 +1044,7 @@ bags	罢工
 bagu	八股
 bagu	𤜕
 bagx	八卦
-bah	八
+bah	笆
 bahe	拔河
 bahe	魃
 bahe	叐
@@ -1064,7 +1064,6 @@ bahk	鼥
 bahl	八荒
 bahp	䆉
 bahu	跋扈
-bahu	笆
 bahu	㸭
 bahu	𣬶
 bahu	𥝧
@@ -6439,6 +6438,7 @@ chus	𡿄
 chuu	藏书
 chve	藏着
 chvo	藏拙
+chwu	仓五
 chww	仓位
 chyk	苍蝇
 chyr	䢢
@@ -20970,6 +20970,7 @@ heby	貈
 hecd	喝彩
 hecd	鉌
 hecg	何曾
+hech	鹤仓
 heci	贺词
 hecl	鉀
 hecr	𧮵
@@ -21169,7 +21170,7 @@ henr	鲄
 henr	𠚔
 henr	𡇶
 henw	河内
-heo	合
+heo	鹤
 heoc	頜
 heod	龢
 heod	𰽬
@@ -24284,6 +24285,7 @@ hviy	回春
 hviy	诲
 hviz	回抽
 hvj	惠
+hvj	卉
 hvjb	灰烬
 hvjd	輠
 hvji	汇集
@@ -24298,7 +24300,6 @@ hvjp	寭
 hvjp	恵
 hvjq	挥之即去
 hvjt	回绝
-hvjt	卉
 hvju	汇聚
 hvju	货真价实
 hvjv	𡜦
@@ -30035,6 +30036,7 @@ jdyf	教导有方
 jdys	结党营私
 jdyu	就等于
 je	金额
+je	饥饿
 jege	今儿个
 jeij	剪恶除奸
 jejs	吉尔吉斯
@@ -30318,7 +30320,6 @@ jiec	𨦮
 jied	潗
 jied	㳵
 jied	㴕
-jiee	饥饿
 jiee	汲
 jiee	漃
 jief	漈
@@ -32244,6 +32245,7 @@ jmmt	豜
 jmmt	𰧔
 jmmw	健美
 jmn	建
+jmn	饯
 jmnb	𩻘
 jmnc	鳒
 jmnc	鰜
@@ -32253,7 +32255,6 @@ jmnh	彅
 jmni	䧖
 jmni	𫊱
 jmnj	艰难
-jmnj	饯
 jmnk	奸佞
 jmnn	𢐆
 jmnn	𬳆
@@ -34803,13 +34804,13 @@ jujv	寠
 jujv	窶
 jujv	𪧘
 jujx	居家
+juk	狙
 juk	车
 jukc	𤷢
 jukd	㹼
 jukf	𪀣
 jukj	㪺
 jukm	疽
-jukm	狙
 jukn	𠙆
 jukn	𠟰
 juko	𤢓
@@ -38735,6 +38736,7 @@ lbxi	吝惜
 lbxk	临行
 lbxr	遴选
 lbxy	聊表心意
+lby	吝
 lbya	利比亚
 lbyb	林荫
 lbyd	稟
@@ -38742,7 +38744,6 @@ lbyf	禀
 lbyq	遴
 lbyq	䢯
 lbyr	林园
-lbyr	吝
 lbyr	㐭
 lbyu	淋雨
 lbzi	林子
@@ -42644,10 +42645,10 @@ lrxp	乱写
 lrxu	乱序
 lrxv	令人心折
 lry	鸾
+lry	孪
 lryc	銮
 lryc	𰁜
 lryd	栾
-lryd	孪
 lrye	𰛪
 lryf	鵉
 lryo	脔
@@ -181459,6 +181460,7 @@ qiuf	起身
 qiuf	𡻰
 qiug	齐声
 qiui	其实
+qiui	起誓
 qiui	𧰙
 qiuj	青城山
 qiuk	嵠
@@ -181525,7 +181527,6 @@ qixx	旗下
 qixx	气喘吁吁
 qiy	齐
 qiy	弃
-qiy	歧
 qiya	气压
 qiya	欺压
 qiyb	起因
@@ -181537,7 +181538,7 @@ qiyc	𨒅
 qiyc	𩒛
 qiyd	前程远大
 qiyd	棄
-qiye	企业
+qiye	歧
 qiye	竐
 qiye	𨑤
 qiye	𪗅
@@ -184537,6 +184538,7 @@ qxyv	𡤫
 qxyv	𫱿
 qxzi	卡子
 qy	群
+qy	企业
 qybf	轻徭薄赋
 qybk	缺一不可
 qybn	晴雨表
@@ -189786,12 +189788,12 @@ thzd	躺在
 ti	体
 ti	替
 tia	题
+tia	剔
 tiac	題
 tiaf	鶗
 tiak	𣈡
 tiam	𫛸
 tian	提案
-tian	剔
 tiao	𣉆
 tiap	惖
 tiau	𧡨
@@ -195101,8 +195103,8 @@ uipt	𠀍
 uipu	食谱
 uipw	适配
 uipw	失陪
-uiq	势
 uiq	拾
+uiq	拭
 uiqc	銴
 uiqd	揓
 uiqg	觢
@@ -195120,8 +195122,9 @@ uiqo	𦚨
 uiqp	失窃
 uiqq	㸷
 uiqq	觢
-uiqr	实权
 uiqr	誓
+uiqr	实权
+uiqs	势
 uiqu	失去
 uiqu	市区
 uir	噬
@@ -199289,6 +199292,7 @@ vian	治安
 viap	昵
 vias	㫑
 vib	脂
+vib	炙
 viba	膱
 vibb	䐭
 vibb	𢅁
@@ -199303,7 +199307,6 @@ vibe	䞃
 vibe	𥃫
 vibe	𦟔
 vibf	直奔
-vibf	炙
 vibf	𦛧
 vibg	胵
 vibg	腟
@@ -208724,6 +208727,7 @@ xnzi	小子
 xnzu	小组
 xo	西欧
 xp	些
+xp	写
 xpa	歇
 xpac	𨵪
 xpad	𨵚
@@ -208763,6 +208767,7 @@ xpcl	鋣
 xpcm	𨧥
 xpco	写错
 xpd	械
+xpd	楔
 xpdb	榍
 xpdc	邪道
 xpdd	携带
@@ -208772,7 +208777,6 @@ xpdf	𣞐
 xpdi	鞋底
 xpdi	榭
 xpdk	协定
-xpdk	楔
 xpdk	血盆大口
 xpdl	㭨
 xpdm	鞋垫
@@ -213109,6 +213113,7 @@ yfyw	阳奉阴违
 yfyy	鸢飞鱼跃
 yfzr	应付自如
 yg	应该
+yg	阉割
 ygbg	一个比一个
 ygbm	雁过拔毛
 ygbq	一个鼻孔出气
@@ -213370,6 +213375,7 @@ yhlu	𪚻
 yhlu	𱌀
 yhlv	𧓲
 yhlx	烟花柳巷
+yhm	殃
 yhm	玚
 yhmc	样貌
 yhmc	羊毛
@@ -213378,9 +213384,8 @@ yhmh	瑒
 yhmh	禓
 yhmh	霷
 yhmk	扬名
-yhmk	殃
-yhmk	䄃
 yhmk	雵
+yhmk	䄃
 yhmm	仰面
 yhmn	秧苗
 yhmp	与虎谋皮
@@ -213558,6 +213563,8 @@ yiap	𨳷
 yiat	昱
 yiat	曀
 yiau	晲
+yib	臆
+yib	胰
 yib	贻
 yiba	一把
 yibb	宜宾
@@ -213588,13 +213595,11 @@ yibm	一遍
 yibm	冝
 yibm	𥄿
 yibn	仪表
-yibn	胰
 yibn	眱
 yibn	肊
 yibn	𧳁
 yibo	衣钵
 yibp	一别
-yibp	臆
 yibp	眤
 yibp	骮
 yibp	𥄻
@@ -214894,7 +214899,7 @@ yjfx	熖
 yjfx	爓
 yjfx	𰟘
 yjg	盐
-yjg	阉割
+yjg	堰
 yjgd	掩盖
 yjge	严格
 yjge	𧾤
@@ -214916,7 +214921,6 @@ yjgu	夜静更深
 yjgu	𥯃
 yjgu	𧻃
 yjgv	烟鬼
-yjgv	堰
 yjgv	埏
 yjgv	𧽉
 yjgx	一决高下
@@ -215090,6 +215094,7 @@ yjly	言论
 yjly	阏
 yjm	研
 yjm	厌
+yjm	砚
 yjma	掩码
 yjmb	烟民
 yjmb	𢅠
@@ -215153,7 +215158,6 @@ yjmr	𨡄
 yjmt	㿼
 yjmt	𨤎
 yjmu	烟幕
-yjmu	砚
 yjmu	醃
 yjmu	硯
 yjmu	䄋
@@ -219573,7 +219577,7 @@ zctw	𦵩
 zctw	𨠷
 zcug	噪声
 zcuh	早上
-zcui	早市
+zcui	造势
 zcuk	早衰
 zcuu	早熟
 zcuu	艸
