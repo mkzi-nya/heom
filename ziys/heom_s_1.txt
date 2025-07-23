@@ -8151,6 +8151,7 @@ dazs	大宗
 dazu	德昂族
 dazv	大嘴
 db	代表
+db	独霸
 dbbp	打抱不平
 dbcy	断壁残垣
 dbdc	达不到
@@ -11704,16 +11705,15 @@ dtxz	大题小作
 dtyb	当头一棒
 dtyu	等同于
 du	读
+du	赌
 duaa	闍
 duaa	暏
 duai	独爱
 duao	䦠
 duav	閬
-dub	赌
+dub	睹
 dub	肚
 dub	大手笔
-duba	独霸
-duba	睹
 duba	賭
 dubc	读报
 dubd	独白
@@ -19787,7 +19787,7 @@ gwtv	姑妄听之
 gwup	歌舞升平
 gwuq	鼓舞士气
 gwuu	个位数
-gwv	给
+gwv	給
 gwvr	給
 gwvv	格物致知
 gwvx	购物中心
@@ -29561,7 +29561,7 @@ izzi	筹资
 izzz	抽走
 j	就
 j	见
-j	键盘
+j	几
 j	ㄐ
 ja	骄傲
 ja	じゃ
@@ -30169,7 +30169,7 @@ jhyp	惊鸿一瞥
 jhyr	嫁祸于人
 jhyu	劫后余生
 jhzi	叫花子
-ji	几
+ji	级
 ji	极
 ji	じ
 ji	ぢ
@@ -31032,9 +31032,9 @@ jiuu	覬
 jiuv	积水
 jiux	𡽉
 jiuz	棘手
-jiv	级
 jiv	继
 jiv	幾
+jiv	繼
 jivc	績
 jivd	継
 jivd	𦁳
@@ -31046,10 +31046,9 @@ jivg	急症
 jivh	几张
 jivi	机制
 jivi	机智
-jivi	繼
 jivi	㡭
 jivi	幾
-jivj	激战
+jivi	繼
 jivj	缉
 jivj	挤占
 jivj	緝
@@ -32314,6 +32313,7 @@ jmow	𠏇
 jmpb	简拼
 jmpi	健脾
 jmpi	惤
+jmpj	键盘
 jmpj	𲍯
 jmpk	简评
 jmpu	简朴
@@ -35120,6 +35120,7 @@ juzu	剧组
 juzx	⺽
 jv	简直
 jv	极致
+jv	激战
 jvbd	见诸报端
 jvbg	精忠报国
 jvbj	接踵比肩
@@ -182427,7 +182428,6 @@ qmnq	𩨃
 qmnu	迁怒
 qmnv	倩女
 qmo	钱
-qmo	仟
 qmo	铅
 qmob	倩
 qmoc	傔
@@ -182437,6 +182437,7 @@ qmoe	锓
 qmof	𪇇
 qmog	雂
 qmoi	𫓪
+qmoj	仟
 qmoj	钎
 qmoj	𥏥
 qmok	𠋵
@@ -190174,6 +190175,7 @@ tjce	探测
 tjcf	錟
 tjcj	鐔
 tjcm	鉭
+tjd	檀
 tjdb	投机倒把
 tjdc	谈到
 tjdh	坦荡
@@ -190182,7 +190184,6 @@ tjdj	橝
 tjdj	𪍵
 tjdk	拖家带口
 tjdm	摊点
-tjdm	檀
 tjdo	𣞔
 tjdw	榃
 tjdx	同济大学
@@ -205327,6 +205328,7 @@ wwsv	玩物丧志
 wwsv	褽
 wwsy	为我所用
 wwt	薇
+wwt	苇
 wwt	葳
 wwtb	䔺
 wwtb	䵋
@@ -205357,7 +205359,6 @@ wwtq	䍷
 wwtq	𦾛
 wwtq	𩋾
 wwts	胃痛
-wwts	苇
 wwts	𫇭
 wwts	𬙭
 wwtu	荱
@@ -215055,6 +215056,7 @@ yjkv	狠
 yjkv	狿
 yjkx	㿕
 yjl	蜒
+yjl	阎
 yjl	阉
 yjlc	𧺅
 yjld	一举两得
@@ -215950,6 +215952,7 @@ ykzc	营造
 ykzi	影子
 ykzo	硬座
 yl	原来
+yl	严厉
 yl	眼里
 ylbd	意料不到
 ylbg	有理不在声高
@@ -219040,6 +219043,7 @@ yzlw	蚰
 yzlw	蝤
 yzly	游轮
 yzm	憂
+yzm	酉
 yzmb	游民
 yzmb	酭
 yzme	𥜚
@@ -219050,7 +219054,6 @@ yzmk	𣁨
 yzml	鄾
 yzml	𠨦
 yzmm	右面
-yzmm	酉
 yzmn	幼苗
 yzmo	幽默
 yzmo	㱊

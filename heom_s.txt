@@ -8101,6 +8101,7 @@ AA制	aavi
 德昂族	dazu
 大嘴	dazv
 代表	db
+独霸	db
 打抱不平	dbbp
 断壁残垣	dbcy
 达不到	dbdc
@@ -11649,16 +11650,15 @@ AA制	aavi
 当头一棒	dtyb
 等同于	dtyu
 读	du
+赌	du
 闍	duaa
 暏	duaa
 独爱	duai
 䦠	duao
 閬	duav
-赌	dub
+睹	dub
 肚	dub
 大手笔	dub
-独霸	duba
-睹	duba
 賭	duba
 读报	dubc
 独白	dubd
@@ -19702,7 +19702,7 @@ GDP	gdp
 歌舞升平	gwup
 鼓舞士气	gwuq
 个位数	gwuu
-给	gwv
+給	gwv
 給	gwvr
 格物致知	gwvv
 购物中心	gwvx
@@ -29443,7 +29443,7 @@ IP地址	ipdv
 抽走	izzz
 就	j
 见	j
-键盘	j
+几	j
 骄傲	ja
 桀骜不驯	jabx
 举案齐眉	jaqm
@@ -30048,7 +30048,7 @@ IP地址	ipdv
 嫁祸于人	jhyr
 劫后余生	jhyu
 叫花子	jhzi
-几	ji
+级	ji
 极	ji
 即	jia
 𣇳	jiac
@@ -30907,9 +30907,9 @@ IP地址	ipdv
 积水	jiuv
 𡽉	jiux
 棘手	jiuz
-级	jiv
 继	jiv
 幾	jiv
+繼	jiv
 績	jivc
 継	jivd
 𦁳	jivd
@@ -30921,10 +30921,9 @@ IP地址	ipdv
 几张	jivh
 机制	jivi
 机智	jivi
-繼	jivi
 㡭	jivi
 幾	jivi
-激战	jivj
+繼	jivi
 缉	jivj
 挤占	jivj
 緝	jivj
@@ -32187,6 +32186,7 @@ IP地址	ipdv
 简拼	jmpb
 健脾	jmpi
 惤	jmpi
+键盘	jmpj
 𲍯	jmpj
 简评	jmpk
 简朴	jmpu
@@ -34987,6 +34987,7 @@ IP地址	ipdv
 ⺽	juzx
 简直	jv
 极致	jv
+激战	jv
 见诸报端	jvbd
 精忠报国	jvbg
 接踵比肩	jvbj
@@ -55671,7 +55672,6 @@ PPT	ppt
 迁怒	qmnu
 倩女	qmnv
 钱	qmo
-仟	qmo
 铅	qmo
 倩	qmob
 傔	qmoc
@@ -55681,6 +55681,7 @@ PPT	ppt
 𪇇	qmof
 雂	qmog
 𫓪	qmoi
+仟	qmoj
 钎	qmoj
 𥏥	qmoj
 𠋵	qmok
@@ -63372,6 +63373,7 @@ PPT	ppt
 錟	tjcf
 鐔	tjcj
 鉭	tjcm
+檀	tjd
 投机倒把	tjdb
 谈到	tjdc
 坦荡	tjdh
@@ -63380,7 +63382,6 @@ PPT	ppt
 𪍵	tjdj
 拖家带口	tjdk
 摊点	tjdm
-檀	tjdm
 𣞔	tjdo
 榃	tjdw
 同济大学	tjdx
@@ -78505,6 +78506,7 @@ PPT	ppt
 褽	wwsv
 为我所用	wwsy
 薇	wwt
+苇	wwt
 葳	wwt
 䔺	wwtb
 䵋	wwtb
@@ -78535,7 +78537,6 @@ PPT	ppt
 𦾛	wwtq
 𩋾	wwtq
 胃痛	wwts
-苇	wwts
 𫇭	wwts
 𬙭	wwts
 荱	wwtu
@@ -88226,6 +88227,7 @@ PPT	ppt
 狿	yjkv
 㿕	yjkx
 蜒	yjl
+阎	yjl
 阉	yjl
 𧺅	yjlc
 一举两得	yjld
@@ -89121,6 +89123,7 @@ PPT	ppt
 影子	ykzi
 硬座	ykzo
 原来	yl
+严厉	yl
 眼里	yl
 意料不到	ylbd
 有理不在声高	ylbg
@@ -92205,6 +92208,7 @@ PPT	ppt
 蝤	yzlw
 游轮	yzly
 憂	yzm
+酉	yzm
 游民	yzmb
 酭	yzmb
 𥜚	yzme
@@ -92215,7 +92219,6 @@ PPT	ppt
 鄾	yzml
 𠨦	yzml
 右面	yzmm
-酉	yzmm
 幼苗	yzmn
 幽默	yzmo
 㱊	yzmo

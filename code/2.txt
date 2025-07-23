@@ -8210,6 +8210,7 @@
 ⻲	gvzl
 ⻱	gvzu
 胲	gwbo
+給	gwv
 給	gwvr
 𣅻	gxar
 𨵃	gxau
@@ -13535,9 +13536,10 @@
 𦁳	jivd
 級	jive
 幾	jiv
-繼	jivi
+繼	jiv
 㡭	jivi
 幾	jivi
+繼	jivi
 緝	jivj
 幾	jivk
 姫	jivl
@@ -42466,7 +42468,6 @@
 䖻	yzlv
 蝤	yzlw
 酭	yzmb
-憂	yzm
 𥜚	yzme
 憂	yzme
 𣁨	yzmk
