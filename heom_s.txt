@@ -3165,7 +3165,6 @@ AA制	aavi
 䃑	bjme
 瓪	bjme
 𪄕	bjmf
-不结盟	bjmg
 斑	bjmg
 𤦦	bjmg
 版面	bjmm
@@ -19069,6 +19068,7 @@ GDP	gdp
 凅	guir
 祻	guir
 鼓吹	guiv
+辜	guj
 古今	gujb
 𧵎	gujc
 嘏	guje
@@ -19076,7 +19076,6 @@ GDP	gdp
 估计	guji
 顾忌	guji
 各抒己见	gujj
-辜	gujj
 固件	gujm
 鸪	gujm
 家	gujo
@@ -40906,8 +40905,9 @@ IP地址	ipdv
 𤙝	llhu
 两回	llhv
 量化	llhx
-谅	lli
+凉	lli
 良	lli
+谅	lli
 凉茶	llia
 两肋插刀	llid
 绫罗绸缎	llid
@@ -40915,6 +40915,7 @@ IP地址	ipdv
 靓车	llie
 良辰	llif
 凉	llif
+谅	llif
 拉拉扯扯	llii
 量产	llij
 两床	llil
@@ -68398,6 +68399,7 @@ PPT	ppt
 试图	uitu
 甚	uitv
 石头	uitz
+峙	uiu
 峕	uiua
 旹	uiua
 施舍	uiue
@@ -68406,7 +68408,6 @@ PPT	ppt
 𡉸	uiug
 时尚	uiuh
 实施	uiui
-峙	uiui
 嵵	uiui
 𱛬	uiui
 𡶈	uiuk
@@ -74715,6 +74716,7 @@ PPT	ppt
 只是	vu
 曯	vuai
 瞩	vub
+贮	vub
 正式版	vub
 膱	vuba
 䐗	vuba
@@ -74729,7 +74731,6 @@ PPT	ppt
 主办	vubj
 驻兵	vubk
 主编	vubm
-贮	vubm
 𰮙	vubm
 貯	vubn
 眝	vubn
@@ -87220,6 +87221,7 @@ PPT	ppt
 𤶛	yiku
 𤷅	yiku
 一口	yikz
+蚁	yil
 衵	yila
 頥	yilc
 𧊤	yilc
@@ -87245,7 +87247,6 @@ PPT	ppt
 襼	yili
 一览	yilj
 衣领	yilk
-蚁	yilk
 袂	yilk
 䘸	yilk
 蛜	yilk
@@ -88635,7 +88636,7 @@ PPT	ppt
 烟熏	yjxy
 以儆效尤	yjxy
 言	yjy
-颜	yjy
+彦	yjy
 𣃧	yjya
 烟瘾	yjyb
 鬳	yjyb
@@ -88655,7 +88656,6 @@ PPT	ppt
 言简意赅	yjyg
 咬紧牙关	yjyg
 艳阳	yjyh
-彦	yjyh
 广	yjyh
 彥	yjyh
 諺	yjyh
@@ -88674,6 +88674,7 @@ PPT	ppt
 有借有还，再借不难	yjyn
 甗	yjyn
 虤	yjyn
+颜	yjyo
 㫃	yjyo
 䢭	yjyo
 𣄝	yjyo
@@ -92629,16 +92630,16 @@ PPT	ppt
 蚤	zce
 𧎮	zcei
 𣴢	zcej
+灶	zcf
 糟	zcf
-造反	zcf
 㷮	zcfa
 燥	zcfd
 遭逢	zcfg
-灶	zcfg
 造访	zcfh
 𤍜	zcfh
 𰞷	zcfh
 早饭	zcfj
+造反	zcfj
 煰	zcfr
 造福	zcfu
 𡐋	zcga

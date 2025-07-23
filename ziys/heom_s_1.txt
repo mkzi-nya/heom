@@ -3186,7 +3186,6 @@ bjmd	不结盟运动
 bjme	䃑
 bjme	瓪
 bjmf	𪄕
-bjmg	不结盟
 bjmg	斑
 bjmg	𤦦
 bjmm	版面
@@ -19154,6 +19153,7 @@ guio	𮸹
 guir	凅
 guir	祻
 guiv	鼓吹
+guj	辜
 gujb	古今
 gujc	𧵎
 guje	嘏
@@ -19161,7 +19161,6 @@ gujf	鴣
 guji	估计
 guji	顾忌
 gujj	各抒己见
-gujj	辜
 gujm	固件
 gujm	鸪
 gujo	家
@@ -41058,8 +41057,9 @@ llhu	拦路虎
 llhu	𤙝
 llhv	两回
 llhx	量化
-lli	谅
+lli	凉
 lli	良
+lli	谅
 llia	凉茶
 llid	两肋插刀
 llid	绫罗绸缎
@@ -41067,6 +41067,7 @@ llid	𥛫
 llie	靓车
 llif	良辰
 llif	凉
+llif	谅
 llii	拉拉扯扯
 llij	量产
 llil	两床
@@ -195208,6 +195209,7 @@ uits	视同
 uitu	试图
 uitv	甚
 uitz	石头
+uiu	峙
 uiua	峕
 uiua	旹
 uiue	施舍
@@ -195216,7 +195218,6 @@ uiug	师生
 uiug	𡉸
 uiuh	时尚
 uiui	实施
-uiui	峙
 uiui	嵵
 uiui	𱛬
 uiuk	𡶈
@@ -201529,6 +201530,7 @@ vu	主
 vu	只是
 vuai	曯
 vub	瞩
+vub	贮
 vub	正式版
 vuba	膱
 vuba	䐗
@@ -201543,7 +201545,6 @@ vubi	𥋛
 vubj	主办
 vubk	驻兵
 vubm	主编
-vubm	贮
 vubm	𰮙
 vubn	貯
 vubn	眝
@@ -214048,6 +214049,7 @@ yiku	䖊
 yiku	𤶛
 yiku	𤷅
 yikz	一口
+yil	蚁
 yila	衵
 yilc	頥
 yilc	𧊤
@@ -214073,7 +214075,6 @@ yili	褹
 yili	襼
 yilj	一览
 yilk	衣领
-yilk	蚁
 yilk	袂
 yilk	䘸
 yilk	蛜
@@ -215464,7 +215465,7 @@ yjxx	眼下
 yjxy	烟熏
 yjxy	以儆效尤
 yjy	言
-yjy	颜
+yjy	彦
 yjya	𣃧
 yjyb	烟瘾
 yjyb	鬳
@@ -215484,7 +215485,6 @@ yjyf	讌
 yjyg	言简意赅
 yjyg	咬紧牙关
 yjyh	艳阳
-yjyh	彦
 yjyh	广
 yjyh	彥
 yjyh	諺
@@ -215503,6 +215503,7 @@ yjyl	寓教于乐
 yjyn	有借有还，再借不难
 yjyn	甗
 yjyn	虤
+yjyo	颜
 yjyo	㫃
 yjyo	䢭
 yjyo	𣄝
@@ -219468,16 +219469,16 @@ zce	澡
 zce	蚤
 zcei	𧎮
 zcej	𣴢
+zcf	灶
 zcf	糟
-zcf	造反
 zcfa	㷮
 zcfd	燥
 zcfg	遭逢
-zcfg	灶
 zcfh	造访
 zcfh	𤍜
 zcfh	𰞷
 zcfj	早饭
+zcfj	造反
 zcfr	煰
 zcfu	造福
 zcga	𡐋
