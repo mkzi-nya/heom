@@ -17768,7 +17768,6 @@
 㺡	likm
 癧	likm
 𤻤	likm
-㾐	likn
 𠛘	likn
 𤹈	likn
 㿛	likp
@@ -36023,10 +36022,10 @@
 䙵	ximg
 壐	ximg
 𲆰	ximh
-矽	ximi
 璽	ximi
 𧲘	ximi
 𲆦	ximi
+矽	ximi
 㕃	ximj
 禊	ximk
 磎	ximk

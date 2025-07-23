@@ -217,6 +217,7 @@ aigt	壒
 aigt	𭏦
 aigv	堨
 aigv	𡉓
+aih	皑
 aihc	爱好
 aihe	爱河
 aihe	皧
@@ -232,7 +233,6 @@ aiht	䅬
 aiht	皚
 aiht	𦩴
 aihu	爱护
-aihu	皑
 aihv	躷
 aihv	馤
 aihv	𪕭
@@ -15398,6 +15398,7 @@ fukw	辐
 fukx	浮夸
 ful	弗
 ful	複
+ful	袱
 fulb	蜅
 fulb	𧌈
 fulc	頫
@@ -29627,7 +29628,6 @@ jbdz	筋斗
 jbe	津
 jbea	溍
 jbeb	㴆
-jbee	金额
 jbee	浸
 jbee	濅
 jbef	𤄼
@@ -29868,7 +29868,6 @@ jbtf	𦽔
 jbth	㝻
 jbti	吉布提
 jbtj	基本条件
-jbtm	今天
 jbtm	堇
 jbtm	金榜题名
 jbtm	菫
@@ -29922,7 +29921,6 @@ jbvu	进驻
 jbvv	紧追
 jbvx	紧抓
 jbwc	𪑙
-jbwj	今晚
 jbwj	举步维艰
 jbwo	紧握
 jbwu	进屋
@@ -30133,6 +30131,7 @@ jgyt	几个月
 jgza	居功自傲
 jgzi	几个字
 jh	几乎
+jh	记号
 jhdx	浸会大学
 jher	酒酣耳热
 jhes	尽欢而散
@@ -30399,7 +30398,6 @@ jih	笈
 jiha	籍
 jiha	𥡴
 jihb	稩
-jihc	记号
 jihc	箕
 jihc	積
 jihc	稘
@@ -30479,7 +30477,6 @@ jihr	𧫜
 jiht	笄
 jiht	䀈
 jiht	𢓄
-jihu	几乎
 jihu	疾呼
 jihu	嵇
 jihu	嵆
@@ -30797,7 +30794,6 @@ jior	佶
 jior	𰽲
 jios	㔕
 jios	𣱗
-jiou	奇偶
 jiou	䚐
 jiou	𩞊
 jiov	偈
@@ -33167,7 +33163,6 @@ jpgl	堺
 jpgn	刦
 jpgn	𧽄
 jpgn	𧾯
-jpgo	结果
 jpgo	颉
 jpgr	接管
 jpgr	趌
@@ -33267,8 +33262,8 @@ jpkd	解开
 jpke	解渴
 jpke	𡙣
 jpkg	㾏
-jpkl	疖
 jpkl	疥
+jpkl	疖
 jpkl	癤
 jpkl	𡗦
 jpkl	𡗲
@@ -39840,7 +39835,6 @@ likm	㺡
 likm	癧
 likm	𤻤
 likn	猁
-likn	㾐
 likn	𠛘
 likn	𤹈
 likp	㿛
@@ -43524,12 +43518,12 @@ lvn	驴
 lvna	魯
 lvne	录
 lvo	铝
-lvo	氯
-lvo	侣
+lvoe	氯
 lvoi	㲶
 lvop	儢
 lvop	𮣶
 lvop	𰂦
+lvor	侣
 lvor	侶
 lvov	偻
 lvov	僂
@@ -191238,6 +191232,7 @@ tnxp	调谐
 tnxq	调休
 tnxr	挑选
 tnxu	调序
+tny	迢
 tny	龆
 tny	条约
 tnyh	调养
@@ -191248,6 +191243,7 @@ tnyr	迢
 tnyr	調
 tnyr	齠
 tnyt	跳跃
+tnyt	条约
 tnyy	调匀
 tnzc	跳蚤
 tnzi	条子
@@ -195127,6 +195123,7 @@ uiqr	实权
 uiqr	誓
 uiqu	失去
 uiqu	市区
+uir	噬
 uir	嗜
 uirb	𡂓
 uirc	嘘
@@ -195143,7 +195140,6 @@ uirj	受宠若惊
 uirj	𠯰
 uirj	𡅵
 uiro	示弱
-uiro	噬
 uiro	㖷
 uirp	跩
 uirp	䟗
@@ -196743,6 +196739,7 @@ uuxx	上上下下
 uuxz	莘莘学子
 uuy	述
 uuy	熟
+uuy	孰
 uuyc	䢤
 uuyd	生杀予夺
 uuyd	䢞
@@ -196756,7 +196753,6 @@ uuyf	鶐
 uuyg	塾
 uuyh	输氧
 uuyi	身首异处
-uuyi	孰
 uuyi	稍胜一筹
 uuyk	输赢
 uuyk	孰
@@ -198319,7 +198315,6 @@ veqa	晢
 veqa	摺
 veqb	摘
 veqg	埑
-veqi	这期
 veqi	蛰
 veqk	𡘭
 veqp	悊
@@ -204911,6 +204906,7 @@ wwcq	鍏
 wwcs	鏏
 wwcv	錗
 wwcv	鍡
+wwd	桅
 wwda	伟大
 wwdb	欈
 wwdc	味道
@@ -204929,7 +204925,6 @@ wwds	㭏
 wwds	𩏏
 wwdt	娓娓动听
 wwdu	唯独
-wwdu	桅
 wwdu	梶
 wwdv	椳
 wwdv	㮃
@@ -206533,6 +206528,7 @@ xilu	阋
 xilu	鬩
 xilx	咸吃萝卜淡操心
 xim	硒
+xim	矽
 xima	霫
 ximb	豨
 ximb	酾
@@ -206552,10 +206548,10 @@ ximg	䙵
 ximg	壐
 ximh	𲆰
 ximi	细密
-ximi	矽
 ximi	璽
 ximi	𧲘
 ximi	𲆦
+ximi	矽
 ximj	㕃
 ximk	禊
 ximk	磎
@@ -210315,6 +210311,7 @@ xulu	显山露水
 xulw	学术论文
 xulw	䙒
 xuly	绪论
+xum	酗
 xumb	醑
 xumb	𥚩
 xumb	𦘼
@@ -210328,7 +210325,6 @@ xumh	𤬱
 xumj	聓
 xumj	𦕓
 xumk	虚名
-xumk	酗
 xumk	𩂉
 xuml	邪
 xuml	𰻡
@@ -212745,7 +212741,6 @@ yebj	瞱
 yebj	𦠜
 yebj	𬑓
 yebp	也别
-yebu	也不
 yebu	䁆
 yebv	䁆
 yec	爷
@@ -212806,7 +212801,6 @@ yegv	夜归
 yegv	堨
 yegz	野狗
 yehc	也好
-yehd	也还
 yehd	䈎
 yehd	𥮧
 yehd	𩘏
@@ -212842,8 +212836,6 @@ yejk	𪍅
 yejm	夜间
 yejn	页脚
 yejp	业界
-yejq	也就
-yeke	也可
 yeke	㪑
 yeki	𤝇
 yekj	也看
@@ -212877,7 +212869,6 @@ yemd	殜
 yemd	礏
 yemd	𣐂
 yemd	𣩫
-yemf	也门
 yemf	𣩯
 yemf	𩼴
 yemh	夜盲
@@ -213007,7 +212998,6 @@ yeud	嶪
 yeud	嶫
 yeue	有二说二
 yeug	野生
-yeui	也是
 yeuk	𡽣
 yeul	峫
 yeul	𱛹
@@ -214980,13 +214970,13 @@ yjhx	衣锦还乡
 yjhx	𥶿
 yjhy	欲拒还迎
 yjhz	咽喉
+yji	谚
 yjia	严查
 yjif	䜩
 yjif	扊
 yjif	𢉘
 yjig	严惩
 yjih	延长
-yjih	谚
 yjih	演唱
 yjih	𫥍
 yjii	延迟
@@ -215064,14 +215054,14 @@ yjkv	奄
 yjkv	狠
 yjkv	狿
 yjkx	㿕
-yjl	严厉
 yjl	蜒
+yjl	阉
 yjlc	𧺅
 yjld	一举两得
 yjlf	䗡
 yjlg	䗎
 yjlh	有句老话
-yjli	眼里
+yjli	严厉
 yjlk	严令
 yjlk	𧞣
 yjlk	𰳹
@@ -215850,6 +215840,7 @@ yksu	罂粟
 yksy	鹰隼
 ykt	英
 ykt	莹
+ykt	萤
 yktb	𦭬
 yktb	𫇦
 yktc	樱桃
@@ -215959,6 +215950,7 @@ ykzc	营造
 ykzi	影子
 ykzo	硬座
 yl	原来
+yl	眼里
 ylbd	意料不到
 ylbg	有理不在声高
 ylbh	于理不合
@@ -217620,6 +217612,7 @@ yukv	㺄
 yukv	瘉
 yukv	㦽
 yuky	瘀
+yul	裕
 yul	聿
 yulb	䘻
 yulb	蜟
@@ -217653,7 +217646,6 @@ yulo	𧊠
 yulo	𧐄
 yulq	预留
 yulr	鱼卵
-yulr	裕
 yuls	𧈯
 yult	优胜劣汰
 yulu	语录
@@ -218642,13 +218634,12 @@ yypm	勻
 yypq	恽
 yypt	愠
 yypt	慍
-yyq	韫
+yyq	耘
 yyqc	隐约其辞
 yyqf	艳压群芳
 yyqh	因缘巧合
 yyqh	有缘千里来相会
 yyqi	运气
-yyqi	耘
 yyqi	咬牙切齿
 yyqi	抎
 yyqj	玉液琼浆
@@ -218658,6 +218649,7 @@ yyqq	运球
 yyqq	𱂈
 yyqr	㩈
 yyqt	云雀
+yyqt	韫
 yyr	郧
 yyrc	員
 yyrc	𡅙
