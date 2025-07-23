@@ -34793,6 +34793,7 @@ jups	怇
 jups	𢚆
 jupw	拒赔
 juq	拒
+juq	拘
 juqb	见识浅薄
 juqb	𢯺
 juqd	掬
@@ -34807,7 +34808,6 @@ juqn	㨿
 juqn	拠
 juqo	據
 juqr	俱全
-juqr	拘
 juqr	䎤
 juqr	挶
 juqs	耟
@@ -39363,6 +39363,7 @@ lhzi	浪子
 lhzu	拉祜族
 li	理
 li	历
+li	黎
 liab	㬏
 liab	曞
 liab	𰖩
@@ -39504,7 +39505,7 @@ ligs	赲
 ligs	𫎱
 ligv	厉鬼
 lih	利
-lih	黎
+lih	梨
 lihb	篱
 lihb	䅻
 lihb	犡
@@ -42821,6 +42822,7 @@ ltyz	略有
 ltz	烂摊子
 ltzi	老头子
 lu	路
+lu	卤
 luae	㫽
 luas	𣆐
 luat	曥
@@ -43216,7 +43218,7 @@ luxt	历史学
 luxu	陆续
 luxy	老少咸宜
 luy	卢
-luy	卤
+luy	虏
 luyb	录音
 luyc	六
 luyc	顱
@@ -43241,7 +43243,6 @@ luyo	颅
 luyo	𣥐
 luyo	𤬛
 luys	录用
-luys	虏
 luys	虜
 luys	𡳴
 luyt	盧
@@ -69933,8 +69934,8 @@ uuyd	生杀予夺
 uuyd	䢞
 uuyd	䢤
 uuyd	蒁
-uuye	树叶
 uuye	叔
+uuye	树叶
 uuyf	尗
 uuyf	虪
 uuyf	鶐
@@ -71242,7 +71243,6 @@ vdjc	张灯结彩
 vdjd	真的假的
 vdjf	𪀥
 vdjk	𤞮
-vdjp	斋戒
 vdjp	宅
 vdjt	斩钉截铁
 vdju	指点江山
@@ -72667,6 +72667,7 @@ vigv	𡠗
 vigw	只给
 vih	制
 vih	秩
+vih	稚
 viha	軄
 vihb	帋
 vihc	只好
@@ -72683,7 +72684,6 @@ vihf	𢖇
 vihf	𤆒
 vihf	𤓕
 vihg	制衡
-vihg	稚
 vihg	䉜
 vihg	秷
 vihg	𡑘
@@ -72725,6 +72725,7 @@ vihm	𱼷
 vihn	䄺
 vihn	劕
 viho	质
+viho	秩
 viho	徔
 viho	𤴛
 viho	𩙾
@@ -78477,7 +78478,6 @@ wwrr	弯弯绕绕
 wwrs	为荣
 wwrs	𮰔
 wwru	𠳿
-wwrv	葳蕤
 wwrv	喂
 wwrv	喴
 wwrv	𨃄
@@ -79870,6 +79870,7 @@ xiqu	吸取
 xiqu	摡
 xiqv	捿
 xir	吸
+xir	嘻
 xira	㗩
 xirb	唏
 xirb	𰸐
@@ -79901,7 +79902,6 @@ xirp	㗭
 xirp	躧
 xirp	𠺒
 xirr	细软
-xirr	嘻
 xirr	㘊
 xirr	𨀙
 xirs	㕧
@@ -88041,6 +88041,7 @@ yjev	涎
 yjex	㶄
 yjex	淊
 yjf	烟
+yjf	炎
 yjfa	研发
 yjfa	㷔
 yjfa	焔
@@ -88048,7 +88049,6 @@ yjfc	顃
 yjfd	焑
 yjfe	敥
 yjff	盐分
-yjff	炎
 yjff	焱
 yjff	𤎄
 yjff	𪂈
@@ -90716,11 +90716,11 @@ yuis	应声虫
 yuis	𰶀
 yuit	严师出高徒
 yuiy	愚蠢
-yuj	宇
+yuj	寓
 yuj	右上角
 yujb	浴巾
-yujb	寓
 yujb	㝢
+yujd	宇
 yujd	穻
 yujd	𨊱
 yuje	㲾
