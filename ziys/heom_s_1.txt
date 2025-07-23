@@ -199279,6 +199279,7 @@ vhzo	⻓
 vhzv	张嘴
 vhzy	中和作用
 vi	只
+vi	指
 vi	知
 viab	𨵂
 viae	䦯
@@ -199797,8 +199798,10 @@ vinu	𨻆
 vinv	侄女
 vinv	𡖻
 vinw	之内
+vio	知
 vio	值
 vio	智
+vioa	智
 vioa	𥏄
 viob	𨿛
 vioc	䝷
@@ -199860,9 +199863,9 @@ vipr	𢛍
 vipu	质朴
 vipv	㥀
 vipw	支配
-viq	指
-viq	值钱
 viq	执
+viq	值钱
+viq	挚
 viqa	晢
 viqa	搘
 viqa	𢴠
