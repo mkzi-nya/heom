@@ -1979,6 +1979,7 @@ bdvh	败仗
 bdvi	白纸
 bdvz	白昼
 bdw	本单位
+bdwa	瓸
 bdwi	罢
 bdwj	百万
 bdwl	宝刀未老
@@ -14339,6 +14340,7 @@ ffvj	泛泛之交
 ffvs	分钟
 ffvx	非分之想
 ffvy	肺腑之言
+ffwa	瓰
 ffwd	分外
 ffwf	分文
 ffwh	𤰪
@@ -197228,6 +197230,7 @@ uivs	始终
 uivu	施主
 uivy	失准
 uiw	失误
+uiwa	瓧
 uiwd	室外
 uiwh	失望
 uiwj	十万
