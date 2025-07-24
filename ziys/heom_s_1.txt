@@ -212932,7 +212932,6 @@ xtzi	靴子
 xtzz	小兔崽子
 xu	需
 xu	续
-xu	绪
 xu	显示
 xua	煦
 xuaa	朂
@@ -213354,6 +213353,7 @@ xuup	欣赏水平
 xuuu	叙述
 xuuu	㞊
 xuuv	蓄水
+xuv	绪
 xuv	婿
 xuva	緒
 xuva	緖
