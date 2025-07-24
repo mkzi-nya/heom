@@ -27764,7 +27764,6 @@ ihso	场所
 ihsv	長
 iht	苌
 ihta	菖
-ihtb	🐬
 ihtd	常态
 ihth	𦼳
 ihth	𧀄
@@ -28696,7 +28695,6 @@ ijwi	𪓄
 ijwu	产物
 ijxn	产销
 ijy	颤
-ijya	🐳
 ijyb	颤音
 ijyc	顫
 ijyd	𧬦
@@ -29907,7 +29905,6 @@ ityl	差太远了
 ityq	串通一气
 ityr	差太远
 ityu	长叹一声
-itza	🍑
 iu	处
 iu	除
 iuag	䦌

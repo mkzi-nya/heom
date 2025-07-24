@@ -27647,7 +27647,6 @@ GDP	gdp
 長	ihsv
 苌	iht
 菖	ihta
-🐬	ihtb
 常态	ihtd
 𦼳	ihth
 𧀄	ihth
@@ -28579,7 +28578,6 @@ GDP	gdp
 产物	ijwu
 产销	ijxn
 颤	ijy
-🐳	ijya
 颤音	ijyb
 顫	ijyc
 𧬦	ijyd
@@ -29789,7 +29787,6 @@ IP地址	ipdv
 串通一气	ityq
 差太远	ityr
 长叹一声	ityu
-🍑	itza
 处	iu
 除	iu
 䦌	iuag

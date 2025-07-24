@@ -51,6 +51,7 @@ def main():
         for char, code in entries
         if len(code) == 4
            and not code.startswith('of')
+           and not code.startswith('oi')
            and char not in skip_chars
     ]
 
