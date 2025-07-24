@@ -1260,11 +1260,13 @@ AA制	aavi
 巴巴多斯	bbds
 不必当真	bbdv
 逼不得已	bbdy
-浜	bbec
+濱	bbe
+浜	bbe
 瀕	bbec
-濱	bbec
 汃	bbec
 濵	bbec
+濱	bbec
+浜	bbec
 濒	bbeo
 缤纷	bbff
 本本分分	bbff
@@ -3481,6 +3483,7 @@ AA制	aavi
 鮩	bknt
 𨹗	bknt
 兵	bko
+餅	bko
 𰽥	bkob
 𠊧	bkoc
 倂	bkoj
@@ -3488,10 +3491,10 @@ AA制	aavi
 𠊧	bkom
 仌	bkoo
 併	bkot
-餅	bkot
 偋	bkot
 傡	bkot
 𰽼	bkot
+餅	bkot
 仒	bkoy
 怲	bkpb
 并排	bkpd
@@ -6377,12 +6380,13 @@ Caonima～(∠・ω< )⌒☆	caon
 㶓	ches
 聪慧过人	chgr
 舱	chh
+艙	chh
 藏好	chhc
 沧海	chhd
 仓皇	chhl
 䅮	chhr
-艙	chhr
 𤚬	chhr
+艙	chhr
 才华横溢	chhy
 ち	chi
 チ	chi
@@ -6462,6 +6466,7 @@ Caonima～(∠・ω< )⌒☆	caon
 Ciallo～(∠・ω< )⌒☆	cial
 此岸	cian
 赐	cib
+賜	cib
 此唱彼和	cibh
 賜	cibh
 刺鼻	cibi
@@ -12102,6 +12107,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 䯟	dvbo
 𩨽	dvbr
 兑	dvc
+兌	dvc
 錞	dvcd
 对策	dvce
 对此	dvci
@@ -12109,9 +12115,9 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 𠜑	dvcn
 对错	dvco
 銳	dvcu
-兌	dvcu
 兊	dvcu
 鋭	dvcu
+兌	dvcu
 对答	dvda
 都知道	dvdc
 对待	dvdd
@@ -16464,8 +16470,8 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 高挂	gcgx
 告	gch
 睾	gch
+篙	gch
 稿	gchb
-篙	gchb
 皜	gchb
 搞好	gchc
 𩔇	gchc
@@ -17490,6 +17496,7 @@ cd /storage/emulated/0/.ck/heom/code/ && git pull origin main	ggxb
 崗	ghuu
 刚睡	ghuv
 纲	ghv
+綱	ghv
 刚正	ghvg
 刚直	ghvi
 钢珠	ghvu
@@ -23082,13 +23089,13 @@ github	gith
 𪍺	hrjv
 还价	hrjx
 獾	hrk
+痪	hrk
 𩑖	hrkc
 獂	hrkf
 𡚊	hrkg
 𡚜	hrkg
 𤴯	hrki
 欢快	hrkk
-痪	hrkk
 瘓	hrkk
 𤴯	hrkk
 豁然开朗	hrkl
@@ -24603,6 +24610,7 @@ github	gith
 灰熊	hvxs
 麾下	hvxx
 呼之欲出	hvy
+迴	hvy
 𨗥	hvya
 𪊂	hvya
 回音	hvyb
@@ -24945,6 +24953,7 @@ github	gith
 搳	hxqr
 花去	hxqu
 哗	hxr
+嘩	hxr
 㕷	hxra
 𡁑	hxrb
 踝	hxrd
@@ -26921,6 +26930,7 @@ https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 敞口	ihkz
 畅	ihl
 阊	ihl
+暢	ihl
 䗉	ihla
 裮	ihla
 蟐	ihlb
@@ -30655,6 +30665,7 @@ php -S 127.0.0.1:8000	iphp
 癠	jikx
 忌口	jikz
 冀	jil
+蟻	jil
 蜡	jila
 吉林	jilb
 襋	jilb
@@ -30665,9 +30676,9 @@ php -S 127.0.0.1:8000	iphp
 家长里短	jild
 急了	jile
 激励	jili
-蟻	jili
 蟣	jili
 𧓓	jili
+蟻	jili
 䗗	jilj
 机灵	jilk
 螏	jilk
@@ -30890,6 +30901,7 @@ php -S 127.0.0.1:8000	iphp
 裚	jiqv
 擠	jiqx
 唧	jir
+蹟	jir
 唶	jira
 踖	jira
 躤	jira
@@ -30897,9 +30909,9 @@ php -S 127.0.0.1:8000	iphp
 𡁰	jirb
 𨅤	jirb
 跡	jirc
-蹟	jirc
 踑	jirc
 𠴩	jirc
+蹟	jirc
 㗱	jird
 𠴫	jire
 几人	jirf
@@ -31869,6 +31881,7 @@ php -S 127.0.0.1:8000	iphp
 讲述	jluu
 降水	jluv
 缰	jlv
+漿	jlv
 槳	jlvd
 江浙	jlve
 漿	jlve
@@ -32243,6 +32256,7 @@ php -S 127.0.0.1:8000	iphp
 简陋	jmlz
 碱	jmm
 歼	jmm
+殲	jmm
 简码	jmma
 磵	jmma
 𰧃	jmma
@@ -32270,12 +32284,12 @@ php -S 127.0.0.1:8000	iphp
 𢆞	jmml
 见面	jmmm
 硷	jmmm
-殲	jmmm
 殱	jmmm
 𩆷	jmmm
 𩇏	jmmm
 𩉔	jmmm
 𫛚	jmmm
+殲	jmmm
 玪	jmmn
 瑐	jmmn
 缄默	jmmo
@@ -34488,6 +34502,7 @@ msbt.seku.su	jmwv
 𫛞	jtpk
 绝配	jtpw
 掘	jtq
+抉	jtq
 抇	jtqa
 攫	jtqe
 𢱺	jtqe
@@ -34495,7 +34510,6 @@ msbt.seku.su	jmwv
 崛起	jtqi
 㩱	jtqi
 绝情	jtqk
-抉	jtqk
 𢩯	jtqm
 诀窍	jtqn
 挗	jtqn
@@ -34906,6 +34920,7 @@ msbt.seku.su	jmwv
 𥘮	jumr
 䣰	jums
 剧目	jumu
+驹	jun
 拘拿	juna
 鬻	junb
 𡥶	junb
@@ -34921,7 +34936,6 @@ msbt.seku.su	jmwv
 几十年前	junq
 𤼳	junq
 几十年如一日	junr
-驹	junr
 𬶋	junr
 䱟	junr
 鮈	junr
@@ -38694,6 +38708,7 @@ msbt.seku.su	jmwv
 𥓆	lbmr
 林木	lbmu
 鳞	lbn
+鱗	lbn
 黎巴嫩	lbnf
 矝	lbni
 𨸻	lbni
@@ -38701,9 +38716,9 @@ msbt.seku.su	jmwv
 老板娘	lbnl
 矝	lbnl
 隣	lbnq
-鱗	lbnq
 䚬	lbnq
 𬴊	lbnq
+鱗	lbnq
 邻	lbo
 賃	lboc
 赁	lboo
@@ -45036,6 +45051,7 @@ msbt.seku.su	jmwv
 买主	mdvu
 满地找牙	mdvy
 灭顶之灾	mdvz
+買	mdw
 𪒪	mdwb
 買	mdwc
 鷶	mdwf
@@ -47404,6 +47420,7 @@ milthm	milt
 墓穴	muxt
 木匣	muxx
 亩	muy
+畝	muy
 譕	muyf
 模样	muyh
 畆	muyi
@@ -180161,6 +180178,7 @@ git fetch origin && git reset --hard origin/main && git clean -fd	pull
 𨽂	puno
 铺	puo
 仆	puo
+僕	puo
 镨	puoa
 舖	puob
 舗	puob
@@ -180168,8 +180186,8 @@ git fetch origin && git reset --hard origin/main && git clean -fd	pull
 堡	puog
 攵	puok
 镤	puoo
-僕	puoo
 𥐁	puoo
+僕	puoo
 匍	pup
 铺平	pupk
 婆说婆有理	pupl
@@ -181308,6 +181326,7 @@ python	pyth
 𥓾	qimx
 奇谋	qimz
 骑	qin
+鰭	qin
 鳍	qina
 鮨	qina
 鰭	qina
@@ -200864,12 +200883,13 @@ http://mhtlim.top/usage/usage.html	uomk
 梲	vodu
 捉对	vodv
 浊	voe
+濁	voe
 䫎	voec
 叕	voee
 濯	voeg
 汋	voei
-濁	voei
 灂	voei
+濁	voei
 淖	voej
 𤃮	voel
 汋	voem
@@ -201650,15 +201670,16 @@ http://mhtlim.top/usage/usage.html	uomk
 助	vubs
 逐步	vubu
 䐢	vubu
+鑄	vuc
 𨭅	vucb
 銖	vucd
 注册	vuce
 鉒	vucg
 贮藏	vuch
 主次	vuci
-鑄	vuci
 鋳	vuci
 钃	vuci
+鑄	vuci
 䥮	vucl
 贮存	vucy
 柱	vud
@@ -201967,6 +201988,7 @@ http://mhtlim.top/usage/usage.html	uomk
 朱雀	vuqt
 置身其中	vuqv
 嘱	vur
+囑	vur
 𨅛	vurb
 正是如此	vurc
 跦	vurd
@@ -201975,8 +201997,8 @@ http://mhtlim.top/usage/usage.html	uomk
 𠰍	vurg
 逐日	vuri
 躅	vuri
-囑	vuri
 䠱	vuri
+囑	vuri
 助燃	vurj
 掌声如雷	vurl
 𨆄	vuro
@@ -204755,6 +204777,7 @@ http://mhtlim.top/usage/usage.html	uomk
 扤	wuqu
 吴	wur
 呜	wur
+嗚	wur
 勿扰	wurc
 呉	wurc
 物是人非	wurf
@@ -205337,6 +205360,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𫗪	wwnv
 𫗭	wwnv
 伟	wwo
+餵	wwo
 偽	wwof
 僞	wwof
 儰	wwof
@@ -205356,9 +205380,9 @@ http://mhtlim.top/usage/usage.html	uomk
 䬿	wwou
 偎	wwov
 倭	wwov
-餵	wwov
 餧	wwov
 𰾚	wwov
+餵	wwov
 懀	wwpa
 㥜	wwpb
 委派	wwpd
@@ -208123,6 +208147,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𥓒	xmmx
 限	xmn
 鲜	xmn
+陷	xmn
 陥	xmna
 𩱆	xmnb
 𥦶	xmnc
@@ -208155,7 +208180,6 @@ http://mhtlim.top/usage/usage.html	uomk
 婱	xmnv
 㢺	xmnv
 𨺘	xmnv
-陷	xmnx
 馅	xmnx
 䧟	xmnx
 䱤	xmnx
@@ -211466,6 +211490,7 @@ http://mhtlim.top/usage/usage.html	uomk
 夕阳西下	xyxx
 闲言闲语	xyxy
 迅	xyy
+遜	xyy
 訊	xyy
 詢	xyya
 迿	xyya
@@ -212403,6 +212428,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𥹱	ycfs
 熎	ycfu
 药费	ycfw
+堯	ycg
 药膏	ycgc
 顤	ycgc
 趭	ycgf
@@ -212417,8 +212443,8 @@ http://mhtlim.top/usage/usage.html	uomk
 𠢩	ycgs
 𡔜	ycgs
 腰鼓	ycgu
-堯	ycgu
 𧽎	ycgu
+堯	ycgu
 㙘	ycgv
 摇滚	ycgy
 夭	ych
@@ -214168,6 +214194,8 @@ http://mhtlim.top/usage/usage.html	uomk
 𤷅	yiku
 一口	yikz
 蚁	yil
+蛾	yil
+蟻	yil
 衵	yila
 頥	yilc
 𧊤	yilc
@@ -214187,10 +214215,10 @@ http://mhtlim.top/usage/usage.html	uomk
 伊朗	yilh
 蜴	yilh
 毅力	yili
-蛾	yili
-蟻	yili
 褹	yili
 襼	yili
+蛾	yili
+蟻	yili
 一览	yilj
 衣领	yilk
 袂	yilk
@@ -216055,6 +216083,7 @@ http://mhtlim.top/usage/usage.html	uomk
 英雄	ykxs
 迎	yky
 赢	yky
+贏	yky
 影音	ykyb
 应邀	ykyc
 贏	ykyc
@@ -217239,11 +217268,12 @@ http://mhtlim.top/usage/usage.html	uomk
 锐	ytou
 𩜌	ytou
 悦	ytp
+悅	ytp
 阅批	ytpi
 月票	ytpn
 乐谱	ytpu
-悅	ytpu
 恱	ytpu
+悅	ytpu
 抈	ytqb
 乐器	ytqi
 䋤	ytqi
@@ -218131,6 +218161,7 @@ http://mhtlim.top/usage/usage.html	uomk
 崳	yuuv
 预售	yuuz
 娱	yuv
+娛	yuv
 䋭	yuvb
 媀	yuvb
 繘	yuvb
@@ -219376,6 +219407,8 @@ http://mhtlim.top/usage/usage.html	uomk
 有序	yzxu
 游侠	yzxx
 遊	yzy
+誘	yzy
+卣	yzy
 优雅	yzya
 诱因	yzyb
 迶	yzyb
@@ -219401,8 +219434,8 @@ http://mhtlim.top/usage/usage.html	uomk
 有用	yzys
 卣	yzys
 游泳	yzys
-誘	yzys
 逌	yzys
+誘	yzys
 优越	yzyt
 由于	yzyu
 犹豫	yzyu

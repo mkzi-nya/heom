@@ -1260,11 +1260,13 @@ bbdn	百般刁难
 bbds	巴巴多斯
 bbdv	不必当真
 bbdy	逼不得已
-bbec	浜
+bbe	濱
+bbe	浜
 bbec	瀕
-bbec	濱
 bbec	汃
 bbec	濵
+bbec	濱
+bbec	浜
 bbeo	濒
 bbff	缤纷
 bbff	本本分分
@@ -3481,6 +3483,7 @@ bknr	𡖛
 bknt	鮩
 bknt	𨹗
 bko	兵
+bko	餅
 bkob	𰽥
 bkoc	𠊧
 bkoj	倂
@@ -3488,10 +3491,10 @@ bkoj	餠
 bkom	𠊧
 bkoo	仌
 bkot	併
-bkot	餅
 bkot	偋
 bkot	傡
 bkot	𰽼
+bkot	餅
 bkoy	仒
 bkpb	怲
 bkpd	并排
@@ -6377,12 +6380,13 @@ ches	㵴
 ches	㶓
 chgr	聪慧过人
 chh	舱
+chh	艙
 chhc	藏好
 chhd	沧海
 chhl	仓皇
 chhr	䅮
-chhr	艙
 chhr	𤚬
+chhr	艙
 chhy	才华横溢
 chi	ち
 chi	チ
@@ -6462,6 +6466,7 @@ ciai	慈爱
 cial	Ciallo～(∠・ω< )⌒☆
 cian	此岸
 cib	赐
+cib	賜
 cibh	此唱彼和
 cibh	賜
 cibi	刺鼻
@@ -12102,6 +12107,7 @@ dvbj	对半
 dvbo	䯟
 dvbr	𩨽
 dvc	兑
+dvc	兌
 dvcd	錞
 dvce	对策
 dvci	对此
@@ -12109,9 +12115,9 @@ dvck	鐓
 dvcn	𠜑
 dvco	对错
 dvcu	銳
-dvcu	兌
 dvcu	兊
 dvcu	鋭
+dvcu	兌
 dvda	对答
 dvdc	都知道
 dvdd	对待
@@ -16464,8 +16470,8 @@ gcgv	高贵
 gcgx	高挂
 gch	告
 gch	睾
+gch	篙
 gchb	稿
-gchb	篙
 gchb	皜
 gchc	搞好
 gchc	𩔇
@@ -17490,6 +17496,7 @@ ghuu	㟠
 ghuu	崗
 ghuv	刚睡
 ghv	纲
+ghv	綱
 ghvg	刚正
 ghvi	刚直
 ghvu	钢珠
@@ -23082,13 +23089,13 @@ hrjv	轘
 hrjv	𪍺
 hrjx	还价
 hrk	獾
+hrk	痪
 hrkc	𩑖
 hrkf	獂
 hrkg	𡚊
 hrkg	𡚜
 hrki	𤴯
 hrkk	欢快
-hrkk	痪
 hrkk	瘓
 hrkk	𤴯
 hrkl	豁然开朗
@@ -24603,6 +24610,7 @@ hvxr	回旋
 hvxs	灰熊
 hvxx	麾下
 hvy	呼之欲出
+hvy	迴
 hvya	𨗥
 hvya	𪊂
 hvyb	回音
@@ -24945,6 +24953,7 @@ hxqr	砉
 hxqr	搳
 hxqu	花去
 hxr	哗
+hxr	嘩
 hxra	㕷
 hxrb	𡁑
 hxrd	踝
@@ -26921,6 +26930,7 @@ ihku	长裤
 ihkz	敞口
 ihl	畅
 ihl	阊
+ihl	暢
 ihla	䗉
 ihla	裮
 ihlb	蟐
@@ -30655,6 +30665,7 @@ jikv	击溃
 jikx	癠
 jikz	忌口
 jil	冀
+jil	蟻
 jila	蜡
 jilb	吉林
 jilb	襋
@@ -30665,9 +30676,9 @@ jilc	𧐐
 jild	家长里短
 jile	急了
 jili	激励
-jili	蟻
 jili	蟣
 jili	𧓓
+jili	蟻
 jilj	䗗
 jilk	机灵
 jilk	螏
@@ -30890,6 +30901,7 @@ jiqu	汲取
 jiqv	裚
 jiqx	擠
 jir	唧
+jir	蹟
 jira	唶
 jira	踖
 jira	躤
@@ -30897,9 +30909,9 @@ jirb	蹐
 jirb	𡁰
 jirb	𨅤
 jirc	跡
-jirc	蹟
 jirc	踑
 jirc	𠴩
+jirc	蹟
 jird	㗱
 jire	𠴫
 jirf	几人
@@ -31869,6 +31881,7 @@ jlum	𡷍
 jluu	讲述
 jluv	降水
 jlv	缰
+jlv	漿
 jlvd	槳
 jlve	江浙
 jlve	漿
@@ -32243,6 +32256,7 @@ jmlu	𰴘
 jmlz	简陋
 jmm	碱
 jmm	歼
+jmm	殲
 jmma	简码
 jmma	磵
 jmma	𰧃
@@ -32270,12 +32284,12 @@ jmmk	简明
 jmml	𢆞
 jmmm	见面
 jmmm	硷
-jmmm	殲
 jmmm	殱
 jmmm	𩆷
 jmmm	𩇏
 jmmm	𩉔
 jmmm	𫛚
+jmmm	殲
 jmmn	玪
 jmmn	瑐
 jmmo	缄默
@@ -34488,6 +34502,7 @@ jtpk	𢨏
 jtpk	𫛞
 jtpw	绝配
 jtq	掘
+jtq	抉
 jtqa	抇
 jtqe	攫
 jtqe	𢱺
@@ -34495,7 +34510,6 @@ jtqg	捔
 jtqi	崛起
 jtqi	㩱
 jtqk	绝情
-jtqk	抉
 jtqm	𢩯
 jtqn	诀窍
 jtqn	挗
@@ -34906,6 +34920,7 @@ jumq	𠨭
 jumr	𥘮
 jums	䣰
 jumu	剧目
+jun	驹
 juna	拘拿
 junb	鬻
 junb	𡥶
@@ -34921,7 +34936,6 @@ junn	𨸰
 junq	几十年前
 junq	𤼳
 junr	几十年如一日
-junr	驹
 junr	𬶋
 junr	䱟
 junr	鮈
@@ -38694,6 +38708,7 @@ lbmq	𧲂
 lbmr	𥓆
 lbmu	林木
 lbn	鳞
+lbn	鱗
 lbnf	黎巴嫩
 lbni	矝
 lbni	𨸻
@@ -38701,9 +38716,9 @@ lbnj	力不能及
 lbnl	老板娘
 lbnl	矝
 lbnq	隣
-lbnq	鱗
 lbnq	䚬
 lbnq	𬴊
+lbnq	鱗
 lbo	邻
 lboc	賃
 lboo	赁
@@ -45036,6 +45051,7 @@ mdvn	耄耋之年
 mdvu	买主
 mdvy	满地找牙
 mdvz	灭顶之灾
+mdw	買
 mdwb	𪒪
 mdwc	買
 mdwf	鷶
@@ -47404,6 +47420,7 @@ muxr	目眩
 muxt	墓穴
 muxx	木匣
 muy	亩
+muy	畝
 muyf	譕
 muyh	模样
 muyi	畆
@@ -180161,6 +180178,7 @@ puno	䧤
 puno	𨽂
 puo	铺
 puo	仆
+puo	僕
 puoa	镨
 puob	舖
 puob	舗
@@ -180168,8 +180186,8 @@ puod	㒒
 puog	堡
 puok	攵
 puoo	镤
-puoo	僕
 puoo	𥐁
+puoo	僕
 pup	匍
 pupk	铺平
 pupl	婆说婆有理
@@ -181308,6 +181326,7 @@ qimx	䄢
 qimx	𥓾
 qimz	奇谋
 qin	骑
+qin	鰭
 qina	鳍
 qina	鮨
 qina	鰭
@@ -200864,12 +200883,13 @@ vodu	棁
 vodu	梲
 vodv	捉对
 voe	浊
+voe	濁
 voec	䫎
 voee	叕
 voeg	濯
 voei	汋
-voei	濁
 voei	灂
+voei	濁
 voej	淖
 voel	𤃮
 voem	汋
@@ -201650,15 +201670,16 @@ vubo	主播
 vubs	助
 vubu	逐步
 vubu	䐢
+vuc	鑄
 vucb	𨭅
 vucd	銖
 vuce	注册
 vucg	鉒
 vuch	贮藏
 vuci	主次
-vuci	鑄
 vuci	鋳
 vuci	钃
+vuci	鑄
 vucl	䥮
 vucy	贮存
 vud	柱
@@ -201967,6 +201988,7 @@ vuqr	仗势欺人
 vuqt	朱雀
 vuqv	置身其中
 vur	嘱
+vur	囑
 vurb	𨅛
 vurc	正是如此
 vurd	跦
@@ -201975,8 +201997,8 @@ vurg	跓
 vurg	𠰍
 vuri	逐日
 vuri	躅
-vuri	囑
 vuri	䠱
+vuri	囑
 vurj	助燃
 vurl	掌声如雷
 vuro	𨆄
@@ -204755,6 +204777,7 @@ wuqu	万水千山
 wuqu	扤
 wur	吴
 wur	呜
+wur	嗚
 wurc	勿扰
 wurc	呉
 wurf	物是人非
@@ -205337,6 +205360,7 @@ wwnv	𧤖
 wwnv	𫗪
 wwnv	𫗭
 wwo	伟
+wwo	餵
 wwof	偽
 wwof	僞
 wwof	儰
@@ -205356,9 +205380,9 @@ wwot	𩟟
 wwou	䬿
 wwov	偎
 wwov	倭
-wwov	餵
 wwov	餧
 wwov	𰾚
+wwov	餵
 wwpa	懀
 wwpb	㥜
 wwpd	委派
@@ -208123,6 +208147,7 @@ xmmw	鲜美
 xmmx	𥓒
 xmn	限
 xmn	鲜
+xmn	陷
 xmna	陥
 xmnb	𩱆
 xmnc	𥦶
@@ -208155,7 +208180,6 @@ xmnv	仙女
 xmnv	婱
 xmnv	㢺
 xmnv	𨺘
-xmnx	陷
 xmnx	馅
 xmnx	䧟
 xmnx	䱤
@@ -211466,6 +211490,7 @@ xyxu	相由心生
 xyxx	夕阳西下
 xyxy	闲言闲语
 xyy	迅
+xyy	遜
 xyy	訊
 xyya	詢
 xyya	迿
@@ -212403,6 +212428,7 @@ ycfo	烑
 ycfs	𥹱
 ycfu	熎
 ycfw	药费
+ycg	堯
 ycgc	药膏
 ycgc	顤
 ycgf	趭
@@ -212417,8 +212443,8 @@ ycgr	药罐
 ycgs	𠢩
 ycgs	𡔜
 ycgu	腰鼓
-ycgu	堯
 ycgu	𧽎
+ycgu	堯
 ycgv	㙘
 ycgy	摇滚
 ych	夭
@@ -214168,6 +214194,8 @@ yiku	𤶛
 yiku	𤷅
 yikz	一口
 yil	蚁
+yil	蛾
+yil	蟻
 yila	衵
 yilc	頥
 yilc	𧊤
@@ -214187,10 +214215,10 @@ yilg	一愣
 yilh	伊朗
 yilh	蜴
 yili	毅力
-yili	蛾
-yili	蟻
 yili	褹
 yili	襼
+yili	蛾
+yili	蟻
 yilj	一览
 yilk	衣领
 yilk	袂
@@ -216055,6 +216083,7 @@ ykxn	营销
 ykxs	英雄
 yky	迎
 yky	赢
+yky	贏
 ykyb	影音
 ykyc	应邀
 ykyc	贏
@@ -217239,11 +217268,12 @@ ytoo	𫖵
 ytou	锐
 ytou	𩜌
 ytp	悦
+ytp	悅
 ytpi	阅批
 ytpn	月票
 ytpu	乐谱
-ytpu	悅
 ytpu	恱
+ytpu	悅
 ytqb	抈
 ytqi	乐器
 ytqi	䋤
@@ -218131,6 +218161,7 @@ yuuv	嵛
 yuuv	崳
 yuuz	预售
 yuv	娱
+yuv	娛
 yuvb	䋭
 yuvb	媀
 yuvb	繘
@@ -219376,6 +219407,8 @@ yzxs	右胸
 yzxu	有序
 yzxx	游侠
 yzy	遊
+yzy	誘
+yzy	卣
 yzya	优雅
 yzyb	诱因
 yzyb	迶
@@ -219401,8 +219434,8 @@ yzyr	有缘
 yzys	有用
 yzys	卣
 yzys	游泳
-yzys	誘
 yzys	逌
+yzys	誘
 yzyt	优越
 yzyu	由于
 yzyu	犹豫

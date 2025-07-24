@@ -40805,7 +40805,7 @@ IP地址	ipdv
 虢	gob
 咣	glr
 晷	gva
-篙	gchb
+篙	gch
 肱	gsb
 泔	gjem
 硌	gem
@@ -41349,7 +41349,7 @@ IP地址	ipdv
 坏	hkg
 虹	hslm
 憾	hjpp
-痪	hrkk
+痪	hrk
 堕	hvng
 鲩	hrnu
 湖南	hn
@@ -41963,7 +41963,7 @@ IP地址	ipdv
 积	jih
 忌	jis
 桔	jpdr
-驹	junr
+驹	jun
 钧	jyo
 饥	jinn
 给	jivr
@@ -42007,7 +42007,7 @@ IP地址	ipdv
 酵	jnm
 秸	jph
 炯	jsf
-抉	jtqk
+抉	jtq
 爵	jtb
 锯	juo
 睫	jpb
@@ -46594,7 +46594,7 @@ IP地址	ipdv
 纤	xmvj
 旋	xry
 旬	xyp
-陷	xmnx
+陷	xmn
 闲	xml
 肖	xnf
 削	xnf
