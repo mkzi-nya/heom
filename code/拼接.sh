@@ -18,6 +18,13 @@ done
 
 python 防重.py
 
+for file in ../heom.txt 3.txt; do
+    if [ -f "$file" ]; then
+        cat "$file" >> "../heom_无ok拼字.txt"
+    else
+        echo "警告：文件 $file 不存在，跳过。"
+    fi
+done
 for file in 3.txt 4.txt; do
     if [ -f "$file" ]; then
         cat "$file" >> "../heom.txt"
@@ -25,7 +32,6 @@ for file in 3.txt 4.txt; do
         echo "警告：文件 $file 不存在，跳过。"
     fi
 done
-
 for file in 0.txt ../heom.txt; do
     if [ -f "$file" ]; then
         cat "$file" >> "../heom.dict.yaml"
