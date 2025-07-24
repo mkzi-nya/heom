@@ -13733,8 +13733,8 @@ AA制	aavi
 𣸣	ffeo
 泛泛而谈	ffet
 粉	fff
+粪	fff
 分发	fffa
-粪	fffc
 糞	fffc
 燌	fffc
 𥽒	fffd
@@ -31462,6 +31462,7 @@ IP地址	ipdv
 精髓	jksv
 井	jkt
 敬	jkt
+茎	jkt
 菁	jktb
 𦾿	jktb
 惊涛	jktc
@@ -31478,7 +31479,6 @@ IP地址	ipdv
 静听	jktk
 𨙷	jktl
 惊天	jktm
-茎	jktm
 莖	jktm
 𦽁	jktm
 荆	jktn
@@ -54569,8 +54569,8 @@ PPT	ppt
 𥓾	qimx
 奇谋	qimz
 骑	qin
+鳍	qin
 鰭	qin
-鳍	qina
 鮨	qina
 鰭	qina
 气恼	qinc
@@ -78537,6 +78537,7 @@ PPT	ppt
 𫗪	wwnv
 𫗭	wwnv
 伟	wwo
+偎	wwo
 餵	wwo
 偽	wwof
 僞	wwof
@@ -78555,7 +78556,6 @@ PPT	ppt
 𬬬	wwos
 𩟟	wwot
 䬿	wwou
-偎	wwov
 倭	wwov
 餧	wwov
 𰾚	wwov
@@ -92596,7 +92596,6 @@ PPT	ppt
 𣤎	yzyo
 有缘	yzyr
 有用	yzys
-卣	yzys
 游泳	yzys
 逌	yzys
 誘	yzys

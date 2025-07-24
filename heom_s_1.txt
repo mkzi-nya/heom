@@ -13733,8 +13733,8 @@ ffee	份额
 ffeo	𣸣
 ffet	泛泛而谈
 fff	粉
+fff	粪
 fffa	分发
-fffc	粪
 fffc	糞
 fffc	燌
 fffd	𥽒
@@ -31462,6 +31462,7 @@ jkss	惊悚
 jksv	精髓
 jkt	井
 jkt	敬
+jkt	茎
 jktb	菁
 jktb	𦾿
 jktc	惊涛
@@ -31478,7 +31479,6 @@ jktj	惊叹
 jktk	静听
 jktl	𨙷
 jktm	惊天
-jktm	茎
 jktm	莖
 jktm	𦽁
 jktn	荆
@@ -54569,8 +54569,8 @@ qimx	䄢
 qimx	𥓾
 qimz	奇谋
 qin	骑
+qin	鳍
 qin	鰭
-qina	鳍
 qina	鮨
 qina	鰭
 qinc	气恼
@@ -78537,6 +78537,7 @@ wwnv	𧤖
 wwnv	𫗪
 wwnv	𫗭
 wwo	伟
+wwo	偎
 wwo	餵
 wwof	偽
 wwof	僞
@@ -78555,7 +78556,6 @@ wwos	𫢭
 wwos	𬬬
 wwot	𩟟
 wwou	䬿
-wwov	偎
 wwov	倭
 wwov	餧
 wwov	𰾚
@@ -92596,7 +92596,6 @@ yzyo	𣣸
 yzyo	𣤎
 yzyr	有缘
 yzys	有用
-yzys	卣
 yzys	游泳
 yzys	逌
 yzys	誘

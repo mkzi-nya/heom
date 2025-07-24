@@ -40414,7 +40414,7 @@ IP地址	ipdv
 甫	fuib
 枫	fgd
 氟	fuol
-粪	fffc
+粪	fff
 阀	fal
 坟	ffg
 斐	fwl
@@ -41886,6 +41886,7 @@ IP地址	ipdv
 劲	jkn
 缴	jnv
 敬	jkt
+茎	jkt
 辑	jikj
 纠	jqv
 净	jki
@@ -42038,7 +42039,6 @@ IP地址	ipdv
 侥	jnou
 羁	jiwm
 茎	jktg
-茎	jktm
 迥	jsy
 涓	jre
 倔	jto
@@ -44367,7 +44367,7 @@ IP地址	ipdv
 将	qll
 掮	qmqb
 羟	qltm
-鳍	qina
+鳍	qin
 跄	qlr
 箐	qkh
 綦	qitf
@@ -46359,7 +46359,7 @@ IP地址	ipdv
 桅	wwd
 罔	whbv
 畹	wjw
-偎	wwov
+偎	wwo
 鹉	wumm
 豌	wjmu
 喔	wor
@@ -47515,7 +47515,6 @@ IP地址	ipdv
 苡	yito
 吲	ybrl
 喁	ysrb
-卣	yzys
 牖	yzlb
 嗌	yirt
 睚	yab
