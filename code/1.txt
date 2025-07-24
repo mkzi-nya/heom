@@ -43105,7 +43105,7 @@ IP地址	ipdv
 箓	luh
 戮	lus
 勠	lus
-舲	lkhi
+舲	lkh
 舲	lkhl
 俍	llov
 𫚭	lpnv
@@ -49252,7 +49252,7 @@ GDP	gdp
 公益	gsyi
 古董	guds
 骨骼	guge
-毂	guge
+毂	gug
 顾忌	guji
 孤立	guli
 果实累累	gull

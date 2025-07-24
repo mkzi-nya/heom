@@ -19119,6 +19119,9 @@ github	gith
 孤帆	gufj
 辜负	gufu
 鼓	gug
+毂	gug
+穀	gug
+榖	gug
 公事公办	gugb
 孤高	gugc
 股改	gugd
@@ -19126,9 +19129,6 @@ github	gith
 𣖫	gugd
 谷歌	guge
 骨骼	guge
-毂	guge
-穀	guge
-榖	guge
 䐨	guge
 皷	guge
 皼	guge
@@ -19137,6 +19137,8 @@ github	gith
 鼔	guge
 𣪸	guge
 𣫀	guge
+穀	guge
+榖	guge
 𪇗	gugf
 故事梗概	gugg
 骨干	gugj
@@ -40723,13 +40725,13 @@ msbt.seku.su	jmwv
 𣣋	lkgo
 𧾮	lkgr
 𠡭	lkgs
+舲	lkh
 𥵝	lkhc
 领海	lkhd
 稜	lkhe
 䈊	lkhe
 𢔁	lkhe
 领航	lkhh
-舲	lkhi
 㸳	lkhi
 䉁	lkhi
 䉖	lkhi

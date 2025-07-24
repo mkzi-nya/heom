@@ -7887,8 +7887,8 @@
 淈	gueu
 㯏	gugd
 𣖫	gugd
-穀	guge
-榖	guge
+穀	gug
+榖	gug
 䐨	guge
 皷	guge
 皼	guge
@@ -7897,6 +7897,8 @@
 鼔	guge
 𣪸	guge
 𣫀	guge
+穀	guge
+榖	guge
 𪇗	gugf
 𩙏	gugn
 𪕷	gugv
