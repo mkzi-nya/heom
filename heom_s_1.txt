@@ -179203,6 +179203,7 @@ oo	噢噢
 oor	噢
 oore	嚄
 opke	欧佩克
+oq	，
 or	偶然
 orxk	偶然性
 ot	呕吐
@@ -179389,6 +179390,7 @@ ouyr	謳
 ouyr	𪙃
 ouyu	偶遇
 ov	欧洲
+ow	。
 ox	偶像
 oxlx	呕心沥血
 oy	欧阳
