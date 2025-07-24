@@ -10,9 +10,24 @@
 from collections import Counter, defaultdict
 
 def gen_variants(code):
-    """生成变体编码：{第二位}{第三位}{第四位}{a-z}"""
+    """
+    生成变体编码：
+    1. {第二位}{第三位}{第四位}{a-z}
+    2. {第三位}{第四位}{a-z}{a-z}
+    """
     c1, c2, c3, c4 = code
-    return [f"{c2}{c3}{c4}{chr(i)}" for i in range(ord('a'), ord('z')+1)]
+    variants = []
+
+    # 第一组：{2}{3}{4}{a-z}
+    for i in range(ord('a'), ord('z') + 1):
+        variants.append(f"{c2}{c3}{c4}{chr(i)}")
+
+    # 第二组：{3}{4}{a-z}{a-z} (26 * 26)
+    for i in range(ord('a'), ord('z') + 1):
+        for j in range(ord('a'), ord('z') + 1):
+            variants.append(f"{c3}{c4}{chr(i)}{chr(j)}")
+
+    return variants
 
 
 def main():

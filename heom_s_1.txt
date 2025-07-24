@@ -20770,6 +20770,7 @@ hcaa	好啊
 hcab	暠
 hcab	䯫
 hcac	顥
+hcad	𦦲
 hcah	㬔
 hcaj	暤
 hcaj	暭
@@ -21053,6 +21054,9 @@ hczi	耗子
 hczo	好做
 hczz	好走
 hd	害
+hdaa	𦧙
+hdab	𪏿
+hdac	𥮗
 hdan	海岸
 hdao	閡
 hdb	骸
@@ -21677,6 +21681,11 @@ hezv	喝醉
 hezz	合奏
 hf	很
 hf	回复
+hfaa	𩲪
+hfab	𤆒
+hfac	𤓕
+hfad	舃
+hfae	𪃼
 hfai	很爱
 hfan	很暗
 hfav	艮
@@ -23233,6 +23242,16 @@ hozg	获赠
 hozh	火葬
 hozi	活字
 hp	害怕
+hpaa	𨈚
+hpab	飔
+hpac	𥯨
+hpad	𪕳
+hpae	𥭡
+hpaf	氏
+hpag	䬁
+hpah	𢓀
+hpai	𥫝
+hpaj	𩖹
 hpge	和平鸽
 hpgi	和平共处
 hpgy	狐朋狗友
