@@ -1535,6 +1535,7 @@ bcjf	䴐
 bcji	宝鸡
 bcjk	报警
 bcjl	褒奖
+bcjl	包浆
 bcjm	保健
 bcjp	保洁
 bcju	保举
@@ -32723,8 +32724,7 @@ jlmu	𱴘
 jlmv	𥔣
 jln	降
 jln	犟
-jlna	鱂
-jlnb	𩴒
+jlna	𩴒
 jlnc	䥒
 jlnc	𨯞
 jlnf	弶
@@ -51555,8 +51555,8 @@ nvhl	女皇
 nvjj	拿着鸡毛当令箭
 nvjk	女警
 nvjl	年终奖
-nvjm	你指尖跃动的电光，是我此生不灭的信仰
 nvjr	女眷
+nvjy	你指尖跃动的电光，是我此生不灭的信仰
 nvkg	狃
 nvlg	䖡
 nvlh	女郎
@@ -183742,11 +183742,11 @@ qlmr	䤌
 qlmr	瑲
 qlmu	𥓌
 qlmu	𮠞
-qlna	𫗳
-qlni	強
+qln	強
 qlni	𢐩
 qlni	𧖑
 qlni	𫗳
+qlni	強
 qlnl	𢏄
 qlnm	疆
 qlnm	彊

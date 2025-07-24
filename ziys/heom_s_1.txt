@@ -1552,6 +1552,7 @@ bcjf	䴐
 bcji	宝鸡
 bcjk	报警
 bcjl	褒奖
+bcjl	包浆
 bcjm	保健
 bcjp	保洁
 bcju	保举
@@ -32851,8 +32852,7 @@ jlmu	𱴘
 jlmv	𥔣
 jln	降
 jln	犟
-jlna	鱂
-jlnb	𩴒
+jlna	𩴒
 jlnc	䥒
 jlnc	𨯞
 jlnf	弶
@@ -35739,6 +35739,7 @@ jtvc	绝招
 jtvf	家庭主妇
 jtvg	绝症
 jtvg	很抱歉打扰大家喵，本喵于2025年5月15日10点25分查出周期性蛋白脂肪缺乏症 (学名 Insanus lovis)喵， 是一种广泛存在的慢性病喵，易感人群多为年轻群体喵，目前暂无有效的治愈方法喵，只能通过使用美国公司 Kentucky Fried Chicken开发的生物制剂 Fried Animal Protein (FAP，飞普） 经由食道对胃与小肠中受体进行靶向治疗缓解症状喵。今天是该公司降低药物售价的日子喵，谁能给我7.40美元去抓药喵。我会感谢你的喵。
+jtvg	【水滴筹】很抱歉打扰大家，本人于2025年7月 24日查出两眼昏花饥饿症，情况紧急。所幸有个朋友的姥爷是中医，让我照着这个药方抓药:蛋挞*2、烤翅*3对、鸡块*2、薯条*2、可乐*500ml原味鸡*2，谁v我50去抓药 周期性蛋白脂肪缺乏症(学名Insanus lovis)是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司Kentucky Fried Chicken（简称KFC）开发的生物制剂Fried Animal Protein (FAP,中文译名飞普)经由食道对胃与小肠中受体进行靶向治疗缓解症状。今天是该公司降低药物售价的日子，资助50帮我治疗该慢性病
 jtvh	㔃
 jtvh	𫦌
 jtvi	𥾮
@@ -51746,8 +51747,8 @@ nvhl	女皇
 nvjj	拿着鸡毛当令箭
 nvjk	女警
 nvjl	年终奖
-nvjm	你指尖跃动的电光，是我此生不灭的信仰
 nvjr	女眷
+nvjy	你指尖跃动的电光，是我此生不灭的信仰
 nvkg	狃
 nvlg	䖡
 nvlh	女郎
@@ -183971,11 +183972,11 @@ qlmr	䤌
 qlmr	瑲
 qlmu	𥓌
 qlmu	𮠞
-qlna	𫗳
-qlni	強
+qln	強
 qlni	𢐩
 qlni	𧖑
 qlni	𫗳
+qlni	強
 qlnl	𢏄
 qlnm	疆
 qlnm	彊

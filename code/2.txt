@@ -25180,10 +25180,11 @@
 瑲	qlmr
 𥓌	qlmu
 𮠞	qlmu
-強	qlni
+強	qln
 𢐩	qlni
 𧖑	qlni
 𫗳	qlni
+強	qlni
 𢏄	qlnl
 疆	qlnm
 彊	qlnm

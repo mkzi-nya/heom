@@ -572,7 +572,6 @@ jxtr	5
 jivl	5
 jnvk	5
 jyos	5
-jlni	5
 jitl	5
 jiml	5
 jpkl	5
@@ -1308,6 +1307,7 @@ jmhn	4
 jivr	4
 jros	4
 jurr	4
+jlni	4
 jknf	4
 jmea	4
 jioe	4
@@ -1665,7 +1665,6 @@ qikp	4
 qilr	4
 qisa	4
 qisl	4
-qlni	4
 qmcn	4
 qmhb	4
 qmho	4
