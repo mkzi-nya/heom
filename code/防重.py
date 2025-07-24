@@ -10,24 +10,10 @@
 from collections import Counter, defaultdict
 
 def gen_variants(code):
-    """生成变体编码的优先顺序"""
+    """生成变体编码：{第二位}{第三位}{第四位}{a-z}"""
     c1, c2, c3, c4 = code
-    return [
-        f"{c1}{c2}{c4}x",
-        f"{c1}{c2}{c4}z",
-        f"{c1}{c2}{c3}x",
-        f"{c1}{c2}{c3}z",
-        f"{c1}{c2}x{c4}",
-        f"{c1}{c2}z{c4}",
-        f"{c1}{c2}x{c3}",
-        f"{c1}{c2}z{c3}",
-        f"{c1}{c2}zx",
-        f"{c1}{c2}zz",
-        f"{c1}{c2}{c3}{c4}a",
-        f"{c1}{c2}{c3}{c4}b",
-        f"{c1}{c2}{c3}{c4}c",
-        f"{c1}{c2}{c3}{c4}d"
-    ]
+    return [f"{c2}{c3}{c4}{chr(i)}" for i in range(ord('a'), ord('z')+1)]
+
 
 def main():
     input_file  = '../heom.txt'
@@ -89,21 +75,15 @@ def main():
 
             # 前3个原封不动，不写入任何文件；剩下的作为 leftovers 分配变体
             leftovers = chars[3:]
-
-            # 按优先级分配到 3.txt
             for var in gen_variants(code):
                 if not leftovers:
                     break
-                exist = assigned_counts.get(var, 0)
-                if exist >= 3:
+                if assigned_counts.get(var, 0) >= 1:  # 已有则跳过
                     continue
-                # 本次还能分配的数量
-                allow = 3 - exist
-                batch = leftovers[:allow]
-                for ch in batch:
-                    f1.write(f"{ch}\t{var}\n")
-                assigned_counts[var] += len(batch)
-                leftovers = leftovers[allow:]
+                ch = leftovers.pop(0)                 # 取一个字符
+                f1.write(f"{ch}\t{var}\n")
+                assigned_counts[var] = 1              # 标记该变体已分配
+
 
             # 如果还有剩余，写到 3_log.txt（保留原始编码）
             for ch in leftovers:

@@ -1,3 +1,22 @@
+𦧙	vuhd
+𪏿	vuhd
+𦦲	yuhc
+𥮗	juhd
+𨈚	pihp
+𩲪	qihf
+飔	sihp
+𥯨	sihp
+𪕳	sihp
+𤆒	vihf
+𤓕	vihf
+𥭡	vihp
+氏	vihp
+舃	xihf
+𪃼	xihf
+䬁	yihp
+𢓀	yihp
+𥫝	yihp
+𩖹	yihp
 
 # 原始编码数量统计（仅列出分组大小 > 3 的编码）
 yjyu	12
