@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-脚本功能：读取../heom_s.txt，根据编码长度和前缀过滤，并且跳过
-那些已在1~3位编码中出现过的字符。按规则将变体编码输出到01.txt，
-将超额或被过滤的条目输出到02.txt，并在02.txt末尾附加每个
+脚本功能：读取../heom.txt，根据编码长度和前缀过滤，并且跳过
+那些已在1~3位编码中出现过的字符。按规则将变体编码输出到3.txt，
+将超额或被过滤的条目输出到3_log.txt，并在3_log.txt末尾附加每个
 成功解析的原始4位编码的数量统计。
 """
 
@@ -30,9 +30,9 @@ def gen_variants(code):
     ]
 
 def main():
-    input_file  = '../heom_s.txt'
-    output_1    = '01.txt'
-    output_2    = '02.txt'
+    input_file  = '../heom.txt'
+    output_1    = '3.txt'
+    output_2    = '3_log.txt'
 
     # 1. 读取原始条目
     entries = []
@@ -84,14 +84,13 @@ def main():
          open(output_2, 'w', encoding='utf-8') as f2:
 
         for code, chars in groups.items():
-            # 组小于等于3：跳过（既不写01，也不写02）
             if len(chars) <= 3:
                 continue
 
             # 前3个原封不动，不写入任何文件；剩下的作为 leftovers 分配变体
             leftovers = chars[3:]
 
-            # 按优先级分配到 01.txt
+            # 按优先级分配到 3.txt
             for var in gen_variants(code):
                 if not leftovers:
                     break
@@ -106,11 +105,11 @@ def main():
                 assigned_counts[var] += len(batch)
                 leftovers = leftovers[allow:]
 
-            # 如果还有剩余，写到 02.txt（保留原始编码）
+            # 如果还有剩余，写到 3_log.txt（保留原始编码）
             for ch in leftovers:
                 f2.write(f"{ch}\t{code}\n")
 
-        # 8. 在02.txt末尾，写入“成功解析”的原始编码统计（按数量从大到小排序）
+        # 8. 在3_log.txt末尾，写入“成功解析”的原始编码统计（按数量从大到小排序）
         f2.write("\n# 原始编码数量统计（仅列出分组大小 > 3 的编码）\n")
         for code, cnt in sorted(parsed_codes.items(), key=lambda x: x[1], reverse=True):
             f2.write(f"{code}\t{cnt}\n")
