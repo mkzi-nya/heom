@@ -33275,9 +33275,9 @@ jmnt	𧥈
 jmnv	𧤨
 jmnw	贱内
 jmny	挤眉弄眼
+jmo	键
 jmo	剑
 jmo	僭
-jmoa	键
 jmoa	锏
 jmoa	僣
 jmob	䭈
@@ -35187,6 +35187,7 @@ jrzs	卷宗
 jrzx	吉人自有天相
 jrzz	矫揉造作
 js	计算
+js	极速
 jsa	炅
 jsac	𩓺
 jsaf	煚
