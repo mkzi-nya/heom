@@ -51479,3 +51479,4 @@ $	ofhb
 亮起	llqi
 喝咖啡	hkfw
 作响	zoxl
+坐着	zove

@@ -224187,7 +224187,9 @@ zous	岝
 zouu	作数
 zouz	左手
 zova	𦁎
+zovb	𦈛
 zove	作者
+zove	坐着
 zove	繓
 zove	𦈛
 zovf	坐镇

@@ -1257,6 +1257,7 @@ yzls	4
 yzmw	4
 ziyt	4
 zotd	4
+zove	4
 zsko	4
 zvmj	4
 vidc	4
