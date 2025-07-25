@@ -224206,6 +224206,7 @@ PPT	ppt
 作物	zowu
 作为	zoww
 作息	zoxi
+作响	zoxl
 作秀	zoxq
 左胸	zoxs
 作序	zoxu
