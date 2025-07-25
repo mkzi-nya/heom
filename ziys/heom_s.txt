@@ -10737,6 +10737,7 @@ deepseek	deep
 𧍿	dmlh
 典礼	dmli
 电力	dmli
+店里	dmli
 电缆	dmlj
 电量	dmll
 电疗	dmln
@@ -22868,6 +22869,7 @@ github	gith
 淮	hke
 𣸎	hkee
 瀤	hkev
+喝咖啡	hkfw
 坏	hkg
 壞	hkgv
 壊	hkgv
@@ -31319,9 +31321,9 @@ php -S 127.0.0.1:8000	iphp
 濟	jiex
 𥳏	jiey
 𪅹	jiez
+脊	jif
 激发	jifa
 𤋭	jifa
-脊	jifb
 𥺵	jifb
 𩓮	jifc
 穄	jifd
@@ -42707,6 +42709,7 @@ msbt.seku.su	jmwv
 浏览器	llq
 掚	llqb
 𪭵	llqb
+亮起	llqi
 朗朗乾坤	llqk
 踉跄	llql
 两千	llqm
@@ -198774,6 +198777,7 @@ http://mhtlim.top/usage/usage.html	uomk
 数据	uuju
 輸	uujv
 暑假	uujx
+书架	uujx
 疏浚	uujy
 输	uuk
 𤻃	uuka
@@ -221717,6 +221721,7 @@ http://mhtlim.top/usage/usage.html	uomk
 一阵阵	yvvf
 月中折桂	yvvg
 有志者事竟成	yvvi
+一盏盏	yvvj
 饮鸩止渴	yvvk
 有志之士	yvvu
 由衷之言	yvvy

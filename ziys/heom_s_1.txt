@@ -10737,6 +10737,7 @@ dmlg	蜓
 dmlh	𧍿
 dmli	典礼
 dmli	电力
+dmli	店里
 dmlj	电缆
 dmll	电量
 dmln	电疗
@@ -22868,6 +22869,7 @@ hkdv	櫰
 hke	淮
 hkee	𣸎
 hkev	瀤
+hkfw	喝咖啡
 hkg	坏
 hkgv	壞
 hkgv	壊
@@ -31319,9 +31321,9 @@ jiew	𥡒
 jiex	濟
 jiey	𥳏
 jiez	𪅹
+jif	脊
 jifa	激发
 jifa	𤋭
-jifb	脊
 jifb	𥺵
 jifc	𩓮
 jifd	穄
@@ -42707,6 +42709,7 @@ llpw	拉郎配
 llq	浏览器
 llqb	掚
 llqb	𪭵
+llqi	亮起
 llqk	朗朗乾坤
 llql	踉跄
 llqm	两千
@@ -198774,6 +198777,7 @@ uujr	书卷
 uuju	数据
 uujv	輸
 uujx	暑假
+uujx	书架
 uujy	疏浚
 uuk	输
 uuka	𤻃
@@ -221717,6 +221721,7 @@ yvv	眼睁睁
 yvvf	一阵阵
 yvvg	月中折桂
 yvvi	有志者事竟成
+yvvj	一盏盏
 yvvk	饮鸩止渴
 yvvu	有志之士
 yvvy	由衷之言
