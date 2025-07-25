@@ -184905,6 +184905,7 @@ qnva	敲诈
 qnvb	繑
 qnvd	繰
 qnve	瞧着
+qnve	敲着
 qnvf	嫶
 qnvl	乔装
 qnvl	𰬐

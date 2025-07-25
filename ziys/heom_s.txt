@@ -184905,6 +184905,7 @@ python	pyth
 繑	qnvb
 繰	qnvd
 瞧着	qnve
+敲着	qnve
 嫶	qnvf
 乔装	qnvl
 𰬐	qnvl
