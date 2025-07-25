@@ -3164,6 +3164,7 @@ AA制	aavi
 办案	bjan
 闆	bjar
 笔记本	bjb
+笔记本电脑	bjb
 𦝤	bjbc
 半百	bjbd
 𣪂	bjbe
@@ -6406,6 +6407,7 @@ AA制	aavi
 测距	ceju
 测控	ceks
 测量	cell
+侧脸	celm
 策略	celt
 厕	cem
 策马	cema
@@ -10834,6 +10836,7 @@ AA制	aavi
 奌	dmyk
 㓠	dmyn
 电源	dmyr
+店员	dmyr
 𪓼	dmyu
 电邮	dmyz
 滇藏	dmzh
@@ -33271,6 +33274,7 @@ IP地址	ipdv
 𥍹	jmnq
 𱄃	jmnq
 鰔	jmnr
+渐浓	jmns
 𧥈	jmnt
 𧤨	jmnv
 贱内	jmnw
@@ -37120,6 +37124,7 @@ IP地址	ipdv
 考察	kcia
 看菜吃饭	kcif
 考场	kcih
+靠窗	kcil
 考	kcj
 靠近	kcjb
 烤鸡	kcji
@@ -48912,6 +48917,7 @@ IP地址	ipdv
 缪	muvh
 繆	muvh
 拇指	muvi
+木质	muvi
 縸	muvk
 𫄲	muvk
 木桩	muvl
@@ -207905,6 +207911,7 @@ PPT	ppt
 无业人员	wyry
 危言耸听	wyst
 无疑是	wyui
+无意识	wyui
 武夷山	wyuj
 勿以善小而不为	wyuw
 闻一知二	wyve
@@ -208234,6 +208241,7 @@ PPT	ppt
 虾兵蟹将	xbxj
 新型	xbxk
 新兴	xbxk
+心形	xbxk
 心想	xbxl
 新鲜	xbxm
 信不信由你	xbxn

@@ -3164,6 +3164,7 @@ bjae	昄
 bjan	办案
 bjar	闆
 bjb	笔记本
+bjb	笔记本电脑
 bjbc	𦝤
 bjbd	半百
 bjbe	𣪂
@@ -6406,6 +6407,7 @@ ceiu	测出
 ceju	测距
 ceks	测控
 cell	测量
+celm	侧脸
 celt	策略
 cem	厕
 cema	策马
@@ -10834,6 +10836,7 @@ dmyk	电影
 dmyk	奌
 dmyn	㓠
 dmyr	电源
+dmyr	店员
 dmyu	𪓼
 dmyz	电邮
 dmzh	滇藏
@@ -33271,6 +33274,7 @@ jmnq	鰎
 jmnq	𥍹
 jmnq	𱄃
 jmnr	鰔
+jmns	渐浓
 jmnt	𧥈
 jmnv	𧤨
 jmnw	贱内
@@ -37120,6 +37124,7 @@ kchz	靠后
 kcia	考察
 kcif	看菜吃饭
 kcih	考场
+kcil	靠窗
 kcj	考
 kcjb	靠近
 kcji	烤鸡
@@ -48912,6 +48917,7 @@ muvd	䊾
 muvh	缪
 muvh	繆
 muvi	拇指
+muvi	木质
 muvk	縸
 muvk	𫄲
 muvl	木桩
@@ -207905,6 +207911,7 @@ wyqv	蜿蜒曲折
 wyry	无业人员
 wyst	危言耸听
 wyui	无疑是
+wyui	无意识
 wyuj	武夷山
 wyuw	勿以善小而不为
 wyve	闻一知二
@@ -208234,6 +208241,7 @@ xbxi	信息
 xbxj	虾兵蟹将
 xbxk	新型
 xbxk	新兴
+xbxk	心形
 xbxl	心想
 xbxm	新鲜
 xbxn	信不信由你
