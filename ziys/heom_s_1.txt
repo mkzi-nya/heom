@@ -9008,6 +9008,7 @@ ddzi	袋子
 ddzi	⺞
 ddzo	呆坐
 ddzu	傣族
+ddzx	叮当作响
 ddzz	带走
 de	得
 de	で
