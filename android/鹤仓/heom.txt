@@ -13725,6 +13725,7 @@ IP地址	ipdv
 几名	jimk
 寂寞	jimo
 继母	jimu
+积木	jimu
 计谋	jimz
 缉拿	jina
 技能	jing
@@ -41961,8 +41962,8 @@ IP地址	ipdv
 椒	jnd
 炬	juf
 肌	jib
-稽	jih
 积	jih
+稽	jih
 忌	jis
 桔	jpdr
 驹	jun
@@ -43259,6 +43260,7 @@ IP地址	ipdv
 贸	mch
 么	me
 马	man
+木	mud
 模	mod
 模	mud
 米	mi
@@ -43268,7 +43270,6 @@ IP地址	ipdv
 卖	mdj
 毛	mc
 某	mz
-木	mud
 亩	muy
 棉	mmd
 煤	mwf
@@ -95795,8 +95796,9 @@ $	ofhb
 𥖙	jimv
 磯	jimw
 禨	jimy
-玘	jiuh
-𣯅	jiul
+㒫	jiuh
+玘	jiul
+𣯅	jiuo
 𨻕	jinh
 彐	jink
 𢏞	jins
@@ -97574,12 +97576,12 @@ $	ofhb
 䖊	yijh
 𠜁	yijj
 𤝻	yijs
-旣	jiuo
-穊	jiup
-𣄯	jiuq
-𩠨	jiur
-𪘥	jius
-𱌸	jiut
+旣	jiup
+穊	jiuq
+𣄯	jiur
+𩠨	jius
+𪘥	jiut
+𱌸	jiuw
 臸	viar
 𡍶	viat
 𥒓	viau
@@ -97909,7 +97911,7 @@ $	ofhb
 嘰	jiga
 𠹋	jigh
 𦺬	jigj
-𢁂	jiuw
+𢁂	jiuy
 𥾊	jigm
 𦇧	jigp
 𪊆	jixa
