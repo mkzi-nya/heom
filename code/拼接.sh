@@ -7,6 +7,7 @@ cd "$(cd "$(dirname "$0")" && pwd)"
 > "../ziys/heom.txt"
 > "../ziys/heom.dict.yaml"
 > "../ziys/用户.txt"
+> "../heom_无ok拼字.txt"
 
 for file in 1.txt 2.txt; do
     if [ -f "$file" ]; then
