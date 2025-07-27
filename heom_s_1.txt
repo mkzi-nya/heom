@@ -4786,6 +4786,7 @@ boyo	𠧛
 boyp	亳
 boyw	譒
 bozi	脖子
+bozi	脖子上
 bozm	⺊
 bozu	跛足
 bp	别
@@ -14053,9 +14054,13 @@ ff	份
 ffah	昐
 ffas	𨳣
 ffas	𨷒
+ffba	粉白色的
 ffbb	缝缝补补
 ffbc	膹
 ffbd	粉白
+ffbd	粉白的
+ffbd	粉白色
+ffbd	粉白色的
 ffbh	盼
 ffbh	朌
 ffbh	肦
@@ -19070,6 +19075,7 @@ grmg	瓘
 grmg	礶
 grmi	官迷
 grmj	灌满
+grmj	灌满了
 grmk	冠名
 grmo	观摩
 grmr	琯
@@ -21478,7 +21484,6 @@ hdxx	海峡
 hdxy	蝴蝶效应
 hdy	亥
 hdya	海牙
-hdyc	还要
 hdyc	頦
 hdyh	海洋
 hdyi	骇异
@@ -24130,6 +24135,7 @@ hsru	鸿儒
 hsry	红润
 hssc	𦕠
 hsse	红色
+hsse	红色的
 hsse	𦕷
 hssg	𦑠
 hssi	耾
@@ -25395,6 +25401,7 @@ hwrf	黑人
 hwru	好为人师
 hwry	荒无人烟
 hwse	黑色
+hwse	黑色的
 hwsk	换位思考
 hwtc	黑桃
 hwti	黑体
@@ -25764,6 +25771,7 @@ hxzl	河西走廊
 hxzo	化作
 hxzt	好戏在后头
 hy	混
+hy	还要
 hyaa	閽
 hyaa	𣇲
 hyab	𦟲
@@ -26183,7 +26191,7 @@ hzzh	厚葬
 hzzi	猴子
 hzzo	后座
 i	出
-i	初
+i	成
 i	重新
 ia	差
 iaar	𣆗
@@ -27174,7 +27182,7 @@ ifyv	諶
 ifzc	趁早
 ifzi	臣子
 ifzv	沉醉
-ig	成
+ig	乘
 ig	程
 igas	晟
 igas	𠕠
@@ -30807,6 +30815,7 @@ jdcm	绝顶聪明
 jddi	娇滴滴
 jddl	叫地地不灵
 jddu	绝大多数
+jde	简单鹤
 jdeq	崛地而起
 jdf	借贷方
 jdfg	假道伐虢
@@ -33989,7 +33998,6 @@ jnsb	驕
 jnsb	𨲭
 jnsb	𩯘
 jnsd	𦗵
-jnse	角色
 jnsi	绞死
 jnsl	𬮄
 jnsn	𠝑
@@ -40366,6 +40374,7 @@ ldvo	䋱
 ldvo	婡
 ldvt	𫝫
 ldwh	来往
+ldwh	来往的
 ldwi	老大无成
 ldwj	来玩
 ldwo	𤲓
@@ -41867,6 +41876,7 @@ ljrw	𨅬
 ljrw	𪢌
 ljrw	𪢠
 ljse	蓝色
+ljse	蓝色的
 ljsf	𪇖
 ljsh	𡮻
 ljsj	懒散
@@ -42660,6 +42670,7 @@ llxx	两下
 llxx	陆陆续续
 lly	亮
 llyc	良药
+llyd	落了一地
 llyf	諒
 llyf	𡮎
 llyh	两样
@@ -45078,6 +45089,7 @@ lvrv	𡀿
 lvrv	𫫵
 lvs	屡
 lvse	绿色
+lvse	绿色的
 lvse	履
 lvss	馿
 lvst	驢
@@ -179478,6 +179490,8 @@ palu	𧑡
 pam	琶
 pamc	𥐙
 pamf	𱍕
+pamj	爬满
+pamj	爬满了
 pamo	𱍕
 pamu	𣧜
 pamu	𩈆
@@ -197950,6 +197964,7 @@ ulty	水来土掩
 ultz	水龙头
 ulu	试了试
 ului	水落石出
+uluk	甩了甩
 ulul	双双
 uluq	说来说去
 ulur	时冷时热
@@ -199177,9 +199192,9 @@ uxya	刷牙
 uxye	誜
 uxyh	水性杨花
 uxyj	伤心欲绝
-uxyk	深吸一口气
 uxyl	升学压力
 uxym	赏心悦目
+uxyq	深吸一口气
 uxyu	受限于
 uxyx	上下一心
 uxzi	刷子
@@ -214999,6 +215014,7 @@ ychu	𤬔
 ychu	𪖐
 ychu	𰠴
 ychv	要回
+ychx	油菜花
 ychx	𦥝
 yci	谣
 ycia	𫍚
@@ -218571,7 +218587,7 @@ yjyy	眼晕
 yjyy	𪗤
 yjyz	𪙊
 yjzi	燕子
-yjzl	牙尖嘴利
+yjzl	已经走了
 yjzv	烟嘴
 yjzv	⻈
 yjzz	演奏
@@ -223249,6 +223265,7 @@ zgjm	增减
 zgjn	再过几年
 zgjt	再过几天
 zgjx	增加
+zgl	走过来
 zgla	䙢
 zgle	足够了
 zgli	赠礼
