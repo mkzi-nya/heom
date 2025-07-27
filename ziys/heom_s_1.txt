@@ -40476,6 +40476,7 @@ ldot	俫
 ldot	铼
 ldpi	赖皮
 ldq	懒得去
+ldqi	连点器
 ldqo	𦓹
 ldqt	𪎌
 ldqu	来去
