@@ -6487,6 +6487,7 @@ cfuh	嵾
 cfuo	㞥
 cfuo	𬱣
 cfwn	𦊃
+cfx	才发现
 cfyl	餐风饮露
 cg	曾
 cgaa	㬝
@@ -10422,6 +10423,7 @@ dkl	抵抗力
 dkld	大开绿灯
 dkle	多亏了
 dkli	定力
+dklk	叮铃
 dkll	定量
 dkln	帄
 dkln	虰
@@ -10570,8 +10572,8 @@ dlxk	独立性
 dlxv	鼎力相助
 dlym	大老爷们
 dlyr	大老远
-dlzu	独龙族
 dlzv	独立自主
+dlzx	叮铃作响
 dm	点
 dmaa	𣇖
 dmar	道貌岸然
@@ -12849,6 +12851,7 @@ dyyu	𡼖
 dyyv	𧝗
 dyyv	𩞤
 dyyy	得意洋洋
+dyzd	蹲在
 dyzi	多音字
 dyzu	顿足
 dyzw	大有作为
@@ -12974,6 +12977,7 @@ dznd	豆奶
 dzng	都能
 dznj	阧
 dznq	斗牛
+dzns	逗弄
 dznt	饾
 dznt	𨹜
 dzo	钭
@@ -14051,6 +14055,7 @@ ffas	𨳣
 ffas	𨷒
 ffbb	缝缝补补
 ffbc	膹
+ffbd	粉白
 ffbh	盼
 ffbh	朌
 ffbh	肦
@@ -19064,6 +19069,7 @@ grmf	关门
 grmg	瓘
 grmg	礶
 grmi	官迷
+grmj	灌满
 grmk	冠名
 grmo	观摩
 grmr	琯
@@ -25940,6 +25946,7 @@ hyuv	昏睡
 hyuv	慧眼识珠
 hyv	婚
 hyva	緡
+hyve	混着
 hyvg	后遗症
 hyvh	混账
 hyvj	混战
@@ -31738,6 +31745,7 @@ jipk	愱
 jipk	憿
 jipl	𢜭
 jipm	几篇
+jipm	几片
 jipm	㥛
 jipn	机票
 jipo	急迫
@@ -32481,6 +32489,7 @@ jkqf	鶄
 jkqh	𩇕
 jkqi	惊奇
 jkqi	景气
+jkqi	惊起
 jkqk	敬请
 jkqk	擏
 jkql	京腔
@@ -187566,6 +187575,7 @@ rsm	融
 rsm	瑢
 rsma	戎马
 rsmc	容貌
+rsmc	绒毛
 rsmi	𡭋
 rsmi	𢦿
 rsmi	𲆵
@@ -188351,6 +188361,7 @@ sckd	𤢖
 scke	骚客
 scki	𤠘
 sclf	螦
+sclo	扫落
 sclp	𧑫
 sclr	骚乱
 sclw	扫雷
@@ -192608,6 +192619,7 @@ tkyq	𨓍
 tkyr	挺远
 tkys	停用
 tkyz	挺有
+tkzd	停在
 tkzi	亭子
 tl	讨论
 tlai	谈恋爱
@@ -192946,6 +192958,7 @@ tmww	甜味
 tmxb	甜心
 tmxk	天性
 tmxk	天马行空
+tmxl	甜香
 tmxm	天线
 tmxp	填写
 tmxr	贪慕虚荣
@@ -198257,6 +198270,7 @@ ushh	神思恍惚
 usjl	声色俱厉
 usld	瘦死骆驼比马大
 uslj	声嘶力竭
+usm	是什么
 usqm	声色犬马
 usrg	视死如归
 uss	十三岁
@@ -198733,6 +198747,7 @@ uuvg	甩手掌柜
 uuvh	舒张
 uuvh	杀身之祸
 uuvi	数值
+uuvi	树枝
 uuvj	舒展
 uuvl	梳妆
 uuvl	綀
@@ -199161,6 +199176,7 @@ uxya	刷牙
 uxye	誜
 uxyh	水性杨花
 uxyj	伤心欲绝
+uxyk	深吸一口气
 uxyl	升学压力
 uxym	赏心悦目
 uxyu	受限于
@@ -202681,6 +202697,7 @@ vjyy	旃
 vjyz	占有
 vjyz	战友
 vjzd	站在
+vjzd	沾在
 vk	拽
 vkby	中看不中用
 vkgc	𱖕
@@ -215317,6 +215334,7 @@ yczi	咬字
 yczi	⺓
 yczu	瑶族
 yd	一定
+yd	一地
 yda	印第安
 ydar	印第安人
 ydba	一大把
@@ -219283,6 +219301,7 @@ yqw	余情未了
 yqwh	有去无回
 yqwl	有气无力
 yqwu	鸦雀无声
+yqww	野蔷薇
 yqxg	偃旗息鼓
 yqxt	意气相投
 yqy	有求于
