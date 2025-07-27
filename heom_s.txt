@@ -1,3 +1,4 @@
+
 ：	;
 ！	;a
 _	;b
@@ -22809,6 +22810,7 @@ GDP	gdp
 航空母舰	hkmj
 䃶	hkmv
 𣩹	hkmv
+很可能	hkn
 怀念	hknm
 很可能是	hknu
 佪	hkor
@@ -38564,6 +38566,7 @@ IP地址	ipdv
 䥗	krco
 鑧	krcu
 宽大	krda
+宽大的	krda
 宽带	krdd
 棵	krdd
 㯘	krdo
@@ -39332,6 +39335,7 @@ IP地址	ipdv
 困窘	kyjs
 困局	kyju
 𣰘	kyju
+可以看到	kykd
 看一看	kykj
 猑	kykp
 困苦	kyku
@@ -47739,6 +47743,7 @@ IP地址	ipdv
 明朗	mklh
 名利	mkli
 命令	mklk
+冥灵	mklk
 明亮	mkll
 明了	mkln
 名列	mklp
@@ -183769,6 +183774,7 @@ PPT	ppt
 强令	qllk
 丬	qllm
 强烈	qllp
+强烈的	qllp
 抢掠	qllt
 玱	qlm
 千里马	qlma
@@ -189428,6 +189434,7 @@ PPT	ppt
 𪍨	sojd
 𡩡	sojf
 𪍟	sojf
+所及	soji
 缩减	sojm
 𪍌	sojr
 𪍔	sojv
@@ -192940,6 +192947,7 @@ PPT	ppt
 觍	tmtu
 覥	tmtu
 甜头	tmtz
+他们是	tmu
 添设	tmue
 天神	tmuf
 天生	tmug
@@ -201744,12 +201752,14 @@ PPT	ppt
 祬	viiq
 𢇨	viir
 直冲	viis
-𫟞	viit
+𢎈	viit
 指出	viiu
 支出	viiu
+之处	viiu
 𢎈	viiu
 禃	viiv
-𥒗	viiw
+𫟞	viiw
+𥒗	viix
 直	vij
 耆	vija
 至今	vijb
@@ -202281,6 +202291,7 @@ PPT	ppt
 知心	vixb
 窒息	vixi
 执行	vixk
+直行	vixk
 指向	vixl
 志向	vixl
 直线	vixm
@@ -212103,6 +212114,7 @@ PPT	ppt
 𩘒	xrji
 軒	xrjj
 䆭	xrjj
+玄晶	xrjk
 𨊼	xrjk
 翧	xrjm
 选举	xrju
@@ -214861,6 +214873,7 @@ PPT	ppt
 𨐐	ybyu
 言不由衷	ybyv
 齦	ybyv
+氤氲	ybyy
 愿不愿意	ybyy
 有板有眼	ybyy
 音游	ybyz

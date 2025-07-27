@@ -924,6 +924,7 @@
 𥝮	viin
 祬	viiq
 𢇨	viir
+𢎈	viit
 螲	vilf
 砥	vimh
 厎	vimj
@@ -1913,7 +1914,7 @@
 𨁷	virj
 酈	vimw
 𣨋	vimx
-𫟞	viit
+𫟞	viiw
 𩴀	vuht
 𥠽	vikd
 邅	vjyd
@@ -3055,7 +3056,7 @@
 𥭡	vipg
 氏	viph
 𧊙	vils
-𥒗	viiw
+𥒗	viix
 𨟾	vipi
 𨻆	vinr
 𩻼	vins
