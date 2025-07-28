@@ -179406,6 +179406,16 @@ ouyr	欧元
 ouyr	謳
 ouyr	𪙃
 ouyu	偶遇
+ouzb	8
+ouze	2
+ouzj	9
+ouzl	0
+ouzl	6
+ouzq	7
+ouzs	3
+ouzs	4
+ouzw	5
+ouzy	1
 ov	欧洲
 ow	。
 ox	偶像
