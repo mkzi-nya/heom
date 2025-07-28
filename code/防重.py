@@ -29,7 +29,7 @@ def gen_variants(code):
     for i in range(ord('a'), ord('z') + 1):
         for j in range(ord('a'), ord('z') + 1):
             variants.append(f"{c1}{c2}{chr(i)}{chr(j)}")
-
+    return variants
 
 
 def main():
