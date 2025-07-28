@@ -15052,6 +15052,7 @@ fjhi	舤
 fjhi	舧
 fjhj	䉊
 fjhl	泛黄
+fjhl	泛黄的
 fjhl	𨙮
 fjhm	𬸪
 fjhn	凢
