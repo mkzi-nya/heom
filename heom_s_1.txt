@@ -1,4 +1,3 @@
-	
 ;	：
 ;a	！
 ;b	_
@@ -206733,6 +206732,7 @@ wuh	烏
 wuha	𥭠
 wuhb	䑁
 wuhc	晚上好
+wuhc	午好
 wuhd	无害
 wuhe	𥲐
 wuhf	无痕
