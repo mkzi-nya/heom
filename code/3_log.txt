@@ -67,6 +67,7 @@ yiyr	8
 yjbv	8
 yjuk	8
 yjvv	8
+yjyh	8
 yutm	8
 yzyu	8
 bohi	8
@@ -123,8 +124,6 @@ yitn	7
 yjhv	7
 yjmk	7
 yjmu	7
-yjyc	7
-yjyh	7
 yktu	7
 yrnu	7
 yuhd	7
@@ -212,6 +211,7 @@ jimu	6
 jinm	6
 jiri	6
 jiti	6
+jmli	6
 jnnf	6
 jubm	6
 jubr	6
@@ -303,6 +303,7 @@ yjeu	6
 yimt	6
 yums	6
 yjlv	6
+yjyc	6
 bilp	6
 bivj	6
 bone	6
@@ -388,7 +389,6 @@ fuke	5
 fule	5
 fumo	5
 fumw	5
-funi	5
 fuvd	5
 gedr	5
 ggbm	5
@@ -426,7 +426,6 @@ jitj	5
 jiyi	5
 jkmm	5
 jmhu	5
-jmli	5
 jnhe	5
 jnkk	5
 jpdr	5
@@ -949,6 +948,7 @@ jitm	4
 jitr	4
 jivu	4
 jiyc	4
+jiyu	4
 jkjt	4
 jkyk	4
 jlqi	4
@@ -986,7 +986,6 @@ kehj	4
 kehr	4
 kjjx	4
 kuuu	4
-libm	4
 licd	4
 ligd	4
 lijm	4
@@ -1104,7 +1103,6 @@ vibi	4
 vida	4
 vidu	4
 vigk	4
-vihh	4
 viig	4
 viii	4
 viiu	4
@@ -1263,6 +1261,7 @@ zsko	4
 zvmj	4
 vidc	4
 viui	4
+jiqi	4
 aime	4
 aoik	4
 boha	4
@@ -1285,6 +1284,7 @@ fjtw	4
 fwmy	4
 futk	4
 fjlw	4
+funi	4
 fwny	4
 fudi	4
 gukr	4
