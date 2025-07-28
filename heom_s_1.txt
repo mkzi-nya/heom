@@ -22096,6 +22096,7 @@ hgp	恒
 hgpd	横排
 hgpi	横批
 hgpj	横盘
+hgpk	横屏
 hgpm	恆
 hgpn	悙
 hgpr	訇
@@ -24017,6 +24018,7 @@ hsmc	𩒴
 hsmd	霐
 hsme	𧋔
 hsmf	䲨
+hsmg	鸿蒙
 hsmg	𨾊
 hsmi	䨎
 hsmi	玜
