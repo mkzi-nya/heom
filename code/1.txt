@@ -35877,7 +35877,6 @@ IP地址	ipdv
 一切	yiqp
 以求	yiqq
 一圈	yiqr
-乙炔	yiqt
 一曲	yiqu
 一群	yiqy
 艺人	yirf
@@ -35947,15 +35946,12 @@ IP地址	ipdv
 咿呀	yiya
 意淫	yiyb
 医药	yiyc
-宜嗔宜喜	yiyx
 一样	yiyh
 意义	yiyi
 遗言	yiyj
 医院	yiyr
 易用	yiys
-一月	yiyt
 抑郁	yiyu
-又臭又硬	yiyy
 已有	yiyz
 一早	yizc
 一则	yize

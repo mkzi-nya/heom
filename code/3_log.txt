@@ -1,5 +1,3 @@
-謻	yiyn
-譩	yiyp
 𢡃	yiyp
 
 # 原始编码数量统计（仅列出分组大小 > 3 的编码）
@@ -123,7 +121,6 @@ xynj	7
 yihc	7
 yiho	7
 yitn	7
-yiyt	7
 yjhv	7
 yjmk	7
 yjmu	7
@@ -301,6 +298,7 @@ xpyv	6
 xumm	6
 yuon	6
 yamm	6
+yiyt	6
 yioo	6
 yjeu	6
 yimt	6
