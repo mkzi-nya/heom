@@ -217427,6 +217427,7 @@ PPT	ppt
 鶃	yiue
 一身	yiuf
 医生	yiug
+一生	yiug
 以上	yiuh
 意识	yiui
 㠖	yiui

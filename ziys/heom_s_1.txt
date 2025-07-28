@@ -217750,6 +217750,7 @@ yiud	崺
 yiue	鶃
 yiuf	一身
 yiug	医生
+yiug	一生
 yiuh	以上
 yiui	意识
 yiui	㠖
