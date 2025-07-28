@@ -857,6 +857,7 @@ eetu	4
 eeyi	4
 ervj	4
 fghj	4
+fjdc	4
 fjdu	4
 fjfw	4
 fubi	4
@@ -1154,6 +1155,7 @@ xini	4
 xivh	4
 xmdu	4
 xmgu	4
+xmho	4
 xmka	4
 xmli	4
 xmnm	4

@@ -3364,6 +3364,7 @@ bjv	绊
 bjvd	必经之地
 bjvg	办证
 bjvh	班长
+bjvh	半张
 bjvj	败军之将
 bjvl	必经之路
 bjvm	百家争鸣
@@ -10033,6 +10034,7 @@ djdd	担待
 djdg	对酒当歌
 djdh	担当
 djdj	淡淡
+djdj	淡淡的
 djdj	𩏥
 djdk	淡定
 djdl	大吉大利
@@ -12796,6 +12798,7 @@ dyo	钝
 dyok	镦
 dyou	伅
 dyou	𠎻
+dyp	电影票
 dypc	頓
 dypd	盾牌
 dypd	惇
@@ -15036,11 +15039,13 @@ fjcy	风卷残云
 fjd	樊
 fjd	梵
 fjda	反打
-fjdb	𨟄
+fjdb	鐢
 fjdc	反倒
+fjdc	翻到
 fjdc	䫶
 fjdc	鐢
 fjdd	棥
+fjde	𨟄
 fjdh	翻江倒海
 fjdi	非机动车
 fjdi	杋
@@ -18255,6 +18260,7 @@ gjkj	𡯋
 gjkk	赶快
 gjkt	尷
 gjku	干枯
+gjku	干枯的
 gjkv	感喟
 gjlb	甘霖
 gjld	赶来
@@ -25645,6 +25651,7 @@ hxlb	花心萝卜
 hxlb	螖
 hxlc	话唠
 hxle	花了
+hxle	画了
 hxlh	画廊
 hxli	华丽
 hxlj	花篮
@@ -38969,6 +38976,7 @@ kule	哭了
 kuli	苦力
 kulj	褲
 kulm	苦练
+kulm	哭脸
 kulo	㠸
 kulr	𩇵
 kuls	窟窿
@@ -48495,6 +48503,7 @@ mohr	魔幻
 mohs	劰
 mohs	𠡞
 mohu	模糊
+mohu	模糊的
 mohu	覛
 mohv	衇
 mohw	抹黑
@@ -181487,6 +181496,7 @@ pnen	淲
 pneu	淲
 pnfh	票房
 pnfu	漂浮
+pngf	票根
 pngf	𧽤
 pngo	飘过
 pnha	篻
@@ -190347,6 +190357,7 @@ suue	宿舍
 suuf	塑身
 suui	素食
 suuo	诉说
+suuo	诉说着
 suuu	素数
 suva	缩
 suva	縮
@@ -191214,6 +191225,7 @@ tckk	𤴻
 tcks	掏空
 tckx	𮷝
 tclc	套牢
+tcld	淘来
 tcle	鼗
 tcli	逃离
 tclt	韬略
@@ -199101,6 +199113,7 @@ uuyd	䢤
 uuyd	蒁
 uuye	叔
 uuye	树叶
+uuye	书页
 uuyf	尗
 uuyf	虪
 uuyf	鶐
@@ -200372,6 +200385,7 @@ vcyk	照应
 vcyo	旐
 vcyr	詔
 vczb	注册资本
+vczd	照在
 vcze	沼泽
 vczf	⺤
 vczf	⺥
@@ -205611,6 +205625,7 @@ wfcv	文萃
 wfcy	温存
 wfda	问答
 wfdc	问道
+wfdc	闻到
 wfdd	温带
 wfdg	桽
 wfdh	文档
@@ -210475,6 +210490,7 @@ xmbu	睍
 xmbu	䏹
 xmbw	先辈
 xmbx	䐄
+xmca	鼸
 xmcc	仙草
 xmcc	鑦
 xmcd	咸菜
@@ -210587,7 +210603,7 @@ xmgz	限购
 xmh	衔
 xmh	舷
 xmh	瞎忙活
-xmha	秈
+xmha	𧈁
 xmhb	肩
 xmhc	䉯
 xmhc	稴
@@ -210596,10 +210612,10 @@ xmhc	鼸
 xmhd	陷害
 xmhe	显赫
 xmhf	𤉌
-xmhg	箲
+xmhg	秈
 xmhh	彡
 xmhi	𥰳
-xmhj	𢕖
+xmhj	箲
 xmhk	㪇
 xmhk	𢕭
 xmhk	𥰳
@@ -210615,14 +210631,15 @@ xmhn	𠜎
 xmhn	𢖋
 xmhn	𥲋
 xmho	现货
+xmho	鲜活
 xmho	𥟕
 xmho	𧈁
-xmhp	𣭡
+xmhp	𢕖
 xmhq	䉳
 xmhr	𢖎
 xmhr	𦩢
 xmhs	鲜红
-xmht	𥬍
+xmht	𣭡
 xmhu	笑面虎
 xmhu	筅
 xmhu	毨
@@ -210633,10 +210650,10 @@ xmhu	𣭡
 xmhu	𥬍
 xmhu	𧠒
 xmhv	贤惠
-xmhw	𧠒
+xmhw	𥬍
 xmhx	鲜花
 xmhx	臽
-xmhy	鼸
+xmhy	𧠒
 xmhz	先后
 xmi	咸
 xmi	冼
@@ -211533,7 +211550,6 @@ xnxg	心脑血管
 xnxi	消息
 xnxk	小型
 xnxl	小巷
-xnxn	小小
 xnxp	小写
 xnxs	枭雄
 xnxt	小学
@@ -213614,7 +213630,7 @@ xxci	下次
 xxcm	𨩽
 xxcq	鎼
 xxcr	鎋
-xxd	下蛋
+xxd	小小的
 xxda	下达
 xxdc	吓到
 xxdd	许许多多
@@ -213625,6 +213641,7 @@ xxdg	下等
 xxdh	熊熊大火
 xxdi	𧕱
 xxdj	下单
+xxdj	下蛋
 xxdk	下定
 xxdl	柙
 xxdm	小心点
@@ -214001,6 +214018,7 @@ xybl	𦘶
 xybu	下一步
 xybu	䞊
 xybu	𧸩
+xyc	薰衣草
 xycc	鑫
 xycf	鑂
 xyci	下一次
@@ -223731,6 +223749,7 @@ zhwf	藏文
 zhws	𪓅
 zhwu	赃物
 zhxz	作何选择
+zhy	最后一
 zhyc	最后一次
 zhyg	最后一个
 zhyk	最后一刻
@@ -223872,6 +223891,7 @@ ziiw	𥚉
 ziiz	自筹
 zijb	资金
 ziji	自己
+ziji	字迹
 zijj	资产阶级
 zijj	載
 zijm	自建
@@ -225340,6 +225360,7 @@ zwbk	賊
 zwbn	坐卧不宁
 zwdj	贼胆
 zwgh	自我感觉良好
+zwh	座位号
 zwir	贼船
 zwju	自我介绍
 zwki	𢨗
