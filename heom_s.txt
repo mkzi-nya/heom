@@ -1756,6 +1756,7 @@ _	;b
 摆动	bdds
 不登大雅之堂	bddt
 百度	bddu
+摆渡	bddu
 棑	bddy
 𩎻	bddy
 背道而驰	bdei
@@ -10629,6 +10630,7 @@ _	;b
 电竞	dmjk
 㝪	dmjk
 垫脚	dmjn
+踮脚	dmjn
 颠	dmjo
 电解	dmjp
 碘酒	dmjq
@@ -14614,7 +14616,6 @@ _	;b
 风闻	fgwf
 丰功伟绩	fgwj
 蜂窝	fgwo
-法国梧桐	fgwt
 风味	fgww
 风光无限	fgwx
 奉献	fgx
@@ -15557,6 +15558,7 @@ _	;b
 枎	fudo
 麩	fudo
 浮动	fuds
+浮动着	fuds
 幅度	fudu
 复读	fudu
 枹	fudu
@@ -38525,6 +38527,7 @@ IP地址	ipdv
 看破红尘	kphi
 堪培拉	kpla
 开篇伊始	kpyu
+空气	kq
 况且	kq
 口气不善	kqbu
 空前绝后	kqjh
@@ -38535,6 +38538,7 @@ IP地址	ipdv
 口腔溃疡	kqky
 看起来	kqld
 矿泉水	kquv
+空气中	kqv
 可取之处	kqvi
 宽	kr
 髋	krb
@@ -38681,7 +38685,6 @@ IP地址	ipdv
 悾	kspm
 控	ksq
 空缺	ksq
-空气	ksqi
 空前	ksqm
 𢷙	ksqm
 控球	ksqq
@@ -40146,6 +40149,7 @@ IP地址	ipdv
 老少	lcuc
 劳神	lcuf
 老师	lcui
+老式	lcui
 㟹	lcul
 老说	lcuo
 㟉	lcuq
@@ -42349,6 +42353,7 @@ IP地址	ipdv
 零星	lkx
 灵犀	lkxi
 另行	lkxk
+菱形	lkxk
 领先	lkxm
 凌霄	lkxn
 领袖	lkxq
@@ -50056,6 +50061,7 @@ IP地址	ipdv
 能有	ngyz
 那个字	ngzi
 囊	nh
+女孩	nh
 曩	nha
 哪壶不开提哪壶	nhbh
 䁸	nhbv
@@ -51572,7 +51578,6 @@ IP地址	ipdv
 能征惯战	nvgv
 衄	nvh
 䘐	nvhc
-女孩	nvhd
 䶊	nvhg
 衂	nvhh
 衂	nvhi
@@ -194534,6 +194539,7 @@ PPT	ppt
 𠺙	tvrv
 𦖦	tvsc
 褪色	tvse
+褪色的	tvse
 颓丧	tvsh
 退缩	tvso
 推算	tvsr
@@ -207050,6 +207056,7 @@ PPT	ppt
 䓊	wutr
 蘁	wutr
 梧桐	wuts
+梧桐叶	wuts
 靰	wutu
 𦬂	wutu
 屼	wuu
@@ -213294,6 +213301,8 @@ PPT	ppt
 虚位以待	xwyd
 夏威夷	xwyi
 吓我一跳	xwyt
+小王子	xwz
+《小王子》	xwz
 心无杂念	xwzn
 下	xx
 学习	xx
@@ -215012,6 +215021,7 @@ PPT	ppt
 要害	ychd
 乐	ychd
 吆喝	yche
+吆喝声	yche
 𤂼	yche
 鴁	ychf
 𤒝	ychf
@@ -221435,6 +221445,7 @@ PPT	ppt
 焉知非福	yvff
 一阵风	yvfg
 医者父母心	yvfx
+一整个	yvg
 一争高下	yvgx
 已臻化境	yvhj
 一枕黄粱	yvhl
@@ -222341,6 +222352,7 @@ PPT	ppt
 右面	yzmm
 幼苗	yzmn
 幽默	yzmo
+油墨	yzmo
 㱊	yzmo
 祐	yzmr
 丣	yzms
@@ -224266,6 +224278,7 @@ PPT	ppt
 作战	zovj
 坐庄	zovl
 左转	zovr
+座钟	zovs
 䋏	zovs
 𮉣	zovs
 做主	zovu

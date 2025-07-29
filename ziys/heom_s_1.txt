@@ -1793,6 +1793,7 @@ bddm	白点
 bdds	摆动
 bddt	不登大雅之堂
 bddu	百度
+bddu	摆渡
 bddy	棑
 bddy	𩎻
 bdei	背道而驰
@@ -10702,6 +10703,7 @@ dmji	㝪
 dmjk	电竞
 dmjk	㝪
 dmjn	垫脚
+dmjn	踮脚
 dmjo	颠
 dmjp	电解
 dmjq	碘酒
@@ -14701,7 +14703,6 @@ fgvu	封住
 fgwf	风闻
 fgwj	丰功伟绩
 fgwo	蜂窝
-fgwt	法国梧桐
 fgww	风味
 fgwx	风光无限
 fgx	奉献
@@ -15646,6 +15647,7 @@ fudn	𩎛
 fudo	枎
 fudo	麩
 fuds	浮动
+fuds	浮动着
 fudu	幅度
 fudu	复读
 fudu	枹
@@ -38689,6 +38691,7 @@ kp	恐怕
 kphi	看破红尘
 kpla	堪培拉
 kpyu	开篇伊始
+kq	空气
 kq	况且
 kqbu	口气不善
 kqjh	空前绝后
@@ -38699,6 +38702,7 @@ kqkl	看情况
 kqky	口腔溃疡
 kqld	看起来
 kquv	矿泉水
+kqv	空气中
 kqvi	可取之处
 kr	宽
 krb	髋
@@ -38845,7 +38849,6 @@ kspk	空瓶
 kspm	悾
 ksq	控
 ksq	空缺
-ksqi	空气
 ksqm	空前
 ksqm	𢷙
 ksqq	控球
@@ -40320,6 +40323,7 @@ lcu	老实
 lcuc	老少
 lcuf	劳神
 lcui	老师
+lcui	老式
 lcul	㟹
 lcuo	老说
 lcuq	㟉
@@ -42523,6 +42527,7 @@ lkww	灵位
 lkx	零星
 lkxi	灵犀
 lkxk	另行
+lkxk	菱形
 lkxm	领先
 lkxn	凌霄
 lkxq	领袖
@@ -50261,6 +50266,7 @@ ngys	能用
 ngyz	能有
 ngzi	那个字
 nh	囊
+nh	女孩
 nha	曩
 nhbh	哪壶不开提哪壶
 nhbv	䁸
@@ -51784,7 +51790,6 @@ nvgv	女鬼
 nvgv	能征惯战
 nvh	衄
 nvhc	䘐
-nvhd	女孩
 nvhg	䶊
 nvhh	衂
 nvhi	衂
@@ -194836,6 +194841,7 @@ tvrv	蹆
 tvrv	𠺙
 tvsc	𦖦
 tvse	褪色
+tvse	褪色的
 tvsh	颓丧
 tvso	退缩
 tvsr	推算
@@ -207367,6 +207373,7 @@ wutp	𦼇
 wutr	䓊
 wutr	蘁
 wuts	梧桐
+wuts	梧桐叶
 wutu	靰
 wutu	𦬂
 wuu	屼
@@ -213614,6 +213621,8 @@ xwxs	衔尾相随
 xwyd	虚位以待
 xwyi	夏威夷
 xwyt	吓我一跳
+xwz	小王子
+xwz	《小王子》
 xwzn	心无杂念
 xx	下
 xx	学习
@@ -215334,6 +215343,7 @@ ychc	要好
 ychd	要害
 ychd	乐
 yche	吆喝
+yche	吆喝声
 yche	𤂼
 ychf	鴁
 ychf	𤒝
@@ -221764,6 +221774,7 @@ yvdx	一枝独秀
 yvff	焉知非福
 yvfg	一阵风
 yvfx	医者父母心
+yvg	一整个
 yvgx	一争高下
 yvhj	已臻化境
 yvhl	一枕黄粱
@@ -222671,6 +222682,7 @@ yzml	𠨦
 yzmm	右面
 yzmn	幼苗
 yzmo	幽默
+yzmo	油墨
 yzmo	㱊
 yzmr	祐
 yzms	丣
@@ -224605,6 +224617,7 @@ zovi	坐支
 zovj	作战
 zovl	坐庄
 zovr	左转
+zovs	座钟
 zovs	䋏
 zovs	𮉣
 zovu	做主
