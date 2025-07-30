@@ -6,7 +6,8 @@ cd "$(cd "$(dirname "$0")" && pwd)"
 > "../heom.dict.yaml"
 > "../ziys/heom.txt"
 > "../ziys/heom.dict.yaml"
-> "../ziys/用户.txt"
+> "../android/鹤仓/用户.txt"
+> "../android/鹤仓/ok.txt"
 > "../heom_无ok拼字.txt"
 
 for file in 1.txt 2.txt; do
@@ -51,7 +52,7 @@ done
 
 for file in ./5.txt; do
     if [ -f "$file" ]; then
-        cat "$file" >> "../ziys/用户.txt"
+        cat "$file" >> "../android/鹤仓/用户.txt"
     else
         echo "警告：文件 $file 不存在，跳过。"
     fi
@@ -64,7 +65,8 @@ for file in ../heom.dict.yaml ./5.txt; do
         echo "警告：文件 $file 不存在，跳过。"
     fi
 done
-cp ../heom.txt ../android/鹤仓/
+cp ../heom_无ok拼字.txt ../android/鹤仓/heom.txt
+cp ./4.txt ../android/鹤仓/ok.txt
 sort --stable -t '	' -k2,2 ../heom.txt > ../heom_s.txt
 sort --stable -t '	' -k2,2 ../ziys/heom.txt > ../ziys/heom_s.txt
 awk -F'\t' '{print $2 "\t" $1}' ../heom_s.txt > ../heom_s_1.txt
