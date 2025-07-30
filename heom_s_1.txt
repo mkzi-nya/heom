@@ -5312,6 +5312,7 @@ buti	不提
 buti	薄
 butj	不识抬举
 butk	不停
+butn	布条
 buto	不妥
 buto	䪁
 butp	补贴
@@ -10437,6 +10438,7 @@ dkqb	定亲
 dkqi	定期
 dkqj	丢盔弃甲
 dkqk	定情
+dkql	钉枪
 dkr	叮
 dkrj	定然
 dkro	啶
@@ -13960,6 +13962,7 @@ fazi	法子
 fazo	发作
 fb	方便
 fb	分别
+fbb	帆布包
 fbcv	风必摧之
 fbdz	罚不当罪
 fbfj	烦不烦
@@ -17815,6 +17818,7 @@ ggwt	畊
 ggwu	公共卫生
 ggww	更为
 ggwy	亘古未有
+ggx	高跟鞋
 ggxb	更新
 ggxh	官官相护
 ggxj	高官显爵
@@ -40051,6 +40055,7 @@ lcks	痨
 lcks	癆
 lcku	劳苦
 lclc	姥姥
+lclc	牢牢
 lcle	老了
 lcli	劳力
 lclk	老龄
@@ -45933,6 +45938,7 @@ mauh	马上
 mauu	马术
 mav	妈
 mava	蚂蚱
+mava	马扎
 mavc	嫲
 mavd	嫲
 mavf	麻疹
@@ -51193,6 +51199,7 @@ npuu	𪩛
 npuv	巕
 npvd	孽债
 npvd	䌜
+npve	捏着
 npve	𦈙
 npvh	孽障
 npvi	牛皮纸
@@ -181068,6 +181075,7 @@ pkuj	岼
 pkuj	𢆟
 pkuo	评说
 pkuu	评述
+pkuu	评书
 pkuy	平顺
 pkuz	平手
 pkv	娉
@@ -193616,6 +193624,7 @@ tpuu	铁树
 tpuv	贴水
 tpve	贴着
 tpvf	脱贫致富
+tpvf	铁砧
 tpvg	铁证
 tpvh	铁掌
 tpwj	铁腕
@@ -198825,6 +198834,7 @@ uuy	述
 uuy	熟
 uuy	孰
 uuya	蒁
+uuyb	树阴
 uuyc	䢤
 uuyd	生杀予夺
 uuyd	䢞
@@ -199611,8 +199621,8 @@ uzzi	瘦子
 uzzm	⺘
 uzzv	受罪
 v	这
+v	着
 v	之
-v	直接
 va	扎
 vaaj	治安案件
 vaal	閘
@@ -200251,7 +200261,7 @@ vdyy	撞大运
 vdz	宅子
 vdzi	摘自
 vdzr	镇定自若
-ve	着
+ve	折
 ve	遮
 veaf	𣇧
 veai	𨵊
@@ -200414,7 +200424,7 @@ vepj	懾
 vepm	这篇
 vepn	𠝝
 vepn	𠞃
-veq	折
+veq	哲
 veq	蜇
 veqa	晢
 veqa	摺
@@ -202367,6 +202377,7 @@ vizu	知足
 vizy	至尊
 vj	站
 vj	占
+vj	直接
 vjar	䦓
 vjat	閚
 vjb	瞻
