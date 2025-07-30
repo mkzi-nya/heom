@@ -6793,6 +6793,7 @@ _	;b
 鷀	citf
 祠堂	cith
 兹	citi
+词提	citi
 茲	citi
 刺探	citj
 差	citm
