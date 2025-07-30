@@ -1559,7 +1559,6 @@ bcle	报了
 bclg	爆冷
 bcli	暴力
 bcli	包里
-bcli	包里的
 bclj	包揽
 bclk	不辞劳苦
 bcln	爆料
@@ -3748,6 +3747,7 @@ blby	表里不一
 blbz	𲁓
 blcd	不理睬
 blcj	不吝赐教
+bld	包里的
 bldh	波罗的海
 bldi	白兰地
 bldm	便利店
@@ -14292,6 +14292,7 @@ fflh	帉
 fflh	衯
 fflh	𠛸
 ffli	分离
+fflj	粉蓝
 fflj	芬兰
 ffll	分量
 fflo	𢁤
@@ -15430,6 +15431,7 @@ flpu	飞利浦
 flrm	纷乱如麻
 flrw	风流人物
 flry	风流儒雅
+flse	粉蓝色
 flth	富丽堂皇
 fltt	风流倜傥
 fluq	福禄双全
@@ -199148,8 +199150,8 @@ uuy	述
 uuy	熟
 uuy	孰
 uuya	蒁
-uuyb	树阴
-uuyb	树阴下
+uuyb	树荫
+uuyb	树荫下
 uuyc	䢤
 uuyd	生杀予夺
 uuyd	䢞
