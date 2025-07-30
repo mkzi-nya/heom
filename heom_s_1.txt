@@ -8291,6 +8291,7 @@ davr	䌋
 davr	𦈘
 davs	大众
 davu	打住
+davu	大竹
 davz	大洲
 dawe	眔
 dawf	答问
