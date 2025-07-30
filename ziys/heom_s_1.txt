@@ -1558,6 +1558,8 @@ bcl	不错了
 bcle	报了
 bclg	爆冷
 bcli	暴力
+bcli	包里
+bcli	包里的
 bclj	包揽
 bclk	不辞劳苦
 bcln	爆料
@@ -5029,6 +5031,7 @@ btbj	半推半就
 btbk	不吐不快
 btbn	笨头笨脑
 btby	不痛不痒
+btd	把他的
 btdj	八抬大轿
 btdl	白头到老
 btdr	不同的人
@@ -5558,6 +5561,7 @@ bwcp	鉳
 bwcv	悲催
 bwcx	不枉此行
 bwd	杯
+bwd	把我的
 bwda	北大
 bwdb	杮
 bwdb	韛
@@ -12855,6 +12859,7 @@ dytm	第一天
 dyto	躉
 dytu	𦰭
 dytv	当一天和尚撞一天钟
+dyu	的一声
 dyuc	崸
 dyug	顿生
 dyui	顿时
@@ -199143,6 +199148,7 @@ uuy	熟
 uuy	孰
 uuya	蒁
 uuyb	树阴
+uuyb	树阴下
 uuyc	䢤
 uuyd	生杀予夺
 uuyd	䢞
@@ -199887,6 +199893,7 @@ uzvz	手肘
 uzwc	手足无措
 uzwh	守望
 uzwj	手腕
+uzwj	手腕上
 uzwl	少走弯路
 uzwo	手握
 uzwu	手误
