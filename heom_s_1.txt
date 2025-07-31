@@ -1845,6 +1845,7 @@ bdln	不得了
 bdlo	败落
 bdlp	襬
 bdlu	白露
+bdlu	白鹭
 bdlw	败类
 bdm	百
 bdm	帮倒忙
@@ -1929,6 +1930,7 @@ bduh	摆上
 bdui	拜师
 bduj	拜山
 bduj	㠔
+bdul	白霜
 bduo	白说
 bdus	不动声色
 bduv	不得善终
@@ -15256,6 +15258,7 @@ fjuu	番薯
 fjuz	反手
 fjv	反之
 fjve	翻着
+fjve	泛着
 fjvf	发家致富
 fjvg	反正
 fjvi	繁殖
@@ -26073,6 +26076,7 @@ hzls	喉咙
 hzlu	后路
 hzly	后轮
 hzm	厚
+hzm	孩子们
 hzma	后妈
 hzmf	后门
 hzmk	𥚦
@@ -32551,6 +32555,7 @@ jktu	净土
 jktu	䔔
 jkty	鲸吞
 jktz	镜头
+jktz	镜头里
 jku	教科书
 jkua	鲸鲨
 jkue	劲射
@@ -43746,6 +43751,7 @@ lqdl	桞
 lqdm	六点
 lqdn	𣞗
 lqds	流动
+lqds	流动的
 lqds	桺
 lqdu	流毒
 lqdv	六七点钟
@@ -45186,6 +45192,7 @@ lwck	錑
 lwcw	鐳
 lwcw	鑘
 lwd	檑
+lwd	芦苇荡
 lwda	雷达
 lwdf	樏
 lwdf	欙
@@ -184230,6 +184237,7 @@ qmmo	厱
 qmmo	𣢬
 qmmq	𧲀
 qmmu	䙴
+qmn	欠
 qmna	𧣑
 qmnb	𨽨
 qmnc	鰜
@@ -184244,7 +184252,6 @@ qmnm	前年
 qmnm	鹐
 qmnm	𧣑
 qmnn	𩨊
-qmno	欠
 qmnq	𨺩
 qmnq	𩨃
 qmnu	迁怒
@@ -190375,6 +190382,8 @@ svxl	随想
 svxp	碎屑
 svy	遂
 svy	馊主意
+svya	遀
+svyb	碎银
 svyb	䜔
 svyb	䢫
 svyb	遀
@@ -200307,6 +200316,8 @@ vedm	这点
 vedm	㯰
 vedp	折叠
 vedr	折断
+vedr	折断了
+vedr	折断的
 vedu	㭯
 vedv	㯰
 vee	浙
@@ -202250,6 +202261,7 @@ vium	𡸜
 viun	剬
 viuo	直说
 viuu	指数
+viuv	汁水
 viuv	𡸜
 viuz	制售
 viv	纸
@@ -204504,6 +204516,7 @@ vvvm	娷
 vvvr	缒
 vvvr	縋
 vvvu	追逐
+vvvu	追逐着
 vvvv	重中之重
 vvvv	真真正正
 vvvx	只争朝夕
@@ -219508,6 +219521,7 @@ yrij	原产
 yril	原创
 yrio	贠
 yriu	远处
+yriu	远处的
 yriu	𫍠
 yriz	冤仇
 yrjb	远近
