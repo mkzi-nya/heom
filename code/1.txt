@@ -51608,4 +51608,8 @@ $	ofhb
 雨衣	yuyi
 水灵灵的	ulld
 湿漉漉的	ulld
-
+人的	rd
+暖黄	nrhl
+暖黄的	nrhl
+打湿	daui
+骑电动车	qddi

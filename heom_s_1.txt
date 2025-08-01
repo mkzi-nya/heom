@@ -1,4 +1,3 @@
-	
 ;	：
 ;a	！
 ;b	_
@@ -8270,6 +8269,7 @@ daug	大声
 dauh	打赏
 dauh	打伤
 daui	大师
+daui	打湿
 dauj	搭讪
 dauk	大帅
 daur	㟷
@@ -51359,6 +51359,8 @@ nrer	尼日尔
 nrfe	煖
 nrfg	暖风
 nrfk	煗
+nrhl	暖黄
+nrhl	暖黄的
 nrho	暖和
 nrhu	暖壶
 nrik	𪋐
@@ -182426,6 +182428,7 @@ qcsy	青葱岁月
 qcye	清脆悦耳
 qczj	遣词造句
 qd	确定
+qddi	骑电动车
 qdfu	清道夫
 qdgx	裙带关系
 qdgy	七大姑八大姨
@@ -186644,6 +186647,7 @@ rcyu	遶
 rcyu	𰺷
 rczv	绕嘴
 rd	认得
+rd	人的
 rdd	肉嘟嘟
 rddb	人大代表
 rddu	人多地少
