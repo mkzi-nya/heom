@@ -1,3 +1,4 @@
+	
 ;	：
 ;a	！
 ;b	_
@@ -9530,6 +9531,7 @@ digm	坻
 digm	坘
 digm	趆
 digo	帝国
+digo	递过
 digo	埞
 digp	赿
 digr	𧺽
@@ -14893,6 +14895,7 @@ fhzu	房租
 fhzy	发挥作用
 fhzz	放走
 fi	非常
+fi	发出
 fibh	非常棒
 fibq	非常抱歉
 fiby	非常必要
@@ -20122,6 +20125,7 @@ gvme	䃽
 gvme	敮
 gvmf	𥜏
 gvmg	珪
+gvmg	归梦
 gvmh	𩳝
 gvmi	诡秘
 gvmi	闺蜜
@@ -36388,6 +36392,7 @@ jxbe	貑
 jxbg	驾崩
 jxbi	假币
 jxbj	加班
+jxbj	加班族
 jxbl	居心不良
 jxbl	骱
 jxbl	𩨹
@@ -38869,6 +38874,7 @@ kumr	㱠
 kumr	𨡱
 kumu	枯木
 kunc	苦恼
+kunc	哭闹
 kunj	苦难
 kunr	䧊
 kunr	𢏆
@@ -49062,6 +49068,7 @@ mwco	没错
 mwcu	鎇
 mwcy	鋂
 mwd	枚
+mwd	门外的
 mwda	𣟸
 mwdb	𩎟
 mwdc	每到
@@ -183673,6 +183680,7 @@ qkvz	青轴
 qkw	黥
 qkwa	青蛙
 qkwb	圊
+qkwe	轻微的
 qkwf	请问
 qkwl	晴空万里
 qkwu	请勿
@@ -196487,6 +196495,7 @@ uhci	上次
 uhcj	伤残
 uhcr	銄
 uhcy	尚存
+uhd	上的
 uhdc	上道
 uhdd	尚待
 uhdd	神魂颠倒
@@ -197011,6 +197020,7 @@ uilb	𬡔
 uilb	𰳼
 uilc	𰳼
 uile	试了
+uile	湿了
 uile	㕜
 uilg	湿冷
 uilh	侍郎
@@ -197951,6 +197961,8 @@ ulkf	鷞
 ulkk	爽快
 ulkm	𮭪
 ulkz	爽口
+ulld	水灵灵的
+ulld	湿漉漉的
 ulle	𧉐
 ulle	𧕟
 ullh	爽朗
@@ -205661,6 +205673,7 @@ wglm	𧛹
 wglz	歪瓜裂枣
 wgmb	奣
 wgmi	霐
+wgmk	嗡鸣
 wgmm	𥕀
 wgmm	𩄘
 wgnm	䱵
@@ -211258,6 +211271,8 @@ xnue	校舍
 xnug	小声
 xnug	笑声
 xnui	消失
+xnui	消逝
+xnui	消失的
 xnuj	小山
 xnuo	小说
 xnuu	小数
@@ -221401,6 +221416,7 @@ yuyg	𡋬
 yuyh	逳
 yuyi	予以
 yuyi	寓意
+yuyi	雨衣
 yuyj	语言
 yuyj	预言
 yuyk	虞

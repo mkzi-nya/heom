@@ -1,3 +1,4 @@
+
 ：	;
 ！	;a
 _	;b
@@ -9530,6 +9531,7 @@ _	;b
 坘	digm
 趆	digm
 帝国	digo
+递过	digo
 埞	digo
 赿	digp
 𧺽	digr
@@ -14893,6 +14895,7 @@ _	;b
 发挥作用	fhzy
 放走	fhzz
 非常	fi
+发出	fi
 非常棒	fibh
 非常抱歉	fibq
 非常必要	fiby
@@ -20122,6 +20125,7 @@ GDP	gdp
 敮	gvme
 𥜏	gvmf
 珪	gvmg
+归梦	gvmg
 𩳝	gvmh
 诡秘	gvmi
 闺蜜	gvmi
@@ -36388,6 +36392,7 @@ IP地址	ipdv
 驾崩	jxbg
 假币	jxbi
 加班	jxbj
+加班族	jxbj
 居心不良	jxbl
 骱	jxbl
 𩨹	jxbl
@@ -38869,6 +38874,7 @@ IP地址	ipdv
 𨡱	kumr
 枯木	kumu
 苦恼	kunc
+哭闹	kunc
 苦难	kunj
 䧊	kunr
 𢏆	kunr
@@ -49062,6 +49068,7 @@ IP地址	ipdv
 鎇	mwcu
 鋂	mwcy
 枚	mwd
+门外的	mwd
 𣟸	mwda
 𩎟	mwdb
 每到	mwdc
@@ -183673,6 +183680,7 @@ PPT	ppt
 黥	qkw
 青蛙	qkwa
 圊	qkwb
+轻微的	qkwe
 请问	qkwf
 晴空万里	qkwl
 请勿	qkwu
@@ -196487,6 +196495,7 @@ PPT	ppt
 伤残	uhcj
 銄	uhcr
 尚存	uhcy
+上的	uhd
 上道	uhdc
 尚待	uhdd
 神魂颠倒	uhdd
@@ -197011,6 +197020,7 @@ PPT	ppt
 𰳼	uilb
 𰳼	uilc
 试了	uile
+湿了	uile
 㕜	uile
 湿冷	uilg
 侍郎	uilh
@@ -197951,6 +197961,8 @@ PPT	ppt
 爽快	ulkk
 𮭪	ulkm
 爽口	ulkz
+水灵灵的	ulld
+湿漉漉的	ulld
 𧉐	ulle
 𧕟	ulle
 爽朗	ullh
@@ -205661,6 +205673,7 @@ PPT	ppt
 歪瓜裂枣	wglz
 奣	wgmb
 霐	wgmi
+嗡鸣	wgmk
 𥕀	wgmm
 𩄘	wgmm
 䱵	wgnm
@@ -211258,6 +211271,8 @@ PPT	ppt
 小声	xnug
 笑声	xnug
 消失	xnui
+消逝	xnui
+消失的	xnui
 小山	xnuj
 小说	xnuo
 小数	xnuu
@@ -221401,6 +221416,7 @@ PPT	ppt
 逳	yuyh
 予以	yuyi
 寓意	yuyi
+雨衣	yuyi
 语言	yuyj
 预言	yuyj
 虞	yuyk
