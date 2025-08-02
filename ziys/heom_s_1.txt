@@ -1917,6 +1917,7 @@ bdq	摆
 bdq	不定期
 bdqb	𫖔
 bdqf	不得其法
+bdqi	白汽
 bdqj	捭
 bdqj	拝
 bdql	百强
@@ -1989,6 +1990,7 @@ bdwj	百万
 bdwl	宝刀未老
 bdwp	罷
 bdws	㔥
+bdwu	白雾
 bdww	百味
 bdx	北斗星
 bdxi	白皙
@@ -3366,6 +3368,7 @@ bjsv	伴随
 bjtc	𦎊
 bjtj	𠦒
 bjtm	半天
+bjtn	半条
 bjto	办妥
 bjtq	靽
 bjtq	𠦒
@@ -5050,6 +5053,7 @@ bthy	白天黑夜
 btid	不同程度
 btih	不提倡
 btiu	不同程度上
+btj	半条街
 btjm	不推荐
 btkn	不太可能
 btl	别提了
@@ -6904,6 +6908,7 @@ civs	此种
 civv	词缀
 ciwd	此外
 ciwf	此文
+ciwj	瓷碗
 ciww	刺猬
 cixi	慈禧
 cixk	雌性
@@ -18948,6 +18953,7 @@ govc	过招
 govd	国债
 govd	綶
 gove	过着
+gove	裹着
 govf	果真
 govh	过账
 govi	果汁
@@ -40110,6 +40116,7 @@ lbvf	临阵
 lbvi	林芝
 lbvj	临战
 lbvl	鳞状
+lbvo	邻桌
 lbvq	繗
 lbvq	𬙈
 lbvs	临终
@@ -41856,6 +41863,7 @@ ljbj	篮板
 ljbp	路见不平
 ljbt	𧸦
 ljbt	𬥾
+ljbu	蓝布
 ljbv	屡禁不止
 ljbw	䑌
 ljbw	𥌻
@@ -45802,6 +45810,7 @@ lyyq	另有隐情
 lyyu	论语
 lyyz	绿油油
 lyz	老样子
+lyz	老爷子
 lyzi	轮子
 lyzv	论罪
 lyzw	聊以自慰
@@ -181581,6 +181590,7 @@ pnii	𩙒
 pnii	𪋖
 pnil	飘窗
 pnis	瓢虫
+pniu	飘出
 pnjb	飘进
 pnjd	𣝐
 pnjf	竂
@@ -186109,6 +186119,8 @@ qubi	胠
 qubi	戵
 qubj	祛斑
 qubj	七手八脚
+qubl	青石板路
+qubl	青石板路上
 qubm	䁦
 qubm	𬸱
 qubn	刞
@@ -188584,6 +188596,7 @@ salo	洒落
 salw	洒泪
 saly	䙣
 same	㪪
+samj	撒满
 samm	𩆅
 sane	𱅂
 sanm	隡
@@ -191778,6 +191791,7 @@ tgpe	𢟱
 tgpf	𢥂
 tgpr	𢚺
 tgqf	痛改前非
+tgqi	腾起
 tgrf	天高任鸟飞
 tgrf	䠮
 tgrm	𬧃
@@ -194994,6 +195008,7 @@ txtf	掏心掏肺
 txtp	天下太平
 txud	贪小失大
 txue	通讯社
+txug	谈笑声
 txvf	推心置腹
 txvg	通行证
 txwd	天下无敌
@@ -203307,6 +203322,7 @@ vmqn	这么巧
 vmrf	掌门人
 vmtz	皱眉头
 vmuc	这么少
+vmuh	桌面上
 vmul	这么爽
 vmuo	这么说
 vmvm	琢磨琢磨
@@ -204165,6 +204181,7 @@ vubi	𥋛
 vubj	主办
 vubk	驻兵
 vubm	主编
+vubm	竹编
 vubm	𰮙
 vubn	貯
 vubn	眝
@@ -209618,6 +209635,7 @@ xisr	𩦇
 xiss	稀松
 xisu	习俗
 xisv	细碎
+xisv	细碎的
 xisv	媐
 xit	昔
 xita	𦸚
@@ -210358,6 +210376,7 @@ xlq	象棋
 xlqb	相亲
 xlqb	星罗棋布
 xlqi	想起
+xlqi	香气
 xlqk	详情
 xlqm	向前
 xlqm	镶嵌
@@ -219445,6 +219464,7 @@ ykzo	硬座
 yl	原来
 yl	严厉
 yl	眼里
+yl	油亮
 ylbd	意料不到
 ylbg	有理不在声高
 ylbh	于理不合
