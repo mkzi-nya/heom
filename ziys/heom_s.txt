@@ -197615,6 +197615,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 峕	uiua
 旹	uiua
 施舍	uiue
+失神	uiuf
 失身	uiuf
 师生	uiug
 𡉸	uiug

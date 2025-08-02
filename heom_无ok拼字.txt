@@ -28141,6 +28141,7 @@ IP地址	ipdv
 试图	uitu
 石头	uitz
 施舍	uiue
+失神	uiuf
 失身	uiuf
 师生	uiug
 时尚	uiuh

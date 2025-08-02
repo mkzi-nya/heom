@@ -197308,6 +197308,7 @@ PPT	ppt
 峕	uiua
 旹	uiua
 施舍	uiue
+失神	uiuf
 失身	uiuf
 师生	uiug
 𡉸	uiug
