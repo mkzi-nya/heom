@@ -196597,8 +196597,8 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 𦩱	ughg
 睡个好觉	ughj
 𦖞	ughj
-牲	ughm
 笙	ughm
+牲	ughm
 甡	ughm
 鼪	ughm
 𬸆	ughm
