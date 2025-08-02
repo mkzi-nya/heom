@@ -44226,6 +44226,7 @@ IP地址	ipdv
 𪚝	lsga
 䥢	lsgc
 鏧	lsgc
+笼盖	lsgd
 两三个	lsge
 𣫣	lsgi
 垅	lsgp

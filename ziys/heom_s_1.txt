@@ -44405,6 +44405,7 @@ lsfy	连锁反应
 lsga	𪚝
 lsgc	䥢
 lsgc	鏧
+lsgd	笼盖
 lsge	两三个
 lsgi	𣫣
 lsgp	垅
