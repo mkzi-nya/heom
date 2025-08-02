@@ -204689,6 +204689,7 @@ vxzi	爪子
 vxzw	抓贼
 vy	这样
 vy	主意
+vy	吱呀
 vyb	肫
 vybc	准保
 vybd	𥇜
