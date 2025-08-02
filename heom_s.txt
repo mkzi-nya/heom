@@ -30403,6 +30403,7 @@ IP地址	ipdv
 𦞬	jbbk
 肵	jbbl
 金边	jbbm
+锦标	jbbn
 禁播	jbbo
 肋	jbbs
 贐	jbbt
@@ -196137,8 +196138,8 @@ PPT	ppt
 顺风顺水	ufuu
 渗水	ufuv
 伸手	ufuz
-绅	ufv
 婶	ufv
+绅	ufv
 嬸	ufv
 是非之地	ufvd
 綝	ufvd

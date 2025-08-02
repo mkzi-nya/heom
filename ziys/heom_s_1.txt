@@ -30545,6 +30545,7 @@ jbbi	金币
 jbbk	𦞬
 jbbl	肵
 jbbm	金边
+jbbn	锦标
 jbbo	禁播
 jbbs	肋
 jbbt	贐
@@ -196443,8 +196444,8 @@ ufuu	屾
 ufuu	顺风顺水
 ufuv	渗水
 ufuz	伸手
-ufv	绅
 ufv	婶
+ufv	绅
 ufv	嬸
 ufvd	是非之地
 ufvd	綝
