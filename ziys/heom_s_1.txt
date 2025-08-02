@@ -181367,6 +181367,7 @@ pkxi	平息
 pkxk	平行
 pkxm	贫困线
 pkxr	评选
+pkxu	凭空消失
 pkyc	頩
 pkyf	鵧
 pkyi	评议
