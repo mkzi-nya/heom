@@ -39839,6 +39839,7 @@ IP地址	ipdv
 冷不冷	lblg
 𫔴	lblg
 琳琅	lblh
+淋漓	lbli
 凛冽	lblp
 䗲	lblq
 𤗷	lblq

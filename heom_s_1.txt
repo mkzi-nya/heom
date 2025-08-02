@@ -39839,6 +39839,7 @@ lblf	𬮟
 lblg	冷不冷
 lblg	𫔴
 lblh	琳琅
+lbli	淋漓
 lblp	凛冽
 lblq	䗲
 lblq	𤗷
