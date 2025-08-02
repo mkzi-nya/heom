@@ -203979,8 +203979,8 @@ vugu	主顾
 vugu	趉
 vugy	竹棍
 vugz	猪狗
-vuh	筑
 vuh	竹
+vuh	筑
 vuh	築
 vuha	箸
 vuha	𢔪

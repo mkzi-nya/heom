@@ -45754,6 +45754,7 @@ IP地址	ipdv
 状	vllk
 着	vctu
 针	vfoj
+竹	vuh
 筑	vuh
 找	vc
 召	vcs
@@ -45796,7 +45797,6 @@ IP地址	ipdv
 殖	vimm
 殖	vimv
 胀	vhb
-竹	vuh
 仲	vsol
 赚	vrb
 诊	vfih

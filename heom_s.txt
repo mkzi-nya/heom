@@ -203979,8 +203979,8 @@ PPT	ppt
 趉	vugu
 竹棍	vugy
 猪狗	vugz
-筑	vuh
 竹	vuh
+筑	vuh
 築	vuh
 箸	vuha
 𢔪	vuha
