@@ -6075,6 +6075,7 @@ _	;b
 操场	ccih
 操持	ccii
 草创	ccil
+艹	ccj
 曺	ccja
 𨎝	ccja
 艹	ccjj
@@ -11291,6 +11292,7 @@ _	;b
 多头	dotz
 多少	douc
 𡶲	doud
+夺舍	doue
 多事	doui
 躲闪	douj
 崜	doum
