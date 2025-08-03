@@ -37721,6 +37721,7 @@ keyc	頦
 keyd	課
 keye	𣲊
 keyh	𠛳
+keyi	刻意
 keyj	科研
 keyo	颏
 keyo	欬
