@@ -1,0 +1,31 @@
+----syntax=cn, code
+----leadkey=;
+----config=ime-kf.ini
+：	_
+；	;
+：“	q
+？	w
+（	e
+）	r
+@	t
+《	y
+》	u
+$cmd(newkey(ohhe$1),[撤销])	i
+$cmd(「」keyboard(<21>),「」)	o
+$cmd(『』keyboard(<21>),『』)	p
+！	a
+……	s
+、	d
+$cmd({last_0},{last_0})	f
+·	g
+$cmd(《》keyboard(<21>),《》)	h
+$cmd(“”keyboard(<21>),“”)	j
+$cmd(（）keyboard(<21>),（）)	k
+$cmd(〔〕keyboard(<21>),〔〕)	l
+“	z
+→	x
+”	c
+——	v
+$cmd(\t,\t)	b
+$cmd(#keyboard(<67+123>),[End])	n
+$cmd(newkey(ohh$1),ϟ)	m

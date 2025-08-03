@@ -1,0 +1,48 @@
+-- 用户词库（内词库）
+-- 规则加删词方式产生的词条进入本文件（默认，可使用ohjc2切换到外词库加词）
+-- 规则加词方式不在本文件内操作，请在任何可打字的地方使用
+-- 本文件内使用直接编码格式加词，加完后 oiz 生效
+-- ①规则加词方式：编码+空格+词条+ojc2
+-- --直接编码格式：词条+TAB符+编码
+-- ②居首的方式：编码+空格+词条+空格+g(字母)+ojc2
+-- --直接编码格式：词条+TAB符+编码#固
+-- ③规则删词方式：编码+空格+词条+ojc3
+-- --直接编码格式：词条+TAB符+编码#删
+-- ④快符规则替换方式：编码+空格+词条+空格+y(字母)+ojc2
+-- --直接编码格式：词条+TAB符+编码#\   （实体键盘把 \ 换成 ; ）
+
+-- ------- 一、AI&语音功能 ----------
+-- 1.讯飞星火使用：
+-- ①注册：https://xinghuo.xfyun.cn/  
+-- ②开通星火大模型版本（任选一个），语音听写→高级功能→动态修正 打开
+-- ③把appId,appKey,appSecret参数填入下面直通内容的对应位置（参数填到自己开通的那个星火版本直通里），oiz重载后 ohai把参数写入配置
+$cmd(set(xfai-enable=1;xfai-url=ws://spark-api.xf-yun.com/v4.0/chat;xfai-appid=参数;xfai-appkey=参数;xfai-appsecret=参数;xfai-userid=随便填一个名;xfai-version=4.0Ultra),[4.0])	ohai
+$cmd(set(xfai-enable=1;xfai-url=ws://spark-api.xf-yun.com/v1.1/chat;xfai-appid=参数;xfai-appkey=参数;xfai-appsecret=参数;xfai-userid=随便填一个名;xfai-version=generalv),[1.5])	ohai
+$cmd(set(xfai-enable=0;xfai-url=0;xfai-appid=0;xfai-appkey=0;xfai-appsecret=0;xfai-userid=0;xfai-version=0),[关闭])	ohai
+-- ④AI：输入你想要AI回复的内容，使用 .m, 或 olai 得到讯飞AI回复
+-- ⑤语音：长按高飞键盘下面的 ﹀ 键，震动后开始说话
+-- mode1无法使用时，就需要你自己配置mode2
+$cmd(set(xfyy-mode=1;xfyy-appid=b6c6678c;xfyy-appkey=bcdd01149e8b8921cb7e4e7f438f1fbc;xfyy-appsecret=OTE5ZjRhZDkzZjhlNThmMTY0MGZiMDhl),[本地语音])	ohyy
+$cmd(set(xfyy-mode=2;xfyy-appid=参数;xfyy-appkey=参数;xfyy-appsecret=参数),[web语音])	ohyy
+
+-- 2.openAI使用：
+$cmd(set(openai-enable=1;openai-url=链接;openai-apikey=参数;openai-model=模型),[openAI])	opai
+$cmd(set(openai-enable=0;openai-url=0;openai-apikey=0;openai-model=0),[关闭])	opai
+
+-- ------- 二、webdav同步功能 ----------
+$cmd(set(webdav-auto=1;webdav-server=服务器地址;webdav-username=用户名;webdav-password=密码),[写入同步参数])	oxtb
+$cmd(set(webdav-auto=0;webdav-server=0;webdav-username=0;webdav-password=0),[清空])	oxtb
+$cmd(set(webdav-upblockfilter=binary-mbs|skins|*.merge|*.bak;webdav-upwhitefilter=*词库.txt;webdav-downblockfilter=*-win.txt;webdav-downwhitefilter=*.*),[A黑名单])	oamd
+$cmd(set(webdav-upblockfilter=上传黑名单;webdav-upwhitefilter=上传白名单;webdav-downblockfilter=下载黑名单;webdav-downwhitefilter=下传白名单),[自定])	oamd
+$cmd(set(webdav-upblockfilter=statistics|binary-mbs|skins|*.merge|*.bak;webdav-upwhitefilter=*词库.txt;webdav-downblockfilter=statistics|binary-mbs|skins|*.merge|*.bak;webdav-downwhitefilter=*.*),[W黑名单])	owmd
+$cmd(set(webdav-upblockfilter=上传黑名单;webdav-upwhitefilter=上传白名单;webdav-downblockfilter=下载黑名单;webdav-downwhitefilter=下传白名单),[自定])	owmd
+
+-- 三、快直通 .mi 未自定义功能时，默认为下面功能，可修改成自己需要的功能
+$cmd(newkey(oem$1),[emoji])	ohii
+
+-- 四、暗词条一个，自行取舍
+[哪个|青海|甘肃|四川|云南|贵州|山西|山东|陕西|湖北|湖南|江西|河北|河南|安徽|江苏|福建|广东|海南|台湾|辽宁|吉林|黑龙江|浙江]#省#ug#1#0
+
+
+-- 此行后开始添加自己的词条
+

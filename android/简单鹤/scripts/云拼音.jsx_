@@ -1,0 +1,28 @@
+#beforecut
+log(text.length);
+if(text.length>=4){
+return false;
+}
+
+
+#aftercut
+// 如果是空码，并且已经切分了
+if (instance.EmptyMode && instance.EmptyCuted)
+{
+    var list = instance.CandiList;
+    
+    // k:1 取1个
+    var body = {"header":{"fn":"chinese_ime"},"uuid":"B50APJ5A1NSIV1SV","user":"aiw","segment_list":[{"str":""},{"str":text,"status":"editing"}],"target_lang":"zh","k":1};
+    
+    var str = httpPostJson("https://effidit.qq.com/api/", JSON.stringify(body), "utf-8");    
+    var jObj = JSON.parse(str);
+    if(jObj.item_list && jObj.item_list.length > 0){
+        instance.EmptyCutDisplayCode = text;
+        var item = new MaBiaoItem();
+        item.Code = text;
+        item.Chinese = jObj.item_list[0].ext_str;
+        // 插入一个新的 候选项
+        list.Add(item);
+    }
+    
+}
