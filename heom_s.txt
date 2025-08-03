@@ -38251,11 +38251,11 @@ IP地址	ipdv
 𩦱	kksa
 駃	kksk
 快速	kksu
-蒯	kkt
 看看腿	kkt
 蕢	kktc
 𦳋	kkte
 快艇	kktk
+蒯	kktn
 蒉	kkto
 哭哭啼啼	kktt
 快退	kktv
