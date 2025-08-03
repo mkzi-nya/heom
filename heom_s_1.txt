@@ -10521,8 +10521,10 @@ dlbl	的黎波里
 dlbr	得理不饶人
 dlby	得来不易
 dlcu	大老粗
+dld	多来点
 dldd	多劳多得
 dldf	颠鸾倒凤
+dldm	多了点
 dldo	多伦多
 dldq	颠来倒去
 dldw	独来独往
@@ -40264,6 +40266,7 @@ lddi	𤦃
 lddl	郲
 lddl	𬩾
 lddm	来电
+lddm	来点
 lddm	𱉵
 lddo	來
 lddo	赉
@@ -217611,6 +217614,7 @@ yiwa	𫍙
 yiwb	𫍟
 yiwc	異
 yiwd	意外
+yiwd	以外
 yiwd	𪐣
 yiwe	𦌩
 yiwf	疑问
