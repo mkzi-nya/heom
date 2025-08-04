@@ -46993,6 +46993,7 @@ mgwm	𤱴
 mgwn	铭感五内
 mgwo	𦊽
 mgwv	甿
+mgxb	萌新
 mgxh	慢工细活
 mgxi	没关系
 mgxl	梦想
@@ -206699,6 +206700,7 @@ wsyx	无所用心
 wsyy	我所欲也
 wszw	无所作为
 wt	问题
+wtbd	问题不大
 wtbh	乌托邦
 wtcd	万头攒动
 wtcy	无头苍蝇
