@@ -20950,6 +20950,7 @@ hbgz	还不够
 hbhc	好不好
 hbhu	会不会是
 hbhv	会不会
+hbhv	互帮互助
 hbhy	毫不讳言
 hbij	画饼充饥
 hbju	环保局
