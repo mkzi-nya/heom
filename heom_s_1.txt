@@ -51698,7 +51698,6 @@ nwbu	内部
 nwbv	脮
 nwbv	腇
 nwc	内侧
-nwce	内侧
 nwce	内测
 nwcg	内层
 nwcj	内参
@@ -197366,7 +197365,6 @@ uiwh	失望
 uiwj	十万
 uiwm	师出无名
 uiwp	𦌿
-uiwu	食物
 uiwu	事物
 uiwu	十五
 uiww	视为
