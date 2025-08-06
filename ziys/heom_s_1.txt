@@ -14976,6 +14976,7 @@ fhkk	方块
 fhkl	方框
 fhkr	放宽
 fhks	防控
+fhkx	符号看象限
 fhl	肺活量
 fhlb	芳邻
 fhle	放了
@@ -31083,6 +31084,7 @@ jbvt	嬧
 jbvu	进驻
 jbvv	紧追
 jbvx	紧抓
+jbwb	奇变偶不变
 jbwc	𪑙
 jbwj	举步维艰
 jbwo	紧握
@@ -212769,6 +212771,7 @@ xqos	锈
 xqov	𩛢
 xqpw	修配
 xqqi	秀气
+xqqi	休憩
 xqqn	修桥
 xqqp	羞怯
 xqqq	绣球
