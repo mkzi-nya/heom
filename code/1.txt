@@ -4096,7 +4096,7 @@ _	;b
 打打闹闹	ddnn
 电灯泡	ddpc
 待批	ddpi
-对得起	ddqi
+对得起	ddq
 跌宕起伏	ddqf
 颠倒乾坤	ddqk
 带枪	ddql
@@ -29707,6 +29707,7 @@ IP地址	ipdv
 知恩图报	vetb
 折杀	veua
 折射	veue
+折射出	veue
 这时	veui
 折扇	veuj
 这种	vevs
@@ -32426,6 +32427,7 @@ IP地址	ipdv
 稳中求进	wvqj
 万众期待	wvqd
 无中生有	wvuy
+万丈深渊	wvu
 文绉绉	wvvz
 瓮中捉鳖	wvvb
 文绉绉的	wvvd
@@ -39783,6 +39785,7 @@ IP地址	ipdv
 得	de
 得	dw
 电	dml
+带	dd
 代	dd
 当	dh
 度	dui
@@ -41627,7 +41630,7 @@ IP地址	ipdv
 篪	iihn
 篪	iihu
 澶	ijem
-龀	ify
+龀	ifyp
 裎	igl
 蝽	iyla
 骣	ijnd
@@ -48541,7 +48544,6 @@ GDP	gdp
 生死攸关	usy
 我必犯人	wbf
 为期不远	wqb
-万丈深渊	wvu
 毋庸讳言	wyh
 霞光万道	xgw
 有法必依	yfb
@@ -51629,3 +51631,27 @@ $	ofhb
 是挺	ut
 常用的	iyd
 的说	deuo
+我只是	wvu
+钓杆	dngj
+粼粼	lblb
+波光	bogl
+鱼钩	yugz
+竹篓	vulz
+鲫鱼	jy
+吐着	tuve
+冲锋衣	ify
+滑倒	hxdc
+扶住	fuvu
+石碑	uibw
+石碑上	uibw
+江水	jluv
+染成	rjig
+蜜糖	mith
+划破	hxpo
+水面	uvmm
+带起	ddqi
+带起的	ddqi
+水珠	uvvu
+余辉	yuhv
+两人	lr
+里的	ld

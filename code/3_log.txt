@@ -68,6 +68,7 @@ yjbv	8
 yjuk	8
 yjvv	8
 yjyh	8
+yuhv	8
 yutm	8
 yzyu	8
 bohi	8
@@ -127,7 +128,6 @@ yjmu	7
 yktu	7
 yrnu	7
 yuhd	7
-yuhv	7
 yumk	7
 yuyb	7
 yzhw	7
@@ -798,6 +798,7 @@ zhbs	5
 zimd	5
 zsne	5
 zutm	5
+hxpo	4
 anmm	4
 anna	4
 aogu	4
