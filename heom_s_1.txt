@@ -1838,6 +1838,7 @@ bdle	白了
 bdlg	布达拉宫
 bdli	背地里
 bdli	䙓
+bdlj	摆烂
 bdlk	白领
 bdll	不得了了
 bdlm	白脸
