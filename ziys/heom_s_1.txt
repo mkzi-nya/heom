@@ -212842,6 +212842,7 @@ xqyy	喜气洋洋
 xqzc	修造
 xqzi	袖子
 xr	选
+xr	新人
 xraa	昍
 xrab	𣉖
 xrae	暖
@@ -215690,6 +215691,7 @@ ybww	𡈲
 ybxb	音信
 ybxi	因袭
 ybxk	隐形
+ybxk	音形
 ybxl	印象
 ybxm	阴险
 ybxn	音效
