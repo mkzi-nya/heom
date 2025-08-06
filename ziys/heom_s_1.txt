@@ -9157,6 +9157,7 @@ deti	得体
 detm	第二天
 deug	得胜
 deui	得失
+deuo	的说
 deuz	得手
 dev	得志
 devi	得知
@@ -30319,6 +30320,7 @@ iycp	憌
 iycv	纯粹
 iycw	愁云惨雾
 iyd	椿
+iyd	常用的
 iyda	槆
 iyda	橁
 iydb	穿衣打扮
@@ -199050,6 +199052,7 @@ usyg	生死与共
 usym	生死有命
 uszr	神色自若
 ut	身体
+ut	是挺
 utab	沙特阿拉伯
 utbf	水土不服
 utex	视同儿戏

@@ -9008,6 +9008,7 @@ _	;b
 第二天	detm
 得胜	deug
 得失	deui
+的说	deuo
 得手	deuz
 得志	dev
 得知	devi
@@ -30009,6 +30010,7 @@ IP地址	ipdv
 纯粹	iycv
 愁云惨雾	iycw
 椿	iyd
+常用的	iyd
 槆	iyda
 橁	iyda
 穿衣打扮	iydb
@@ -198367,6 +198369,7 @@ PPT	ppt
 生死有命	usym
 神色自若	uszr
 身体	ut
+是挺	ut
 沙特阿拉伯	utab
 水土不服	utbf
 视同儿戏	utex
