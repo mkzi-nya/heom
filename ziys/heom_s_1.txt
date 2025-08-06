@@ -48005,6 +48005,7 @@ mjla	孟加拉
 mjlb	蟎
 mjlb	襔
 mjle	慢了
+mjle	满了
 mjle	𧜞
 mjli	蛮力
 mjlm	满脸
@@ -190019,6 +190020,7 @@ smmi	色眯眯
 smni	岁末年初
 smnv	驷马难追
 smpu	素昧平生
+smuh	什么时候
 smvi	三明治
 smvx	司马昭之心
 smxd	四目相对
