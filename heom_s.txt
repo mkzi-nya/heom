@@ -200264,6 +200264,7 @@ PPT	ppt
 𩬫	vdsc
 駘	vdsr
 䔝	vdtf
+这道题	vdti
 这倒是	vdui
 债主	vdvu
 𪑽	vdwd
@@ -204210,6 +204211,7 @@ PPT	ppt
 正是如此	vurc
 跦	vurd
 主任	vurf
+狗修金萨马	vurf
 跓	vurg
 𠰍	vurg
 逐日	vuri

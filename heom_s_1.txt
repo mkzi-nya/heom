@@ -200264,6 +200264,7 @@ vds	翟
 vdsc	𩬫
 vdsr	駘
 vdtf	䔝
+vdti	这道题
 vdui	这倒是
 vdvu	债主
 vdwd	𪑽
@@ -204210,6 +204211,7 @@ vurb	𨅛
 vurc	正是如此
 vurd	跦
 vurf	主任
+vurf	狗修金萨马
 vurg	跓
 vurg	𠰍
 vuri	逐日
