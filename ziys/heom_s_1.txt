@@ -222635,6 +222635,8 @@ yyft	熅
 yyfu	孕妇
 yyfu	因噎废食
 yyfw	运费
+yyg	有一个
+yyg	又一个
 yygc	鋆
 yygd	𧼐
 yyge	𠚓

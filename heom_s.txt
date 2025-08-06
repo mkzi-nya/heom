@@ -221869,6 +221869,8 @@ PPT	ppt
 孕妇	yyfu
 因噎废食	yyfu
 运费	yyfw
+有一个	yyg
+又一个	yyg
 鋆	yygc
 𧼐	yygd
 𠚓	yyge
