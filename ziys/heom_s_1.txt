@@ -224956,6 +224956,7 @@ zmkn	怎么可能
 zmle	怎么了
 zmlv	祖母绿
 zmng	怎么能
+zmnl	怎么你了
 zmq	奏鸣曲
 zmuo	怎么说
 zmur	走马上任
