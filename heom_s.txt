@@ -14862,6 +14862,7 @@ _	;b
 方丈	fhvh
 防止	fhvi
 纺织	fhvi
+放置	fhvi
 风华正茂	fhvm
 𫛯	fhvm
 方桌	fhvo
@@ -200546,6 +200547,7 @@ PPT	ppt
 𧀹	vetf
 折腾	vetg
 蔗糖	veth
+这题	veti
 䓆	vetl
 𦬃	vetp
 𦯍	vetu
@@ -224186,6 +224188,7 @@ PPT	ppt
 怎么样	zmyh
 怎么用	zmys
 自卖自夸	zmzk
+怎么做	zmzo
 怎能	zn
 走南闯北	znib
 钻牛角尖	znjj

@@ -14862,6 +14862,7 @@ fhvg	方正
 fhvh	方丈
 fhvi	防止
 fhvi	纺织
+fhvi	放置
 fhvm	风华正茂
 fhvm	𫛯
 fhvo	方桌
@@ -200546,6 +200547,7 @@ vetf	䩾
 vetf	𧀹
 vetg	折腾
 veth	蔗糖
+veti	这题
 vetl	䓆
 vetp	𦬃
 vetu	𦯍
@@ -224186,6 +224188,7 @@ zmvy	怎么这样
 zmyh	怎么样
 zmys	怎么用
 zmzk	自卖自夸
+zmzo	怎么做
 zn	怎能
 znib	走南闯北
 znjj	钻牛角尖
