@@ -33516,8 +33516,9 @@ jmjn	尖叫
 jmjn	弿
 jmjo	蹇
 jmjo	䟅
+jmjp	简介
 jmjp	间接
-jmjp	见解
+jmjp	简洁
 jmjr	謇
 jmjr	𠹟
 jmjt	坚决
