@@ -198689,7 +198689,7 @@ PPT	ppt
 𣰿	uumu
 书眉	uumw
 少数民族	uumz
-隃	uun
+疏	uun
 鱪	uuna
 鱰	uuna
 𨽉	uuna
@@ -198710,9 +198710,9 @@ PPT	ppt
 数年	uunm
 𡤽	uunm
 𥍝	uunm
+隃	uunn
 疋	uuno
 枢纽	uunq
-疏	uunu
 𧠣	uunu
 淑女	uunv
 疏	uunv
@@ -209409,6 +209409,7 @@ PPT	ppt
 𡻎	xius
 系数	xiuu
 洗漱	xiuu
+稀疏	xiuu
 溪水	xiuv
 心驰神往	xiuw
 洗刷	xiux

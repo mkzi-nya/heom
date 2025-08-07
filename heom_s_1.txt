@@ -198689,7 +198689,7 @@ uumu	树木
 uumu	𣰿
 uumw	书眉
 uumz	少数民族
-uun	隃
+uun	疏
 uuna	鱪
 uuna	鱰
 uuna	𨽉
@@ -198710,9 +198710,9 @@ uunl	𡒒
 uunm	数年
 uunm	𡤽
 uunm	𥍝
+uunn	隃
 uuno	疋
 uunq	枢纽
-uunu	疏
 uunu	𧠣
 uunv	淑女
 uunv	疏
@@ -209409,6 +209409,7 @@ xius	嶲
 xius	𡻎
 xiuu	系数
 xiuu	洗漱
+xiuu	稀疏
 xiuv	溪水
 xiuw	心驰神往
 xiux	洗刷
