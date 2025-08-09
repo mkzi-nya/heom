@@ -32313,8 +32313,8 @@ jkak	曔
 jkal	𨵼
 jkas	晟
 jkau	𣋢
-jkb	腈
-jkbb	睛
+jkb	睛
+jkbb	腈
 jkbb	䝼
 jkbb	𦜳
 jkbc	警报
@@ -49141,6 +49141,7 @@ mwdi	栂
 mwdj	梅
 mwdj	韎
 mwdm	没电
+mwds	没懂
 mwds	没动
 mwdu	梅毒
 mwdu	楣
