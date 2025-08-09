@@ -1155,6 +1155,7 @@ ximu	4
 xina	4
 xini	4
 xivh	4
+xiyu	4
 xmdu	4
 xmgu	4
 xmho	4

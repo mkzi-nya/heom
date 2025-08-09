@@ -5340,6 +5340,7 @@ buuf	不慎
 buug	不胜
 buuh	补上
 buui	不是
+buuj	布衫
 buuj	不失时机
 buul	不爽
 buuo	不说
@@ -11602,13 +11603,14 @@ drce	鍛
 drcg	断层
 drci	断词
 drcu	短促
-drd	断点
 drdc	短刀
 drde	椴
 drde	𩏇
 drdh	断档
 drdk	断定
+drdm	端点
 drdm	断电
+drdm	断点
 drdr	短短
 drdu	𣠭
 drdy	大仁大义
@@ -31451,6 +31453,7 @@ jij	寄
 jij	擊
 jij	警察局
 jija	𡫀
+jijb	激进
 jijb	基金
 jijc	賫
 jijc	賷
@@ -40613,6 +40616,9 @@ lgvg	愣怔
 lgvj	冷战
 lgvs	两个钟
 lgvt	两个钟头
+lgvu	愣住
+lgvu	棱柱
+lgvv	棱锥
 lgvy	乐观主义
 lgxk	劣根性
 lgxn	冷笑
@@ -45471,6 +45477,8 @@ lxju	连续剧
 lxjv	令行禁止
 lxjy	厉行节约
 lxl	留下来
+lxl	留下了
+lxl	落下来
 lxld	离心离德
 lxli	连下两城
 lxo	俩
@@ -46389,6 +46397,7 @@ mcni	猫腻
 mcni	蟊
 mcni	𧔨
 mcnj	𥎟
+mcnl	猫娘
 mcnl	夘
 mcnl	𨺸
 mcnp	愗
@@ -49023,6 +49032,7 @@ muwy	畮
 muxi	母系
 muxk	木星
 muxl	木箱
+muxm	母线
 muxn	母校
 muxp	木屑
 muxr	目眩
@@ -50533,6 +50543,7 @@ njnf	难解难分
 njnj	喃喃
 njnj	𩹞
 njnk	南宁
+njnl	男娘
 njnv	男女
 njoe	𤿏
 njof	𤌔
@@ -184545,6 +184556,7 @@ qmzi	签字
 qmzz	前奏
 qmzz	欠揍
 qn	桥
+qn	去年
 qnal	𨜍
 qnb	瞧
 qnbb	睄
@@ -186082,7 +186094,6 @@ quni	阹
 quni	魼
 quni	𱇜
 qunk	𨸟
-qunm	去年
 qunm	鱋
 quno	𨼫
 qunr	取暖
@@ -198850,6 +198861,7 @@ uuvd	书斋
 uuvd	絉
 uuve	竖着
 uuve	婌
+uuve	数着
 uuvf	顺时针
 uuvg	甩手掌柜
 uuvh	舒张
@@ -198864,6 +198876,7 @@ uuvm	事实证明
 uuvn	纾
 uuvn	紓
 uuvo	书桌
+uuvo	书桌上
 uuvo	𥿇
 uuvp	㣽
 uuvq	首善之区
@@ -199132,6 +199145,7 @@ uvxl	水乡
 uvxm	水仙
 uvxt	生殖系统
 uvxx	水下
+uvy	是这样
 uvy	受制于
 uvya	水压
 uvyb	水印
@@ -199156,6 +199170,7 @@ uvzc	水藻
 uvzd	水灾
 uvzf	⺢
 uvzi	睡姿
+uvzi	水渍
 uvzm	⺡
 uvzu	水族
 uw	谁
@@ -204739,6 +204754,7 @@ vyed	淳
 vyej	準
 vyer	扎伊尔
 vyfa	障眼法
+vyg	这一个
 vygd	埻
 vygt	中央广播电台
 vygu	招摇过市
@@ -206359,6 +206375,7 @@ wjyc	弯腰
 wjyi	万一
 wjyj	晚宴
 wjyj	蜿蜒
+wjyj	蜿蜒的
 wjyl	我见犹怜
 wjyn	弯
 wjyr	万元
@@ -209394,6 +209411,7 @@ xiua	嶍
 xiua	㠄
 xiub	雟
 xiuc	稀少
+xiud	𬟪
 xiug	牺牲
 xiui	喜事
 xiui	巇
@@ -209528,6 +209546,7 @@ xiyt	喜悦
 xiyt	䖒
 xiyt	謚
 xiyu	西域
+xiyu	细雨
 xiyu	覤
 xiyu	𬟪
 xiyv	襲
@@ -210011,7 +210030,7 @@ xlkq	𤝷
 xlku	想哭
 xlku	𤷼
 xlkz	小两口
-xll	相连
+xll	小萝莉
 xllb	相邻
 xllc	鬨
 xlld	向来
@@ -210020,6 +210039,7 @@ xllh	𨷿
 xlli	心路历程
 xlll	响亮
 xllm	项链
+xllm	相连
 xlln	香料
 xllo	蟓
 xllo	襐
@@ -211207,6 +211227,7 @@ xnmo	消磨
 xnmp	消灭
 xnmw	小妹
 xnn	骁
+xnn	小男娘
 xnna	笑纳
 xnnb	鮹
 xnnf	𩵖
@@ -212383,6 +212404,7 @@ xrvc	𦈝
 xrve	悬着
 xrvh	仙人掌
 xrvi	选址
+xrvi	宣纸
 xrvi	妶
 xrvm	媗
 xrvm	縇
@@ -213703,6 +213725,7 @@ xxro	㰨
 xxro	㰺
 xxrp	𢝅
 xxrr	熙熙攘攘
+xxrr	香香软软
 xxru	栩栩如生
 xxrz	先小人后君子
 xxse	騢
@@ -221585,6 +221608,7 @@ yvqu	颐指气使
 yvqx	一朝权在手，便把令来行
 yvr	意中人
 yvrf	运指如飞
+yvs	油纸伞
 yvsg	银装素裹
 yvtg	一致通过
 yvtm	一整天
