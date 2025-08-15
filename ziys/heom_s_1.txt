@@ -187062,6 +187062,7 @@ qyku	裙裤
 qyky	情有可原
 qyl	裙
 qyla	蝽
+qyli	群里
 qyll	请原谅
 qyln	群聊
 qyls	巧言令色
@@ -201475,6 +201476,7 @@ vfkd	𰺖
 vfke	𤷌
 vfkk	真快
 vfks	真空
+vfl	帧
 vflc	䪴
 vfle	㱽
 vflf	鴆
@@ -205587,6 +205589,7 @@ vzbr	賙
 vzbr	𧳜
 vzbt	只字不提
 vzbu	肘部
+vzbu	正则表达式
 vzci	𨥇
 vzcl	銂
 vzcw	鈾
@@ -220632,6 +220635,7 @@ yrvv	嬛
 yrvv	媴
 yrvx	一人之下
 yrvz	圆周
+yrw	圆
 yrw	園
 yrwa	𩕾
 yrwb	以人为本
@@ -220647,7 +220651,6 @@ yrwh	愿望
 yrwh	冤枉
 yrwj	以人为镜
 yrwl	𡈛
-yrwo	圆
 yrwp	𡈒
 yrwu	与人为善
 yrwu	阅人无数
