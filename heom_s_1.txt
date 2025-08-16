@@ -52601,7 +52601,6 @@ ohv	ǖ
 ohv	ǘ
 ohv	ǚ
 ohv	ǜ
-ohyo	♡♡♡群友们早上好！！哈啊♡睡了一觉啊啊啊啊好舒服哦哦哪里都好舒服♡♡♡唔唔唔唔唔清醒起来了醒了♡醒了♡醒了♡齁齁齁哦哦哦哦哦齁♡♡♡！！
 oi	😊
 oiaj	🤫
 oiax	😌
@@ -189188,6 +189187,7 @@ siwp	罳
 siww	思维
 six	私信
 sixb	死心
+sixb	私心
 sixk	死刑
 sixl	思想
 sixt	死穴
@@ -225194,6 +225194,7 @@ zvzc	最早
 zvze	罪责
 zw	贼
 zw	座位
+zwaw	自我安慰
 zwb	贼
 zwba	坐卧不安
 zwbi	戝

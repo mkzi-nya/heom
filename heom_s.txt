@@ -52601,7 +52601,6 @@ $	ofhb
 ǘ	ohv
 ǚ	ohv
 ǜ	ohv
-♡♡♡群友们早上好！！哈啊♡睡了一觉啊啊啊啊好舒服哦哦哪里都好舒服♡♡♡唔唔唔唔唔清醒起来了醒了♡醒了♡醒了♡齁齁齁哦哦哦哦哦齁♡♡♡！！	ohyo
 😊	oi
 🤫	oiaj
 😌	oiax
@@ -189188,6 +189187,7 @@ PPT	ppt
 思维	siww
 私信	six
 死心	sixb
+私心	sixb
 死刑	sixk
 思想	sixl
 死穴	sixt
@@ -225194,6 +225194,7 @@ PPT	ppt
 罪责	zvze
 贼	zw
 座位	zw
+自我安慰	zwaw
 贼	zwb
 坐卧不安	zwba
 戝	zwbi
