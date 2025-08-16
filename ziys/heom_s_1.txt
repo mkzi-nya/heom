@@ -3256,6 +3256,7 @@ bjdg	板凳
 bjdi	班底
 bjdj	不计代价
 bjdl	不记得了
+bjdl	不就得了
 bjdn	不减当年
 bjdq	柈
 bjdr	半段
@@ -9145,8 +9146,8 @@ dejp	惪
 dejq	得救
 deki	𤷙
 dekp	㤫
+del	得了
 deld	吊儿郎当
-dele	得了
 deli	得力
 dely	第二轮
 demk	第二名
@@ -15185,6 +15186,7 @@ fiyg	非常严格
 fiys	风吹云散
 fiyv	非常严重
 fiyx	非常有限
+fiz	方程组
 fizx	逢场作戏
 fj	反
 fj	附件
@@ -21839,6 +21841,7 @@ hecr	𨨛
 hecs	釛
 hect	鑉
 hed	核
+heda	鹤大
 hedb	槅
 hedc	河道
 hedd	花儿朵朵
@@ -26573,6 +26576,7 @@ iae	汊
 iaee	差额
 iael	𨙳
 iaeu	𧠈
+iaff	查分
 iafg	查封
 iafj	茶饭
 iafm	𥻗
@@ -37668,6 +37672,7 @@ kdid	𢋝
 kdie	开车
 kdih	开场
 kdil	开创
+kdil	看得出来
 kdir	开船
 kdiu	开除
 kdiu	苦大仇深
@@ -199387,6 +199392,7 @@ uult	𫌋
 uulv	收视率
 uulv	㡏
 uulv	𧒑
+uuly	数论
 uulz	疏漏
 uuma	数码
 uumb	𰡽
@@ -209270,6 +209276,7 @@ xdbc	相当不错
 xdda	羞答答
 xddh	响当当
 xddy	笑掉大牙
+xde	薛定谔
 xdey	相对而言
 xdez	席地而坐
 xdgo	信得过
@@ -225782,7 +225789,6 @@ zuuj	崪
 zuuk	㞺
 zuuk	𡻬
 zuuz	租售
-zuv	组
 zuv	阻止
 zuvd	尊师重道
 zuvh	组长

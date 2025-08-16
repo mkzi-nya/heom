@@ -3176,6 +3176,7 @@ _	;b
 班底	bjdi
 不计代价	bjdj
 不记得了	bjdl
+不就得了	bjdl
 不减当年	bjdn
 柈	bjdq
 半段	bjdr
@@ -8996,8 +8997,8 @@ _	;b
 得救	dejq
 𤷙	deki
 㤫	dekp
+得了	del
 吊儿郎当	deld
-得了	dele
 得力	deli
 第二轮	dely
 第二名	demk
@@ -14983,6 +14984,7 @@ _	;b
 风吹云散	fiys
 非常严重	fiyv
 非常有限	fiyx
+方程组	fiz
 逢场作戏	fizx
 反	fj
 附件	fj
@@ -21576,6 +21578,7 @@ GDP	gdp
 釛	hecs
 鑉	hect
 核	hed
+鹤大	heda
 槅	hedb
 河道	hedc
 花儿朵朵	hedd
@@ -26268,6 +26271,7 @@ GDP	gdp
 差额	iaee
 𨙳	iael
 𧠈	iaeu
+查分	iaff
 查封	iafg
 茶饭	iafj
 𥻗	iafm
@@ -37324,6 +37328,7 @@ IP地址	ipdv
 开车	kdie
 开场	kdih
 开创	kdil
+看得出来	kdil
 开船	kdir
 开除	kdiu
 苦大仇深	kdiu
@@ -198701,6 +198706,7 @@ PPT	ppt
 收视率	uulv
 㡏	uulv
 𧒑	uulv
+数论	uuly
 疏漏	uulz
 数码	uuma
 𰡽	uumb
@@ -208528,6 +208534,7 @@ PPT	ppt
 羞答答	xdda
 响当当	xddh
 笑掉大牙	xddy
+薛定谔	xde
 相对而言	xdey
 席地而坐	xdez
 信得过	xdgo
@@ -224981,7 +224988,6 @@ PPT	ppt
 㞺	zuuk
 𡻬	zuuk
 租售	zuuz
-组	zuv
 阻止	zuv
 尊师重道	zuvd
 组长	zuvh
