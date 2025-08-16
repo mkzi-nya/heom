@@ -52601,6 +52601,7 @@ ohv	ǖ
 ohv	ǘ
 ohv	ǚ
 ohv	ǜ
+ohyo	♡♡♡群友们早上好！！哈啊♡睡了一觉啊啊啊啊好舒服哦哦哪里都好舒服♡♡♡唔唔唔唔唔清醒起来了醒了♡醒了♡醒了♡齁齁齁哦哦哦哦哦齁♡♡♡！！
 oi	😊
 oiaj	🤫
 oiax	😌
@@ -187112,13 +187113,14 @@ rhvv	孃
 rhvv	纕
 rhww	让位
 rhxm	让贤
-rhy	瓤
+rhy	讓
 rhyl	𨟚
+rhyo	瓤
 rhys	勷
 rhyu	𣰶
-rhyv	讓
 rhyv	譲
 rhyv	𤬥
+rhyv	讓
 rhzo	让座
 ri	日
 ria	日
@@ -193683,6 +193685,7 @@ tpta	铁塔
 tptf	踏破铁鞋无觅处，得来全不费工夫
 tpti	铁蹄
 tpti	踏破铁鞋无觅处
+tptp	贴贴
 tptr	䩞
 tpts	铁桶
 tptu	贴图

@@ -52601,6 +52601,7 @@ $	ofhb
 ǘ	ohv
 ǚ	ohv
 ǜ	ohv
+♡♡♡群友们早上好！！哈啊♡睡了一觉啊啊啊啊好舒服哦哦哪里都好舒服♡♡♡唔唔唔唔唔清醒起来了醒了♡醒了♡醒了♡齁齁齁哦哦哦哦哦齁♡♡♡！！	ohyo
 😊	oi
 🤫	oiaj
 😌	oiax
@@ -187112,13 +187113,14 @@ PPT	ppt
 纕	rhvv
 让位	rhww
 让贤	rhxm
-瓤	rhy
+讓	rhy
 𨟚	rhyl
+瓤	rhyo
 勷	rhys
 𣰶	rhyu
-讓	rhyv
 譲	rhyv
 𤬥	rhyv
+讓	rhyv
 让座	rhzo
 日	ri
 日	ria
@@ -193683,6 +193685,7 @@ PPT	ppt
 踏破铁鞋无觅处，得来全不费工夫	tptf
 铁蹄	tpti
 踏破铁鞋无觅处	tpti
+贴贴	tptp
 䩞	tptr
 铁桶	tpts
 贴图	tptu
