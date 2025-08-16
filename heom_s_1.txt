@@ -42596,7 +42596,7 @@ lllq	聊来聊去
 llls	啰里啰嗦
 lllv	阆
 lllw	两类
-llm	两
+llm	兩
 llmb	良民
 llmb	両
 llmd	𥛫
