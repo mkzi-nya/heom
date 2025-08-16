@@ -3409,6 +3409,7 @@ bjyt	半月
 bjyv	不经一事不长一智
 bjyy	搬运
 bjz	败家子
+bjzi	板子
 bjzi	班子
 bjzo	扮作
 bjzt	不进则退
@@ -8620,6 +8621,7 @@ dcui	嶹
 dcui	𫝵
 dcuj	刀山
 dcuu	倒数
+dcuu	导数
 dcuv	倒水
 dcuz	到手
 dcve	倒着
@@ -8878,6 +8880,7 @@ dduf	颠倒是非
 dduh	带上
 dduk	獃
 ddur	大多数人
+dduu	代数
 dduu	袋鼠
 dduu	多多少少
 dduy	地动山摇
@@ -10030,6 +10033,7 @@ djer	澹
 djeu	㴷
 djev	湛
 djey	𣲥
+djff	定积分
 djff	大家风范
 djfh	单方
 djfj	但凡
@@ -12401,6 +12405,7 @@ dvbd	对白
 dvbi	对比
 dvbi	𦡷
 dvbj	对半
+dvbn	对标
 dvbo	䯟
 dvbr	𩨽
 dvc	兑
@@ -12813,6 +12818,7 @@ dyug	顿生
 dyui	顿时
 dyuu	多一事不如少一事
 dyuv	大意失荆州
+dyux	断崖式领先
 dyux	德艺双馨
 dyv	大洋洲
 dyvc	𩔂
@@ -20749,6 +20755,7 @@ gzgq	𤚼
 gzgq	𦎼
 gzgr	狗官
 gzgr	坸
+gzgu	勾股
 gzgu	故作高深
 gzgw	敢作敢为
 gzgz	狗狗
@@ -21661,6 +21668,7 @@ hehx	荷花
 hei	诃
 hei	何尝
 heia	喝茶
+heia	和差
 heib	𰵿
 heic	𥘫
 heid	𰵝
@@ -22093,6 +22101,7 @@ hgcd	鑅
 hgcu	𠔲
 hgd	桁
 hgdc	橫
+hgdg	恒等
 hgdg	楻
 hgdk	恒定
 hgdm	𣕲
@@ -27344,6 +27353,7 @@ igit	盛
 igiu	惩处
 igja	䆵
 igji	成绩
+igji	乘积
 igjm	城建
 igjm	承建
 igjn	成交
@@ -31202,8 +31212,8 @@ jidy	𣔽
 jidz	𱇺
 jie	鸡
 jie	济
-jiea	𡬄
-jieb	𣪠
+jiea	𥰦
+jieb	𡬄
 jiec	𨦮
 jied	潗
 jied	㳵
@@ -31230,14 +31240,14 @@ jiep	㴔
 jieq	绝尘而去
 jier	继而
 jier	洁
-jies	𨍺
-jiet	𦿓
+jies	𣪠
+jiet	𨍺
 jieu	洎
-jiev	𨋉
-jiew	𥠋
+jiev	𦿓
+jiew	𨋉
 jiex	濟
-jiey	𥡒
-jiez	𥳏
+jiey	𥠋
+jiez	𥡒
 jif	脊
 jifa	激发
 jifa	𤋭
@@ -31263,14 +31273,14 @@ jifs	𪂺
 jift	𪄵
 jifu	肌肤
 jifu	绝处逢生
-jifv	𪅹
+jifv	𥳏
 jifw	计费
 jifx	㸄
-jify	𬓠
-jifz	㞆
+jify	𪅹
+jifz	𬓠
 jig	吉
 jig	圾
-jiga	秶
+jiga	㞆
 jigb	塉
 jigc	极高
 jigd	㙫
@@ -31280,20 +31290,20 @@ jige	𤿠
 jigf	鴶
 jigg	䟌
 jigg	𪔋
-jigh	嘰
+jigh	秶
 jigi	㙨
 jigi	䟇
-jigj	𠹋
+jigj	嘰
 jigk	㙨
 jigk	䟇
 jigk	𧽑
 jigl	激光
 jigl	郆
-jigm	𦺬
+jigm	𠹋
 jign	䞘
 jigo	记过
-jigp	𥾊
-jigq	𦇧
+jigp	𦺬
+jigq	𥾊
 jigr	机关
 jigr	籍贯
 jigr	趌
@@ -31302,6 +31312,7 @@ jigt	𢍇
 jigu	击鼓
 jigu	垍
 jigu	覿
+jigv	𦇧
 jigw	寄给
 jigx	记挂
 jigz	机构
@@ -31319,6 +31330,7 @@ jihd	𥝌
 jihd	𨤹
 jihe	集合
 jihe	稷
+jihe	几何
 jihe	㧀
 jihe	㹄
 jihe	彶
@@ -31337,7 +31349,7 @@ jihf	𪄵
 jihg	堲
 jihg	墍
 jihg	簊
-jihh	㹄
+jihh	㧀
 jihi	穖
 jihi	艥
 jihi	魕
@@ -31382,14 +31394,14 @@ jihp	𢗹
 jihp	𥭌
 jihp	𥭜
 jihp	𩴃
-jihq	彶
+jihq	㹄
 jihr	疾患
 jihr	犄
 jihr	徛
 jihr	秸
 jihr	躸
 jihr	𧫜
-jihs	鬾
+jihs	彶
 jiht	笄
 jiht	䀈
 jiht	𢓄
@@ -31405,11 +31417,11 @@ jihu	𱌸
 jihv	机会
 jihv	忌讳
 jihv	㛷
-jihw	𢃺
+jihw	鬾
 jihx	计划
 jihx	穧
-jihy	𢺼
-jihz	𥰦
+jihy	𢃺
+jihz	𢺼
 jii	记
 jii	计
 jiia	稽查
@@ -38681,6 +38693,7 @@ ksdi	空地
 ksds	空洞
 ksdu	𣏺
 ksem	涳
+ksff	控分
 ksfh	空房
 ksfj	空翻
 ksfu	空腹
@@ -185010,6 +185023,7 @@ qqcn	䜪
 qqcn	釚
 qqcu	釓
 qqdb	全权代表
+qqdc	求导
 qqdd	敲敲打打
 qqdd	清清淡淡
 qqde	求得
@@ -186067,6 +186081,7 @@ qulu	去路
 qulu	青山绿水
 qulu	䖦
 qulu	𧌑
+qulv	曲率
 qulw	蛐
 quly	切身利益
 qum	祛
@@ -186080,6 +186095,7 @@ qumk	取名
 qumm	曲面
 qumm	砠
 qumn	𩇐
+qumo	取模
 qumo	𤨎
 qumu	曲目
 qumx	欺上瞒下
@@ -201193,6 +201209,7 @@ vgql	争抢
 vgqm	挣钱
 vgqn	正巧
 vgqo	掟
+vgqp	正切
 vgqq	征求
 vgqr	证券
 vgqr	政权
@@ -201290,6 +201307,7 @@ vgwx	中国文学
 vgxg	朝过夕改
 vgxk	整形
 vgxl	正想
+vgxm	正弦
 vgxm	争先
 vgxp	政协
 vgxq	整修
@@ -201562,20 +201580,22 @@ vibm	质变
 vibm	胝
 vibm	䐈
 vibn	指标
+vibn	制表
 vibn	𥇕
 vibn	𦜋
 vibo	直播
 vibp	䏯
-vibq	𦟔
+vibq	𦜋
 vibr	𥇭
 vibr	𦝔
-vibs	𧸕
-vibt	𰊂
+vibs	𦟔
+vibt	𧸕
 vibu	止步
 vibu	乿
 vibv	忠臣不事二主
 vibv	䐈
 vibw	纸杯
+vibx	𰊂
 vicb	𨬚
 vicb	𨰛
 vicc	鑕
@@ -205092,6 +205112,7 @@ vzxl	周详
 vzxm	周线
 vzxr	周旋
 vzy	週
+vzya	謅
 vzyb	𣥯
 vzye	昼夜
 vzye	諏
@@ -205105,6 +205126,7 @@ vzyr	調
 vzyr	週
 vzyr	𧇟
 vzyu	咒语
+vzyu	骤雨
 vzyu	詋
 vzyu	謅
 vzyw	䛆
@@ -206114,6 +206136,7 @@ wjev	无疾而终
 wjf	烷
 wjfa	玩法
 wjff	万分
+wjff	微积分
 wjfg	晚风
 wjfj	晚饭
 wjfu	万福
@@ -206414,6 +206437,7 @@ wkvy	无可置疑
 wkvz	无可指责
 wkwh	无可挽回
 wkwk	无可无不可
+wkx	我看下
 wkxl	无可限量
 wkxs	挖空心思
 wkyh	胃溃疡
@@ -206958,6 +206982,7 @@ wulf	蟱
 wulf	𢄓
 wuli	物理
 wuli	无理
+wull	物量
 wull	无量
 wulm	𰏓
 wuln	无聊
@@ -207419,6 +207444,7 @@ wwdq	椲
 wwds	㭏
 wwds	𩏏
 wwdt	娓娓动听
+wwdu	维度
 wwdu	唯独
 wwdu	梶
 wwdv	椳
@@ -210045,6 +210071,7 @@ xlle	享乐
 xllh	𨷿
 xlli	心路历程
 xlll	响亮
+xlll	向量
 xllm	项链
 xllm	相连
 xlln	香料
@@ -210938,6 +210965,7 @@ xmww	纤维
 xmxb	闲心
 xmxi	纤细
 xmxk	现行
+xmxk	线性
 xmxl	现象
 xmxm	显现
 xmxp	险些
@@ -211420,6 +211448,7 @@ xnyk	𤟞
 xnyo	歊
 xnyr	校园
 xnyr	小鸟依人
+xnyr	消元
 xnys	效用
 xnys	効
 xnyu	小雨
@@ -214926,6 +214955,7 @@ ybuo	𡼽
 ybup	嶾
 ybur	訔
 ybut	𢌲
+ybuu	因数
 ybuu	引述
 ybuv	饮水
 ybuw	也不失为
@@ -221252,6 +221282,7 @@ yuqi	预期
 yuqj	饮食起居
 yuqk	淤青
 yuqm	挧
+yuqp	余切
 yuqq	欲求
 yuqt	余缺
 yuqy	扵
@@ -221393,7 +221424,7 @@ yuun	嵛
 yuun	崳
 yuur	峪
 yuur	峿
-yuuu	遇神杀神
+yuuu	余数
 yuuu	一试身手
 yuuv	雨水
 yuuv	嵛
@@ -221481,6 +221512,7 @@ yuxg	以身殉国
 yuxi	预习
 yuxl	预想
 yuxm	预先
+yuxm	余弦
 yuxr	预选
 yuxs	愚兄
 yuxt	淤血
@@ -224014,6 +224046,7 @@ ziyz	自由
 zizc	自造
 zizd	自在
 zize	自责
+zizi	砸场子
 zizl	自吹自擂
 zizy	自尊
 zj	自己
@@ -224939,6 +224972,7 @@ zutr	组团
 zuts	𦵬
 zutt	𧗎
 zutu	组图
+zuu	再试试
 zuug	自视甚高
 zuuh	祖上
 zuui	祖师

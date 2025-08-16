@@ -18,6 +18,7 @@ lkhl	11
 bibj	10
 bohe	10
 guge	10
+jihe	10
 jnhk	10
 limi	10
 yibd	10
@@ -30,7 +31,6 @@ wjhu	10
 bahe	9
 ditm	9
 iumo	9
-jihe	9
 junr	9
 lihe	9
 qihc	9
@@ -1103,6 +1103,7 @@ vfff	4
 vfwh	4
 vgbm	4
 vibi	4
+vibn	4
 vida	4
 vidu	4
 vigk	4
@@ -1128,6 +1129,7 @@ vujm	4
 vutd	4
 vuvd	4
 vuvf	4
+vzyu	4
 wfmh	4
 wfmk	4
 wjdu	4
