@@ -39969,6 +39969,7 @@ kzxb	口信
 kzxp	叩谢
 kzy	看走眼
 kzya	扣押
+kzya	口牙
 kzyb	口音
 kzyi	口译
 kzyl	看在眼里
@@ -49813,6 +49814,7 @@ mwyx	渺无音信
 mwyz	没有
 mwzi	妹子
 mwzv	目无尊长
+mw㕶	喵唔
 mx	明显
 mxdc	没想到
 mxge	墨西哥
@@ -50588,7 +50590,6 @@ ngnv	男耕女织
 ngqj	能工巧匠
 ngr	那个人
 ngrf	能人
-ngrm	㕶
 ngrp	𠹌
 ngrp	𨃳
 ngru	𠮾
@@ -201720,7 +201721,7 @@ vfzi	镇子
 vfzo	振作
 vfzy	照方子抓药
 vg	正
-vg	症
+vg	这个
 vgab	治国安邦
 vgad	䦛
 vgak	晸
@@ -201847,6 +201848,7 @@ vgjq	拯救
 vgjt	䆸
 vgjt	𡪺
 vgju	证据
+vgk	症
 vgk	狰
 vgkc	蒸烤
 vgkd	睁开
@@ -207411,6 +207413,7 @@ wovv	婑
 wowd	果
 wowl	𣂽
 woxb	窝心
+woxl	我想
 woxr	斡旋
 woy	龌
 woyg	齷
@@ -208833,6 +208836,7 @@ wxwk	问心无愧
 wxws	我行我素
 wxwv	无休无止
 wxxk	危险性
+wxz	我想在
 wxzi	无形资产
 wy	唯一
 wybl	亡羊补牢
@@ -216808,8 +216812,8 @@ yfyu	依附于
 yfyw	阳奉阴违
 yfyy	鸢飞鱼跃
 yfzr	应付自如
-yg	应该
 yg	一个
+yg	应该
 yg	阉割
 ygbg	一个比一个
 ygbm	雁过拔毛
@@ -216916,6 +216920,7 @@ ygyy	一个原因
 ygzd	一竿子到底
 ygzi	一个字
 ygzl	油光锃亮
+ygzm	应该怎么
 ygzq	一鼓作气
 ygzs	一棍子打死
 ygzu	裕固族
@@ -225053,6 +225058,7 @@ zmur	走马上任
 zmuy	贼眉鼠眼
 zmve	怎么着
 zmvy	怎么这样
+zmxp	怎么写
 zmyh	怎么样
 zmys	怎么用
 zmzk	自卖自夸
@@ -225931,6 +225937,7 @@ zvki	自找苦吃
 zvkk	最快
 zvku	最酷
 zvkv	罪魁
+zvl	在这里
 zvl	自制力
 zvlb	蟕
 zvle	醉了
