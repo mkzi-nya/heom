@@ -3444,6 +3444,7 @@ bjvt	不经之谈
 bjvu	版主
 bjvx	不见真佛不烧香
 bjvy	不解之缘
+bjvz	半轴
 bjwe	𪒋
 bjwf	斑纹
 bjwg	保家卫国
@@ -36899,6 +36900,7 @@ jxjk	家境
 jxjl	嘉奖
 jxjl	尽心尽力
 jxjm	加减
+jxjn	夹角
 jxjn	家教
 jxjo	𡩚
 jxjp	嫁接
@@ -222237,6 +222239,7 @@ yuvf	余震
 yuvg	艈
 yuvh	鱼水之欢
 yuvi	预知
+yuvi	阈值
 yuvj	一时之间
 yuvk	妪
 yuvk	娛
