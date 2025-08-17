@@ -12541,6 +12541,7 @@ duyv	裻
 duyx	多少有些
 duyz	独有
 duz	独自
+duz	大手子
 duzi	肚子
 duzn	独生子女
 duzq	东山再起
@@ -44626,6 +44627,7 @@ lsbc	卢森堡
 lsbd	𫎦
 lsbe	朧
 lsbf	里斯本
+lsbi	龙逼
 lsbi	😨👉🐉
 lsbl	老死不相往来
 lsbp	眬
@@ -49522,6 +49524,7 @@ mvyu	名正言顺
 mvyu	莫衷一是
 mw	每
 mw	美
+mw	喵唔
 mwa	眉
 mwa	昧
 mwaf	鶥
@@ -49814,7 +49817,6 @@ mwyx	渺无音信
 mwyz	没有
 mwzi	妹子
 mwzv	目无尊长
-mw㕶	喵唔
 mx	明显
 mxdc	没想到
 mxge	墨西哥
@@ -50590,6 +50592,7 @@ ngnv	男耕女织
 ngqj	能工巧匠
 ngr	那个人
 ngrf	能人
+ngrm	㕶
 ngrp	𠹌
 ngrp	𨃳
 ngru	𠮾
@@ -206005,6 +206008,7 @@ wbly	威逼利诱
 wbqi	玩不起
 wbql	卧冰求鲤
 wbry	我不入地狱谁入地狱
+wbu	我不是
 wbui	无不是
 wbuy	无病呻吟
 wbvd	我不知道

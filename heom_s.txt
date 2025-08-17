@@ -12389,6 +12389,7 @@ _	;b
 多少有些	duyx
 独有	duyz
 独自	duz
+大手子	duz
 肚子	duzi
 独生子女	duzn
 东山再起	duzq
@@ -44244,6 +44245,7 @@ IP地址	ipdv
 𫎦	lsbd
 朧	lsbe
 里斯本	lsbf
+龙逼	lsbi
 老死不相往来	lsbl
 眬	lsbp
 朧	lsbp
@@ -49116,6 +49118,7 @@ IP地址	ipdv
 莫衷一是	mvyu
 每	mw
 美	mw
+喵唔	mw
 眉	mwa
 昧	mwa
 鶥	mwaf
@@ -49408,7 +49411,6 @@ IP地址	ipdv
 没有	mwyz
 妹子	mwzi
 目无尊长	mwzv
-喵唔	mw㕶	ngrm
 明显	mx
 没想到	mxdc
 墨西哥	mxge
@@ -50150,6 +50152,7 @@ IP地址	ipdv
 能工巧匠	ngqj
 那个人	ngr
 能人	ngrf
+㕶	ngrm
 𠹌	ngrp
 𨃳	ngrp
 𠮾	ngru
@@ -205279,6 +205282,7 @@ PPT	ppt
 玩不起	wbqi
 卧冰求鲤	wbql
 我不入地狱谁入地狱	wbry
+我不是	wbu
 无不是	wbui
 无病呻吟	wbuy
 我不知道	wbvd
