@@ -36163,6 +36163,7 @@ jurm	跙
 jurn	㘌
 jurn	𠰾
 jurn	𧿻
+juro	蒟蒻
 juro	足
 juro	躆
 jurp	𥷚
@@ -181248,9 +181249,9 @@ pmho	㼐
 pmhs	𢕨
 pmhu	𧡤
 pmhy	骗婚
-pmi	扁
 pmi	谝
 pmia	偏差
+pmib	扁
 pmib	𢉞
 pmic	貵
 pmif	騗
@@ -203781,6 +203782,7 @@ vsls	张三李四
 vslt	盅
 vslu	中路
 vslw	种类
+vsm	这什么
 vsma	种马
 vsmg	𥗦
 vsmg	𩅞
