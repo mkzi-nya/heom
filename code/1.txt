@@ -51758,3 +51758,8 @@ $	ofhb
 鬼畜	gviu
 阈值	yuvi
 半轴	bjvz
+乘法	igfa
+除法	iufa
+轴对称	vdi
+轴对称	vdif
+对称轴	divz

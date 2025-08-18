@@ -9889,6 +9889,7 @@ divm	𥿄
 divo	媞
 divr	地砖
 divu	地主
+divz	对称轴
 diwa	低洼
 diwf	低温
 diwh	帝王
@@ -27290,6 +27291,7 @@ igem	洆
 igeo	浈
 igep	溗
 igfa	惩罚
+igfa	乘法
 igfe	㲂
 igfe	𢿧
 igfe	𣀏
@@ -29513,7 +29515,9 @@ iuew	滀
 iuf	出发
 iufa	触发
 iufa	处罚
+iufa	除法
 iufa	䊰
+iufb	䊰
 iufe	𤏱
 iuff	处分
 iufh	厨房
@@ -200278,7 +200282,9 @@ vdhp	𥞅
 vdhs	𥰾
 vdhu	虒
 vdhx	这段话
+vdi	轴对称
 vdic	摘抄
+vdif	轴对称
 vdif	𢋿
 vdim	亝
 vdip	㡯
