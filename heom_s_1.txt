@@ -208096,6 +208096,7 @@ wxdy	妄下断语
 wxfu	无暇分身
 wxgj	无暇顾及
 wxgx	万象更新
+wxhn	我喜欢你
 wxhq	五星红旗
 wxid	卧薪尝胆
 wxiv	胃下垂

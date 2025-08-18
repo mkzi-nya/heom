@@ -208096,6 +208096,7 @@ PPT	ppt
 无暇分身	wxfu
 无暇顾及	wxgj
 万象更新	wxgx
+我喜欢你	wxhn
 五星红旗	wxhq
 卧薪尝胆	wxid
 胃下垂	wxiv
