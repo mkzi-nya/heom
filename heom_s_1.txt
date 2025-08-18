@@ -5193,6 +5193,7 @@ buji	不急
 bujk	布景
 bujl	不胜酒力
 bujm	部件
+bujn	补角
 bujo	轐
 bujp	不解
 bujq	不久
