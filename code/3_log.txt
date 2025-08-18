@@ -378,6 +378,7 @@ boji	5
 boli	5
 bore	5
 cvbj	5
+dili	5
 dimm	5
 diug	5
 divi	5
@@ -834,7 +835,6 @@ dcli	4
 dcqi	4
 ddyu	4
 didr	4
-dili	4
 dimi	4
 diqb	4
 diyi	4

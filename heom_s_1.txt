@@ -984,6 +984,7 @@ bade	柭
 badk	柭
 badn	拔掉
 badn	㭭
+badu	八度
 badu	杷
 badu	㿬
 badz	巴豆
@@ -9640,7 +9641,7 @@ dikz	抵扣
 dil	䗖
 dil	洞察力
 dil	𬱖
-dila	𧉛
+dila	虳
 dilb	螮
 dilb	𧍝
 dilc	地牢
@@ -9649,7 +9650,9 @@ dild	抵赖
 dile	低了
 dile	隶
 dile	蝃
+dilf	𧉛
 dili	地理
+dili	底力
 dili	袛
 dili	虳
 dili	𧉛
@@ -19742,6 +19745,7 @@ gujt	䀇
 guju	故居
 gujx	骨架
 gujy	孤军
+gujy	宫商角徵羽
 guka	狜
 gukb	㾶
 gukb	尳
@@ -26592,6 +26596,7 @@ ickj	𡯴
 ickk	超快
 icld	陈词滥调
 icle	炒了
+icle	超了
 iclk	超龄
 iclq	潮流
 iclr	牊
@@ -28958,6 +28963,7 @@ iohj	𢿭
 iohk	簇
 ioho	辵
 ioij	𢿭
+ioio	戳戳
 ioio	辶
 ioir	戳穿
 ioje	輟
@@ -30892,6 +30898,7 @@ jdrx	激动人心
 jdub	剪刀石头布
 jdug	见多识广
 jdur	借刀杀人
+jdv	绝对值
 jdv	景德镇
 jdvf	就地正法
 jdvl	家道中落
@@ -37133,6 +37140,7 @@ kaia	喀嚓
 kaie	卡车
 kaka	咔咔
 kaly	裃
+kan	可爱捏
 kaoy	佧
 kaoy	𰽩
 kapm	卡片
@@ -38534,6 +38542,7 @@ knba	可能吧
 kndu	跨年度
 knii	困难重重
 knma	可能吗
+knu	可能是
 knxk	可能性
 knya	肯尼亚
 ko	扩
@@ -39266,7 +39275,9 @@ kwvi	矿物质
 kwvl	口无遮拦
 kwxd	开玩笑的
 kwxn	开玩笑
+kwy	卡哇伊
 kwyl	孔武有力
+kwyn	卡哇伊捏
 kwyr	空无一人
 kwyw	空无一物
 kwzd	狂妄自大
@@ -49823,6 +49834,8 @@ nbju	那不就是
 nbke	怒不可遏
 nblu	鸟不拉屎
 nbmb	弄不明白
+nbna	拿不拿
+nbna	n-buna
 nbng	能不能
 nbnv	女扮男装
 nbo	恁
@@ -51967,6 +51980,7 @@ nzzz	念兹在兹
 o	也
 o	哦
 o	噢
+oc	」
 od	哦对
 odsl	藕断丝连
 oe	偶尔
@@ -179552,6 +179566,7 @@ oyw	⑤
 oyw	Ⅴ
 oyy	①
 oyy	Ⅰ
+oz	「
 p	平
 p	屁
 p	便宜
@@ -181792,6 +181807,7 @@ puav	𣋏
 pubb	脯
 publ	平时不努力
 pubm	普遍
+pubn	谱表
 pubo	瞨
 pubo	贌
 pubo	𩪛
@@ -181830,9 +181846,10 @@ puh	穙
 puha	氆
 puhb	䈬
 puhb	䈻
-puhc	𪖈
+puhc	谱号
 puhd	𥣈
 puhe	𪔿
+puhf	𪖈
 puho	铺货
 puho	㹒
 puho	𤾣
@@ -181873,6 +181890,7 @@ pumb	酺
 pumi	𧱹
 pumj	铺满
 puml	扑朔迷离
+pumm	谱面
 pumm	铺面
 pumo	醭
 pumo	巬
@@ -182126,6 +182144,7 @@ pwvm	㚰
 pwvr	娝
 pwvr	轡
 pwvu	妃
+pwx	抛物线
 pwxi	配戏
 pwxy	培训
 pwyb	配音
@@ -197284,6 +197303,7 @@ uiqr	实权
 uiqs	势
 uiqu	失去
 uiqu	市区
+uiqu	逝去
 uir	噬
 uir	嗜
 uira	𡅵
@@ -214650,6 +214670,7 @@ ybfu	音符
 ybg	垠
 ybga	堷
 ybga	韾
+ybgc	音高
 ybgc	趛
 ybgc	𡐔
 ybge	𪔰

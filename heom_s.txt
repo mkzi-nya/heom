@@ -984,6 +984,7 @@ _	;b
 柭	badk
 拔掉	badn
 㭭	badn
+八度	badu
 杷	badu
 㿬	badu
 巴豆	badz
@@ -9640,7 +9641,7 @@ _	;b
 䗖	dil
 洞察力	dil
 𬱖	dil
-𧉛	dila
+虳	dila
 螮	dilb
 𧍝	dilb
 地牢	dilc
@@ -9649,7 +9650,9 @@ _	;b
 低了	dile
 隶	dile
 蝃	dile
+𧉛	dilf
 地理	dili
+底力	dili
 袛	dili
 虳	dili
 𧉛	dili
@@ -19742,6 +19745,7 @@ GDP	gdp
 故居	guju
 骨架	gujx
 孤军	gujy
+宫商角徵羽	gujy
 狜	guka
 㾶	gukb
 尳	gukb
@@ -26592,6 +26596,7 @@ GDP	gdp
 超快	ickk
 陈词滥调	icld
 炒了	icle
+超了	icle
 超龄	iclk
 潮流	iclq
 牊	iclr
@@ -28958,6 +28963,7 @@ GDP	gdp
 簇	iohk
 辵	ioho
 𢿭	ioij
+戳戳	ioio
 辶	ioio
 戳穿	ioir
 輟	ioje
@@ -30892,6 +30898,7 @@ IP地址	ipdv
 剪刀石头布	jdub
 见多识广	jdug
 借刀杀人	jdur
+绝对值	jdv
 景德镇	jdv
 就地正法	jdvf
 家道中落	jdvl
@@ -37133,6 +37140,7 @@ IP地址	ipdv
 卡车	kaie
 咔咔	kaka
 裃	kaly
+可爱捏	kan
 佧	kaoy
 𰽩	kaoy
 卡片	kapm
@@ -38534,6 +38542,7 @@ IP地址	ipdv
 跨年度	kndu
 困难重重	knii
 可能吗	knma
+可能是	knu
 可能性	knxk
 肯尼亚	knya
 扩	ko
@@ -39266,7 +39275,9 @@ IP地址	ipdv
 口无遮拦	kwvl
 开玩笑的	kwxd
 开玩笑	kwxn
+卡哇伊	kwy
 孔武有力	kwyl
+卡哇伊捏	kwyn
 空无一人	kwyr
 空无一物	kwyw
 狂妄自大	kwzd
@@ -49823,6 +49834,8 @@ IP地址	ipdv
 怒不可遏	nbke
 鸟不拉屎	nblu
 弄不明白	nbmb
+拿不拿	nbna
+n-buna	nbna
 能不能	nbng
 女扮男装	nbnv
 恁	nbo
@@ -51967,6 +51980,7 @@ IP地址	ipdv
 也	o
 哦	o
 噢	o
+」	oc
 哦对	od
 藕断丝连	odsl
 偶尔	oe
@@ -179552,6 +179566,7 @@ $	otm
 Ⅴ	oyw
 ①	oyy
 Ⅰ	oyy
+「	oz
 平	p
 屁	p
 便宜	p
@@ -181792,6 +181807,7 @@ PPT	ppt
 脯	pubb
 平时不努力	publ
 普遍	pubm
+谱表	pubn
 瞨	pubo
 贌	pubo
 𩪛	pubo
@@ -181830,9 +181846,10 @@ PPT	ppt
 氆	puha
 䈬	puhb
 䈻	puhb
-𪖈	puhc
+谱号	puhc
 𥣈	puhd
 𪔿	puhe
+𪖈	puhf
 铺货	puho
 㹒	puho
 𤾣	puho
@@ -181873,6 +181890,7 @@ PPT	ppt
 𧱹	pumi
 铺满	pumj
 扑朔迷离	puml
+谱面	pumm
 铺面	pumm
 醭	pumo
 巬	pumo
@@ -182126,6 +182144,7 @@ PPT	ppt
 娝	pwvr
 轡	pwvr
 妃	pwvu
+抛物线	pwx
 配戏	pwxi
 培训	pwxy
 配音	pwyb
@@ -197284,6 +197303,7 @@ PPT	ppt
 势	uiqs
 失去	uiqu
 市区	uiqu
+逝去	uiqu
 噬	uir
 嗜	uir
 𡅵	uira
@@ -214650,6 +214670,7 @@ PPT	ppt
 垠	ybg
 堷	ybga
 韾	ybga
+音高	ybgc
 趛	ybgc
 𡐔	ybgc
 𪔰	ybge

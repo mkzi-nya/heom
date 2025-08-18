@@ -118,7 +118,8 @@
 𬛹	dhhb
 𰩹	dhhd
 𭫙	dide
-𧉛	dila
+虳	dila
+𧉛	dilf
 厎	dima
 䂡	dimd
 厎	dime
@@ -698,7 +699,7 @@
 𩫫	piyb
 䓑	pkta
 蓱	pktb
-𪖈	puhc
+𪖈	puhf
 㟚	qida
 𧼘	qiga
 簯	qihg
