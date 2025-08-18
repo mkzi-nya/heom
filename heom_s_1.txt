@@ -30768,6 +30768,7 @@ jbua	嶜
 jbua	𡺽
 jbuf	谨慎
 jbug	晋升
+jbug	仅剩
 jbuh	脊背生寒
 jbui	近视
 jbuj	金山
@@ -186269,6 +186270,8 @@ quuf	屈伸
 quuf	𩿩
 quug	取胜
 quui	趋势
+quui	去世
+quui	去逝
 quuj	𦸶
 quuk	岖
 quum	㠊
