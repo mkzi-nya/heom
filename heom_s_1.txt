@@ -23065,6 +23065,8 @@ hllu	幌
 hllu	㡃
 hllv	㡃
 hlly	遑论
+hlm	好了没
+hlm	好了吗
 hlmc	黄毛
 hlmc	璜
 hlmc	磺
@@ -29334,6 +29336,7 @@ islr	虫卵
 islt	盅
 islu	䘪
 islx	𧐍
+ism	吃什么
 isma	重码
 ismg	䝑
 ismj	充满
@@ -189482,6 +189485,7 @@ smmi	色眯眯
 smni	岁末年初
 smnv	驷马难追
 smpu	素昧平生
+smqk	什么情况
 smuh	什么时候
 smvi	三明治
 smvx	司马昭之心
@@ -198451,6 +198455,7 @@ usjl	声色俱厉
 usld	瘦死骆驼比马大
 uslj	声嘶力竭
 usm	是什么
+usmd	是什么东东
 usqm	声色犬马
 usrg	视死如归
 uss	十三岁
@@ -199191,6 +199196,7 @@ uvvm	娷
 uvvp	㥨
 uvvq	寿终正寝
 uvvu	水珠
+uvvu	水煮
 uvvy	水准
 uvw	水文
 uvwa	水洼
@@ -204883,6 +204889,7 @@ vytc	这一套
 vytu	重于泰山
 vytz	准头
 vyu	主要是
+vyu	这又是
 vyuc	仗义疏财
 vyug	准绳
 vyuh	睁眼说瞎话
