@@ -7007,6 +7007,7 @@ ciyo	𨒮
 ciyp	𨒤
 ciyq	𦍧
 ciyq	𪉪
+ciyr	次元
 ciyr	訾
 ciyr	詞
 ciyu	词语
@@ -13286,6 +13287,7 @@ ebxp	儿不嫌母丑，狗不嫌家贫
 ebys	而不用
 ec	恩赐
 ecmm	耳聪目明
+ecy	二次元
 ed	恶毒
 edbn	儿大不由娘
 edjl	二等奖
@@ -28091,8 +28093,8 @@ ihtd	常态
 ihth	𦼳
 ihth	𧀄
 ihtj	畅谈
-ihtn	冲昏头脑
 ihtn	长条
+ihtn	冲昏头脑
 ihtr	𦰱
 ihts	畅通
 ihtt	成何体统
@@ -45957,6 +45959,7 @@ lydy	伦敦
 lye	沦
 lyeb	淪
 lyeb	溣
+lyew	略有耳闻
 lyfb	㷍
 lyff	劳燕分飞
 lyfj	轮番
@@ -50756,6 +50759,7 @@ niha	䵒
 nihb	𥷄
 nihc	你好
 nihd	𤙌
+nihe	拟合
 nihe	㪒
 nihf	𧖷
 nihg	𪏸
@@ -223755,6 +223759,7 @@ zayg	雜
 zayh	咋样
 zayi	杂役
 zaym	𧬩
+zayu	杂鱼
 zazv	咂嘴
 zb	咋不
 zbdc	做不到
