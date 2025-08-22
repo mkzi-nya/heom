@@ -11002,6 +11002,7 @@ dmyu	𪓼
 dmyz	电邮
 dmzh	滇藏
 dmzi	电子
+dmzi	垫子
 dmzj	点赞
 dmzr	电钻
 dmzu	电阻
@@ -26590,6 +26591,7 @@ iaee	差额
 iael	𨙳
 iaeu	𧠈
 iaff	查分
+iaff	差分
 iafg	查封
 iafj	茶饭
 iafm	𥻗
@@ -49268,6 +49270,7 @@ mtlo	曼陀罗
 mtly	摩天轮
 mtmn	没头没脑
 mtqi	蒙太奇
+mtqk	没听清
 mtru	门庭若市
 mtsl	慢条斯理
 mtty	慢吞吞
@@ -193360,6 +193363,7 @@ tkpk	听凭
 tkq	挺
 tkq	叹口气
 tkqi	挺起
+tkqk	听清
 tkql	挺强
 tkqn	耓
 tkqu	听取
