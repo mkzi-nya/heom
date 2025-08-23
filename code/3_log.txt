@@ -1,3 +1,5 @@
+譩	yiyp
+𢡃	yiyp
 
 # 原始编码数量统计（仅列出分组大小 > 3 的编码）
 limm	12
@@ -525,6 +527,7 @@ yimo	5
 yinl	5
 yitm	5
 yiui	5
+yixl	5
 yiyi	5
 yjhf	5
 yjhu	5
