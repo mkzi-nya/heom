@@ -51808,7 +51808,8 @@ n-buna	nbna
 折寿	veuz
 我就不信	wjbx
 那是什么	nusm
-异象	yixl
+异象	yx
 遗像	yixl
 移项	yixl
 臆想	yixl
+遗照	yivc

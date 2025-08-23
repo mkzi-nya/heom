@@ -1,4 +1,3 @@
-譩	yiyp
 𢡃	yiyp
 
 # 原始编码数量统计（仅列出分组大小 > 3 的编码）
@@ -527,7 +526,6 @@ yimo	5
 yinl	5
 yitm	5
 yiui	5
-yixl	5
 yiyi	5
 yjhf	5
 yjhu	5
@@ -1219,6 +1217,7 @@ yipk	4
 yiqu	4
 yisv	4
 yito	4
+yixl	4
 yjbm	4
 yjcv	4
 yjff	4
