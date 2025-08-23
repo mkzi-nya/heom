@@ -49855,7 +49855,7 @@ nbqi	弄不清楚
 nbqq	南半球
 nbrc	𠽝
 nbry	你不仁我不义
-nbui	那不是
+nbu	那不是
 nbvj	䋻
 nbvu	耐不住
 nbvy	拿不准
@@ -200652,6 +200652,8 @@ veue	折射出
 veui	这时
 veuj	折扇
 veul	㪿
+veuz	这首
+veuz	折寿
 vevf	嫬
 vevh	这张
 vevk	𦅄
@@ -206150,6 +206152,7 @@ wjbu	𧲦
 wjbu	𰷡
 wjbw	晚辈
 wjbx	瓦解冰消
+wjbx	我就不信
 wjca	𨩵
 wjcb	𨩻
 wjce	鋄
