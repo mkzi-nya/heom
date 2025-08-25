@@ -482,6 +482,7 @@ uuhd	5
 uvlu	5
 vfvh	5
 vgqt	5
+vibi	5
 vihg	5
 vinm	5
 viri	5
@@ -1104,7 +1105,6 @@ vfbh	4
 vfff	4
 vfwh	4
 vgbm	4
-vibi	4
 vibn	4
 vida	4
 vidu	4
