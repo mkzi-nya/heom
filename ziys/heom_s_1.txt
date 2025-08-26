@@ -1463,6 +1463,7 @@ bcb	豹
 bcba	𦡕
 bcbb	𧵢
 bcbc	宝宝
+bcbc	抱抱
 bcbd	脬
 bcbe	𤔣
 bcbe	𦢊
@@ -1847,6 +1848,7 @@ bdfa	白发
 bdfa	粨
 bdfd	𡭢
 bdff	百分
+bdff	贝多芬
 bdfg	白癜风
 bdfh	拜访
 bdfh	摆放
@@ -12943,9 +12945,11 @@ dyok	镦
 dyou	伅
 dyou	𠎻
 dyp	电影票
+dypb	低音谱表
 dypc	頓
 dypd	盾牌
 dypd	惇
+dyph	低音谱号
 dypo	𧿗
 dypp	大雨瓢泼
 dypt	大雨滂沱
@@ -14262,6 +14266,7 @@ fdmb	奋斗目标
 fdmf	防盗门
 fdpd	反对派
 fdpp	风度翩翩
+fdu	浮点数
 fdxx	放得下
 fdyb	分道扬镳
 fdyr	辅导员
@@ -15812,12 +15817,14 @@ fudk	栿
 fudk	韍
 fudk	𣞒
 fudl	𣘧
-fudm	麬
+fudm	附点
+fudm	浮点
 fudn	浮雕
 fudn	柫
 fudn	𩎛
 fudo	枎
 fudo	麩
+fudp	麬
 fuds	浮动
 fuds	浮动着
 fudu	幅度
@@ -20894,6 +20901,8 @@ gynz	顾影弄姿
 gyo	ぎょ
 gyo	ギョ
 gypb	工艺品
+gypb	高音谱表
+gyph	高音谱号
 gypk	滚屏
 gypp	惃
 gyps	观音菩萨
@@ -44849,6 +44858,7 @@ lsst	𥪻
 lssv	两三岁
 lsta	𫖅
 lstc	龙套
+lste	李斯特
 lstg	龙腾
 lsti	龙体
 lstj	龙潭
@@ -45896,6 +45906,7 @@ lwyw	讄
 lwyz	来无影，去无踪
 lx	联系
 lxbj	离乡背井
+lxce	练习册
 lxdh	联系电话
 lxfz	量小非君子
 lxgf	狼心狗肺
@@ -45920,6 +45931,7 @@ lxo	俩
 lxob	倆
 lxpm	溜须拍马
 lxqf	两袖清风
+lxqu	练习曲
 lxqy	两厢情愿
 lxrf	俩人
 lxry	履险如夷
@@ -49542,6 +49554,7 @@ mvmk	墓志铭
 mvq	卖主求荣
 mvqr	梦中情人
 mvsy	满招损，谦受益
+mvte	莫扎特
 mvtx	名震天下
 mvu	摸着石头过河
 mvuh	明知山有虎
@@ -180167,6 +180180,7 @@ pawu	平安无事
 paxk	爬行
 paxq	怕羞
 paxx	趴下
+payb	琶音
 payc	𪗔
 payh	怕痒
 payu	𥩙
@@ -211847,6 +211861,7 @@ xnbc	𱅮
 xnbd	𡦝
 xnbd	𥆔
 xnbf	小本
+xnbh	肖邦
 xnbj	𦟞
 xnbk	笑柄
 xnbk	胶
@@ -213420,6 +213435,7 @@ xst	芎
 xstb	𩌠
 xstd	兄台
 xsth	胸膛
+xstk	肖斯塔科维奇
 xstr	𦵡
 xstu	𦬺
 xsu	凶
@@ -215548,6 +215564,7 @@ ybjl	由表及里
 ybjl	𨋙
 ybjm	引荐
 ybjp	音节
+ybjp	音阶
 ybjp	𨏈
 ybjq	饮酒
 ybjr	輑
