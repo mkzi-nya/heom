@@ -28946,6 +28946,7 @@ inlj	陈年老酒
 inly	长年累月
 inpi	吹牛皮
 inrf	成年人
+inv	穿女装
 invj	刹那之间
 inyn	痴男怨女
 inz	处女作
@@ -38157,6 +38158,7 @@ kjms	磡
 kjmu	𡶪
 kjmx	𧯰
 kjnc	𩓟
+kjni	看你
 kjno	欿
 kjo	侃
 kjoc	𩑟
