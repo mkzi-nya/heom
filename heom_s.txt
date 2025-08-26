@@ -199350,6 +199350,7 @@ PPT	ppt
 摄像机	uxj
 身心交瘁	uxjc
 刷机	uxji
+身心健康	uxjk
 身心俱疲	uxjp
 数学家	uxjx
 刷卡	uxka
@@ -204003,11 +204004,12 @@ PPT	ppt
 只是	vu
 这是	vu
 曯	vuai
-瞩	vub
+助	vub
 贮	vub
 正式版	vub
 膱	vuba
 䐗	vuba
+瞩	vubb
 珠宝	vubc
 胑	vubc
 䝬	vubg

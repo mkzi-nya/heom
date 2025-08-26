@@ -199350,6 +199350,7 @@ uxiw	𱝃
 uxj	摄像机
 uxjc	身心交瘁
 uxji	刷机
+uxjk	身心健康
 uxjp	身心俱疲
 uxjx	数学家
 uxka	刷卡
@@ -204003,11 +204004,12 @@ vu	主
 vu	只是
 vu	这是
 vuai	曯
-vub	瞩
+vub	助
 vub	贮
 vub	正式版
 vuba	膱
 vuba	䐗
+vubb	瞩
 vubc	珠宝
 vubc	胑
 vubg	䝬
