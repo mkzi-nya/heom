@@ -33,6 +33,7 @@ _	;b
 證	vgy
 鐘	vsc
 臨	lbs
+水群	uvqy
 积雪	jixt
 尸体	uit
 湛蓝	vjl
@@ -51838,3 +51839,5 @@ n-buna	nbna
 肖斯塔科维奇	xstk
 身心健康	uxjk
 下播	xxbo
+戾气	liqi
+雨滴	yudi
