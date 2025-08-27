@@ -12279,6 +12279,7 @@ _	;b
 读书破万卷	dupj
 打水漂	dupn
 顿	dupo
+读谱	dupu
 大事铺张	dupv
 毒	duq
 𢷺	duqc
@@ -21167,6 +21168,7 @@ GDP	gdp
 好快	hckk
 𤢭	hcko
 𤝐	hcks
+好酷	hcku
 𤡇	hcku
 好困	hcky
 蚝	hcl
@@ -194734,6 +194736,7 @@ PPT	ppt
 退税	tvuv
 推手	tvuz
 统治者	tvv
+腿照	tvvc
 推着	tvve
 退职	tvvi
 弹指之间	tvvj
@@ -197311,6 +197314,7 @@ PPT	ppt
 贳	uipo
 𠀍	uipt
 食谱	uipu
+识谱	uipu
 适配	uipw
 失陪	uipw
 拾	uiq

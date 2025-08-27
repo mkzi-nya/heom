@@ -12431,6 +12431,7 @@ dupi	肚皮
 dupj	读书破万卷
 dupn	打水漂
 dupo	顿
+dupu	读谱
 dupv	大事铺张
 duq	毒
 duqc	𢷺
@@ -21428,6 +21429,7 @@ hckj	獔
 hckk	好快
 hcko	𤢭
 hcks	𤝐
+hcku	好酷
 hcku	𤡇
 hcky	好困
 hcl	蚝
@@ -195387,6 +195389,7 @@ tvuo	推说
 tvuv	退税
 tvuz	推手
 tvv	统治者
+tvvc	腿照
 tvve	推着
 tvvi	退职
 tvvj	弹指之间
@@ -197994,6 +197997,7 @@ uipo	识破
 uipo	贳
 uipt	𠀍
 uipu	食谱
+uipu	识谱
 uipw	适配
 uipw	失陪
 uiq	拾
