@@ -214328,6 +214328,7 @@ xxbl	凶相毕露
 xxbm	下边
 xxbn	下标
 xxbn	心绪不宁
+xxbo	下播
 xxbu	下部
 xxby	唏嘘不已
 xxc	瑕疵
