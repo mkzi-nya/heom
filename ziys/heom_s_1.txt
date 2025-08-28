@@ -15518,6 +15518,8 @@ fjvl	缚鸡之力
 fjvm	嬎
 fjvo	饭桌
 fjvr	反转
+fjvr	翻转
+fjvr	؜
 fjvs	繁重
 fjvs	㛯
 fjvt	𥿋

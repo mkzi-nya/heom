@@ -15317,6 +15317,7 @@ _	;b
 嬎	fjvm
 饭桌	fjvo
 反转	fjvr
+翻转	fjvr
 繁重	fjvs
 㛯	fjvs
 𥿋	fjvt
