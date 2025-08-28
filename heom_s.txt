@@ -7879,6 +7879,7 @@ _	;b
 从小到大	cxdd
 粗心大意	cxdy
 磁悬浮	cxfu
+雌小鬼	cxg
 藏形匿影	cxny
 才想起来	cxql
 促膝谈心	cxtx
@@ -32870,6 +32871,7 @@ IP地址	ipdv
 摪	jlqi
 摾	jlqi
 𫽣	jlqi
+交流群	jlqy
 𠼢	jlri
 军令如山	jlru
 𨃇	jlrv
@@ -47822,6 +47824,7 @@ IP地址	ipdv
 名册	mkce
 名词	mkci
 銘	mkcr
+没看到	mkd
 榠	mkdc
 明灯	mkdg
 名单	mkdj
@@ -224364,6 +224367,7 @@ PPT	ppt
 走马上任	zmur
 贼眉鼠眼	zmuy
 怎么着	zmve
+怎么这么	zmvm
 怎么这样	zmvy
 怎么写	zmxp
 怎么样	zmyh

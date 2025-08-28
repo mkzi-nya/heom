@@ -8003,6 +8003,7 @@ cx	才行
 cxdd	从小到大
 cxdy	粗心大意
 cxfu	磁悬浮
+cxg	雌小鬼
 cxny	藏形匿影
 cxql	才想起来
 cxtx	促膝谈心
@@ -33194,6 +33195,7 @@ jlqi	将其
 jlqi	摪
 jlqi	摾
 jlqi	𫽣
+jlqy	交流群
 jlri	𠼢
 jlru	军令如山
 jlrv	𨃇
@@ -48223,6 +48225,7 @@ mkcd	名菜
 mkce	名册
 mkci	名词
 mkcr	銘
+mkd	没看到
 mkdc	榠
 mkdg	明灯
 mkdj	名单
@@ -225160,6 +225163,7 @@ zmuo	怎么说
 zmur	走马上任
 zmuy	贼眉鼠眼
 zmve	怎么着
+zmvm	怎么这么
 zmvy	怎么这样
 zmxp	怎么写
 zmyh	怎么样
