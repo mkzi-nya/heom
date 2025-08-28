@@ -349,6 +349,7 @@ aivv	𡟓
 aiwi	㝶
 aiwj	爱玩
 aixb	爱心
+aixb	♡
 aixi	爱惜
 aixn	矮小
 aixy	暗潮汹涌

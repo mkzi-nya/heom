@@ -51845,3 +51845,4 @@ n-buna	nbna
 读谱	dupu
 识谱	uipu
 好酷	hcku
+♡	aixb
