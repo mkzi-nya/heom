@@ -36363,6 +36363,7 @@ jujr	軥
 jujr	𡨅
 jujr	𡨢
 jujt	拒绝
+juju	就是就是
 juju	今生今世
 jujv	窭
 jujv	寠
@@ -203860,6 +203861,7 @@ vmgr	芝麻官
 vmgv	这么贵
 vmhc	这么好
 vmhh	照猫画虎
+vmhk	这么坏
 vmhu	这么回事
 vmia	这么差
 vmiz	这么丑
