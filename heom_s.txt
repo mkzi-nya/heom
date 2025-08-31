@@ -7150,6 +7150,7 @@ _	;b
 从没有	cmyz
 才能	cn
 才能够	cngz
+操你妈	cnm
 从那以后	cnyh
 错	co
 错爱	coai
@@ -195802,7 +195803,7 @@ PPT	ppt
 慑服	uefu
 赦	ueg
 舌根	uegf
-舍管	uegr
+舍管	uegr；
 社工	uegs
 射	ueh
 舌	ueh
