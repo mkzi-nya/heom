@@ -190716,6 +190716,7 @@ sugi	𧺷
 sugl	趚
 sugl	𣝝
 sugl	𧥆
+sugr	宿管
 sugv	𧞺
 sugx	𧽷
 suh	簌
@@ -196483,6 +196484,7 @@ uefm	善恶分明
 uefu	慑服
 ueg	赦
 uegf	舌根
+uegr	舍管
 uegs	社工
 ueh	射
 ueh	舌

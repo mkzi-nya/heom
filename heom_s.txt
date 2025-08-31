@@ -190096,6 +190096,7 @@ PPT	ppt
 趚	sugl
 𣝝	sugl
 𧥆	sugl
+宿管	sugr
 𧞺	sugv
 𧽷	sugx
 簌	suh
@@ -195801,6 +195802,7 @@ PPT	ppt
 慑服	uefu
 赦	ueg
 舌根	uegf
+舍管	uegr
 社工	uegs
 射	ueh
 舌	ueh
