@@ -105,6 +105,7 @@ gvmi	7
 jibf	7
 jihl	7
 jimi	7
+jiri	7
 jirj	7
 jknm	7
 jmmm	7
@@ -210,7 +211,6 @@ jihr	6
 jijk	6
 jimu	6
 jinm	6
-jiri	6
 jiti	6
 jmli	6
 jnnf	6
