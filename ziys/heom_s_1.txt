@@ -33950,6 +33950,7 @@ jmvg	䌑
 jmvh	舰长
 jmvh	近墨者黑
 jmvi	兼职
+jmvi	剪枝
 jmvj	纤
 jmvj	姧
 jmvk	𦂇
@@ -188436,6 +188437,7 @@ rsyn	𨒆
 rsyn	𪗴
 rsyr	蝾螈
 rsyu	荣誉
+rsyu	冗余
 rsyx	日思夜想
 rszi	融资
 rt	认同
@@ -196485,7 +196487,7 @@ uefm	善恶分明
 uefu	慑服
 ueg	赦
 uegf	舌根
-uegr；	舍管
+uegr	舍管
 uegs	社工
 ueh	射
 ueh	舌

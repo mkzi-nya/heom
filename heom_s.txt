@@ -33625,6 +33625,7 @@ IP地址	ipdv
 舰长	jmvh
 近墨者黑	jmvh
 兼职	jmvi
+剪枝	jmvi
 纤	jmvj
 姧	jmvj
 𦂇	jmvk
@@ -187860,6 +187861,7 @@ PPT	ppt
 𪗴	rsyn
 蝾螈	rsyr
 荣誉	rsyu
+冗余	rsyu
 日思夜想	rsyx
 融资	rszi
 认同	rt
@@ -195803,7 +195805,7 @@ PPT	ppt
 慑服	uefu
 赦	ueg
 舌根	uegf
-舍管	uegr；
+舍管	uegr
 社工	uegs
 射	ueh
 舌	ueh
