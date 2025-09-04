@@ -41955,7 +41955,7 @@ IP地址	ipdv
 跻	jirl
 椒	jnd
 炬	juf
-肌	jib
+肌	jibn
 积	jih
 稽	jih
 忌	jis
@@ -41969,7 +41969,7 @@ IP地址	ipdv
 礁	jnm
 僵	jlo
 佼	jnok
-祭	jibf
+祭	jib
 稼	jxh
 眷	jrf
 娟	jrv
@@ -51861,3 +51861,7 @@ n-buna	nbna
 操你妈	cnm
 冗余	rsyu
 剪枝	jmvi
+式子	uizi
+算式	srui
+投注	tzvu
+献祭	xmji

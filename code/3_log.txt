@@ -102,7 +102,6 @@ fulk	7
 fuqi	7
 guyr	7
 gvmi	7
-jibf	7
 jihl	7
 jimi	7
 jiri	7
@@ -207,6 +206,7 @@ hudm	6
 ijlr	6
 ijyu	6
 iuye	6
+jibf	6
 jihr	6
 jijk	6
 jimu	6
