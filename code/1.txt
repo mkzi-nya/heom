@@ -51865,3 +51865,5 @@ n-buna	nbna
 算式	srui
 投注	tzvu
 献祭	xmji
+猫耳	mcer
+猫娘	mcnl
