@@ -179875,6 +179875,7 @@ okzsvn	㇞
 okzsvs	㇉
 okzsxxx	㇣
 om	呣
+omh	：
 omr	呒
 on	唔
 onr	嗯
