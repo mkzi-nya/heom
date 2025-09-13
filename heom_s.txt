@@ -180125,6 +180125,7 @@ $	otm
 派员	pdyr
 排在	pdzd
 牌子	pdzi
+拍子	pdzi
 普洱	pe
 破而后立	pehl
 盆	pf

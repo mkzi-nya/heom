@@ -180125,6 +180125,7 @@ pdy	迫
 pdyr	派员
 pdzd	排在
 pdzi	牌子
+pdzi	拍子
 pe	普洱
 pehl	破而后立
 pf	盆
