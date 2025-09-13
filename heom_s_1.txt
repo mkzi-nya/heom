@@ -201737,6 +201737,7 @@ vidc	指导
 vidc	櫍
 vidc	𣖌
 vidc	𣖿
+vidd	只带
 vidd	纸袋
 vide	值得
 vide	㮹

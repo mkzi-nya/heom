@@ -192664,7 +192664,7 @@ tiji	体积
 tijj	同场竞技
 tijm	体检
 tijn	提交
-tijn	sh /storage/emulated/0/.ck/heom/code/11.sh
+tijn	sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh
 tijo	𣤖
 tijp	题解
 tijx	提价
@@ -202451,6 +202451,7 @@ vidc	指导
 vidc	櫍
 vidc	𣖌
 vidc	𣖿
+vidd	只带
 vidd	纸袋
 vide	值得
 vide	㮹
