@@ -6287,8 +6287,8 @@ cczj	⺾
 cczo	操作
 cczs	操纵
 cczy	⻀
-cd	菜
 cd	猜
+cd	菜
 cdb	采
 cdb	财
 cdb	睬
@@ -18116,7 +18116,7 @@ ggww	更为
 ggwy	亘古未有
 ggx	高跟鞋
 ggxb	更新
-ggxb	cd /storage/emulated/0/.ck/heom/code/ && git pull origin main
+ggxb	cd /storage/emulated/0/.ck/mkzi/heom/code/ && git pull origin main
 ggxh	官官相护
 ggxj	高官显爵
 ggxm	更显
@@ -47550,6 +47550,7 @@ mhbt	𩪎
 mhbu	矒
 mhbu	鼆
 mhbv	盳
+mhcd	盲猜
 mhcs	盲从
 mhcv	釯
 mhcv	鋩

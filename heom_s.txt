@@ -6175,8 +6175,8 @@ _	;b
 操作	cczo
 操纵	cczs
 ⻀	cczy
-菜	cd
 猜	cd
+菜	cd
 采	cdb
 财	cdb
 睬	cdb
@@ -47151,6 +47151,7 @@ IP地址	ipdv
 矒	mhbu
 鼆	mhbu
 盳	mhbv
+盲猜	mhcd
 盲从	mhcs
 釯	mhcv
 鋩	mhcv

@@ -6175,8 +6175,8 @@ cczj	⺾
 cczo	操作
 cczs	操纵
 cczy	⻀
-cd	菜
 cd	猜
+cd	菜
 cdb	采
 cdb	财
 cdb	睬
@@ -47151,6 +47151,7 @@ mhbt	𩪎
 mhbu	矒
 mhbu	鼆
 mhbv	盳
+mhcd	盲猜
 mhcs	盲从
 mhcv	釯
 mhcv	鋩
