@@ -17972,6 +17972,7 @@ GDP	gdp
 钢筋	ghjb
 纲纪	ghji
 刚劲	ghjk
+肛交	ghjn
 港姐	ghjp
 钢架	ghjx
 更何况	ghkl
@@ -39594,6 +39595,7 @@ IP地址	ipdv
 口径	kzjk
 扣减	kzjm
 口角	kzjn
+口交	kzjn
 口诀	kzjt
 宼	kzjv
 窛	kzjv
@@ -197141,6 +197143,7 @@ PPT	ppt
 𨙩	uijl
 实践	uijm
 世间	uijm
+视奸	uijm
 軾	uijm
 视角	uijn
 亊	uijn
@@ -197149,6 +197152,7 @@ PPT	ppt
 𢝬	uijp
 十九	uijq
 试卷	uijr
+軾	uijs
 视觉	uijt
 卋	uijt
 诗句	uiju
@@ -199162,6 +199166,8 @@ PPT	ppt
 水晶	uvjk
 谁将	uvjl
 水碱	uvjm
+水煎	uvjm
+睡奸	uvjm
 睡觉	uvjn
 水解	uvjp
 水酒	uvjq
@@ -199656,6 +199662,7 @@ PPT	ppt
 受惊	uzjk
 收件	uzjm
 手脚	uzjn
+手交	uzjn
 首届	uzjp
 守旧	uzjq
 手绢	uzjr
@@ -225041,6 +225048,7 @@ PPT	ppt
 租金	zujb
 足迹	zuji
 组建	zujm
+足交	zujn
 租借	zujp
 祖居	zuju
 租价	zujx
