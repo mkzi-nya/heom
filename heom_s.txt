@@ -193285,6 +193285,7 @@ PPT	ppt
 㸠	tnlo
 覜	tnlu
 𬢋	tnlu
+调律	tnlv
 跳楼	tnlz
 祧	tnm
 条码	tnma
@@ -197197,6 +197198,7 @@ PPT	ppt
 侍郎	uilh
 实力	uili
 势力	uili
+视力	uili
 失灵	uilk
 𧞲	uilk
 适量	uill

@@ -193285,6 +193285,7 @@ tnln	𠛪
 tnlo	㸠
 tnlu	覜
 tnlu	𬢋
+tnlv	调律
 tnlz	跳楼
 tnm	祧
 tnma	条码
@@ -197197,6 +197198,7 @@ uilg	湿冷
 uilh	侍郎
 uili	实力
 uili	势力
+uili	视力
 uilk	失灵
 uilk	𧞲
 uill	适量
