@@ -194772,6 +194772,7 @@ tsmp	𮲄
 tsmr	硐
 tsmy	𨠌
 tsmz	同谋
+tsn	捅死你
 tsn	鲖
 tsne	㪌
 tsng	𡦜
@@ -194779,6 +194780,7 @@ tsng	𩻡
 tsni	䂈
 tsnj	童男
 tsnm	童年
+tsnm	捅死你喵
 tsnn	㼧
 tsnr	鮦
 tsnr	𢏕
