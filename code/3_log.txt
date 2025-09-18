@@ -1128,6 +1128,7 @@ vjyi	4
 vrji	4
 vshy	4
 vsli	4
+vsvi	4
 vujm	4
 vutd	4
 vuvd	4

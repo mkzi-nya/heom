@@ -3304,6 +3304,7 @@ bjhi	𤳖
 bjhj	半酣
 bjhj	𥷁
 bjhq	秚
+bjhv	班会
 bjhv	褩
 bjhx	版画
 bjie	班车
@@ -189240,6 +189241,7 @@ sczi	嫂子
 sd	赛
 sd	速度
 sdb	腮
+sdbo	赛博
 sdbt	色胆包天
 sdbw	塞北
 sddc	赛道
@@ -204689,6 +204691,7 @@ vsuo	𡻑
 vsuu	中暑
 vsuu	中枢
 vsv	终
+vsva	妐
 vsvc	中招
 vsvf	忠贞
 vsvg	媑
@@ -204696,6 +204699,7 @@ vsvg	緟
 vsvh	肿胀
 vsvi	终止
 vsvi	中指
+vsvi	种植
 vsvi	妐
 vsvl	妕
 vsvm	終
