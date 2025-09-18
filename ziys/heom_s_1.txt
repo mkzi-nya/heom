@@ -204691,7 +204691,8 @@ vsuo	𡻑
 vsuu	中暑
 vsuu	中枢
 vsv	终
-vsva	妐
+vsva	中职
+vsvb	妐
 vsvc	中招
 vsvf	忠贞
 vsvg	媑
@@ -204700,6 +204701,7 @@ vsvh	肿胀
 vsvi	终止
 vsvi	中指
 vsvi	种植
+vsvi	中职
 vsvi	妐
 vsvl	妕
 vsvm	終
