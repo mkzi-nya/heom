@@ -1421,10 +1421,9 @@
 𩘓	yzha
 𩴙	yzhb
 𦥣	yzhg
-牰	yzhj
-秞	yzhn
-𥴕	yzhq
-𦩲	yzht
+秞	yzhj
+𥴕	yzhn
+𦩲	yzhq
 蜏	yzla
 𨡴	yzma
 𧆕	yzta

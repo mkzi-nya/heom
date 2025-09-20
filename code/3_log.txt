@@ -131,7 +131,6 @@ yrnu	7
 yuhd	7
 yumk	7
 yuyb	7
-yzhw	7
 zitd	7
 zsse	7
 jike	7
@@ -261,6 +260,7 @@ yuhf	6
 yuho	6
 yumb	6
 yumn	6
+yzhw	6
 ziyr	6
 vihv	6
 bihp	6
