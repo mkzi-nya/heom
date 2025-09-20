@@ -51891,3 +51891,4 @@ n-buna	nbna
 赛博	sdbo
 种植	vsvi
 中职	vsvi
+烤鱼	kcyu
