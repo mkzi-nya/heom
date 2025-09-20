@@ -1879,6 +1879,7 @@ bdoa	伯
 bdop	矲
 bdpj	𢛞
 bdpk	摆平
+bdpn	白嫖
 bdpu	摆谱
 bdq	摆
 bdq	不定期
