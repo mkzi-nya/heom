@@ -45727,6 +45727,7 @@ lyvb	婨
 lyvb	綸
 lyvg	论证
 lyvg	洛阳纸贵
+lyvi	轮指
 lyvi	轮值
 lyvj	论战
 lyvl	路遥知马力
