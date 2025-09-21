@@ -26037,6 +26037,7 @@ GDP	gdp
 圂	hywo
 慁	hywp
 花冤枉钱	hywq
+何意味	hyww
 荤腥	hyxk
 混响	hyxl
 混淆	hyxn
@@ -222332,6 +222333,7 @@ PPT	ppt
 云吞	yyty
 𠚓	yyue
 一语双关	yyug
+运营商	yyuh
 熠熠生辉	yyuh
 陨石	yyui
 㟦	yyuj
