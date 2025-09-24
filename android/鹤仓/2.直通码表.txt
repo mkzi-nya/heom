@@ -279,3 +279,4 @@ $cmd(downloadconfig,[下载])	ohtb
 $cmd(set(kb-floatcandidirection=0;kb-floatmaxwidth=105%),[悬浮_横排])	ohu
 $cmd(set(kb-floatcandidirection=1;kb-floatmaxwidth=1%),[竖排])	ohu
 $cmd(set(base-skin-android=键盘——高飞.xpa;base-color-android=配色——小鹤.xp;ime-imemode=0;ime-quanjiao=0;ime-cnuseensymbol=0;ime-hint=0;ime-push=1;ime-ding=1;ime-pushcodelength=4;ime-pushwhengemax=1;ime-dingcodelength=4;ime-maxcleancount=4;ime-embedmode=1;ime-showphrase=1;ime-inputmode=2;ime-usedassisttype1=-1;ime-usedassisttype1=+2;ime-blockkeys=-1;ime-empty=3;ime-candiwin=1;ime-statuswin=1;kb-spacetext=+小鹤;kb-keyshowcandi=0;assoc-enable=1;assoc-dual=1),→[默认态])	omr
+$cmd(showstatistics,[打字统计])	ostj
