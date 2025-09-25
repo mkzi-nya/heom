@@ -41984,7 +41984,7 @@ IP地址	ipdv
 亟	jinm
 寂	jije
 暨	jiam
-浇	jneu
+浇	jne
 浸	jbee
 脊	jif
 跻	jirl
@@ -51932,6 +51932,7 @@ n-buna	nbna
 类人群星闪耀时	lrqu
 人类群星闪耀时	rlqu
 何意味	hyww
+浇水	jnuv
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -225771,6 +225772,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 ボカロ	ulkz
 查分器	ifqi
 露凝	lunk
+露晓卉庭	lxht
 git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull
 git fetch origin && git reset --hard origin/main && git clean -fd	pull

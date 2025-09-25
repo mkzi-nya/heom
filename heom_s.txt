@@ -33776,6 +33776,7 @@ IP地址	ipdv
 角度	jndu
 校对	jndv
 暨南大学	jndx
+浇	jne
 𤃭	jnea
 漅	jned
 交恶	jnee
@@ -33792,7 +33793,6 @@ IP地址	ipdv
 𣺳	jnen
 滘	jner
 䀊	jnet
-浇	jneu
 澆	jneu
 灚	jneu
 觉	jnf
@@ -34148,6 +34148,7 @@ IP地址	ipdv
 峧	jnuk
 教书	jnuu
 胶水	jnuv
+浇水	jnuv
 教授	jnuz
 缴	jnv
 娇	jnv

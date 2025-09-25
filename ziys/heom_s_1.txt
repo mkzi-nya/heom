@@ -34103,6 +34103,7 @@ jnds	搅动
 jndu	角度
 jndv	校对
 jndx	暨南大学
+jne	浇
 jnea	𤃭
 jned	漅
 jnee	交恶
@@ -34119,7 +34120,6 @@ jnel	九牛二虎之力
 jnen	𣺳
 jner	滘
 jnet	䀊
-jneu	浇
 jneu	澆
 jneu	灚
 jnf	觉
@@ -34475,6 +34475,7 @@ jnui	教室
 jnuk	峧
 jnuu	教书
 jnuv	胶水
+jnuv	浇水
 jnuz	教授
 jnv	缴
 jnv	娇
@@ -45942,6 +45943,7 @@ lxgu	例行公事
 lxgy	流星赶月
 lxh	柳下惠
 lxhb	龙行虎步
+lxht	露晓卉庭
 lxhv	兰心蕙质
 lxhx	理想化
 lxin	老羞成怒
