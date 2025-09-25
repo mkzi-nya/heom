@@ -18772,6 +18772,7 @@ glhu	𪕓
 glhv	光辉
 glhx	光滑
 glhx	告老还乡
+glhx	洸花
 glic	廣
 glie	𥀱
 glif	𪇵
@@ -45924,6 +45925,10 @@ lwxb	沦为笑柄
 lwxk	类型
 lwxm	泪腺
 lwy	羸
+lwya	露维亚
+lwya	芦苇鸭
+lwya	卤味鸭
+lwya	鹿萎鸭
 lwyd	䛶
 lwyd	誄
 lwyj	泪眼
@@ -190917,6 +190922,7 @@ suua	肃杀
 suue	宿舍
 suuf	塑身
 suui	素食
+suuj	苏珊
 suuo	诉说
 suuo	诉说着
 suuu	素数
