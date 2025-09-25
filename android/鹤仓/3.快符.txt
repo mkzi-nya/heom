@@ -1,7 +1,6 @@
 ----syntax=cn, code
 ----leadkey=\
 ----config=ime-kf.ini
-$cmd(showstatistics,[打字统计])	ostj
 $cmd(newkey(ohhe$1),↶)	_
 $cmd(newkey(ohh$1),ϟ)	_
 ：“	q
