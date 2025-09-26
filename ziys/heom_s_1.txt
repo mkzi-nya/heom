@@ -45932,6 +45932,7 @@ lwya	鹿萎鸭
 lwyd	䛶
 lwyd	誄
 lwyj	泪眼
+lwyj	阑尾炎
 lwyj	𦣄
 lwyu	雷雨
 lwyw	䢮
@@ -208827,6 +208828,7 @@ wwtv	䍴
 wwtv	葨
 wwu	巍
 wwua	为啥
+wwua	尾杀
 wwub	𡷕
 wwuc	𧢧
 wwud	𡶎

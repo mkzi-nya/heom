@@ -24,6 +24,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 芦苇鸭	lwya
 卤味鸭	lwya
 鹿萎鸭	lwya
+尾杀	wwua
 git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull
 git fetch origin && git reset --hard origin/main && git clean -fd	pull
