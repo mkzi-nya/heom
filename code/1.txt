@@ -32313,6 +32313,7 @@ IP地址	ipdv
 物产	wuij
 误传	wuir
 误触	wuiu
+无尽	wujb
 万事俱备	wujb
 万事俱备，只欠东风	wujf
 无极	wuji
@@ -32347,6 +32348,7 @@ IP地址	ipdv
 无奈	wund
 无能	wung
 污泥	wuni
+巫女	wunv
 舞女	wunv
 务农	wuns
 物品	wupb
@@ -51904,3 +51906,11 @@ n-buna	nbna
 何意味	hyww
 浇水	jnuv
 阑尾炎	lwyj
+集美	jimw
+湖里	huli
+紧皱	jbvz
+御币	yubi
+倒映	dcyk
+神明	ufmk
+仪式	yiui
+丝滑	sihx
