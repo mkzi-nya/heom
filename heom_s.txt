@@ -1,3 +1,4 @@
+
 ：	;
 ！	;a
 _	;b
@@ -5953,6 +5954,7 @@ _	;b
 不早不晚	bzbw
 不在此列	bzcl
 不足挂齿	bzgi
+抱在怀里	bzhl
 不在乎	bzhu
 不在话下	bzhx
 不赞成	bzig
@@ -10845,6 +10847,7 @@ _	;b
 等米下锅	dmxg
 典型	dmxk
 电线	dmxm
+癫痫	dmxm
 点穴	dmxt
 殿下	dmxx
 电讯	dmxy
@@ -17075,6 +17078,7 @@ _	;b
 告诉	gcsu
 羔	gct
 藁	gct
+高塔	gcta
 蒿	gctb
 高台	gctd
 菒	gctd
@@ -19853,6 +19857,7 @@ GDP	gdp
 古琴	guqb
 搰	guqb
 骨气	guqi
+鼓起	guqi
 雇请	guqk
 古钱	guqm
 扢	guqn
@@ -21315,6 +21320,7 @@ GDP	gdp
 好心	hcxb
 好戏	hcxi
 好像	hcxl
+好想	hcxl
 好险	hcxm
 好笑	hcxn
 好些	hcxp
@@ -26081,6 +26087,8 @@ GDP	gdp
 𥅠	hzbr
 候补	hzbu
 𦚥	hzbu
+后背	hzbw
+后备	hzbw
 鍭	hzck
 銗	hzcr
 𧮶	hzcr
@@ -30475,6 +30483,7 @@ IP地址	ipdv
 骄傲自满	jazm
 进	jb
 基本	jb
+就把	jb
 㬐	jbaa
 紧挨	jbai
 骄兵必败	jbbb
@@ -40036,6 +40045,7 @@ IP地址	ipdv
 礼拜天	lbt
 菻	lbtd
 䕲	lbtd
+罗伯特	lbte
 䕲	lbtf
 藺	lbtg
 老半天	lbtm
@@ -43507,6 +43517,7 @@ IP地址	ipdv
 𧟌	lolg
 萝莉	loli
 𬡠	loln
+咯咯	lolo
 罗列	lolp
 袼	lolr
 蝸	lolr
@@ -187233,6 +187244,7 @@ PPT	ppt
 人海战术	rhvu
 孃	rhvv
 纕	rhvv
+让我	rhwo
 让位	rhww
 让贤	rhxm
 讓	rhy
@@ -197482,6 +197494,7 @@ PPT	ppt
 峙	uiu
 峕	uiua
 旹	uiua
+𱛬	uiub
 施舍	uiue
 失神	uiuf
 失身	uiuf
@@ -197489,6 +197502,7 @@ PPT	ppt
 𡉸	uiug
 时尚	uiuh
 实施	uiui
+事实	uiui
 嵵	uiui
 𱛬	uiui
 𡶈	uiuk
@@ -203023,6 +203037,7 @@ PPT	ppt
 跩	vkrp
 这可是	vkui
 众口铄金	vkuj
+拽着	vkve
 准考证	vkvg
 拽拽	vkvk
 拽住	vkvu
@@ -205455,6 +205470,7 @@ PPT	ppt
 无从选择	wcxz
 外	wd
 味道	wd
+我的	wd
 𨵞	wdap
 外宾	wdbb
 外包	wdbc
@@ -206210,24 +206226,25 @@ PPT	ppt
 晥	wjau
 晩	wjau
 晼	wjau
-䯈	wjba
+我就把	wjba
 晚节不保	wjbb
 贎	wjbb
 晚报	wjbc
 无坚不摧	wjbc
-䯛	wjbd
-睌	wjbe
+䯈	wjbd
+䯛	wjbe
 物极必反	wjbf
 万劫不复	wjbf
 𥆶	wjbf
-睕	wjbg
-脕	wjbh
+睌	wjbg
+睕	wjbh
 完毕	wjbi
 𤧩	wjbi
 晚班	wjbj
-貦	wjbk
-𧲦	wjbl
-𰷡	wjbm
+脕	wjbk
+貦	wjbl
+𧲦	wjbm
+𰷡	wjbn
 瞣	wjbp
 贃	wjbp
 𧹗	wjbp
@@ -206777,6 +206794,7 @@ PPT	ppt
 𣁳	womj
 㱧	womu
 𥑣	womu
+我能	wong
 𧥋	wong
 窝囊	wonh
 𧤒	wonj
@@ -221596,6 +221614,7 @@ PPT	ppt
 以身试法	yuuf
 余生	yuug
 硬生生	yuug
+雨声	yuug
 遇上	yuuh
 𡿥	yuuh
 于是	yuui
@@ -224952,6 +224971,7 @@ PPT	ppt
 纵声	zsug
 综上	zsuh
 总是	zsui
+纵使	zsui
 总说	zsuo
 嵸	zsuo
 𡵝	zsuo
@@ -225649,6 +225669,7 @@ PPT	ppt
 走廊	zzlh
 走路	zzlu
 走漏	zzlz
+再怎么	zzm
 㻓	zzme
 奏明	zzmk
 㔿	zzml

@@ -1,3 +1,4 @@
+	
 ;	：
 ;a	！
 ;b	_
@@ -5953,6 +5954,7 @@ bz	不再
 bzbw	不早不晚
 bzcl	不在此列
 bzgi	不足挂齿
+bzhl	抱在怀里
 bzhu	不在乎
 bzhx	不在话下
 bzig	不赞成
@@ -10845,6 +10847,7 @@ dmxb	电信
 dmxg	等米下锅
 dmxk	典型
 dmxm	电线
+dmxm	癫痫
 dmxt	点穴
 dmxx	殿下
 dmxy	电讯
@@ -17075,6 +17078,7 @@ gcss	高耸
 gcsu	告诉
 gct	羔
 gct	藁
+gcta	高塔
 gctb	蒿
 gctd	高台
 gctd	菒
@@ -19853,6 +19857,7 @@ guqa	抇
 guqb	古琴
 guqb	搰
 guqi	骨气
+guqi	鼓起
 guqk	雇请
 guqm	古钱
 guqn	扢
@@ -21315,6 +21320,7 @@ hcwu	毫无
 hcxb	好心
 hcxi	好戏
 hcxl	好像
+hcxl	好想
 hcxm	好险
 hcxn	好笑
 hcxp	好些
@@ -26081,6 +26087,8 @@ hzbo	厚薄
 hzbr	𥅠
 hzbu	候补
 hzbu	𦚥
+hzbw	后背
+hzbw	后备
 hzck	鍭
 hzcr	銗
 hzcr	𧮶
@@ -30475,6 +30483,7 @@ jazd	骄傲自大
 jazm	骄傲自满
 jb	进
 jb	基本
+jb	就把
 jbaa	㬐
 jbai	紧挨
 jbbb	骄兵必败
@@ -40036,6 +40045,7 @@ lbt	蔺
 lbt	礼拜天
 lbtd	菻
 lbtd	䕲
+lbte	罗伯特
 lbtf	䕲
 lbtg	藺
 lbtm	老半天
@@ -43507,6 +43517,7 @@ lolg	𢅾
 lolg	𧟌
 loli	萝莉
 loln	𬡠
+lolo	咯咯
 lolp	罗列
 lolr	袼
 lolr	蝸
@@ -187233,6 +187244,7 @@ rhvb	如获至宝
 rhvu	人海战术
 rhvv	孃
 rhvv	纕
+rhwo	让我
 rhww	让位
 rhxm	让贤
 rhy	讓
@@ -197482,6 +197494,7 @@ uitz	石头
 uiu	峙
 uiua	峕
 uiua	旹
+uiub	𱛬
 uiue	施舍
 uiuf	失神
 uiuf	失身
@@ -197489,6 +197502,7 @@ uiug	师生
 uiug	𡉸
 uiuh	时尚
 uiui	实施
+uiui	事实
 uiui	嵵
 uiui	𱛬
 uiuk	𡶈
@@ -203023,6 +203037,7 @@ vkqy	𢶀
 vkrp	跩
 vkui	这可是
 vkuj	众口铄金
+vkve	拽着
 vkvg	准考证
 vkvk	拽拽
 vkvu	拽住
@@ -205455,6 +205470,7 @@ wcxu	无从下手
 wcxz	无从选择
 wd	外
 wd	味道
+wd	我的
 wdap	𨵞
 wdbb	外宾
 wdbc	外包
@@ -206210,24 +206226,25 @@ wjas	𮲚
 wjau	晥
 wjau	晩
 wjau	晼
-wjba	䯈
+wjba	我就把
 wjbb	晚节不保
 wjbb	贎
 wjbc	晚报
 wjbc	无坚不摧
-wjbd	䯛
-wjbe	睌
+wjbd	䯈
+wjbe	䯛
 wjbf	物极必反
 wjbf	万劫不复
 wjbf	𥆶
-wjbg	睕
-wjbh	脕
+wjbg	睌
+wjbh	睕
 wjbi	完毕
 wjbi	𤧩
 wjbj	晚班
-wjbk	貦
-wjbl	𧲦
-wjbm	𰷡
+wjbk	脕
+wjbl	貦
+wjbm	𧲦
+wjbn	𰷡
 wjbp	瞣
 wjbp	贃
 wjbp	𧹗
@@ -206777,6 +206794,7 @@ womi	硪
 womj	𣁳
 womu	㱧
 womu	𥑣
+wong	我能
 wong	𧥋
 wonh	窝囊
 wonj	𧤒
@@ -221596,6 +221614,7 @@ yuue	预设
 yuuf	以身试法
 yuug	余生
 yuug	硬生生
+yuug	雨声
 yuuh	遇上
 yuuh	𡿥
 yuui	于是
@@ -224952,6 +224971,7 @@ zsuf	纵深
 zsug	纵声
 zsuh	综上
 zsui	总是
+zsui	纵使
 zsuo	总说
 zsuo	嵸
 zsuo	𡵝
@@ -225649,6 +225669,7 @@ zzle	𧌗
 zzlh	走廊
 zzlu	走路
 zzlz	走漏
+zzm	再怎么
 zzme	㻓
 zzmk	奏明
 zzml	㔿

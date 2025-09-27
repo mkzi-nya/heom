@@ -1277,6 +1277,7 @@ zvmj	4
 vidc	4
 viui	4
 uijm	4
+uiui	4
 jiqi	4
 aime	4
 aoik	4
