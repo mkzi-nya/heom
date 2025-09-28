@@ -34161,8 +34161,8 @@ IP地址	ipdv
 教室	jnui
 峧	jnuk
 教书	jnuu
-胶水	jnuv
 浇水	jnuv
+胶水	jnuv
 教授	jnuz
 缴	jnv
 娇	jnv

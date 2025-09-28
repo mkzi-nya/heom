@@ -34161,8 +34161,8 @@ jnui	教师
 jnui	教室
 jnuk	峧
 jnuu	教书
-jnuv	胶水
 jnuv	浇水
+jnuv	胶水
 jnuz	教授
 jnv	缴
 jnv	娇

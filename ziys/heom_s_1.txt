@@ -27485,7 +27485,7 @@ ifq	吃饭去
 ifqc	捵
 ifqi	查分器
 ifqi	http://mhtlim.top/
-ifqi	https://mkzi-nya.github.io/milthm-calculator-web/
+ifqi	https://milcalc.netlify.app/
 ifql	吃饭去了
 ifqn	揨
 ifqp	臣妾
@@ -34490,8 +34490,8 @@ jnui	教师
 jnui	教室
 jnuk	峧
 jnuu	教书
-jnuv	胶水
 jnuv	浇水
+jnuv	胶水
 jnuz	教授
 jnv	缴
 jnv	娇
@@ -186681,6 +186681,7 @@ quhr	𪀊
 quht	𥃔
 quhu	𩖷
 quhv	取回
+quhv	曲绘
 quhw	筁
 quhx	区划
 qui	祛
