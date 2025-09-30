@@ -21381,6 +21381,7 @@ hddj	海胆
 hddt	𣖻
 hddu	黄赌毒
 hddw	还得
+hddy	海顿
 hddz	好大的面子
 hde	海
 hdeg	塰
@@ -189349,6 +189350,8 @@ siyt	四月
 siyu	死于
 siyu	䇃
 siyz	私有
+siz	三重奏
+siz	四重奏
 sizd	死在
 sizf	⺯
 sizi	私自
@@ -196302,6 +196305,8 @@ uftj	神探
 uftj	莘
 uftl	𩉼
 uftl	𱽖
+ufts	神通
+ufts	神童
 uftu	𦺷
 uftv	伸腿
 uftv	葚
@@ -200761,6 +200766,7 @@ vevl	𡝊
 vevs	这种
 vevu	遮住
 vevu	𡜯
+vevz	褶皱
 vewa	䵭
 vewf	鸅
 vewj	折弯
@@ -203753,6 +203759,7 @@ vrwf	撰文
 vrwj	转弯
 vrwl	助人为乐
 vrwu	𡇰
+vrww	转为
 vrww	置若罔闻
 vrx	专项
 vrxb	专心
@@ -217625,6 +217632,7 @@ yirh	㫊
 yiri	一日
 yiri	囈
 yirj	依然
+yirj	毅然
 yirj	㘁
 yirk	咿
 yirk	吚

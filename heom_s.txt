@@ -21381,6 +21381,7 @@ GDP	gdp
 𣖻	hddt
 黄赌毒	hddu
 还得	hddw
+海顿	hddy
 好大的面子	hddz
 海	hde
 塰	hdeg
@@ -189349,6 +189350,8 @@ PPT	ppt
 死于	siyu
 䇃	siyu
 私有	siyz
+三重奏	siz
+四重奏	siz
 死在	sizd
 ⺯	sizf
 私自	sizi
@@ -196302,6 +196305,8 @@ PPT	ppt
 莘	uftj
 𩉼	uftl
 𱽖	uftl
+神通	ufts
+神童	ufts
 𦺷	uftu
 伸腿	uftv
 葚	uftv
@@ -200761,6 +200766,7 @@ PPT	ppt
 这种	vevs
 遮住	vevu
 𡜯	vevu
+褶皱	vevz
 䵭	vewa
 鸅	vewf
 折弯	vewj
@@ -203753,6 +203759,7 @@ PPT	ppt
 转弯	vrwj
 助人为乐	vrwl
 𡇰	vrwu
+转为	vrww
 置若罔闻	vrww
 专项	vrx
 专心	vrxb
@@ -217625,6 +217632,7 @@ PPT	ppt
 一日	yiri
 囈	yiri
 依然	yirj
+毅然	yirj
 㘁	yirj
 咿	yirk
 吚	yirk
