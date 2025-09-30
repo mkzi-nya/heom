@@ -547,6 +547,7 @@ yzhd	5
 yztd	5
 zeyc	5
 zshe	5
+viui	5
 antv	5
 aogk	5
 aoqk	5
@@ -1275,7 +1276,6 @@ zove	4
 zsko	4
 zvmj	4
 vidc	4
-viui	4
 uijm	4
 uiui	4
 jiqi	4

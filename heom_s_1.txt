@@ -1497,7 +1497,7 @@ bcjd	不存芥蒂
 bcjd	宲
 bcjd	𡧖
 bcjf	䴐
-bcji	宝鸡
+bcji	暴击
 bcjk	报警
 bcjl	褒奖
 bcjl	包浆
@@ -31737,8 +31737,8 @@ jimx	霽
 jimx	𨣧
 jimy	磯
 jimz	计谋
-jin	急
 jin	及
+jin	急
 jin	際
 jina	缉拿
 jinb	隔
@@ -202501,8 +202501,9 @@ vitu	𦴀
 vitw	𦭮
 vity	咫尺天涯
 vitz	指头
-viu	知识
-viua	𠚅
+viu	峙
+viua	崻
+viub	𠚅
 viuc	至少
 viuc	𡽆
 viue	直射
@@ -202512,8 +202513,9 @@ viug	只剩
 viuh	之上
 viuh	智商
 viuh	豒
+viui	知识
 viui	指示
-viui	峙
+viui	芝士
 viui	崻
 viui	𠚅
 viuk	直率
@@ -211189,6 +211191,7 @@ xmyq	𨖱
 xmyr	鹹
 xmyr	諴
 xmys	先用
+xmyt	弦乐
 xmyt	訮
 xmyu	咸鱼
 xmyu	㲔
@@ -216065,6 +216068,7 @@ yeqo	擨
 yeqp	拽
 yeqq	𢪧
 yeqt	抴
+yequ	夜曲
 yequ	䎨
 yeqv	䎨
 yeqv	擖
