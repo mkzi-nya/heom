@@ -225280,6 +225280,7 @@ zmlv	祖母绿
 zmng	怎么能
 zmnl	怎么你了
 zmq	奏鸣曲
+zmqu	奏鸣曲式
 zmuo	怎么说
 zmur	走马上任
 zmuy	贼眉鼠眼

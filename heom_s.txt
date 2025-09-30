@@ -224468,6 +224468,7 @@ PPT	ppt
 怎么能	zmng
 怎么你了	zmnl
 奏鸣曲	zmq
+奏鸣曲式	zmqu
 怎么说	zmuo
 走马上任	zmur
 贼眉鼠眼	zmuy
