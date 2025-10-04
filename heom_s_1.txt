@@ -13989,6 +13989,7 @@ fauv	发水
 fauz	发售
 favc	㛲
 favi	法治
+favi	法制
 favj	发展
 favo	姂
 faw	罚
@@ -42994,6 +42995,7 @@ lmji	连击
 lmjj	𪍦
 lmjm	练剑
 lmjp	连接
+lmjp	廉洁
 lmjq	𪍴
 lmju	龙马精神
 lmjx	脸颊
@@ -183459,6 +183461,7 @@ qive	七折
 qivg	齐整
 qivh	起承转合
 qivi	气质
+qivi	棋帜
 qivi	𩴪
 qivj	前车之鉴
 qivj	缉
@@ -192958,6 +192961,7 @@ tmda	天大
 tmdc	天道
 tmde	他妈的
 tmdi	天地
+tmdi	天帝
 tmdj	填单
 tmdj	恬淡
 tmdm	甜点
@@ -206279,6 +206283,7 @@ wjbu	貦
 wjbu	𧲦
 wjbu	𰷡
 wjbw	晚辈
+wjbw	完备
 wjbx	瓦解冰消
 wjbx	我就不信
 wjca	𨩵

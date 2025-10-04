@@ -13989,6 +13989,7 @@ _	;b
 发售	fauz
 㛲	favc
 法治	favi
+法制	favi
 发展	favj
 姂	favo
 罚	faw
@@ -42994,6 +42995,7 @@ IP地址	ipdv
 𪍦	lmjj
 练剑	lmjm
 连接	lmjp
+廉洁	lmjp
 𪍴	lmjq
 龙马精神	lmju
 脸颊	lmjx
@@ -183459,6 +183461,7 @@ PPT	ppt
 齐整	qivg
 起承转合	qivh
 气质	qivi
+棋帜	qivi
 𩴪	qivi
 前车之鉴	qivj
 缉	qivj
@@ -192958,6 +192961,7 @@ PPT	ppt
 天道	tmdc
 他妈的	tmde
 天地	tmdi
+天帝	tmdi
 填单	tmdj
 恬淡	tmdj
 甜点	tmdm
@@ -206279,6 +206283,7 @@ PPT	ppt
 𧲦	wjbu
 𰷡	wjbu
 晚辈	wjbw
+完备	wjbw
 瓦解冰消	wjbx
 我就不信	wjbx
 𨩵	wjca
