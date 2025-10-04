@@ -753,6 +753,7 @@ aoik	廒
 aoik	𥜌
 aoik	𫍵
 aoik	𬤡
+aojn	傲娇
 aojs	軪
 aokk	獓
 aokk	𤺾
@@ -3522,6 +3523,7 @@ bkji	并击
 bkjj	䴵
 bkjl	并将
 bkjm	并肩
+bkjn	病娇
 bkjn	冰窖
 bkjq	并就
 bkjt	䴵
@@ -4917,6 +4919,7 @@ bpzu	憋足
 bpzz	别走
 bq	并且
 bqau	不欺暗室
+bqb	表情包
 bqbi	不清不楚
 bqbn	不屈不挠
 bqdk	不确定
@@ -38672,6 +38675,7 @@ kovc	扩招
 kovh	扩张
 kovj	扩展
 kovr	姡
+koxp	扩写
 koy	适
 koyr	𨓈
 koyr	𪗽
@@ -202604,6 +202608,7 @@ vixk	直行
 vixl	指向
 vixl	志向
 vixm	直线
+vixm	支线
 vixn	知晓
 vixp	致谢
 vixr	之选

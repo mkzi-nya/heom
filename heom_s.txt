@@ -753,6 +753,7 @@ _	;b
 𥜌	aoik
 𫍵	aoik
 𬤡	aoik
+傲娇	aojn
 軪	aojs
 獓	aokk
 𤺾	aokk
@@ -3522,6 +3523,7 @@ _	;b
 䴵	bkjj
 并将	bkjl
 并肩	bkjm
+病娇	bkjn
 冰窖	bkjn
 并就	bkjq
 䴵	bkjt
@@ -4917,6 +4919,7 @@ _	;b
 别走	bpzz
 并且	bq
 不欺暗室	bqau
+表情包	bqb
 不清不楚	bqbi
 不屈不挠	bqbn
 不确定	bqdk
@@ -38672,6 +38675,7 @@ IP地址	ipdv
 扩张	kovh
 扩展	kovj
 姡	kovr
+扩写	koxp
 适	koy
 𨓈	koyr
 𪗽	koyr
@@ -202604,6 +202608,7 @@ PPT	ppt
 指向	vixl
 志向	vixl
 直线	vixm
+支线	vixm
 知晓	vixn
 致谢	vixp
 之选	vixr
