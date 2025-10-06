@@ -214263,7 +214263,6 @@ PPT	ppt
 顨	xyml
 硝烟弥漫	xymm
 驯	xyn
-鲟	xyn
 下一年	xyn
 𩠇	xyna
 𩷰	xynb
@@ -214275,6 +214274,7 @@ PPT	ppt
 孙	xynf
 孫	xynf
 𱈓	xyng
+鲟	xyni
 鱘	xyni
 𨼔	xyni
 殉难	xynj
@@ -214285,6 +214285,7 @@ PPT	ppt
 𩾄	xynj
 𱈓	xynj
 𩷰	xynk
+小药娘	xynl
 愻	xynp
 廵	xynv
 侚	xyoa
@@ -215543,6 +215544,8 @@ PPT	ppt
 𬳁	ycnb
 𢑈	ycnf
 𨹋	ycng
+药娘	ycnl
+🍥	ycnl
 隃	ycnn
 妖孽	ycnp
 𧤮	ycnr

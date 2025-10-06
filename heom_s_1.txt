@@ -214263,7 +214263,6 @@ xymi	璕
 xyml	顨
 xymm	硝烟弥漫
 xyn	驯
-xyn	鲟
 xyn	下一年
 xyna	𩠇
 xynb	𩷰
@@ -214275,6 +214274,7 @@ xyne	𨺮
 xynf	孙
 xynf	孫
 xyng	𱈓
+xyni	鲟
 xyni	鱘
 xyni	𨼔
 xynj	殉难
@@ -214285,6 +214285,7 @@ xynj	𩷰
 xynj	𩾄
 xynj	𱈓
 xynk	𩷰
+xynl	小药娘
 xynp	愻
 xynv	廵
 xyoa	侚
@@ -215543,6 +215544,8 @@ ycmw	妖媚
 ycnb	𬳁
 ycnf	𢑈
 ycng	𨹋
+ycnl	药娘
+ycnl	🍥
 ycnn	隃
 ycnp	妖孽
 ycnr	𧤮
