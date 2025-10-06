@@ -39717,6 +39717,9 @@ kxb	胯
 kxbc	挎包
 kxbd	哭笑不得
 kxbd	髁
+kxbp	跨性别
+kxbp	⚧
+kxbp㕶	🏳️‍⚧
 kxbr	䯞
 kxbs	骻
 kxcd	錁
@@ -50717,7 +50720,6 @@ ngnv	男耕女织
 ngqj	能工巧匠
 ngr	那个人
 ngrf	能人
-ngrm	㕶
 ngrp	𠹌
 ngrp	𨃳
 ngru	𠮾
