@@ -12554,6 +12554,7 @@ _	;b
 出门在外	imzw
 吃奶的劲	indj
 春暖花开	inhk
+长难句	inj
 陈年旧事	inju
 陈年旧账	injv
 吃腻了	inle
