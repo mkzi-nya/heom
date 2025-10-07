@@ -1,23 +1,3 @@
-	ゃ    zya
-	ゅ    zyu
-	ょ    zyo
-	ぁ    za
-	ぃ    zi
-	ぅ    zu
-	ぇ    ze
-	ぉ    zo
-	ゎ    zwa
-	ャ    zya
-	ュ    zyu
-	ョ    zyo
-	ァ    za
-	ィ    zi
-	ゥ    zu
-	ェ    ze
-	ォ    zo
-	ヮ    zwa
-	っ    ztsu
-	ッ    ztsu
 ;	：
 ;a	！
 ;b	_
@@ -229691,6 +229671,8 @@ z	ᶾ
 za	咋
 za	ざ
 za	ザ
+za	ぁ
+za	ァ
 zab	臜
 zaba	𦠛
 zabc	臢
@@ -230168,6 +230150,8 @@ zdzy	自导自演
 ze	则
 ze	ぜ
 ze	ゼ
+ze	ぇ
+ze	ェ
 zea	昃
 zeac	昗
 zeai	𢧠
@@ -230554,6 +230538,8 @@ zhzi	脏字
 zhzu	藏族
 zi	字
 zi	紫
+zi	ぃ
+zi	ィ
 ziai	自爱
 ziao	自傲
 zib	眦
@@ -231184,6 +231170,8 @@ zo	做
 zo	坐
 zo	ぞ
 zo	ゾ
+zo	ぉ
+zo	ォ
 zoa	昨
 zoai	做爱
 zoan	作案
@@ -231741,6 +231729,8 @@ ztle	糟蹋了
 ztlu	总体来说
 ztlw	自投罗网
 ztmq	自讨没趣
+ztsu	っ
+ztsu	ッ
 ztuh	总体上
 ztuj	总体上讲
 ztul	总体说来
@@ -231756,6 +231746,8 @@ zu	ず
 zu	づ
 zu	ズ
 zu	ヅ
+zu	ぅ
+zu	ゥ
 zuai	阻碍
 zubb	座上宾
 zubd	作声不得
@@ -232154,6 +232146,8 @@ zvzc	最早
 zvze	罪责
 zw	贼
 zw	座位
+zwa	ゎ
+zwa	ヮ
 zwaw	自我安慰
 zwb	贼
 zwba	坐卧不安
@@ -232224,6 +232218,8 @@ zxxy	醉醺醺
 zxyi	再下一城
 zxyk	仔细一看
 zy	怎样
+zya	ゃ
+zya	ャ
 zybb	走一步看一步
 zybh	再也不会
 zybi	𥊭
@@ -232277,6 +232273,8 @@ zymk	遵命
 zyn	鳟
 zyni	鱒
 zyo	𨱔
+zyo	ょ
+zyo	ョ
 zyoi	僔
 zyoi	罇
 zyq	撙
@@ -232300,6 +232298,8 @@ zytn	𤮐
 zytv	做一天和尚撞一天钟
 zyu	嶟
 zyu	左右手
+zyu	ゅ
+zyu	ュ
 zyug	吱一声
 zyui	尊师
 zyuu	造谣生事
