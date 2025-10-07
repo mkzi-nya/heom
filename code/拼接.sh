@@ -69,6 +69,7 @@ cp ../heom_无ok拼字.txt ../android/鹤仓/heom.txt
 cp ./4.txt ../android/鹤仓/ok.txt
 sort --stable -t '	' -k2,2 ../heom.txt > ../heom_s.txt
 sort --stable -t '	' -k2,2 ../ziys/heom.txt > ../ziys/heom_s.txt
-awk -F'\t' '{print $2 "\t" $1}' ../heom_s.txt > ../heom_s_1.txt
-awk -F'\t' '{print $2 "\t" $1}' ../ziys/heom_s.txt > ../ziys/heom_s_1.txt
+awk -F'\t' '{gsub(/\r/,""); print $2 "\t" $1}' ../heom_s.txt > ../heom_s_1.txt
+awk -F'\t' '{gsub(/\r/,""); print $2 "\t" $1}' ../ziys/heom_s.txt > ../ziys/heom_s_1.txt
+
 cd "$OLD_DIR"
