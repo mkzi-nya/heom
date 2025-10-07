@@ -195020,6 +195020,7 @@ sim	厮
 sima	司马
 simb	𩅰
 simc	禩
+simi	私密
 simi	㺨
 simi	𤣵
 simk	死命
