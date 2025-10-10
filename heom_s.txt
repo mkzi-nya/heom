@@ -48320,6 +48320,7 @@ IP地址	ipdv
 面向	mmxl
 棉线	mmxm
 棉鞋	mmxp
+免修	mmxq
 面面相觑	mmxq
 棉絮	mmxu
 蒙蒙细雨	mmxy
@@ -204333,6 +204334,7 @@ PPT	ppt
 手牵手	uqu
 山穷水尽	uquj
 十全十美	uqum
+申请书	uquu
 山清水秀	uqux
 神气十足	uquz
 水清无鱼	uqwy

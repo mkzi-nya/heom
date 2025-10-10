@@ -48722,6 +48722,7 @@ mmxi	免息
 mmxl	面向
 mmxm	棉线
 mmxp	棉鞋
+mmxq	免修
 mmxq	面面相觑
 mmxu	棉絮
 mmxy	蒙蒙细雨
@@ -205025,6 +205026,7 @@ uqtv	身强体壮
 uqu	手牵手
 uquj	山穷水尽
 uqum	十全十美
+uquu	申请书
 uqux	山清水秀
 uquz	神气十足
 uqwy	水清无鱼
