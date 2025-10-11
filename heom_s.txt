@@ -187931,8 +187931,8 @@ PPT	ppt
 𤰑	puyn
 𧭎	puyo
 𩑀	puyo
-谱子	puzi
 铺子	puzi
+谱子	puzi……
 ⺙	puzk
 配置	pv
 皮之不存，毛将焉附	pvbf
@@ -191031,6 +191031,7 @@ PPT	ppt
 𨟽	qqfw
 求告	qqgc
 𧻱	qqge
+求根	qqgf
 奇奇怪怪	qqgg
 坵	qqgm
 𧻁	qqgm
