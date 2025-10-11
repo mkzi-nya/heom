@@ -34683,6 +34683,7 @@ jpru	介入
 jpru	𡵒
 jprw	家破人亡
 jprx	家贫如洗
+jps	届
 jpse	劫色
 jpsg	屆
 jpsi	卪
@@ -187930,6 +187931,7 @@ puym	諩
 puyn	𤰑
 puyo	𧭎
 puyo	𩑀
+puzi	谱子
 puzi	铺子
 puzk	⺙
 pv	配置
