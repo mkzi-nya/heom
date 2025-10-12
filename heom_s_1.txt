@@ -28075,6 +28075,7 @@ iiip	祇
 iiiq	𰶈
 iiir	吃穿
 iiit	𫍧
+iiiu	彳亍
 iiiu	㡿
 iiiu	𥚚
 iij	翅
@@ -52736,6 +52737,8 @@ ohv	ǖ
 ohv	ǘ
 ohv	ǚ
 ohv	ǜ
+ohyo	哦嗨哟
+ohyo	おはよう
 oi	😊
 oiaj	🤫
 oiax	😌

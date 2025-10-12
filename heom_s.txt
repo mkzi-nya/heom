@@ -28075,6 +28075,7 @@ GDP	gdp
 𰶈	iiiq
 吃穿	iiir
 𫍧	iiit
+彳亍	iiiu
 㡿	iiiu
 𥚚	iiiu
 翅	iij
@@ -52736,6 +52737,8 @@ $	ofhb
 ǘ	ohv
 ǚ	ohv
 ǜ	ohv
+哦嗨哟	ohyo
+おはよう	ohyo
 😊	oi
 🤫	oiaj
 😌	oiax
