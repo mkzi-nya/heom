@@ -537,7 +537,8 @@
 𪙏	jpyd
 𫜯	jpyf
 𫃗	jqfa
-𫄙	jqva
+乣	jqva
+𫄙	jqvb
 𨖏	jqya
 鴡	juba
 鶪	jubh
@@ -719,8 +720,9 @@
 啔	qiio
 𡹘	qiiq
 𥤥	qijd
-𣯆	qijg
-𧡺	qijh
+𡫁	qijg
+𣯆	qijh
+𧡺	qijj
 蚚	qilh
 𧌞	qilj
 𢁒	qilm
@@ -2929,7 +2931,7 @@
 𩲪	qifs
 𡹘	qiuh
 𥫟	qium
-𢺷	qijj
+𢺷	qijk
 𤺗	qika
 𬨂	qikb
 𧕉	qilz

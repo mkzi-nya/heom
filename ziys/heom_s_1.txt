@@ -1,3 +1,4 @@
+	五声调式
 ;	：
 ;a	！
 ;b	_
@@ -8192,6 +8193,7 @@ dacr	鎝
 dacs	大葱
 dada	大大
 dadc	大道
+dadc	答道
 dadh	搭档
 dadi	大地
 dadi	打底
@@ -8410,6 +8412,7 @@ dath	大堂
 dati	答题
 datj	打探
 datk	打听
+datk	大厅
 datm	靼
 datm	𦬹
 datn	剳
@@ -11183,6 +11186,7 @@ dntq	对牛弹琴
 dntr	𩋙
 dntz	掉头
 dnui	雕饰
+dnui	调式
 dnva	掉渣
 dnve	吊着
 dnvf	吊针
@@ -29016,6 +29020,7 @@ ijvr	㚲
 ijwi	𪓄
 ijwu	产物
 ijxn	产销
+ijxn	谄笑
 ijy	颤
 ijya	䜛
 ijyb	颤音
@@ -32674,6 +32679,7 @@ jjuh	经济实惠
 jjui	久经沙场
 jjuj	旧金山
 jjul	节节胜利
+jjuq	借景抒情
 jjuu	结结实实
 jjuu	句句属实
 jjuz	狙击手
@@ -33287,6 +33293,7 @@ jlvq	𢪇
 jlvs	江中
 jlvs	䋌
 jlvt	㢡
+jlvu	僵住
 jlvu	嗟来之食
 jlvv	既来之，则安之
 jlvw	醬
@@ -35394,7 +35401,8 @@ jquv	酒水
 jquz	就手
 jqv	纠
 jqv	糾
-jqva	𫄙
+jqva	乣
+jqvb	𫄙
 jqvd	旧宅
 jqve	九折
 jqvf	就诊
@@ -35415,6 +35423,7 @@ jqvo	奺
 jqvs	酒盅
 jqvs	𠠳
 jqvu	救助
+jqvu	揪住
 jqvu	糺
 jqvu	乣
 jqvu	𫄙
@@ -189414,12 +189423,13 @@ qije	𡪵
 qije	𢺷
 qijf	鶈
 qijf	𪄖
-qijg	𣯆
-qijh	𧡺
+qijg	𡫁
+qijh	𣯆
 qiji	奇迹
 qiji	契机
 qiji	蟿
-qijj	𢺷
+qijj	𧡺
+qijk	𢺷
 qijl	𨙸
 qijl	郪
 qijl	𨞢
@@ -189436,6 +189446,7 @@ qijr	𢻋
 qijs	𠀁
 qijt	气绝
 qiju	器具
+qiju	齐聚
 qiju	罊
 qiju	𡫁
 qiju	𣯆
@@ -195586,6 +195597,7 @@ sihv	撕毁
 sihx	丝滑
 sihy	厮混
 sihz	死后
+sihz	嘶吼
 sii	祀
 siia	𪊍
 siic	思潮
@@ -195610,6 +195622,7 @@ siiy	思春
 siiz	丝绸
 sij	漦
 siji	司机
+siji	死寂
 sijl	䡳
 sijn	死角
 sijp	死结
@@ -201961,6 +201974,7 @@ uatn	𦭉
 uato	萐
 uatu	沙土
 uatz	杀头
+uau	霎时
 uaua	傻傻
 uaug	杀生
 uauh	杀伤
@@ -222832,6 +222846,7 @@ yeyp	謁
 yeyr	幼儿园
 yeys	也用
 yeyu	业余
+yeyu	揶揄
 yeyv	謁
 yeyx	言而有信
 yeyz	也有

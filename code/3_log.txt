@@ -223,6 +223,7 @@ liks	6
 lkyi	6
 mihu	6
 npru	6
+qiju	6
 qimc	6
 qlvi	6
 qmqq	6
@@ -435,6 +436,7 @@ jnhe	5
 jnkk	5
 jpdr	5
 jpyr	5
+jqvu	5
 jubf	5
 judq	5
 juhs	5
@@ -452,7 +454,6 @@ mwmd	5
 mwmu	5
 piyj	5
 pktj	5
-qiju	5
 qill	5
 qinc	5
 qitc	5
@@ -978,7 +979,6 @@ jphv	4
 jpqi	4
 jpti	4
 jqff	4
-jqvu	4
 jqye	4
 jubl	4
 judr	4

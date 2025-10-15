@@ -14116,6 +14116,7 @@ IP地址	ipdv
 江中	jlvs
 奖章	jlvh
 奖状	jlvl
+僵住	jlvu
 嗟来之食	jlvu
 既来之，则安之	jlvv
 捡了芝麻，丢了西瓜	jlvg
@@ -51977,3 +51978,15 @@ n-buna	nbna
 彳亍	iiiu
 哦嗨哟	ohyo
 おはよう	ohyo
+谄笑	ijxn
+揪住	jqvu
+齐聚	qiju
+霎时	uau
+揶揄	yeyu
+大厅	datk
+死寂	siji
+答道	dadc
+嘶吼	sihz
+借景抒情	jjuq
+五声调式
+调式	dnui
