@@ -4289,6 +4289,7 @@ _	;b
 㟽	bnuf
 飙升	bnug
 表示	bnui
+标识	bnui
 表率	bnuk
 𠚠	bnum
 㠒	bnun
@@ -203013,7 +203014,6 @@ PPT	ppt
 视察	uiia
 师	uiib
 𫀌	uiib
-诗抄	uiic
 识	uiic
 𧠜	uiid
 时辰	uiif

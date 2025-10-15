@@ -4345,6 +4345,7 @@ bntz	表头
 bnuf	㟽
 bnug	飙升
 bnui	表示
+bnui	标识
 bnuk	表率
 bnum	𠚠
 bnun	㠒
@@ -203703,7 +203704,6 @@ uii	视
 uiia	视察
 uiib	师
 uiib	𫀌
-uiic	诗抄
 uiic	识
 uiid	𧠜
 uiif	时辰
