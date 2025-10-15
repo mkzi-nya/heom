@@ -38907,8 +38907,8 @@ ktuh	口头上
 ktuz	看图识字
 ktvp	空头支票
 ktyu	口头语
-ku	哭
 ku	酷
+ku	哭
 kuai	酷爱
 kuao	苦熬
 kubc	顝
