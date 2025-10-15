@@ -230088,6 +230088,7 @@ PPT	ppt
 自信	zixb
 再创新高	zixg
 仔细	zixi
+自习	zixi
 自行	zixk
 自小	zixn
 自修	zixq
