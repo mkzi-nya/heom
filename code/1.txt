@@ -51988,5 +51988,7 @@ n-buna	nbna
 答道	dadc
 嘶吼	sihz
 借景抒情	jjuq
-五声调式
+五声调式	wudu
 调式	dnui
+一寸	yicy
+挺直	tkvi
