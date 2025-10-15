@@ -49876,6 +49876,7 @@ mwtk	𦼻
 mwtm	每天
 mwtm	𪉏
 mwtn	每条
+mwts	美瞳
 mwtu	美图
 mwtu	葿
 mwtu	𩋿
@@ -200521,8 +200522,8 @@ ts	同
 ts	通
 tsag	曈
 tsar	晍
-tsb	彤
 tsb	瞳
+tsb	彤
 tsba	𩩅
 tsbc	通报
 tsbc	同胞
