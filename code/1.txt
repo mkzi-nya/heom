@@ -51994,3 +51994,5 @@ n-buna	nbna
 标识	bnui
 美瞳	mwts
 自习	zixi
+异体	yiti
+异体字	ytz

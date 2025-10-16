@@ -1,3 +1,4 @@
+𱊰	yiym
 謻	yiyn
 譩	yiyp
 𢡃	yiyp
@@ -310,6 +311,7 @@ yums	6
 yjlv	6
 yjyc	6
 ljmw	6
+yiti	6
 bilp	6
 bivj	6
 bone	6
@@ -788,7 +790,6 @@ yinn	5
 yiop	5
 yipn	5
 yisn	5
-yiti	5
 yiym	5
 yiyp	5
 yjsv	5
