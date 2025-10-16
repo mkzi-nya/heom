@@ -217345,7 +217345,6 @@ PPT	ppt
 消磨	xnmo
 消灭	xnmp
 小妹	xnmw
-骁	xnn
 小男娘	xnn
 笑纳	xnna
 鮹	xnnb
@@ -217354,6 +217353,7 @@ PPT	ppt
 骄	xnnl
 小鸟	xnnn
 小妞	xnnq
+骁	xnnu
 校内	xnnw
 彇	xnnx
 销	xno

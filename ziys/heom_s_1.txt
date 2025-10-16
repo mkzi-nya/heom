@@ -218101,7 +218101,6 @@ xnmk	𨠦
 xnmo	消磨
 xnmp	消灭
 xnmw	小妹
-xnn	骁
 xnn	小男娘
 xnna	笑纳
 xnnb	鮹
@@ -218110,6 +218109,7 @@ xnng	效能
 xnnl	骄
 xnnn	小鸟
 xnnq	小妞
+xnnu	骁
 xnnw	校内
 xnnx	彇
 xno	销
