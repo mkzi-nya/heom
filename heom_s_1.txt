@@ -195451,7 +195451,9 @@ smuh	什么时候
 smvi	三明治
 smvx	司马昭之心
 smxd	四目相对
+smy	有什么用
 smyi	扫描仪
+smys	什么意思
 sn	随你
 snbv	三年不开张
 snj	三年级
