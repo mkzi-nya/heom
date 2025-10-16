@@ -31404,8 +31404,8 @@ IP地址	ipdv
 𥝌	jihd
 𨤹	jihd
 集合	jihe
-稷	jihe
 几何	jihe
+稷	jihe
 㧀	jihe
 㹄	jihe
 彶	jihe
