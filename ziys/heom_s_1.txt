@@ -228026,6 +228026,7 @@ yumy	𤥽
 yumz	预谋
 yun	鱼
 yun	预
+yun	🐟
 yuna	䃋
 yunb	隅
 yunb	鬻

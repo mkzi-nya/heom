@@ -227239,6 +227239,7 @@ PPT	ppt
 预谋	yumz
 鱼	yun
 预	yun
+🐟	yun
 䃋	yuna
 隅	yunb
 鬻	yunb
