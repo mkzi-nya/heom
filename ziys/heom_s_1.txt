@@ -48146,6 +48146,7 @@ mjjb	蛮劲
 mjje	䡬
 mjje	𥧭
 mjje	𪍩
+mjji	满级
 mjjp	满街
 mjjv	摩肩接踵
 mjke	獌
@@ -210674,6 +210675,7 @@ vsyg	𧬤
 vsyh	中央
 vsyi	中医
 vsyj	忠言
+vsyj	终焉
 vsyk	中英
 vsym	𧆼
 vsyo	螤
