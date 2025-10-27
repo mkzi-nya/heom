@@ -189447,6 +189447,7 @@ qjfm	全军覆没
 qjfu	全家福
 qjgs	清洁工
 qjhg	前倨后恭
+qjj	将进酒
 qjji	清洁剂
 qjjr	情景交融
 qjjy	勤俭节约
@@ -189842,7 +189843,6 @@ qlku	猐
 qlkz	枪口
 qll	襁
 qll	将
-qll	蜣
 qllb	强邻
 qllg	𰊈
 qlli	强力
@@ -189851,6 +189851,7 @@ qllm	丬
 qllp	强烈
 qllp	强烈的
 qllt	抢掠
+qllu	蜣
 qlm	玱
 qlma	千里马
 qlmb	𧱡
