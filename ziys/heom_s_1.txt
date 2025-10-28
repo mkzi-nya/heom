@@ -15367,6 +15367,7 @@ fjju	饭局
 fjjw	轓
 fjjx	返家
 fjk	犯
+fjka	饭卡
 fjkd	翻开
 fjke	㽹
 fjke	𰹺
@@ -229336,6 +229337,7 @@ yzie	𢋣
 yzie	𥜚
 yzig	又称
 yzih	有偿
+yzih	悠长
 yzio	邮戳
 yzio	𬱔
 yzip	麀

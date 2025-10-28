@@ -15178,6 +15178,7 @@ _	;b
 轓	fjjw
 返家	fjjx
 犯	fjk
+饭卡	fjka
 翻开	fjkd
 㽹	fjke
 𰹺	fjke
@@ -228548,6 +228549,7 @@ PPT	ppt
 𥜚	yzie
 又称	yzig
 有偿	yzih
+悠长	yzih
 邮戳	yzio
 𬱔	yzio
 麀	yzip
