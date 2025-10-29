@@ -1963,10 +1963,10 @@
 䯛	wjbe
 睌	wjbg
 睕	wjbh
-脕	wjbk
-貦	wjbl
-𧲦	wjbm
-𰷡	wjbn
+脕	wjbl
+貦	wjbm
+𧲦	wjbn
+𰷡	wjbo
 𤀷	wwea
 𤁿	wwed
 𩢌	wfye

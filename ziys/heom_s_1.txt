@@ -44186,6 +44186,7 @@ lpmv	䝓
 lpmv	姴
 lpmv	𧞕
 lpna	𩨐
+lpnk	列宁
 lpnv	烈女
 lpnv	𫚭
 lpnv	鱲
@@ -48394,6 +48395,7 @@ mkr	鳴
 mkrf	名人
 mkrf	鳴
 mkri	明日
+mks	马克思
 mksd	𡥸
 mkt	茗
 mktb	萌
@@ -212879,10 +212881,11 @@ wjbh	睕
 wjbi	完毕
 wjbi	𤧩
 wjbj	晚班
-wjbk	脕
-wjbl	貦
-wjbm	𧲦
-wjbn	𰷡
+wjbk	维基百科
+wjbl	脕
+wjbm	貦
+wjbn	𧲦
+wjbo	𰷡
 wjbp	瞣
 wjbp	贃
 wjbp	𧹗
