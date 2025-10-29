@@ -30814,6 +30814,7 @@ jb	就把
 jbaa	㬐
 jbai	紧挨
 jbbb	骄兵必败
+jbbc	劲爆
 jbbd	近百
 jbbg	紧绷
 jbbh	金榜
