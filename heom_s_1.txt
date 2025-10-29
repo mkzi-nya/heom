@@ -212103,6 +212103,7 @@ wibz	无处不在
 wicu	无处藏身
 wid	胃肠道
 wijj	无产阶级
+wiki	wiki
 wikq	无处可去
 wima	无重码
 wimj	望尘莫及
@@ -213687,6 +213688,7 @@ wwjc	𩑵
 wwjd	𥧙
 wwjf	寪
 wwji	危机
+wwji	维基
 wwjj	文文静静
 wwjk	未经
 wwjl	𨚘

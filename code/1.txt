@@ -52004,3 +52004,5 @@ n-buna	nbna
 将进酒	qjj
 饭卡	fjka
 悠长	yzih
+维基	wwji
+wiki	wiki
