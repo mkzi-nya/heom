@@ -197162,6 +197162,7 @@ tcvu	綯
 tcvx	嫍
 tcvx	縚
 tcvx	𬘺
+tcwa	套娃
 tcwh	逃亡
 tcxb	掏心
 tcxi	淘洗
@@ -223312,6 +223313,7 @@ yimw	一枚
 yimx	𨠑
 yimy	𩈭
 yimz	𠪗
+yin	乙
 yina	一刹那
 yina	鮨
 yina	𮬜
@@ -223358,7 +223360,6 @@ yint	彛
 yint	彞
 yint	𥃠
 yint	𮩞
-yinu	乙
 yinu	𨹝
 yinv	义女
 yinv	䧇
