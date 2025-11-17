@@ -42730,6 +42730,7 @@ llmi	两米
 llmk	两名
 llmm	两面
 llmm	泪流满面
+llmm	琳琅满目
 llmo	兩
 llms	㔝
 llms	𫦩
