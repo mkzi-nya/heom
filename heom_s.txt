@@ -13516,6 +13516,7 @@ _	;b
 儿化音	ehyb
 二合一	ehyi
 欸	ei
+欸嘿	eihw
 欸	eii
 诶	eiik
 二传手	eiuz
@@ -28399,6 +28400,7 @@ GDP	gdp
 迟早	iizc
 斥责	iize
 尺子	iizi
+赤子	iizi
 赤足	iizu
 ⻭	iizu
 ⻮	iizu
@@ -36068,6 +36070,7 @@ IP地址	ipdv
 𪧘	juja
 拘谨	jujb
 聚集	juji
+狙击	juji
 車	jujj
 举荐	jujm
 尽善尽美	jujm
@@ -46377,6 +46380,7 @@ IP地址	ipdv
 民怨	mbyr
 民用	mbys
 满不在乎	mbzh
+民族自豪	mbzh
 ⺠	mbzp
 民族	mbzu
 默不作声	mbzu
@@ -47675,6 +47679,7 @@ IP地址	ipdv
 蜜枣	mizc
 迷醉	mizv
 慢	mj
+曼	mja
 曼	mjae
 𢿜	mjak
 𣁜	mjak
@@ -48791,6 +48796,7 @@ IP地址	ipdv
 謨	moyk
 𩐻	moyk
 𧥟	moys
+摸鱼	moyu
 灭	mp
 𩔠	mpbc
 𪒍	mpbf
@@ -195458,7 +195464,6 @@ PPT	ppt
 三明治	smvi
 司马昭之心	smvx
 四目相对	smxd
-有什么用	smy
 扫描仪	smyi
 什么意思	smys
 随你	sn
@@ -209983,6 +209988,7 @@ PPT	ppt
 直通车	vtie
 状态栏	vtlj
 这条路	vtlu
+主题曲	vtq
 长他人志气，灭自己威风	vtrf
 政通人和	vtrh
 长他人志气	vtrq
@@ -226223,6 +226229,7 @@ wiki	wiki
 𩆄	ysmg
 砽	ysmq
 𨤂	ysmw
+有什么用	ysmy
 勇	ysn
 鳙	ysn
 鱅	ysna

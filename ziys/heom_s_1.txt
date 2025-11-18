@@ -13689,6 +13689,7 @@ ehyb	儿化音
 ehyi	二合一
 ei	欸
 ei	ㄟ
+eihw	欸嘿
 eii	欸
 eiik	诶
 eiuz	二传手
@@ -28704,6 +28705,7 @@ iiyz	持有
 iizc	迟早
 iize	斥责
 iizi	尺子
+iizi	赤子
 iizu	赤足
 iizu	⻭
 iizu	⻮
@@ -36396,6 +36398,7 @@ juj	咀嚼
 juja	𪧘
 jujb	拘谨
 juji	聚集
+juji	狙击
 jujj	車
 jujm	举荐
 jujm	尽善尽美
@@ -46774,6 +46777,7 @@ mbyp	忞
 mbyr	民怨
 mbys	民用
 mbzh	满不在乎
+mbzh	民族自豪
 mbzp	⺠
 mbzu	民族
 mbzu	默不作声
@@ -48079,6 +48083,7 @@ miyy	密云
 mizc	蜜枣
 mizv	迷醉
 mj	慢
+mja	曼
 mjae	曼
 mjak	𢿜
 mjak	𣁜
@@ -49197,6 +49202,7 @@ moya	磨牙
 moyk	謨
 moyk	𩐻
 moys	𧥟
+moyu	摸鱼
 mp	灭
 mpbc	𩔠
 mpbf	𪒍
@@ -196082,7 +196088,6 @@ smuh	什么时候
 smvi	三明治
 smvx	司马昭之心
 smxd	四目相对
-smy	有什么用
 smyi	扫描仪
 smys	什么意思
 sn	随你
@@ -210706,6 +210711,7 @@ vtgv	债台高筑
 vtie	直通车
 vtlj	状态栏
 vtlu	这条路
+vtq	主题曲
 vtrf	长他人志气，灭自己威风
 vtrh	政通人和
 vtrq	长他人志气
@@ -227008,6 +227014,7 @@ ysmg	勇猛
 ysmg	𩆄
 ysmq	砽
 ysmw	𨤂
+ysmy	有什么用
 ysn	勇
 ysn	鳙
 ysna	鱅
