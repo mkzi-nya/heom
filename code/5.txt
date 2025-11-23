@@ -50,6 +50,9 @@ github	gith
 deepseek	deep
 python	pyth
 rime	rime
+reality	real
+phigros	phig
+cytus	cytu
 ちゃん	jl
 ₍˄·͈༝·͈˄*₎◞ ̑̑	mcmc
 ❤	aixb

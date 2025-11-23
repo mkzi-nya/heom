@@ -8071,6 +8071,7 @@ cyre	踆
 cyri	蹲
 cyri	吋
 cyru	存入
+cytu	cytus
 cyue	村舍
 cyuf	存身
 cyuu	此一时，彼一时
@@ -186844,6 +186845,7 @@ phhs	䅭
 phhs	篣
 phhu	胖乎乎
 phi	庞
+phig	phigros
 phih	尨
 phih	庬
 phip	龐
@@ -193304,6 +193306,7 @@ re	惹
 re	れ
 re	レ
 reai	热爱
+real	reality
 rebf	𤑄
 rebo	热播
 redd	热带
