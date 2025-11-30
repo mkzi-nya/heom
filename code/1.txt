@@ -40884,6 +40884,7 @@ IP地址	ipdv
 哿	gek
 虼	geln
 遘	gzy
+彁	genr
 饹	genr
 暅	gga
 堽	ghg

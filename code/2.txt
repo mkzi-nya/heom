@@ -7085,7 +7085,6 @@
 𨼣	genj
 䧄	genr
 呄	genr
-彁	genr
 觡	genr
 鮯	genr
 𩹿	genr

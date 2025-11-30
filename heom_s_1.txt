@@ -17511,7 +17511,7 @@ gemp	𢎄
 gemr	臵
 gemv	𤩲
 gen	隔
-gena	彁
+gena	呄
 genb	𩹺
 genc	觡
 gend	鮯
@@ -17519,10 +17519,10 @@ gene	𩹿
 genf	𫚗
 geng	过而能改
 genj	𨼣
+genr	彁
 genr	饹
 genr	䧄
 genr	呄
-genr	彁
 genr	觡
 genr	鮯
 genr	𩹿
