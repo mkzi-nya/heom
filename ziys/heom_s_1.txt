@@ -189393,8 +189393,8 @@ qiic	𢩡
 qiic	𰵲
 qiid	倾巢出动
 qiid	棨
-qiie	汽车
 qiie	骑车
+qiie	汽车
 qiif	戚
 qiif	綮
 qiif	䋯
