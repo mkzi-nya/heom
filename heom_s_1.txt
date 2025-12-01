@@ -29854,6 +29854,7 @@ iuwj	斣
 iuwm	𱊬
 iuwo	歜
 iuwu	储物
+iuxb	初心
 iuxi	出席
 iuxi	除夕
 iuxk	雏形
@@ -187957,8 +187958,8 @@ puym	諩
 puyn	𤰑
 puyo	𧭎
 puyo	𩑀
+puzi	谱子
 puzi	铺子
-puzi……	谱子
 puzk	⺙
 pv	配置
 pvbf	皮之不存，毛将焉附
@@ -188843,6 +188844,7 @@ qiic	𰵲
 qiid	倾巢出动
 qiid	棨
 qiie	汽车
+qiie	骑车
 qiif	戚
 qiif	綮
 qiif	䋯
