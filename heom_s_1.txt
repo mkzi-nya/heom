@@ -196972,6 +196972,7 @@ tbku	脱不开身
 tble	太棒了
 tblj	挑拨离间
 tblu	土八路
+tbq	听不清
 tbqi	听不清楚
 tbsu	退避三舍
 tbsy	推本溯源
