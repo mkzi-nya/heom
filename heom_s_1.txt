@@ -191309,6 +191309,7 @@ qqxt	求学
 qqxu	区区小事
 qqy	逑
 qqyb	蚯蚓
+qqye	秋叶
 qqyf	𧇸
 qqyn	訅
 qqyn	𨕦
@@ -200347,6 +200348,7 @@ tujk	途径
 tujk	宊
 tujk	𥥛
 tujm	土建
+tujm	图鉴
 tujm	𱊖
 tujn	𠞀
 tujn	𠟶
@@ -213051,6 +213053,7 @@ wujl	武将
 wujm	物件
 wujn	午觉
 wujp	误解
+wujp	五阶
 wujr	寤
 wujr	窹
 wuju	舞剧
