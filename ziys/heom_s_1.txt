@@ -11734,6 +11734,7 @@ dqo	铥
 dqpb	大气磅礴
 dqpl	大权旁落
 dqpm	单枪匹马
+dqq	荡秋千
 dqqi	丢弃
 dqqm	丢钱
 dqrc	的确如此
@@ -52281,6 +52282,7 @@ nvgv	女鬼
 nvgv	能征惯战
 nvh	衄
 nvhc	䘐
+nvhd	女孩
 nvhg	䶊
 nvhh	衂
 nvhi	衂
