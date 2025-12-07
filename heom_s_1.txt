@@ -5353,7 +5353,7 @@ buue	不舍
 buuf	不慎
 buug	不胜
 buuh	补上
-buui	不是
+buui	不适
 buuj	布衫
 buuj	不失时机
 buul	不爽
@@ -204015,6 +204015,7 @@ ulbk	𧴅
 ulbm	双边
 ulbs	生老病死
 ulbs	十里不同俗
+ulbu	生理不适
 ulbw	双倍
 ulbw	上梁不正下梁歪
 ulbx	十里八乡
@@ -212136,8 +212137,8 @@ wivt	无耻之徒
 wivy	无耻之尤
 wiwd	问长问短
 wiyp	维持原判
-wj	完
 wj	玩
+wj	完
 wja	晚
 wjak	関
 wjal	鄤
