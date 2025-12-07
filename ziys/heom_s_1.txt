@@ -23111,6 +23111,7 @@ hkby	虎口拔牙
 hkd	槐
 hkdi	会哭的孩子有奶吃
 hkdj	坏蛋
+hkdn	坏掉
 hkdv	櫰
 hke	淮
 hkee	𣸎
