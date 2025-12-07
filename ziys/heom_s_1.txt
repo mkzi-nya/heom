@@ -45011,6 +45011,7 @@ lthx	龙潭虎穴
 lthy	狼吞虎咽
 ltig	略称
 ltji	落汤鸡
+ltjl	聊天记录
 ltld	𧑀
 ltlf	𧎾
 ltln	愣头愣脑
