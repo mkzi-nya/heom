@@ -32290,6 +32290,7 @@ IP地址	ipdv
 𪊆	jiyx
 䢋	jiyy
 既有	jiyz
+基友	jiyz
 鸡杂	jiza
 急躁	jizc
 记载	jizd
@@ -202482,8 +202483,9 @@ PPT	ppt
 𰑪	ugpu
 甸	ugpw
 生擒	ugqb
-升起	ugqi
 生气	ugqi
+升起	ugqi
+升旗	ugqi
 盛情	ugqk
 省钱	ugqm
 省去	ugqu
@@ -226505,6 +226507,7 @@ wiki	wiki
 一条路走到黑	ytlh
 𢁞	ytlh
 阅历	ytli
+乐理	ytli
 阅览	ytlj
 月亮	ytll
 一团乱麻	ytlm

@@ -32290,6 +32290,7 @@ jiyx	䶩
 jiyx	𪊆
 jiyy	䢋
 jiyz	既有
+jiyz	基友
 jiza	鸡杂
 jizc	急躁
 jizd	记载
@@ -202482,8 +202483,9 @@ ugpu	憴
 ugpu	𰑪
 ugpw	甸
 ugqb	生擒
-ugqi	升起
 ugqi	生气
+ugqi	升起
+ugqi	升旗
 ugqk	盛情
 ugqm	省钱
 ugqu	省去
@@ -226505,6 +226507,7 @@ ytle	蠖
 ytlh	一条路走到黑
 ytlh	𢁞
 ytli	阅历
+ytli	乐理
 ytlj	阅览
 ytll	月亮
 ytlm	一团乱麻
