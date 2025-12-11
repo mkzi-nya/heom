@@ -194659,6 +194659,7 @@ rvo	锐
 rvpd	橤
 rvpf	繠
 rvpi	𢣳
+rvpk	锐评
 rvpp	惢
 rvpt	𣬘
 rvqb	擩
@@ -226325,7 +226326,7 @@ ymyy	一模一样
 ymyy	有模有样
 ymyz	有没有
 ymzi	夜猫子
-ymzl	夜猫子进宅，无事不来
+ymzl	迎面走来
 yn	云南
 ynbn	有奶便是娘
 ynbz	一年半载

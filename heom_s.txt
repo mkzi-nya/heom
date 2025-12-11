@@ -194069,6 +194069,7 @@ PPT	ppt
 橤	rvpd
 繠	rvpf
 𢣳	rvpi
+锐评	rvpk
 惢	rvpp
 𣬘	rvpt
 擩	rvqb
@@ -225538,7 +225539,7 @@ wiki	wiki
 有模有样	ymyy
 有没有	ymyz
 夜猫子	ymzi
-夜猫子进宅，无事不来	ymzl
+迎面走来	ymzl
 云南	yn
 有奶便是娘	ynbn
 一年半载	ynbz
