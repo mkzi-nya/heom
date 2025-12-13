@@ -14677,6 +14677,7 @@ fgva	綘
 fgvb	𤖀
 fgvc	凤爪
 fgvd	𮶂
+fgvf	缝针
 fgvg	风筝
 fgvh	疯长
 fgvi	峰值
@@ -21118,6 +21119,7 @@ hceb	滈
 hceb	瀥
 hcec	灝
 hcee	好饿
+hcei	好欸
 hcej	滜
 hcek	淏
 hceo	灏
@@ -47355,6 +47357,7 @@ mhyt	𥁃
 mhyu	忙于
 mhyv	名花有主
 mhyw	𤰡
+mhyz	米哈游
 mi	米
 miaa	日
 miab	𨷬
@@ -195884,6 +195887,7 @@ ssn	三四年
 ssnk	𩠌
 ssnl	𱅔
 ssnn	岁岁年年
+ssnn	碎碎念念
 ssno	𬲪
 ssnt	岁岁年年人不同
 sso	怂
@@ -204366,6 +204370,7 @@ uqbm	声情并茂
 uqbq	上气不接下气
 uqbs	十七八岁
 uqfr	蜀犬吠日
+uqgu	睡前故事
 uqh	深情厚谊
 uqhx	神气活现
 uqhy	诗情画意
@@ -205174,6 +205179,7 @@ uvq	水蒸气
 uvqg	生殖器官
 uvqi	水汽
 uvql	水枪
+uvqm	睡前
 uvqm	税前
 uvqq	水球
 uvqr	舌战群儒
@@ -226006,6 +226012,7 @@ yrtv	薗
 yrtz	源头
 yrub	𡷡
 yrue	远射
+yruf	原神
 yruf	㟶
 yrug	原生
 yrui	原始

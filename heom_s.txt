@@ -14677,6 +14677,7 @@ _	;b
 𤖀	fgvb
 凤爪	fgvc
 𮶂	fgvd
+缝针	fgvf
 风筝	fgvg
 疯长	fgvh
 峰值	fgvi
@@ -21118,6 +21119,7 @@ GDP	gdp
 瀥	hceb
 灝	hcec
 好饿	hcee
+好欸	hcei
 滜	hcej
 淏	hcek
 灏	hceo
@@ -47355,6 +47357,7 @@ IP地址	ipdv
 忙于	mhyu
 名花有主	mhyv
 𤰡	mhyw
+米哈游	mhyz
 米	mi
 日	miaa
 𨷬	miab
@@ -195884,6 +195887,7 @@ PPT	ppt
 𩠌	ssnk
 𱅔	ssnl
 岁岁年年	ssnn
+碎碎念念	ssnn
 𬲪	ssno
 岁岁年年人不同	ssnt
 怂	sso
@@ -204366,6 +204370,7 @@ PPT	ppt
 上气不接下气	uqbq
 十七八岁	uqbs
 蜀犬吠日	uqfr
+睡前故事	uqgu
 深情厚谊	uqh
 神气活现	uqhx
 诗情画意	uqhy
@@ -205174,6 +205179,7 @@ PPT	ppt
 生殖器官	uvqg
 水汽	uvqi
 水枪	uvql
+睡前	uvqm
 税前	uvqm
 水球	uvqq
 舌战群儒	uvqr
@@ -226006,6 +226012,7 @@ wiki	wiki
 源头	yrtz
 𡷡	yrub
 远射	yrue
+原神	yruf
 㟶	yruf
 原生	yrug
 原始	yrui
