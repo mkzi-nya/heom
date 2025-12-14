@@ -24541,6 +24541,7 @@ github	gith
 红轴	hsvz
 𱖀	hswa
 红外	hswd
+红温	hswf
 𡇳	hswl
 宏伟	hsww
 红心	hsxb

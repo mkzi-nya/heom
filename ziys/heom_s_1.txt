@@ -24541,6 +24541,7 @@ hsvu	红烛
 hsvz	红轴
 hswa	𱖀
 hswd	红外
+hswf	红温
 hswl	𡇳
 hsww	宏伟
 hsxb	红心
