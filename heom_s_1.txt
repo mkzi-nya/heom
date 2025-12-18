@@ -1,3 +1,4 @@
+	
 ;	：
 ;a	！
 ;b	_
@@ -32231,6 +32232,7 @@ jixq	机修
 jixs	鸡胸
 jixt	积雪
 jixu	继续
+jixu	记叙
 jixx	记下
 jixy	集训
 jiy	迹
@@ -36881,6 +36883,7 @@ jxvl	假装
 jxvs	加重
 jxvz	假戏真做
 jxw	甲
+jxw	记叙文
 jxwb	吉凶未卜
 jxwf	加温
 jxwi	𩲣
@@ -52777,6 +52780,7 @@ oi	😊
 oiaj	🤫
 oiax	😌
 oibb	🤗
+oibd	⬛
 oibm	☹
 oibt	🙏
 oibu	🤭
@@ -52808,19 +52812,24 @@ oigz	🐕
 oigz	✅
 oiha	😀
 oihd	🦋
+oihe	🟫
 oihh	🙂
 oihi	😍
 oihi	😋
 oihj	😓
 oihq	🥱
+oihs	🟥
+oihs	🟨
 oiht	🐵
 oiht	🐡
 oiht	🐯
 oiht	🐬
 oihu	🐅
+oihw	⬜ 
 oihx	🌸
 oiia	🍵
 oiia	❎
+oiig	🟧
 oiig	✖️
 oiii	🐛
 oiij	😯
@@ -52848,6 +52857,7 @@ oikv	😷
 oiky	😪
 oilh	😓
 oilh	😰
+oilj	🟦
 oilk	💔
 oilm	😐
 oils	🐲
@@ -52855,6 +52865,7 @@ oils	🐉
 oilt	🐺
 oilt	🐫
 oilu	🐁
+oilv	🟩
 oima	🐎
 oimc	🐈
 oimf	🐝
@@ -52933,6 +52944,7 @@ oiyl	🌚
 oiyu	😟
 oiyu	🐟
 oiyy	😵
+oizi	🟪
 oka	日
 oka	曰
 okaa	昌
@@ -200486,6 +200498,7 @@ tuve	吐着
 tuvh	图章
 tuvi	图纸
 tuvs	途中
+tuvs	图中
 tuvu	土著
 tuvu	他山之石
 tuw	圖
@@ -205541,6 +205554,7 @@ uzbd	势在必得
 uzbe	膄
 uzbf	数罪并罚
 uzbi	手臂
+uzbj	手办
 uzbk	𥅪
 uzbn	手表
 uzbo	首播
@@ -225501,6 +225515,7 @@ ymjm	也没见
 ymjr	一鸣惊人
 ymju	颜面尽失
 ymjx	眼冒金星
+yml	意满离
 ymlh	愚昧落后
 ymlm	圆满落幕
 ymlr	一目了然
@@ -226247,6 +226262,8 @@ ysln	用料
 yslp	以色列
 yslu	庸碌
 yslu	𧙇
+ysm	有什么
+ysmb	有什么差别
 ysmb	硧
 ysmb	𥑿
 ysmg	勇猛

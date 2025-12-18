@@ -1,3 +1,4 @@
+
 ：	;
 ！	;a
 _	;b
@@ -32231,6 +32232,7 @@ IP地址	ipdv
 鸡胸	jixs
 积雪	jixt
 继续	jixu
+记叙	jixu
 记下	jixx
 集训	jixy
 迹	jiy
@@ -36881,6 +36883,7 @@ IP地址	ipdv
 加重	jxvs
 假戏真做	jxvz
 甲	jxw
+记叙文	jxw
 吉凶未卜	jxwb
 加温	jxwf
 𩲣	jxwi
@@ -52777,6 +52780,7 @@ $	ofhb
 🤫	oiaj
 😌	oiax
 🤗	oibb
+⬛	oibd
 ☹	oibm
 🙏	oibt
 🤭	oibu
@@ -52808,19 +52812,24 @@ $	ofhb
 ✅	oigz
 😀	oiha
 🦋	oihd
+🟫	oihe
 🙂	oihh
 😍	oihi
 😋	oihi
 😓	oihj
 🥱	oihq
+🟥	oihs
+🟨	oihs
 🐵	oiht
 🐡	oiht
 🐯	oiht
 🐬	oiht
 🐅	oihu
+⬜ 	oihw
 🌸	oihx
 🍵	oiia
 ❎	oiia
+🟧	oiig
 ✖️	oiig
 🐛	oiii
 😯	oiij
@@ -52848,6 +52857,7 @@ $	ofhb
 😪	oiky
 😓	oilh
 😰	oilh
+🟦	oilj
 💔	oilk
 😐	oilm
 🐲	oils
@@ -52855,6 +52865,7 @@ $	ofhb
 🐺	oilt
 🐫	oilt
 🐁	oilu
+🟩	oilv
 🐎	oima
 🐈	oimc
 🐝	oimf
@@ -52933,6 +52944,7 @@ $	ofhb
 😟	oiyu
 🐟	oiyu
 😵	oiyy
+🟪	oizi
 日	oka
 曰	oka
 昌	okaa
@@ -200486,6 +200498,7 @@ PPT	ppt
 图章	tuvh
 图纸	tuvi
 途中	tuvs
+图中	tuvs
 土著	tuvu
 他山之石	tuvu
 圖	tuw
@@ -205541,6 +205554,7 @@ PPT	ppt
 膄	uzbe
 数罪并罚	uzbf
 手臂	uzbi
+手办	uzbj
 𥅪	uzbk
 手表	uzbn
 首播	uzbo
@@ -225501,6 +225515,7 @@ wiki	wiki
 一鸣惊人	ymjr
 颜面尽失	ymju
 眼冒金星	ymjx
+意满离	yml
 愚昧落后	ymlh
 圆满落幕	ymlm
 一目了然	ymlr
@@ -226247,6 +226262,8 @@ wiki	wiki
 以色列	yslp
 庸碌	yslu
 𧙇	yslu
+有什么	ysm
+有什么差别	ysmb
 硧	ysmb
 𥑿	ysmb
 勇猛	ysmg
