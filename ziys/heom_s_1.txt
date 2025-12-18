@@ -53276,7 +53276,7 @@ oi	😊
 oiaj	🤫
 oiax	😌
 oibb	🤗
-oibd	⬛
+oibd	⬜ 
 oibm	☹
 oibt	🙏
 oibu	🤭
@@ -53313,7 +53313,7 @@ oihh	🙂
 oihi	😍
 oihi	😋
 oihj	😓
-oihl	🟨
+oihl?	🟨
 oihq	🥱
 oihs	🟥
 oiht	🐵
@@ -53321,7 +53321,7 @@ oiht	🐡
 oiht	🐯
 oiht	🐬
 oihu	🐅
-oihw	⬜ 
+oihw	⬛
 oihx	🌸
 oiia	🍵
 oiia	❎

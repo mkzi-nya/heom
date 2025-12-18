@@ -52780,7 +52780,7 @@ $	ofhb
 🤫	oiaj
 😌	oiax
 🤗	oibb
-⬛	oibd
+⬜ 	oibd
 ☹	oibm
 🙏	oibt
 🤭	oibu
@@ -52817,7 +52817,7 @@ $	ofhb
 😍	oihi
 😋	oihi
 😓	oihj
-🟨	oihl
+🟨	oihl?
 🥱	oihq
 🟥	oihs
 🐵	oiht
@@ -52825,7 +52825,7 @@ $	ofhb
 🐯	oiht
 🐬	oiht
 🐅	oihu
-⬜ 	oihw
+⬛	oihw
 🌸	oihx
 🍵	oiia
 ❎	oiia
