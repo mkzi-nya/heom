@@ -1131,6 +1131,7 @@ vjnm	4
 vjui	4
 vjyi	4
 vrji	4
+vryi	4
 vshy	4
 vsli	4
 vujm	4
