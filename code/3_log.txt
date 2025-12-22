@@ -19,6 +19,7 @@ bnhf	11
 lihm	11
 lkhi	11
 lkhl	11
+bahe	10
 bibj	10
 bohe	10
 guge	10
@@ -32,7 +33,6 @@ lkmi	10
 lshp	10
 mchu	10
 wjhu	10
-bahe	9
 ditm	9
 iumo	9
 junr	9

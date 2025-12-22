@@ -24501,6 +24501,7 @@ IP地址	ipdv
 色情	seqk
 色弱	sero
 色素	sesu
+涩涩	sese
 瑟瑟	sese
 瑟缩	seso
 色衰	seuk
@@ -52065,4 +52066,8 @@ wiki	wiki
 瘸了	qtle
 专一	vryi
 网文	whwf
-涩涩	sese
+空明	ksmk
+交响	jnxl
+交响曲	jxq
+巴赫	bahe
+协奏	xpzz
