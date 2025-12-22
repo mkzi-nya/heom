@@ -32675,6 +32675,7 @@ jjmf	解解闷
 jjml	简洁明了
 jjmm	急急忙忙
 jjnm	近几年
+jjnn	酱酱酿酿
 jjnv	绞尽脑汁
 jjny	经久耐用
 jjpu	节节攀升
