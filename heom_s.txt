@@ -20996,6 +20996,7 @@ GDP	gdp
 哈喽	halz
 蛤蟆	hama
 铪	hao
+哈气	haqi
 哈欠	haqm
 哈	har
 𡄟	hare
@@ -22659,8 +22660,8 @@ GDP	gdp
 蜭	hjlx
 𧑚	hjly
 酣	hjm
-函	hjm
-憨	hjm
+哈基米	hjm
+哈基米南北绿豆	hjm
 𩈣	hjma
 𠦊	hjmb
 汗毛	hjmc
@@ -22679,6 +22680,7 @@ GDP	gdp
 𤬯	hjmn
 顸	hjmo
 𧰪	hjmo
+憨	hjmp
 琀	hjmr
 䣻	hjmr
 𤭙	hjmr
@@ -44915,7 +44917,8 @@ IP地址	ipdv
 碌	lum
 祿	luma
 𥛞	lumb
-𩅄	lumc
+撸猫	lumc
+𩅄	lumd
 琭	lume
 禄	lume
 醁	lume

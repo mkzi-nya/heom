@@ -20996,6 +20996,7 @@ haly	虾
 halz	哈喽
 hama	蛤蟆
 hao	铪
+haqi	哈气
 haqm	哈欠
 har	哈
 hare	𡄟
@@ -22659,8 +22660,8 @@ hjlx	花街柳巷
 hjlx	蜭
 hjly	𧑚
 hjm	酣
-hjm	函
-hjm	憨
+hjm	哈基米
+hjm	哈基米南北绿豆
 hjma	𩈣
 hjmb	𠦊
 hjmc	汗毛
@@ -22679,6 +22680,7 @@ hjml	邗
 hjmn	𤬯
 hjmo	顸
 hjmo	𧰪
+hjmp	憨
 hjmr	琀
 hjmr	䣻
 hjmr	𤭙
@@ -44915,7 +44917,8 @@ lum	露
 lum	碌
 luma	祿
 lumb	𥛞
-lumc	𩅄
+lumc	撸猫
+lumd	𩅄
 lume	琭
 lume	禄
 lume	醁
