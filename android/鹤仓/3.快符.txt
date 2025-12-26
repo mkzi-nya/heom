@@ -19,7 +19,7 @@ $cmd(newkey(oiz$1),[重载])	i
 $cmd({last_0},{last_0})	f
 ·	g
 =	h
-+	j
+~	j
 (	k
 )	l
 “	z
@@ -28,10 +28,8 @@ $cmd({last_0},{last_0})	f
 ——	v
 $cmd(\t,\t)	b
 $cmd(xfai_send($box$$clip$),AI)	m
-」	m
 $cmd(newkey(ohnn$1),/)	n
 
-「	n
 -- qwer
 $cmd(newkey(omu$1),Q传统)	mq
 $cmd(newkey(omu$2),W切分)	mw

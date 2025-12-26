@@ -15,7 +15,7 @@
 |	;f
 ·	;g
 =	;h
-+	;j
+~	;j
 (	;k
 )	;l
 “	;z
@@ -23,8 +23,6 @@
 ”	;c
 ——	;v
 _	;b
-「	;n
-」	;m
 ，	oq
 。	ow
 牆	qlv
@@ -52155,3 +52153,5 @@ wiki	wiki
 耳饰	erui
 扇子	ujzi
 贝雷帽	blm
+束腰	uuyc
+吊环	dnhr

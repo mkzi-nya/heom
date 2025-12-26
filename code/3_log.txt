@@ -192,6 +192,7 @@ bill	6
 bimj	6
 birj	6
 dhhh	6
+dnhr	6
 fhhs	6
 fuhe	6
 fuvi	6
@@ -390,7 +391,6 @@ dili	5
 dimm	5
 diug	5
 divi	5
-dnhr	5
 duti	5
 fuhw	5
 fuii	5

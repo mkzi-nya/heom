@@ -45,7 +45,7 @@ encoder:
 |	;f
 ·	;g
 =	;h
-+	;j
+~	;j
 (	;k
 )	;l
 “	;z
@@ -53,8 +53,6 @@ encoder:
 ”	;c
 ——	;v
 _	;b
-「	;n
-」	;m
 ，	oq
 。	ow
 牆	qlv
@@ -52185,6 +52183,8 @@ wiki	wiki
 耳饰	erui
 扇子	ujzi
 贝雷帽	blm
+束腰	uuyc
+吊环	dnhr
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -96210,8 +96210,9 @@ wiki	wiki
 紞	djva
 槙	dmdb
 𩬑	dmsa
-𥮐	dnha
-𦨣	dnhb
+鼦	dnha
+𥮐	dnhb
+𦨣	dnhc
 𨦃	docc
 𥿰	dova
 𢎆	dpia

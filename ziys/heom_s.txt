@@ -8,11 +8,9 @@ _	;b
 ·	;g
 =	;h
 -	;i
-+	;j
+~	;j
 (	;k
 )	;l
-」	;m
-「	;n
 [	;o
 ]	;p
 ：“	;q
@@ -11064,8 +11062,9 @@ deepseek	deep
 钓杆	dngj
 吊诡	dngv
 吊挂	dngx
-𥮐	dnha
-𦨣	dnhb
+鼦	dnha
+𥮐	dnhb
+𦨣	dnhc
 多瑙河	dnhe
 鳥	dnhf
 䉆	dnhf
@@ -11076,6 +11075,7 @@ deepseek	deep
 𥲟	dnhm
 𮵮	dnhm
 调换	dnhr
+吊环	dnhr
 稠	dnhr
 鼦	dnhr
 𥮐	dnhr
@@ -205802,6 +205802,7 @@ http://mhtlim.top/usage/usage.html	uomk
 蒁	uuya
 树荫	uuyb
 树荫下	uuyb
+束腰	uuyc
 䢤	uuyc
 生杀予夺	uuyd
 䢞	uuyd

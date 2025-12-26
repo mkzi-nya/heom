@@ -148,8 +148,9 @@
 紞	djva
 槙	dmdb
 𩬑	dmsa
-𥮐	dnha
-𦨣	dnhb
+鼦	dnha
+𥮐	dnhb
+𦨣	dnhc
 𨦃	docc
 𥿰	dova
 𢎆	dpia

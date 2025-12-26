@@ -8,11 +8,9 @@
 ;g	·
 ;h	=
 ;i	-
-;j	+
+;j	~
 ;k	(
 ;l	)
-;m	」
-;n	「
 ;o	[
 ;p	]
 ;q	：“
@@ -11064,8 +11062,9 @@ dngb	趙
 dngj	钓杆
 dngv	吊诡
 dngx	吊挂
-dnha	𥮐
-dnhb	𦨣
+dnha	鼦
+dnhb	𥮐
+dnhc	𦨣
 dnhe	多瑙河
 dnhf	鳥
 dnhf	䉆
@@ -11076,6 +11075,7 @@ dnhm	䄪
 dnhm	𥲟
 dnhm	𮵮
 dnhr	调换
+dnhr	吊环
 dnhr	稠
 dnhr	鼦
 dnhr	𥮐
@@ -205802,6 +205802,7 @@ uuy	孰
 uuya	蒁
 uuyb	树荫
 uuyb	树荫下
+uuyc	束腰
 uuyc	䢤
 uuyd	生杀予夺
 uuyd	䢞
