@@ -189443,6 +189443,7 @@ PPT	ppt
 紪	qivp
 綺	qivr
 其中	qivs
+期中	qivs
 浅尝辄止	qivv
 緀	qivv
 𰬢	qivv
@@ -190337,6 +190338,7 @@ PPT	ppt
 堑	qmk
 鬵	qmkb
 𰺉	qmkb
+期末考	qmkc
 椠	qmkd
 千克	qmke
 兛	qmke
@@ -192439,6 +192441,7 @@ PPT	ppt
 欠债还钱	qvhq
 轻装简从	qvjc
 起重机	qvji
+期中考	qvkc
 屈指可数	qvku
 弃之可惜	qvkx
 清正廉洁	qvlj

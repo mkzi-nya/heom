@@ -189993,6 +189993,7 @@ qivo	緁
 qivp	紪
 qivr	綺
 qivs	其中
+qivs	期中
 qivv	浅尝辄止
 qivv	緀
 qivv	𰬢
@@ -190887,6 +190888,7 @@ qmjx	欠佳
 qmk	堑
 qmkb	鬵
 qmkb	𰺉
+qmkc	期末考
 qmkd	椠
 qmke	千克
 qmke	兛
@@ -192991,6 +192993,7 @@ qvhj	轻重缓急
 qvhq	欠债还钱
 qvjc	轻装简从
 qvji	起重机
+qvkc	期中考
 qvku	屈指可数
 qvkx	弃之可惜
 qvlj	清正廉洁
