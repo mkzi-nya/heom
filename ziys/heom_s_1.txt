@@ -51401,6 +51401,7 @@ nkyn	𧭈
 nkyr	宁愿
 nl	努力
 nlbw	南来北往
+nld	哪来的
 nleu	逆流而上
 nlfv	𥽬
 nlig	酿成
