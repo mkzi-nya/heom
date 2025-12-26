@@ -1007,6 +1007,7 @@ b	Ƀ
 b	В
 ba	把
 ba	八
+ba	叭
 ba	ば
 ba	バ
 baa	巴
@@ -39765,6 +39766,7 @@ kwte	科威特
 kwui	可谓是
 kwvi	矿物质
 kwvl	口无遮拦
+kwx	可玩性
 kwxd	开玩笑的
 kwxn	开玩笑
 kwy	卡哇伊
