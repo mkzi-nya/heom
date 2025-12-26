@@ -1104,6 +1104,7 @@ uuji	4
 uuld	4
 uumi	4
 uuri	4
+uuvl	4
 uuyd	4
 uvyu	4
 vefu	4
