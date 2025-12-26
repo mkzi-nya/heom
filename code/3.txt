@@ -525,8 +525,8 @@
 𰕈	jnkb
 𰩸	jnla
 臫	jnud
-𤉧	jnkc
-𤶀	jnkf
+𤉧	jnkf
+𤶀	jnkg
 𩵰	jnnc
 𪚰	jnne
 𱍆	jnng

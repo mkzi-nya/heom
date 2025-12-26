@@ -3759,6 +3759,7 @@ blkj	不落窠臼
 blle	不聊了
 blll	筚路蓝缕
 bllv	不了了之
+blm	贝雷帽
 blmf	爆冷门
 blmi	菠萝蜜
 blmm	本来面目
@@ -13748,6 +13749,8 @@ ertb	薾
 ertl	荋
 erts	儿童
 erui	二十
+erui	耳屎
+erui	耳饰
 erul	峏
 eruu	耳熟
 eruz	二手
@@ -30859,6 +30862,7 @@ jbu	基本上
 jbua	嶜
 jbua	𡺽
 jbuf	谨慎
+jbuf	紧身
 jbug	晋升
 jbug	仅剩
 jbuh	脊背生寒
@@ -34006,11 +34010,12 @@ jnk	狡
 jnk	敎
 jnka	𪖄
 jnkb	𰕈
-jnkc	𤉧
+jnkc	脚铐
 jnkd	𡥈
 jnke	教科
 jnke	𤕝
-jnkf	𤶀
+jnkf	𤉧
+jnkg	𤶀
 jnkh	𫐖
 jnkj	校勘
 jnkk	较快
@@ -36460,6 +36465,7 @@ juye	𥪏
 juyf	詎
 juyg	江山易改
 juyh	建设银行
+juyi	紧身衣
 juym	齟
 juyn	劇
 juyo	豦
@@ -37057,6 +37063,7 @@ jyim	𱉾
 jyiq	集腋成裘
 jyir	麏
 jyir	𥜮
+jyj	假阳具
 jyjb	𮱠
 jyjd	𪍁
 jyje	殾
@@ -186140,6 +186147,7 @@ pfi	剖腹产
 pfij	贫富差距
 pfiu	喷出
 pfiv	破釜沉舟
+pfji	喷剂
 pfjk	盆景
 pfjm	喷溅
 pfjm	翸
@@ -189217,6 +189225,7 @@ qipd	气派
 qipe	𢺵
 qipf	慽
 qiph	切
+qipi	漆皮
 qipj	期盼
 qipj	𢜱
 qipk	齐平
@@ -204024,6 +204033,7 @@ ujyt	山岳
 ujyu	善于
 ujyu	訕
 ujzi	擅自
+ujzi	扇子
 ujzw	山贼
 uk	帅
 ukb	甩
@@ -205274,6 +205284,7 @@ uvqr	舌战群儒
 uvqu	水渠
 uvqu	挩
 uvqy	水群
+uvqy	睡裙
 uvqy	水至清则无鱼
 uvrj	𠻜
 uvrs	逝者如斯
@@ -208008,6 +208019,7 @@ vihq	穉
 vihq	䆈
 vihq	𤛱
 vihr	置换
+vihr	指环
 vihs	𥝑
 viht	筫
 vihu	知乎
@@ -224066,6 +224078,7 @@ yiyr	旑
 yiyr	齮
 yiyr	𠶷
 yiys	易用
+yiys	医用
 yiys	䚷
 yiyt	弈
 yiyt	詍
