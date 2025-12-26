@@ -119,8 +119,8 @@
 𬛹	dhhb
 𰩹	dhhd
 𭫙	dide
-虳	dila
-𧉛	dilf
+虳	dilf
+𧉛	dilg
 厎	dima
 䂡	dimd
 厎	dime
@@ -490,6 +490,7 @@
 𱉠	jkne
 䜘	jkyc
 𫽣	jlqa
+𥍀	jmbd
 𦩵	jmhd
 筧	jmhe
 𫀨	jmhk
@@ -2600,7 +2601,7 @@
 𢦺	jmop
 偂	jmor
 餰	jmos
-𰱇	jmbd
+𰱇	jmbe
 𰱑	jmlk
 𪆿	jmyd
 𩴧	jnfb

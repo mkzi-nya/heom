@@ -6243,6 +6243,7 @@ cdhk	踩坏
 cdhl	䣋
 cdhs	彩虹
 cdhv	才会
+cdhv	彩绘
 cdhx	才华
 cdia	采茶
 cdie	裁撤
@@ -6867,6 +6868,7 @@ ciwd	此外
 ciwf	此文
 ciwj	瓷碗
 ciww	刺猬
+cixi	磁吸
 cixi	慈禧
 cixk	雌性
 cixl	慈祥
@@ -9665,7 +9667,7 @@ dikz	抵扣
 dil	䗖
 dil	洞察力
 dil	𬱖
-dila	虳
+dila	滴蜡
 dilb	螮
 dilb	𧍝
 dilc	地牢
@@ -9674,7 +9676,8 @@ dild	抵赖
 dile	低了
 dile	隶
 dile	蝃
-dilf	𧉛
+dilf	虳
+dilg	𧉛
 dili	地理
 dili	底力
 dili	袛
@@ -12310,6 +12313,7 @@ duq	毒
 duqc	𢷺
 duqf	纛
 duqi	赌气
+duqi	肚脐
 duqi	𱂋
 duqm	赌钱
 duqq	赌球
@@ -14911,7 +14915,7 @@ fhvc	仿照
 fhvd	放债
 fhve	放着
 fhvf	方针
-fhvf	彷真
+fhvf	仿真
 fhvf	鶭
 fhvg	方正
 fhvh	方丈
@@ -17610,6 +17614,7 @@ geta	鞈
 getb	感恩图报
 getb	䪂
 getb	𩎎
+gete	哥特
 geti	个体
 getj	歌坛
 getk	歌厅
@@ -19592,6 +19597,7 @@ gtbu	更谈不上
 gtbw	顾头不顾尾
 gtdd	感天动地
 gtdm	共同点
+gtf	哥特风
 gtfg	刮台风
 gtfm	故态复萌
 gtgn	鬼头鬼脑
@@ -20511,6 +20517,7 @@ gxhr	颳
 gxhr	䈑
 gxhr	筈
 gxhr	𠯑
+gxhx	挂画
 gxhy	𥝒
 gxig	诖
 gxiu	挂出
@@ -27854,6 +27861,7 @@ ihtn	长条
 ihtn	冲昏头脑
 ihtr	𦰱
 ihts	畅通
+ihts	长筒
 ihtt	成何体统
 ihtu	长途
 ihtv	䩨
@@ -29151,6 +29159,7 @@ irbz	成人不自在
 ircd	川菜
 irch	船舱
 irch	𨩴
+irci	穿刺
 ircl	釧
 ird	椽
 ird	传导
@@ -29531,6 +29540,7 @@ itvg	呈堂证供
 itvr	出头之日
 itwh	传统文化
 itwz	畅通无阻
+itx	长筒靴
 ityl	差太远了
 ityq	串通一气
 ityr	差太远
@@ -30806,6 +30816,7 @@ jbru	进入
 jbrx	今不如昔
 jbry	𫩺
 jbs	尽
+jbs	渐变色
 jbsa	𩤿
 jbsd	禁赛
 jbse	金色
@@ -32722,6 +32733,7 @@ jkue	劲射
 jkuf	精神
 jkuh	经商
 jkui	警示
+jkui	颈饰
 jkuu	经书
 jkuv	净水
 jkuz	经受
@@ -33061,7 +33073,8 @@ jmba	瞷
 jmbb	瞯
 jmbc	简报
 jmbc	䯡
-jmbd	𰱇
+jmbd	𥍀
+jmbe	𰱇
 jmbh	肩膀
 jmbi	賤
 jmbj	减半
@@ -33069,6 +33082,7 @@ jmbk	兼并
 jmbk	𦢣
 jmbm	简便
 jmbm	睑
+jmbm	渐变
 jmbm	𥍀
 jmbo	瞼
 jmbp	鉴别
@@ -34030,6 +34044,7 @@ jnll	较量
 jnll	𧎙
 jnll	𫊸
 jnlm	教练
+jnlm	脚链
 jnln	脚镣
 jnlo	角落
 jnlq	交流
@@ -36617,6 +36632,7 @@ jxe	浃
 jxeo	浹
 jxer	泇
 jxfa	加法
+jxfa	假发
 jxff	加分
 jxfg	夹缝
 jxfh	甲方
@@ -37420,6 +37436,7 @@ kddc	开导
 kddc	开刀
 kddg	开灯
 kddh	空荡荡
+kddh	开档
 kddm	开店
 kddr	开端
 kdds	开动
@@ -40907,6 +40924,7 @@ lhqv	𢳑
 lhqy	狼群
 lhr	啷
 lhrb	𠻴
+lhrf	狼人
 lhri	唥
 lhrl	唥
 lhrv	踉
@@ -42834,7 +42852,7 @@ llss	零零碎碎
 llss	啰啰嗦嗦
 llsv	两岁
 llsv	駺
-llt	莨
+llt	洛丽塔
 llta	𬰥
 lltb	𬜯
 lltb	䓣
@@ -42848,6 +42866,7 @@ lltm	两天
 lltn	两条
 lltt	玲珑剔透
 lltv	两腿
+lltv	莨
 lltx	勠力同心
 lltz	两头
 llud	晾晒
@@ -45560,6 +45579,7 @@ lwro	羸弱
 lwrq	𱕰
 lwse	𤃻
 lwsi	类似
+lwsi	蕾丝
 lwsi	䮑
 lwt	勒
 lwt	蕾
@@ -45936,6 +45956,7 @@ lzjx	楼价
 lzk	瘘
 lzka	𤠋
 lzkb	瘺
+lzks	镂空
 lzkv	㺏
 lzkv	瘻
 lzkv	𡰌
@@ -46565,6 +46586,7 @@ mclv	毛驴
 mcma	𤥰
 mcmc	猫猫
 mcmi	茂密
+mcmi	猫咪
 mcmk	冒名
 mcms	𣨇
 mcmu	瑁
@@ -46608,6 +46630,7 @@ mcqu	㧌
 mcqu	𢯾
 mcrj	贸然
 mcro	貌若
+mcrs	毛绒
 mcs	髦
 mcsh	髳
 mcsi	貌似
@@ -186147,6 +186170,7 @@ pfuv	喷水
 pfvv	颇费周折
 pfvx	平反昭雪
 pfvy	匹夫之勇
+pfwu	喷雾
 pfwz	匹夫无罪
 pfxl	喷香
 pfxt	喷血
@@ -193924,6 +193948,7 @@ rujn	乳胶
 rujv	如数家珍
 rujv	𡫽
 rujx	儒家
+rujx	乳夹
 rukg	入坑
 rukr	㾒
 ruku	入库
@@ -199812,6 +199837,7 @@ tpvf	脱贫致富
 tpvf	铁砧
 tpvg	铁证
 tpvh	铁掌
+tpvi	贴纸
 tpwj	铁腕
 tpxb	贴心
 tpxi	贴息
@@ -201151,6 +201177,7 @@ tzuf	投身
 tzug	偷生
 tzuh	头上
 tzui	透视
+tzui	头饰
 tzuv	偷税
 tzuz	投手
 tzv	投资者
@@ -201194,6 +201221,7 @@ tzyt	逗
 tzyv	諭
 tzyy	头晕
 tzyz	头油
+tzzi	骰子
 tzzv	偷嘴
 tzzz	偷走
 u	是
@@ -203339,6 +203367,7 @@ uip	世
 uip	恃
 uipb	视频
 uipb	食品
+uipb	饰品
 uipc	貰
 uipe	𢺿
 uipe	𢻫
@@ -204202,6 +204231,7 @@ ultt	生灵涂炭
 ultv	双腿
 ulty	水来土掩
 ultz	水龙头
+ultz	双头
 ulu	试了试
 ului	水落石出
 uluk	甩了甩
@@ -204561,6 +204591,7 @@ uthb	生吞活剥
 uthj	生态环境
 uthl	伤天害理
 utjk	身体健康
+utl	双头龙
 utle	伤透了
 utlm	识途老马
 utlr	视同路人
@@ -224797,6 +224828,7 @@ yjuh	𪨷
 yjuh	𰎠
 yjui	演示
 yjui	掩饰
+yjui	延时
 yjuj	𩈯
 yjuk	眼疾手快
 yjuk	𪩘
@@ -226967,6 +226999,7 @@ yufr	誉
 yuft	煜
 yufu	预付
 yufu	迂腐
+yufu	渔夫
 yufv	煨
 yufz	与否
 yug	域
