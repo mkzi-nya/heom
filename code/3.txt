@@ -385,6 +385,7 @@
 諔	iuyb
 遚	iuyc
 𣥹	iuyd
+𣮢	iyyb
 醻	izmb
 𧃝	izta
 𩤿	jbsa
@@ -511,6 +512,7 @@
 𪏊	jmtx
 𮶬	jmja
 𬘖	jmvd
+𣝞	jnde
 湬	jnhd
 𥳴	jnhn
 敿	jnhp

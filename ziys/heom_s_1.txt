@@ -434,9 +434,11 @@ alsi	安乐死
 aluo	按理说
 am	暧昧
 amag	阿猫阿狗
+amb	按摩棒
 amds	哀莫大于心死
 amld	鞍马劳顿
 amnv	爱莫能助
+amq	按摩器
 amvx	爱美之心
 amwq	奥妙无穷
 amyc	安眠药
@@ -3711,6 +3713,7 @@ bktt	䔊
 bktt	𩊖
 bktv	病退
 bkty	不可同日而语
+bku	不愧是
 bkub	𡹾
 bkuh	冰上
 bkui	病逝
@@ -7945,6 +7948,7 @@ cvpj	悴
 cvpj	忰
 cvq	摧
 cvqj	𢶓
+cvqk	催情
 cvqu	萃取
 cvr	啐
 cvre	𨅎
@@ -10820,6 +10824,7 @@ dmix	大梦初醒
 dmjc	顛
 dmjc	𥦟
 dmji	点击
+dmji	电击
 dmji	㝪
 dmjk	电竞
 dmjk	㝪
@@ -15096,6 +15101,7 @@ fhvc	仿照
 fhvd	放债
 fhve	放着
 fhvf	方针
+fhvf	彷真
 fhvf	鶭
 fhvg	方正
 fhvh	方丈
@@ -15221,6 +15227,7 @@ fj	附件
 fjal	鄤
 fjan	翻案
 fjb	贩
+fjb	飞机杯
 fjbe	販
 fjbe	𦜒
 fjbe	𩨩
@@ -18254,6 +18261,7 @@ ghrk	𫩚
 ghru	隔行如隔山
 ghru	𠵹
 ghrx	蛊惑人心
+ghsd	肛塞
 ghsi	钢丝
 ghtd	港台
 ghtk	岗亭
@@ -21096,6 +21104,7 @@ gzli	骨子里
 gzli	𤖮
 gzlj	够懒
 gzll	狗粮
+gzlm	狗链
 gzlr	蚼
 gzlr	袧
 gzly	狗嘴里吐不出象牙
@@ -24085,6 +24094,7 @@ hrld	换来
 hrle	欢乐
 hrli	还礼
 hrlq	环流
+hrls	幻龙
 hrlu	环路
 hrlu	𧚁
 hrlv	阛
@@ -26521,6 +26531,7 @@ hzsk	翭
 hzsk	𦑚
 hzt	后腿
 hztd	后台
+hztk	后庭
 hztk	葔
 hztm	后天
 hztr	茩
@@ -30571,6 +30582,7 @@ iyxn	春晓
 iyxx	春夏
 iyy	鹑
 iyya	𧇶
+iyyb	𣮢
 iyyc	春药
 iyyd	㝇
 iyyf	鶉
@@ -30578,6 +30590,7 @@ iyyi	春意
 iyyj	抽油烟机
 iyyj	𦎧
 iyyu	春雨
+iyyu	纯欲
 iyyu	㝄
 iyyu	𣮢
 iyyy	春运
@@ -32818,6 +32831,7 @@ jkhl	惊慌
 jkhm	徑
 jkhn	秔
 jkhp	氏
+jkhr	颈环
 jkhs	𥯙
 jkhu	惊呼
 jkhu	𩳯
@@ -34130,8 +34144,10 @@ jnda	较大
 jndb	𣏑
 jndc	教导
 jndd	交代
+jndd	胶带
 jndd	樔
 jndd	𣝞
+jnde	𣝞
 jndf	㭂
 jndf	櫵
 jndi	较低
@@ -34328,6 +34344,7 @@ jnlf	蟭
 jnlf	鴵
 jnlf	𢄺
 jnlf	𨸋
+jnlh	郊狼
 jnli	脚力
 jnlk	蛟
 jnlk	䘨
@@ -34585,6 +34602,7 @@ jnyf	𨓩
 jnyf	𨖵
 jnyh	教养
 jnyi	交易
+jnyi	胶衣
 jnyj	校验
 jnyk	詨
 jnyk	䢒
@@ -39631,6 +39649,7 @@ kvq	揆
 kvq	亏钱
 kvqc	撌
 kvqg	㨒
+kvqi	控制器
 kvqj	刻舟求剑
 kvqm	亏欠
 kvqu	規
@@ -40052,7 +40071,7 @@ kzqi	口气
 kzql	口腔
 kzqm	扣钱
 kzqm	𬸬
-kzqq	扣球
+kzqq	口球
 kzqr	摳
 kzqs	挎
 kzr	叩
@@ -42935,8 +42954,9 @@ lkvl	䌢
 lkvl	紷
 lkvo	𤖦
 lkvu	领主
-lkw	囹
+lkw	连裤袜
 lkwd	另外
+lkwi	囹
 lkwi	𦊓
 lkwi	𱰮
 lkwl	𦊓
@@ -46591,6 +46611,7 @@ maye	𥀏
 mayf	遤
 mayf	𧪨
 mayi	蚂蚁
+mayj	马眼
 mayz	麻油
 mazd	马仔
 mazi	码字
@@ -191899,6 +191920,7 @@ qqyf	𧇸
 qqyn	訅
 qqyn	𨕦
 qqyo	𨒊
+qqyp	情趣用品
 qqyr	球员
 qqyu	秋雨
 qqyu	芊芊玉手
@@ -193719,6 +193741,7 @@ rhi	禳
 rhi	让
 rhit	热火朝天
 rhiu	让出
+rhj	润滑剂
 rhjb	热乎劲
 rhjv	𨏛
 rhkd	让开
@@ -193758,6 +193781,7 @@ rhvv	纕
 rhwo	让我
 rhww	让位
 rhxm	让贤
+rhy	润滑液
 rhy	讓
 rhyl	𨟚
 rhyo	瓤
@@ -206869,12 +206893,13 @@ vcci	照此
 vccn	釗
 vccr	鉊
 vccr	鍣
-vcd	棹
+vcd	贞操带
 vcdc	找到
 vcdd	招待
 vcdf	𣠜
 vcdg	櫂
 vcdi	着地
+vcdj	棹
 vcdn	着调
 vcdo	枛
 vcdr	柖
@@ -207070,6 +207095,7 @@ vd	直到
 vdb	祭
 vdbb	䐱
 vdbc	𧲻
+vdbh	震动棒
 vdbi	债多不愁
 vdbl	𨝋
 vdbr	膪
@@ -223232,6 +223258,7 @@ yhjq	洋酒
 yhjq	𥥵
 yhjq	𨋽
 yhju	有话就说
+yhju	阳具
 yhjx	养家
 yhk	痒
 yhkg	𤢐
@@ -228471,6 +228498,7 @@ yuwf	𡇺
 yuwf	𪃍
 yuwg	渔翁
 yuwh	欲望
+yuwh	渔网
 yuwh	𪓊
 yuwi	一事无成
 yuwi	罻
@@ -230998,6 +231026,7 @@ ziwi	㽧
 ziwi	𪑿
 ziwo	自我
 ziww	滋味
+ziww	自慰
 zix	资讯
 zixb	自信
 zixg	再创新高
