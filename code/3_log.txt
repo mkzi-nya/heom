@@ -835,6 +835,7 @@ bwli	4
 bwll	4
 cdvd	4
 ciju	4
+cjhd	4
 cjwh	4
 cjyh	4
 cuho	4
