@@ -29118,6 +29118,7 @@ ipdl	长篇大论
 ipdv	IP地址
 ipld	长篇累牍
 ipxu	长篇小说
+iq	出去
 iq	重启
 iqbb	乘其不备
 iqbf	春秋笔法
@@ -39164,6 +39165,7 @@ kuxb	苦心
 kuxf	口是心非
 kuxk	酷刑
 kuxn	苦笑
+kuxr	酷炫
 kuxt	苦学
 kuyc	裤腰
 kuyd	困兽犹斗
@@ -211607,6 +211609,7 @@ wdtc	外套
 wdtc	𩔀
 wdtc	𩕕
 wdtz	外头
+wdtz	歪头
 wdu	崴
 wdu	外甥
 wdub	无胆鼠辈
