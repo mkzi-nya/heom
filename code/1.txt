@@ -52172,3 +52172,5 @@ wiki	wiki
 歪头	wdtz
 抚平	fupk
 黏黏糊糊	nnhh
+柿子	uiz
+柿	uid

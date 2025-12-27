@@ -203710,6 +203710,7 @@ uico	鍉
 uicp	鉈
 uicr	鉐
 uics	侍从
+uid	柿
 uidb	柿
 uidc	世道
 uidd	时代
@@ -204332,6 +204333,7 @@ uiyw	𨒍
 uiyy	事出有因
 uiyz	室友
 uiyz	石油
+uiz	柿子
 uiza	⻝
 uiza	⻟
 uizd	实在

@@ -203015,6 +203015,7 @@ PPT	ppt
 鉈	uicp
 鉐	uicr
 侍从	uics
+柿	uid
 柿	uidb
 世道	uidc
 时代	uidd
@@ -203637,6 +203638,7 @@ PPT	ppt
 事出有因	uiyy
 室友	uiyz
 石油	uiyz
+柿子	uiz
 ⻝	uiza
 ⻟	uiza
 实在	uizd
