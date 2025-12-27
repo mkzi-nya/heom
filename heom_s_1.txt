@@ -16076,6 +16076,7 @@ fupd	复牌
 fupe	𠣾
 fupi	㤔
 fupj	复盘
+fupk	抚平
 fupn	怫
 fupo	富婆
 fupo	𢗲
