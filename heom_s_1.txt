@@ -19491,6 +19491,7 @@ gspu	公仆
 gsq	拱
 gsqc	𦓳
 gsqi	工期
+gsqk	共情
 gsqk	公顷
 gsqm	工钱
 gsqm	鼓瑟齐鸣
@@ -192381,6 +192382,7 @@ qux	取笑
 quxb	取信
 quxi	屈膝
 quxl	去向
+quxl	取向
 quxm	曲线
 quxn	取消
 quxp	驱邪
@@ -218397,6 +218399,7 @@ xqvx	繡
 xqwj	相去无几
 xqwu	星期五
 xqww	修为
+xqx	性取向
 xqxa	相亲相爱
 xqxg	休戚相关
 xqxi	休息
