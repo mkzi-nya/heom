@@ -11628,6 +11628,7 @@ dpma	爹妈
 dpmd	殜
 dpmg	至
 dpmg	𣨂
+dpmj	叠满
 dpmk	𠅗
 dpmo	𥑇
 dpmu	大屏幕
@@ -200551,6 +200552,7 @@ tqsh	投其所好
 tqtb	铜墙铁壁
 tqua	谈情说爱
 tqxb	同情心
+tqyb	天气预报
 tqyj	听其言
 tqym	吐气扬眉
 tqyx	听其言而观其行
