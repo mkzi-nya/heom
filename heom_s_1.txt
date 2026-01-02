@@ -16077,6 +16077,7 @@ fupd	复牌
 fupe	𠣾
 fupi	㤔
 fupj	复盘
+fupk	抚平
 fupn	怫
 fupo	富婆
 fupo	𢗲
@@ -51185,6 +51186,7 @@ nngb	𱗅
 nnhf	鳥
 nnhf	𪅝
 nnhf	𪈼
+nnhh	黏黏糊糊
 nnhs	𠒰
 nnhu	尿壶
 nnhv	䙚
@@ -203019,6 +203021,7 @@ uico	鍉
 uicp	鉈
 uicr	鉐
 uics	侍从
+uid	柿
 uidb	柿
 uidc	世道
 uidd	时代
@@ -203641,6 +203644,7 @@ uiyw	𨒍
 uiyy	事出有因
 uiyz	室友
 uiyz	石油
+uiz	柿子
 uiza	⻝
 uiza	⻟
 uizd	实在
