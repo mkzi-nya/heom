@@ -3348,6 +3348,7 @@ bjtr	不见天日
 bjts	半桶
 bjtu	半途
 bjty	不见兔子不撒鹰
+bju	不就是
 bju	北京市
 bjue	岅
 bjuf	半身
