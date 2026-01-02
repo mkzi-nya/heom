@@ -11321,8 +11321,8 @@ dogm	埵
 dogo	躲过
 dogr	夺冠
 dogx	多寡
-doh	朵
 doh	躲
+doh	朵
 doh	舵
 doha	多哈
 dohb	𤛛
@@ -38706,6 +38706,7 @@ kjyz	堪忧
 kjzo	看作
 kjzu	苛捐杂税
 kk	快
+kkaa	可可爱爱
 kkaq	苦苦哀求
 kkb	脍
 kkba	䯤
@@ -49427,6 +49428,7 @@ mrt	美若天仙
 mrth	面如桃花
 mrts	面如土色
 mrtx	貌若天仙
+mrvd	没人知道
 mrvv	漠然置之
 mrwc	茫然无措
 mrxk	没人性
@@ -220524,6 +220526,7 @@ xxcm	𨩽
 xxcq	鎼
 xxcr	鎋
 xxd	小小的
+xxd	屑屑的
 xxda	下达
 xxdc	吓到
 xxdd	许许多多
