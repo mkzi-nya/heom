@@ -3194,6 +3194,7 @@ bizv	闭嘴
 bizz	逼走
 bj	办
 bj	背景
+bj	不就
 bjae	昄
 bjan	办案
 bjar	闆
@@ -36219,6 +36220,7 @@ jtzv	噘嘴
 jtzy	家庭作业
 ju	据
 ju	即使
+ju	就是
 ju	じゅ
 ju	ジュ
 juaa	𧷾

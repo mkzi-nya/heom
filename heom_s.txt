@@ -3139,6 +3139,7 @@ _	;b
 逼走	bizz
 办	bj
 背景	bj
+不就	bj
 昄	bjae
 办案	bjan
 闆	bjar
@@ -35892,6 +35893,7 @@ IP地址	ipdv
 家庭作业	jtzy
 据	ju
 即使	ju
+就是	ju
 𧷾	juaa
 济世安邦	juab
 𧤑	juac
