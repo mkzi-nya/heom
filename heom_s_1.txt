@@ -5416,6 +5416,7 @@ buyb	逋
 buyb	誧
 buyb	𥪀
 buyc	不要
+buyc	补药
 buyf	鳪
 buyg	不是一个
 buyh	歩
@@ -37530,7 +37531,7 @@ kdl	看到了
 kdld	开来
 kdle	开了
 kdlh	开朗
-kdli	开立
+kdli	口袋里
 kdlk	凯迪拉克
 kdlo	开罗
 kdlq	开溜
@@ -199564,6 +199565,7 @@ tojp	𪌂
 tojq	脱臼
 tokb	𤹢
 tokd	狏
+toke	拖课
 tokp	㾃
 tokp	𤝛
 tokp	𫟤
@@ -201915,6 +201917,7 @@ ueki	𤠭
 uekn	奓
 ueko	𪽴
 uekr	猞
+ueks	社恐
 uel	蛇
 uel	阇
 ueld	虵
@@ -201944,6 +201947,7 @@ uemt	䀅
 uemt	𩂨
 uemw	䄕
 uend	弽
+uenq	社牛
 uenr	𱅚
 ueo	舍
 ueod	𠋞

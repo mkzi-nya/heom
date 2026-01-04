@@ -5416,6 +5416,7 @@ _	;b
 誧	buyb
 𥪀	buyb
 不要	buyc
+补药	buyc
 鳪	buyf
 不是一个	buyg
 歩	buyh
@@ -37530,7 +37531,7 @@ IP地址	ipdv
 开来	kdld
 开了	kdle
 开朗	kdlh
-开立	kdli
+口袋里	kdli
 凯迪拉克	kdlk
 开罗	kdlo
 开溜	kdlq
@@ -199564,6 +199565,7 @@ PPT	ppt
 脱臼	tojq
 𤹢	tokb
 狏	tokd
+拖课	toke
 㾃	tokp
 𤝛	tokp
 𫟤	tokp
@@ -201915,6 +201917,7 @@ PPT	ppt
 奓	uekn
 𪽴	ueko
 猞	uekr
+社恐	ueks
 蛇	uel
 阇	uel
 虵	ueld
@@ -201944,6 +201947,7 @@ PPT	ppt
 𩂨	uemt
 䄕	uemw
 弽	uend
+社牛	uenq
 𱅚	uenr
 舍	ueo
 𠋞	ueod
