@@ -44274,6 +44274,7 @@ lqxy	两情相悦
 lqy	刘
 lqy	遛
 lqy	旒
+lqyc	六爻
 lqyc	柳腰
 lqyd	斿
 lqye	柳叶
@@ -185885,6 +185886,7 @@ pce	泡
 pcel	𣶐
 pcf	炮
 pcfj	泡饭
+pcfu	泡芙
 pcgl	抛光
 pcgu	垉
 pcha	颮
@@ -196960,6 +196962,7 @@ talc	𧔣
 talh	𣥂
 talk	闼
 talm	阘
+talo	塔罗
 talq	𧖆
 talr	𨸉
 tama	䂿
@@ -198918,6 +198921,7 @@ tlle	太累了
 tlmx	桃李满天下
 tlng	特立尼达和多巴哥
 tlnr	天理难容
+tlp	塔罗牌
 tlrf	同龄人
 tlrq	天理人情
 tlsi	托拉斯
@@ -204450,6 +204454,7 @@ uoqk	说情
 uorl	𠲿
 uoru	哾
 uoru	𠲾
+uosm	说什么
 uot	朔
 uot	蒴
 uotd	槊
@@ -221542,6 +221547,7 @@ ycju	尭
 ycju	𧠽
 ycju	𨍳
 ycjx	要价
+yck	爻
 ycka	𬌮
 yckb	肴
 ycke	殽
