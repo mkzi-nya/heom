@@ -9197,6 +9197,7 @@ dgn	多功能
 dgne	𢿤
 dgnf	䳾
 dgng	渡过难关
+dgni	等你
 dgnl	鄧
 dgnn	凳
 dgnn	㔁
@@ -49622,6 +49623,7 @@ mwxq	没羞
 mwxs	面无血色
 mwxt	美学
 mwyc	没要
+mwyc	媚药
 mwyd	迷
 mwyd	謎
 mwyd	𧭵
@@ -206557,7 +206559,7 @@ vdsc	𩬫
 vdsr	駘
 vdtf	䔝
 vdti	这道题
-vdui	这倒是
+vdu	这倒是
 vdvu	债主
 vdwd	𪑽
 vdwu	债务
@@ -209285,6 +209287,7 @@ vmdo	这么多
 vmdr	这么多人
 vmdu	知名度
 vmdx	指名道姓
+vmgj	这么干
 vmgr	芝麻官
 vmgv	这么贵
 vmhc	这么好

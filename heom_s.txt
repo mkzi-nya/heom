@@ -9197,6 +9197,7 @@ _	;b
 𢿤	dgne
 䳾	dgnf
 渡过难关	dgng
+等你	dgni
 鄧	dgnl
 凳	dgnn
 㔁	dgnn
@@ -49622,6 +49623,7 @@ IP地址	ipdv
 面无血色	mwxs
 美学	mwxt
 没要	mwyc
+媚药	mwyc
 迷	mwyd
 謎	mwyd
 𧭵	mwyd
@@ -206557,7 +206559,7 @@ PPT	ppt
 駘	vdsr
 䔝	vdtf
 这道题	vdti
-这倒是	vdui
+这倒是	vdu
 债主	vdvu
 𪑽	vdwd
 债务	vdwu
@@ -209285,6 +209287,7 @@ PPT	ppt
 这么多人	vmdr
 知名度	vmdu
 指名道姓	vmdx
+这么干	vmgj
 芝麻官	vmgr
 这么贵	vmgv
 这么好	vmhc
