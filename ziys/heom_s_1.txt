@@ -5071,6 +5071,7 @@ bswj	波斯湾
 bswy	必死无疑
 bsxb	不死心
 bt	不同
+bt	不太
 btbj	半推半就
 btbk	不吐不快
 btbn	笨头笨脑
@@ -5501,6 +5502,7 @@ buyu	郶
 buyv	背水一战
 buyy	败事有余
 buyz	不由
+buzc	不造
 buzd	不在
 buzi	步子
 buzo	不做
@@ -9300,9 +9302,10 @@ dghz	等候
 dgie	等车
 dgih	登场
 dgiy	胆固醇
-dgj	登记
+dgj	大概就
 dgjh	𪌷
 dgji	等级
+dgji	登记
 dgjt	𨎤
 dgju	灯具
 dgjx	等价
@@ -26162,6 +26165,7 @@ hxzo	化作
 hxzt	好戏在后头
 hy	混
 hy	还要
+hy	还有
 hya	ひゃ
 hya	ヒャ
 hyaa	閽
@@ -32368,7 +32372,7 @@ jisf	鵋
 jisg	䰏
 jish	𩯋
 jisi	祭祀
-jisi	缉私
+jisi	祭司
 jisi	𩦤
 jisi	𩯋
 jisj	𠮯
@@ -47849,8 +47853,8 @@ miaa	日
 miab	𨷬
 miaf	明察暗访
 mian	谜案
-mib	觅
 mib	眯
+mib	觅
 mib	瞇
 miba	㸓
 mibb	幂
@@ -199903,6 +199907,7 @@ tmxl	甜香
 tmxm	天线
 tmxp	填写
 tmxr	贪慕虚荣
+tmxr	天选
 tmxx	天下
 tmxz	唾沫星子
 tmya	天涯
@@ -201584,6 +201589,7 @@ txue	通讯社
 txug	谈笑声
 txvf	推心置腹
 txvg	通行证
+txvz	天选之子
 txwd	天下无敌
 txwg	天下为公
 txwh	天下乌鸦一般黑
@@ -211641,7 +211647,8 @@ vwsg	众望所归
 vwvw	周吴郑王
 vwwa	转危为安
 vwxs	朝闻夕死
-vwy	这
+vwy	这玩意
+vwyk	这
 vwyr	這
 vx	抓
 vx	这些
@@ -213083,6 +213090,7 @@ wjbw	晚辈
 wjbw	完备
 wjbx	瓦解冰消
 wjbx	我就不信
+wjc	违禁词
 wjca	𨩵
 wjcb	𨩻
 wjce	鋄
@@ -213410,6 +213418,7 @@ wjyu	䛃
 wjyu	䛷
 wjyu	𣥃
 wjz	伪君子
+wjz	违禁字
 wjzi	丸子
 wk	唯恐
 wkbb	无可辩驳
@@ -214609,6 +214618,7 @@ wwiv	诿
 wwiv	䴧
 wwiv	𢉝
 wwj	未
+wwjb	违禁
 wwjb	围巾
 wwjc	𩑵
 wwjd	𥧙
@@ -231378,6 +231388,7 @@ zmgd	怎么搞的
 zmgh	走马观花
 zmhu	怎么回事
 zmhv	怎么会
+zmhy	怎么还有
 zmil	自谋出路
 zmjq	怎么就
 zmkj	怎么看

@@ -5071,6 +5071,7 @@ _	;b
 必死无疑	bswy
 不死心	bsxb
 不同	bt
+不太	bt
 半推半就	btbj
 不吐不快	btbk
 笨头笨脑	btbn
@@ -5501,6 +5502,7 @@ _	;b
 背水一战	buyv
 败事有余	buyy
 不由	buyz
+不造	buzc
 不在	buzd
 步子	buzi
 不做	buzo
@@ -9300,9 +9302,10 @@ deepseek	deep
 等车	dgie
 登场	dgih
 胆固醇	dgiy
-登记	dgj
+大概就	dgj
 𪌷	dgjh
 等级	dgji
+登记	dgji
 𨎤	dgjt
 灯具	dgju
 等价	dgjx
@@ -26162,6 +26165,7 @@ github	gith
 好戏在后头	hxzt
 混	hy
 还要	hy
+还有	hy
 ひゃ	hya
 ヒャ	hya
 閽	hyaa
@@ -32368,7 +32372,7 @@ php -S 127.0.0.1:8000	iphp
 䰏	jisg
 𩯋	jish
 祭祀	jisi
-缉私	jisi
+祭司	jisi
 𩦤	jisi
 𩯋	jisi
 𠮯	jisj
@@ -47849,8 +47853,8 @@ msbt.seku.su	jmwv
 𨷬	miab
 明察暗访	miaf
 谜案	mian
-觅	mib
 眯	mib
+觅	mib
 瞇	mib
 㸓	miba
 幂	mibb
@@ -199903,6 +199907,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 天线	tmxm
 填写	tmxp
 贪慕虚荣	tmxr
+天选	tmxr
 天下	tmxx
 唾沫星子	tmxz
 天涯	tmya
@@ -201584,6 +201589,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 谈笑声	txug
 推心置腹	txvf
 通行证	txvg
+天选之子	txvz
 天下无敌	txwd
 天下为公	txwg
 天下乌鸦一般黑	txwh
@@ -211641,7 +211647,8 @@ http://mhtlim.top/usage/usage.html	uomk
 周吴郑王	vwvw
 转危为安	vwwa
 朝闻夕死	vwxs
-这	vwy
+这玩意	vwy
+这	vwyk
 這	vwyr
 抓	vx
 这些	vx
@@ -213083,6 +213090,7 @@ wiki	wiki
 完备	wjbw
 瓦解冰消	wjbx
 我就不信	wjbx
+违禁词	wjc
 𨩵	wjca
 𨩻	wjcb
 鋄	wjce
@@ -213410,6 +213418,7 @@ wiki	wiki
 䛷	wjyu
 𣥃	wjyu
 伪君子	wjz
+违禁字	wjz
 丸子	wjzi
 唯恐	wk
 无可辩驳	wkbb
@@ -214609,6 +214618,7 @@ wiki	wiki
 䴧	wwiv
 𢉝	wwiv
 未	wwj
+违禁	wwjb
 围巾	wwjb
 𩑵	wwjc
 𥧙	wwjd
@@ -231378,6 +231388,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 走马观花	zmgh
 怎么回事	zmhu
 怎么会	zmhv
+怎么还有	zmhy
 自谋出路	zmil
 怎么就	zmjq
 怎么看	zmkj
