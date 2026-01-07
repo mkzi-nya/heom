@@ -8530,6 +8530,7 @@ dazu	德昂族
 dazv	大嘴
 db	代表
 db	独霸
+db	对叭
 dbbp	打抱不平
 dbcy	断壁残垣
 dbdc	达不到
@@ -14071,6 +14072,7 @@ fade	𭩰
 fadi	栰
 fadj	罚单
 fadk	法定
+fadm	发癫
 fadm	发电
 fads	发动
 fadu	法度
@@ -18797,6 +18799,7 @@ glgc	广告
 glgg	𧻺
 glgl	逛逛
 glgl	咕噜咕噜
+glgm	旮旯给木
 glgq	改来改去
 glgu	光顾
 glgu	垙
@@ -194852,6 +194855,7 @@ rxun	任贤使能
 rxvn	瑞雪兆丰年
 rxwg	乳臭未干
 rxxb	人心向背
+rxxe	人心险恶
 rxyy	日新月异
 ry	容易
 rya	りゃ
@@ -202168,6 +202172,7 @@ uayq	𨖷
 uayu	鲨鱼
 uazi	傻子
 ub	顺便
+ub	是吧
 ubbx	誓不罢休
 ubby	十八般武艺
 ubcm	恕不从命
@@ -217452,6 +217457,7 @@ xmed	湺
 xmed	澖
 xmed	𰛵
 xmee	限额
+xmee	险恶
 xmem	涎
 xmen	𤁦
 xmeo	㳄
