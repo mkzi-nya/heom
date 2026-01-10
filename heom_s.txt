@@ -43000,6 +43000,7 @@ IP地址	ipdv
 𤬓	lmco
 錬	lmcw
 楝	lmd
+里面的	lmd
 连打	lmda
 櫣	lmdb
 镰刀	lmdc
@@ -202953,6 +202954,7 @@ PPT	ppt
 伤亡	uhwh
 䵰	uhwh
 𤳈	uhwh
+上完	uhwj
 水火无情	uhwq
 山呼万岁	uhws
 上午	uhwu
@@ -204343,6 +204345,7 @@ PPT	ppt
 上面	um
 生命不息	umbx
 鼠目寸光	umcg
+上面的	umd
 声名大振	umdv
 善莫大焉	umdy
 神秘感	umgj
@@ -222426,8 +222429,8 @@ wiki	wiki
 一个头两个大	ygtd
 雨过天晴	ygtq
 异国他乡	ygtx
+应该是	ygu
 眼高手低	ygud
-应该是	ygui
 一个世纪	yguj
 应该说	yguo
 一个手指头	ygut

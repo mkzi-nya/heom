@@ -43375,6 +43375,7 @@ lmcj	鏈
 lmco	𤬓
 lmcw	錬
 lmd	楝
+lmd	里面的
 lmda	连打
 lmdb	櫣
 lmdc	镰刀
@@ -203648,6 +203649,7 @@ uhwh	上网
 uhwh	伤亡
 uhwh	䵰
 uhwh	𤳈
+uhwj	上完
 uhwq	水火无情
 uhws	山呼万岁
 uhwu	上午
@@ -205040,6 +205042,7 @@ ulzu	双足
 um	上面
 umbx	生命不息
 umcg	鼠目寸光
+umd	上面的
 umdv	声名大振
 umdy	善莫大焉
 umgj	神秘感
@@ -223211,8 +223214,8 @@ ygt	一个天上一个地下
 ygtd	一个头两个大
 ygtq	雨过天晴
 ygtx	异国他乡
+ygu	应该是
 ygud	眼高手低
-ygui	应该是
 yguj	一个世纪
 yguo	应该说
 ygut	一个手指头
