@@ -4362,6 +4362,7 @@ _	;b
 𧲯	bobk
 肑	bobm
 伯伯	bobo
+薄薄	bobo
 鉑	boca
 菠菜	bocd
 鋍	bocd
@@ -4876,6 +4877,7 @@ _	;b
 别闹	bpnc
 㢼	bpnf
 𩸁	bpnf
+憋尿	bpnn
 别扭	bpnq
 别弄	bpns
 𠍯	bpok
@@ -5268,6 +5270,7 @@ _	;b
 不忙	bumh
 㻉	bumh
 不满	bumj
+布满	bumj
 不胜枚举	bumj
 不明	bumk
 不甚明了	buml
@@ -5552,6 +5555,7 @@ _	;b
 不枉此行	bwcx
 杯	bwd
 把我的	bwd
+被打	bwda
 北大	bwda
 杮	bwdb
 韛	bwdb
@@ -13071,6 +13075,7 @@ _	;b
 𩔡	dzrc
 吺	dzre
 逗人	dzrf
+都让	dzrh
 𠾇	dzri
 陡然	dzrj
 唞	dzrj
@@ -16318,6 +16323,7 @@ _	;b
 䌿	fuvw
 𤱽	fuvx
 𡞪	fuvy
+符咒	fuvz
 福州	fuvz
 抚慰	fuw
 𦿁	fuwa
@@ -16747,8 +16753,8 @@ _	;b
 逢凶化吉	fxhj
 负薪救火	fxjh
 法学家	fxjx
+发现了	fxl
 焚香礼拜	fxlb
-发现了	fxle
 浮想联翩	fxlp
 焚香沐浴	fxmy
 方向盘	fxpj
@@ -16768,7 +16774,7 @@ _	;b
 分一杯羹	fybg
 风云变幻	fybh
 浮云蔽日	fybr
-反义词	fyci
+反义词	fyc
 浮一大白	fydb
 发源地	fydi
 奋勇当先	fydx
@@ -19508,6 +19514,7 @@ GDP	gdp
 拱	gsq
 𦓳	gsqc
 工期	gsqi
+弓起	gsqi
 共情	gsqk
 公顷	gsqk
 工钱	gsqm
@@ -25831,6 +25838,7 @@ GDP	gdp
 互相推诿	hxtw
 横行天下	hxtx
 滑头	hxtz
+好像是	hxu
 华沙	hxua
 崋	hxub
 花哨	hxuc
@@ -28916,6 +28924,7 @@ GDP	gdp
 窗口	ilkz
 闯	ill
 幢	ill
+出来了	ill
 㡖	illg
 创立	illi
 窗棂	illk
@@ -32084,6 +32093,7 @@ IP地址	ipdv
 䦇	jiss
 𩥉	jist
 激素	jisu
+急速	jisu
 𠨕	jisu
 几岁	jisv
 精诚所至	jisv
@@ -32852,6 +32862,7 @@ IP地址	ipdv
 金口玉言	jkyy
 净增	jkzg
 镜子	jkzi
+精子	jkzi
 静坐	jkzo
 京族	jkzu
 竞走	jkzz
@@ -35945,7 +35956,7 @@ IP地址	ipdv
 雎	jubg
 瞿	jubg
 鶪	jubh
-且	jubi
+剧变	jubi
 举办	jubj
 䡞	jubj
 举兵	jubk
@@ -35957,14 +35968,15 @@ IP地址	ipdv
 巨变	jubm
 见势不妙	jubm
 䴗	jubm
+剧变	jubm
 且	jubm
 𱉐	jubm
 𱉘	jubm
 𠜹	jubn
 𦜛	jubn
-𱉐	jubo
+且	jubo
 愳	jubp
-𱉘	jubq
+𱉐	jubq
 今时不同往日	jubr
 腒	jubr
 䏱	jubr
@@ -35972,7 +35984,7 @@ IP地址	ipdv
 眗	jubr
 𧹕	jubr
 𥄷	jubs
-𥉁	jubt
+𱉘	jubt
 局部	jubu
 井水不犯河水	jubu
 䀠	jubu
@@ -35982,8 +35994,8 @@ IP地址	ipdv
 具备	jubw
 兼收并蓄	jubx
 𦛓	jubx
-䝻	juby
-眗	jubz
+𥉁	juby
+䝻	jubz
 䜯	jucd
 𨨠	jucd
 据此	juci
@@ -36317,7 +36329,7 @@ IP地址	ipdv
 㨿	juqu
 决胜千里之外	juqw
 距	jur
-𧹕	jura
+眗	jura
 踽	jurb
 蹫	jurb
 𧵞	jurc
@@ -36326,12 +36338,12 @@ IP地址	ipdv
 㖩	jure
 踙	jure
 巨人	jurf
-啹	jurg
+𧹕	jurg
 江山如画	jurh
-䵕	juri
+啹	juri
 居然	jurj
-艍	jurk
-𢩁	jurl
+䵕	jurk
+艍	jurl
 咀	jurm
 跙	jurm
 㘌	jurn
@@ -36340,7 +36352,8 @@ IP地址	ipdv
 蒟蒻	juro
 足	juro
 躆	juro
-𥷚	jurp
+𢩁	jurp
+𥷚	jurq
 踞	jurr
 跼	jurr
 跔	jurr
@@ -36479,6 +36492,7 @@ IP地址	ipdv
 据悉	juxi
 举行	juxk
 矩形	juxk
+巨型	juxk
 及时行乐	juxl
 计上心来	juxl
 局限	juxm
@@ -47600,6 +47614,7 @@ IP地址	ipdv
 𪋢	miiu
 𩞇	miiv
 靡	miiy
+蜜唇	miiy
 密	mij
 蜜	mij
 𧶡	mijc
@@ -47770,6 +47785,7 @@ IP地址	ipdv
 迷雾	miwu
 迷信	mixb
 没出息	mixi
+蜜穴	mixt
 迷	miy
 䖑	miya
 𥹄	miyb
@@ -50100,6 +50116,7 @@ n-buna	nbna
 鐃	nccu
 脑袋	ncdd
 闹得	ncde
+脑洞	ncds
 桡	ncdu
 橈	ncdu
 淖	nce
@@ -50240,6 +50257,7 @@ n-buna	nbna
 榒	nddh
 𪌞	nddi
 女大当嫁	nddj
+脑动大开	nddk
 榒	nddm
 㲡	nddu
 㴎	ndef
@@ -51124,6 +51142,7 @@ n-buna	nbna
 年满	nmmj
 年末	nmmo
 䚓	nmmu
+你们那边	nmnb
 𩽴	nmnk
 年年	nmnm
 鲶	nmnp
@@ -187116,6 +187135,7 @@ $	otm
 枰	pkd
 平等	pkdg
 平地	pkdi
+平底	pkdi
 平淡	pkdj
 檘	pkdj
 评定	pkdk
@@ -202186,7 +202206,8 @@ PPT	ppt
 身后	ufhz
 神	ufi
 审查	ufia
-𰄁	ufib
+𢈇	ufib
+𰄁	ufic
 𠘆	ufid
 𢊖	ufid
 𢊲	ufid
@@ -202204,6 +202225,7 @@ PPT	ppt
 谂	ufip
 身穿	ufir
 伸出	ufiu
+渗出	ufiu
 诜	ufiu
 𢈇	ufiu
 谌	ufiv
@@ -202341,6 +202363,7 @@ PPT	ppt
 吲	ufrl
 㕥	ufro
 深入	ufru
+渗入	ufru
 世风日下	ufrx
 腎	ufsb
 頣	ufsc
@@ -205789,6 +205812,7 @@ PPT	ppt
 𥨝	uzje
 手机	uzji
 受惊	uzjk
+受精	uzjk
 收件	uzjm
 手脚	uzjn
 手交	uzjn
@@ -212801,6 +212825,7 @@ wiki	wiki
 文明社会	wmuh
 无名氏	wmui
 无名指	wmv
+我们这边	wmvb
 无名之辈	wmvb
 无米之炊	wmvi
 望梅止渴	wmvk
@@ -213281,6 +213306,7 @@ wiki	wiki
 𢄓	wulf
 物理	wuli
 无理	wuli
+无力	wuli
 物量	wull
 无量	wull
 𰏓	wulm
@@ -213519,6 +213545,7 @@ wiki	wiki
 误伤	wuuh
 岉	wuuh
 无视	wuui
+巫师	wuui
 误删	wuuj
 𡷤	wuuk
 无双	wuul
@@ -214990,6 +215017,7 @@ wiki	wiki
 鲜花插在牛粪上	xhiu
 新欢旧好	xhjh
 悬壶济世	xhju
+喜欢你	xhn
 心花怒放	xhnf
 心怀叵测	xhpc
 虚怀若谷	xhrg
@@ -216448,6 +216476,7 @@ wiki	wiki
 星罗棋布	xlqb
 想起	xlqi
 香气	xlqi
+响起	xlqi
 详情	xlqk
 向前	xlqm
 镶嵌	xlqm
@@ -217890,6 +217919,7 @@ wiki	wiki
 颉	xpgo
 垥	xpgr
 㐖	xpgu
+鞋柜	xpgv
 写给	xpgw
 血	xph
 𦪬	xpha
@@ -224988,6 +225018,7 @@ wiki	wiki
 娮	yjvr
 𤖝	yjvr
 严重	yjvs
+眼中	yjvs
 一己之私	yjvs
 妍	yjvt
 眼珠	yjvu
@@ -230479,6 +230510,7 @@ wiki	wiki
 暂扣	zjkz
 总经理	zjl
 襸	zjlc
+攒了	zjle
 暂离	zjli
 𬡷	zjlo
 暂列	zjlp

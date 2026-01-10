@@ -111,6 +111,7 @@ jiri	7
 jirj	7
 jknm	7
 jmmm	7
+jubm	7
 lkho	7
 lmhc	7
 mgtu	7
@@ -217,7 +218,6 @@ jinm	6
 jiti	6
 jmli	6
 jnnf	6
-jubm	6
 jubr	6
 juhc	6
 jutr	6
@@ -1089,6 +1089,7 @@ trmi	4
 tsyr	4
 tvho	4
 uamo	4
+ufiu	4
 uhwh	4
 uibm	4
 uigl	4

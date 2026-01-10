@@ -4362,6 +4362,7 @@ bobk	䯋
 bobk	𧲯
 bobm	肑
 bobo	伯伯
+bobo	薄薄
 boca	鉑
 bocd	菠菜
 bocd	鋍
@@ -4876,6 +4877,7 @@ bpnb	𢐳
 bpnc	别闹
 bpnf	㢼
 bpnf	𩸁
+bpnn	憋尿
 bpnq	别扭
 bpns	别弄
 bpok	𠍯
@@ -5268,6 +5270,7 @@ bumg	𤣰
 bumh	不忙
 bumh	㻉
 bumj	不满
+bumj	布满
 bumj	不胜枚举
 bumk	不明
 buml	不甚明了
@@ -5552,6 +5555,7 @@ bwcv	悲催
 bwcx	不枉此行
 bwd	杯
 bwd	把我的
+bwda	被打
 bwda	北大
 bwdb	杮
 bwdb	韛
@@ -13071,6 +13075,7 @@ dzrc	𡂝
 dzrc	𩔡
 dzre	吺
 dzrf	逗人
+dzrh	都让
 dzri	𠾇
 dzrj	陡然
 dzrj	唞
@@ -16318,6 +16323,7 @@ fuvw	䋹
 fuvw	䌿
 fuvx	𤱽
 fuvy	𡞪
+fuvz	符咒
 fuvz	福州
 fuw	抚慰
 fuwa	𦿁
@@ -16747,8 +16753,8 @@ fxhf	福兮祸所伏
 fxhj	逢凶化吉
 fxjh	负薪救火
 fxjx	法学家
+fxl	发现了
 fxlb	焚香礼拜
-fxle	发现了
 fxlp	浮想联翩
 fxmy	焚香沐浴
 fxpj	方向盘
@@ -16768,7 +16774,7 @@ fyb	飞扬跋扈
 fybg	分一杯羹
 fybh	风云变幻
 fybr	浮云蔽日
-fyci	反义词
+fyc	反义词
 fydb	浮一大白
 fydi	发源地
 fydx	奋勇当先
@@ -19508,6 +19514,7 @@ gspu	公仆
 gsq	拱
 gsqc	𦓳
 gsqi	工期
+gsqi	弓起
 gsqk	共情
 gsqk	公顷
 gsqm	工钱
@@ -25831,6 +25838,7 @@ hxtu	画图
 hxtw	互相推诿
 hxtx	横行天下
 hxtz	滑头
+hxu	好像是
 hxua	华沙
 hxub	崋
 hxuc	花哨
@@ -28916,6 +28924,7 @@ ilkx	乘龙快婿
 ilkz	窗口
 ill	闯
 ill	幢
+ill	出来了
 illg	㡖
 illi	创立
 illk	窗棂
@@ -32084,6 +32093,7 @@ jisr	𧧃
 jiss	䦇
 jist	𩥉
 jisu	激素
+jisu	急速
 jisu	𠨕
 jisv	几岁
 jisv	精诚所至
@@ -32852,6 +32862,7 @@ jkyu	競
 jkyy	金口玉言
 jkzg	净增
 jkzi	镜子
+jkzi	精子
 jkzo	静坐
 jkzu	京族
 jkzz	竞走
@@ -35945,7 +35956,7 @@ jubg	据实禀告
 jubg	雎
 jubg	瞿
 jubh	鶪
-jubi	且
+jubi	剧变
 jubj	举办
 jubj	䡞
 jubk	举兵
@@ -35957,14 +35968,15 @@ jubl	𥉁
 jubm	巨变
 jubm	见势不妙
 jubm	䴗
+jubm	剧变
 jubm	且
 jubm	𱉐
 jubm	𱉘
 jubn	𠜹
 jubn	𦜛
-jubo	𱉐
+jubo	且
 jubp	愳
-jubq	𱉘
+jubq	𱉐
 jubr	今时不同往日
 jubr	腒
 jubr	䏱
@@ -35972,7 +35984,7 @@ jubr	䝻
 jubr	眗
 jubr	𧹕
 jubs	𥄷
-jubt	𥉁
+jubt	𱉘
 jubu	局部
 jubu	井水不犯河水
 jubu	䀠
@@ -35982,8 +35994,8 @@ jubv	𫎌
 jubw	具备
 jubx	兼收并蓄
 jubx	𦛓
-juby	䝻
-jubz	眗
+juby	𥉁
+jubz	䝻
 jucd	䜯
 jucd	𨨠
 juci	据此
@@ -36317,7 +36329,7 @@ juqs	耟
 juqu	㨿
 juqw	决胜千里之外
 jur	距
-jura	𧹕
+jura	眗
 jurb	踽
 jurb	蹫
 jurc	𧵞
@@ -36326,12 +36338,12 @@ jurd	踘
 jure	㖩
 jure	踙
 jurf	巨人
-jurg	啹
+jurg	𧹕
 jurh	江山如画
-juri	䵕
+juri	啹
 jurj	居然
-jurk	艍
-jurl	𢩁
+jurk	䵕
+jurl	艍
 jurm	咀
 jurm	跙
 jurn	㘌
@@ -36340,7 +36352,8 @@ jurn	𧿻
 juro	蒟蒻
 juro	足
 juro	躆
-jurp	𥷚
+jurp	𢩁
+jurq	𥷚
 jurr	踞
 jurr	跼
 jurr	跔
@@ -36479,6 +36492,7 @@ juxb	居心
 juxi	据悉
 juxk	举行
 juxk	矩形
+juxk	巨型
 juxl	及时行乐
 juxl	计上心来
 juxm	局限
@@ -47600,6 +47614,7 @@ miiu	麑
 miiu	𪋢
 miiv	𩞇
 miiy	靡
+miiy	蜜唇
 mij	密
 mij	蜜
 mijc	𧶡
@@ -47770,6 +47785,7 @@ miwh	迷惘
 miwu	迷雾
 mixb	迷信
 mixi	没出息
+mixt	蜜穴
 miy	迷
 miya	䖑
 miyb	𥹄
@@ -50100,6 +50116,7 @@ ncck	𨥸
 nccu	鐃
 ncdd	脑袋
 ncde	闹得
+ncds	脑洞
 ncdu	桡
 ncdu	橈
 nce	淖
@@ -50240,6 +50257,7 @@ nddh	男大当婚
 nddh	榒
 nddi	𪌞
 nddj	女大当嫁
+nddk	脑动大开
 nddm	榒
 nddu	㲡
 ndef	㴎
@@ -51124,6 +51142,7 @@ nmmf	𩉄
 nmmj	年满
 nmmo	年末
 nmmu	䚓
+nmnb	你们那边
 nmnk	𩽴
 nmnm	年年
 nmnp	鲶
@@ -187116,6 +187135,7 @@ pkch	平仓
 pkd	枰
 pkdg	平等
 pkdi	平地
+pkdi	平底
 pkdj	平淡
 pkdj	檘
 pkdk	评定
@@ -202186,7 +202206,8 @@ ufhz	深厚
 ufhz	身后
 ufi	神
 ufia	审查
-ufib	𰄁
+ufib	𢈇
+ufic	𰄁
 ufid	𠘆
 ufid	𢊖
 ufid	𢊲
@@ -202204,6 +202225,7 @@ ufim	叄
 ufip	谂
 ufir	身穿
 ufiu	伸出
+ufiu	渗出
 ufiu	诜
 ufiu	𢈇
 ufiv	谌
@@ -202341,6 +202363,7 @@ ufrl	呻
 ufrl	吲
 ufro	㕥
 ufru	深入
+ufru	渗入
 ufrx	世风日下
 ufsb	腎
 ufsc	頣
@@ -205789,6 +205812,7 @@ uzje	㝊
 uzje	𥨝
 uzji	手机
 uzjk	受惊
+uzjk	受精
 uzjm	收件
 uzjn	手脚
 uzjn	手交
@@ -212801,6 +212825,7 @@ wmuc	唯命是从
 wmuh	文明社会
 wmui	无名氏
 wmv	无名指
+wmvb	我们这边
 wmvb	无名之辈
 wmvi	无米之炊
 wmvk	望梅止渴
@@ -213281,6 +213306,7 @@ wulf	蟱
 wulf	𢄓
 wuli	物理
 wuli	无理
+wuli	无力
 wull	物量
 wull	无量
 wulm	𰏓
@@ -213519,6 +213545,7 @@ wuug	无声
 wuuh	误伤
 wuuh	岉
 wuui	无视
+wuui	巫师
 wuuj	误删
 wuuk	𡷤
 wuul	无双
@@ -214990,6 +215017,7 @@ xhhe	笑呵呵
 xhiu	鲜花插在牛粪上
 xhjh	新欢旧好
 xhju	悬壶济世
+xhn	喜欢你
 xhnf	心花怒放
 xhpc	心怀叵测
 xhrg	虚怀若谷
@@ -216448,6 +216476,7 @@ xlqb	相亲
 xlqb	星罗棋布
 xlqi	想起
 xlqi	香气
+xlqi	响起
 xlqk	详情
 xlqm	向前
 xlqm	镶嵌
@@ -217890,6 +217919,7 @@ xpgo	写过
 xpgo	颉
 xpgr	垥
 xpgu	㐖
+xpgv	鞋柜
 xpgw	写给
 xph	血
 xpha	𦪬
@@ -224988,6 +225018,7 @@ yjvr	姶
 yjvr	娮
 yjvr	𤖝
 yjvs	严重
+yjvs	眼中
 yjvs	一己之私
 yjvt	妍
 yjvu	眼珠
@@ -230479,6 +230510,7 @@ zjku	兂
 zjkz	暂扣
 zjl	总经理
 zjlc	襸
+zjle	攒了
 zjli	暂离
 zjlo	𬡷
 zjlp	暂列
