@@ -52238,3 +52238,5 @@ wiki	wiki
 什么东东	smdd
 来事	ldui
 那还是	nhu
+那没事了	nmul
+没事了	mul
