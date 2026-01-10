@@ -1392,8 +1392,8 @@ bcan	闁
 bcb	豹
 bcba	𦡕
 bcbb	𧵢
-bcbc	宝宝
 bcbc	抱抱
+bcbc	宝宝
 bcbd	脬
 bcbe	𤔣
 bcbe	𦢊
@@ -17502,6 +17502,7 @@ gekj	𤠇
 gekn	疙
 gekn	犵
 gekp	㤎
+geks	隔空
 gekv	獦
 gekv	𬨍
 gekv	𮝺
@@ -26102,6 +26103,7 @@ hyvo	繉
 hyvp	緄
 hyvp	𦃕
 hyvy	豪言壮语
+hyw	还以为
 hywa	𪑕
 hywi	厚颜无耻
 hywl	话音未落
@@ -40638,6 +40640,7 @@ ldu	崃
 ldug	来生
 ldug	落地生根
 ldui	来世
+ldui	来事
 lduo	来说
 lduo	崍
 ldvc	𦆋
@@ -49301,6 +49304,7 @@ muy	亩
 muy	畝
 muyf	譕
 muyh	模样
+muyi	目移
 muyi	畆
 muyk	母婴
 muyo	畒
@@ -50457,6 +50461,7 @@ nhsv	鬞
 nhsv	𦗳
 nhsv	𨳆
 nhtv	𧅺
+nhu	那还是
 nhus	𱜀
 nhuv	𡿝
 nhvs	囊肿
@@ -195595,6 +195600,7 @@ slyt	死路一条
 slzu	撒拉族
 sm	什么
 smbf	四面八方
+smdd	什么东东
 smdx	什么东西
 smdy	死马当活马医
 smig	四面楚歌
@@ -212288,6 +212294,7 @@ whyu	盲
 whyv	妄
 whyv	誷
 whyv	𧧄
+whyw	我还以为
 whyz	往右
 whyz	网友
 whzc	⺲
