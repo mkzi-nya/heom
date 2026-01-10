@@ -1076,8 +1076,8 @@ bahb	秡
 bahc	颰
 bahd	馛
 bahe	拔河
-bahe	魃
 bahe	巴赫
+bahe	魃
 bahe	叐
 bahe	秡
 bahe	颰
@@ -1758,6 +1758,7 @@ bcye	𠅬
 bcye	𧭤
 bcyh	保养
 bcyi	报以
+bcyi	褒义
 bcyi	䪨
 bcyk	报应
 bcym	䪨
@@ -2539,6 +2540,7 @@ bhvs	𫄰
 bhvt	抱恨终天
 bhvu	帮助
 bhvy	百花争艳
+bhw	不好玩
 bhwf	榜文
 bhwi	变幻无常
 bhwj	傍晚
@@ -4151,6 +4153,7 @@ bmyh	变样
 bmyh	辺
 bmyi	变异
 bmyi	编译
+bmyi	贬义
 bmyj	边沿
 bmyj	辯
 bmyj	辮
@@ -10193,6 +10196,7 @@ djdj	淡淡
 djdj	淡淡的
 djdj	𩏥
 djdk	淡定
+djdk	但丁
 djdl	大吉大利
 djdm	柦
 djdn	单调
@@ -20946,6 +20950,7 @@ gymj	璭
 gymm	𡈧
 gymn	𠃌
 gymp	䃂
+gymu	棍母
 gymv	𥕦
 gyn	鲧
 gyne	鰥
@@ -21311,9 +21316,9 @@ hbft	魂不附体
 hbfx	还本付息
 hbgr	互不干扰
 hbgz	还不够
+hbh	会不会
 hbhc	好不好
 hbhu	会不会是
-hbhv	会不会
 hbhv	互帮互助
 hbhy	毫不讳言
 hbij	画饼充饥
@@ -25090,6 +25095,7 @@ hutn	萀
 hutn	𦭈
 huto	𦴉
 hutp	䓤
+huts	互通
 hutt	𦷳
 hutu	糊涂
 hutu	萀
@@ -31243,6 +31249,7 @@ jbxf	箭不虚发
 jbxi	今昔
 jbxi	今夕
 jbxk	进行
+jbxk	尽兴
 jbxm	仅限
 jbxn	今宵
 jbxq	锦绣
@@ -50426,6 +50433,7 @@ natb	𰱌
 natc	那套
 natd	那台
 nate	𦬻
+natk	那挺
 natl	𦰡
 natm	那天
 natn	那条
@@ -203012,6 +203020,7 @@ ufqu	抌
 ufqv	是非曲直
 ufqw	𢸙
 ufr	哂
+ufrf	神人
 ufrh	𠻝
 ufrl	呻
 ufrl	吲
@@ -212138,6 +212147,8 @@ w	Ŵ
 wa	挖
 wa	わ
 wa	ワ
+waa	午安安
+waa	晚安安
 wab	腽
 wabd	𦚩
 wabm	𩩤
@@ -213803,6 +213814,7 @@ wua	晤
 wuaf	𨶇
 wuai	无碍
 wuaj	旿
+wuan	午安
 wuan	䦍
 wuar	䦜
 wubb	五十步笑百步
@@ -224722,6 +224734,7 @@ yiur	𡼎
 yius	𨣬
 yiut	𩂒
 yiuu	艺术
+yiuu	遗书
 yiuv	嶬
 yiuw	𡾾
 yiux	𧔮

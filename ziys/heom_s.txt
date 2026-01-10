@@ -1076,8 +1076,8 @@ _	;b
 颰	bahc
 馛	bahd
 拔河	bahe
-魃	bahe
 巴赫	bahe
+魃	bahe
 叐	bahe
 秡	bahe
 颰	bahe
@@ -1758,6 +1758,7 @@ _	;b
 𧭤	bcye
 保养	bcyh
 报以	bcyi
+褒义	bcyi
 䪨	bcyi
 报应	bcyk
 䪨	bcym
@@ -2539,6 +2540,7 @@ _	;b
 抱恨终天	bhvt
 帮助	bhvu
 百花争艳	bhvy
+不好玩	bhw
 榜文	bhwf
 变幻无常	bhwi
 傍晚	bhwj
@@ -4151,6 +4153,7 @@ _	;b
 辺	bmyh
 变异	bmyi
 编译	bmyi
+贬义	bmyi
 边沿	bmyj
 辯	bmyj
 辮	bmyj
@@ -10193,6 +10196,7 @@ deepseek	deep
 淡淡的	djdj
 𩏥	djdj
 淡定	djdk
+但丁	djdk
 大吉大利	djdl
 柦	djdm
 单调	djdn
@@ -20946,6 +20950,7 @@ github	gith
 𡈧	gymm
 𠃌	gymn
 䃂	gymp
+棍母	gymu
 𥕦	gymv
 鲧	gyn
 鰥	gyne
@@ -21311,9 +21316,9 @@ github	gith
 还本付息	hbfx
 互不干扰	hbgr
 还不够	hbgz
+会不会	hbh
 好不好	hbhc
 会不会是	hbhu
-会不会	hbhv
 互帮互助	hbhv
 毫不讳言	hbhy
 画饼充饥	hbij
@@ -25090,6 +25095,7 @@ github	gith
 𦭈	hutn
 𦴉	huto
 䓤	hutp
+互通	huts
 𦷳	hutt
 糊涂	hutu
 萀	hutu
@@ -31243,6 +31249,7 @@ php -S 127.0.0.1:8000	iphp
 今昔	jbxi
 今夕	jbxi
 进行	jbxk
+尽兴	jbxk
 仅限	jbxm
 今宵	jbxn
 锦绣	jbxq
@@ -50426,6 +50433,7 @@ milthm	milt
 那套	natc
 那台	natd
 𦬻	nate
+那挺	natk
 𦰡	natl
 那天	natm
 那条	natn
@@ -203012,6 +203020,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 是非曲直	ufqv
 𢸙	ufqw
 哂	ufr
+神人	ufrf
 𠻝	ufrh
 呻	ufrl
 吲	ufrl
@@ -212138,6 +212147,8 @@ http://mhtlim.top/usage/usage.html	uomk
 挖	wa
 わ	wa
 ワ	wa
+午安安	waa
+晚安安	waa
 腽	wab
 𦚩	wabd
 𩩤	wabm
@@ -213803,6 +213814,7 @@ wiki	wiki
 𨶇	wuaf
 无碍	wuai
 旿	wuaj
+午安	wuan
 䦍	wuan
 䦜	wuar
 五十步笑百步	wubb
@@ -224722,6 +224734,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𨣬	yius
 𩂒	yiut
 艺术	yiuu
+遗书	yiuu
 嶬	yiuv
 𡾾	yiuw
 𧔮	yiux
