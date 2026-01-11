@@ -68,6 +68,7 @@ acrm	爱财如命
 acuj	暗藏杀机
 acxj	暗藏玄机
 ad	按到
+addd	啊对对对
 ader	安道尔
 adic	暗渡陈仓
 adl	按道理
@@ -51869,6 +51870,7 @@ ntyp	䖈
 nu	怒
 nubi	奴婢
 nucd	奴才
+nudd	你说的对
 nufh	怒放
 nuhc	怒号
 nuhd	能说会道

@@ -68,6 +68,7 @@ _	;b
 暗藏杀机	acuj
 暗藏玄机	acxj
 按到	ad
+啊对对对	addd
 安道尔	ader
 暗渡陈仓	adic
 按道理	adl
@@ -51869,6 +51870,7 @@ n-buna	nbna
 怒	nu
 奴婢	nubi
 奴才	nucd
+你说的对	nudd
 怒放	nufh
 怒号	nuhc
 能说会道	nuhd
