@@ -5907,9 +5907,9 @@ bybu	暴饮暴食
 bybu	百依百顺
 byc	贬义词
 byci	褒义词
+byd	不一定
 bydh	必要的话
 bydi	比亚迪
-bydk	不一定
 bydt	别有洞天
 bydu	不用多说
 bydv	不要当真
@@ -23672,7 +23672,7 @@ hq	回去
 hqbr	寒气逼人
 hqdo	何其多
 hqdy	何其毒也
-hqgk	很奇怪
+hqg	很奇怪
 hqgq	皇亲国戚
 hqhc	何去何从
 hqhl	合情合理
@@ -188373,6 +188373,7 @@ qbcq	𠔎
 qbcr	鉆
 qbcr	𧯃
 qbd	檎
+qbdd	区别对待
 qbde	梫
 qbdk	钦定
 qbdl	气不打一处来
@@ -195636,6 +195637,7 @@ smni	岁末年初
 smnv	驷马难追
 smpu	素昧平生
 smqk	什么情况
+smu	什么是
 smuh	什么时候
 smvi	三明治
 smvx	司马昭之心
@@ -206617,6 +206619,7 @@ vdsr	駘
 vdtf	䔝
 vdti	这道题
 vdu	这倒是
+vdu	真的是
 vdvu	债主
 vdwd	𪑽
 vdwu	债务
