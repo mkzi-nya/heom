@@ -43598,6 +43598,7 @@ lmpm	连篇
 lmpo	廉颇
 lmpq	憐
 lmpu	脸谱
+lmqb	练琴
 lmqj	摙
 lmqj	𦔖
 lmqk	恋情
@@ -201617,6 +201618,7 @@ txdu	天下大事
 txdv	天旋地转
 txdy	天下第一
 txfu	谈笑风生
+txgu	通项公式
 txjb	退休金
 txjf	啼笑皆非
 txju	痛心疾首
@@ -205224,6 +205226,7 @@ uotf	𦃗
 uoti	芍
 uotm	芍
 uotp	愬
+uou	说是
 uoua	说啥
 uoug	说声
 uoui	硕士
@@ -212729,6 +212732,7 @@ wfwt	𥁕
 wfwu	文物
 wfxb	温馨
 wfxi	温习
+wfxj	无缝衔接
 wfxj	枉费心机
 wfxl	蚊香
 wfxm	文献
@@ -228493,6 +228497,7 @@ yurn	踰
 yurs	羽绒
 yurt	喅
 yurt	𠽵
+yurv	又双叒叕
 yurv	踰
 yurv	喩
 yury	唹
