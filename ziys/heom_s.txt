@@ -5037,6 +5037,7 @@ _	;b
 不容乐观	brlg
 白日梦	brmg
 被人卖了还帮着数钱	brmq
+不然呢	brn
 哺乳期	brqi
 不如退而结网	brtw
 不认识	brui
@@ -12883,6 +12884,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 胆小如鼠	dxru
 大写锁定	dxsd
 单相思	dxsi
+低血糖	dxt
 大兴土木	dxtm
 大学生	dxug
 地下室	dxui
@@ -12999,8 +13001,8 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 扽	dyqu
 𢬼	dyqu
 掉以轻心	dyqx
-吨	dyr
 蹲	dyr
+吨	dyr
 但愿如此	dyrc
 噸	dyrc
 代言人	dyrf
@@ -29559,6 +29561,7 @@ php -S 127.0.0.1:8000	iphp
 串	irl
 𧍒	irlb
 传来	irld
+穿了	irle
 常任理事国	irlg
 传令	irlk
 串联	irlm
@@ -198473,8 +198476,8 @@ rime	rime
 湯	theh
 𢴳	theq
 淌	ther
-堂	thf
 糖	thf
+堂	thf
 烫发	thfa
 棠	thfd
 爣	thff
@@ -201719,6 +201722,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 𪌋	tyju
 腾云驾雾	tyjw
 桃园结义	tyjy
+体育课	tyk
 𤶕	tykr
 㹠	tyku
 𰹸	tyku
@@ -205371,6 +205375,7 @@ http://mhtlim.top/usage/usage.html	uomk
 声嘶力竭	uslj
 是什么	usm
 是什么东东	usmd
+是什么意思	usms
 声色犬马	usqm
 视死如归	usrg
 十三岁	uss
@@ -210118,6 +210123,7 @@ http://mhtlim.top/usage/usage.html	uomk
 这么远	vmyr
 真没意思	vmys
 这么早	vmzc
+这么做	vmzo
 装模作样	vmzy
 只能	vn
 智能ABC	vna
@@ -228524,6 +228530,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𩢶	yusk
 𩦢	yusk
 䣁	yusl
+又是什么	yusm
 䮙	yusm
 匬	yusn
 騟	yusn

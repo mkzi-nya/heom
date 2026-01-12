@@ -5037,6 +5037,7 @@ brhz	不入虎穴，焉得虎子
 brlg	不容乐观
 brmg	白日梦
 brmq	被人卖了还帮着数钱
+brn	不然呢
 brqi	哺乳期
 brtw	不如退而结网
 brui	不认识
@@ -12883,6 +12884,7 @@ dxr	嗲
 dxru	胆小如鼠
 dxsd	大写锁定
 dxsi	单相思
+dxt	低血糖
 dxtm	大兴土木
 dxug	大学生
 dxui	地下室
@@ -12999,8 +13001,8 @@ dyqq	大异其趣
 dyqu	扽
 dyqu	𢬼
 dyqx	掉以轻心
-dyr	吨
 dyr	蹲
+dyr	吨
 dyrc	但愿如此
 dyrc	噸
 dyrf	代言人
@@ -29559,6 +29561,7 @@ irl	川
 irl	串
 irlb	𧍒
 irld	传来
+irle	穿了
 irlg	常任理事国
 irlk	传令
 irlm	串联
@@ -198473,8 +198476,8 @@ theg	漟
 theh	湯
 theq	𢴳
 ther	淌
-thf	堂
 thf	糖
+thf	堂
 thfa	烫发
 thfd	棠
 thff	爣
@@ -201719,6 +201722,7 @@ tyju	軘
 tyju	𪌋
 tyjw	腾云驾雾
 tyjy	桃园结义
+tyk	体育课
 tykr	𤶕
 tyku	㹠
 tyku	𰹸
@@ -205371,6 +205375,7 @@ usld	瘦死骆驼比马大
 uslj	声嘶力竭
 usm	是什么
 usmd	是什么东东
+usms	是什么意思
 usqm	声色犬马
 usrg	视死如归
 uss	十三岁
@@ -210118,6 +210123,7 @@ vmxn	这么小
 vmyr	这么远
 vmys	真没意思
 vmzc	这么早
+vmzo	这么做
 vmzy	装模作样
 vn	只能
 vna	智能ABC
@@ -228524,6 +228530,7 @@ yusk	一时三刻
 yusk	𩢶
 yusk	𩦢
 yusl	䣁
+yusm	又是什么
 yusm	䮙
 yusn	匬
 yusn	騟
