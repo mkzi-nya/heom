@@ -49542,6 +49542,7 @@ muct	䥈
 mucu	鉬
 mud	木
 mud	模
+mud	没事的
 mudf	橅
 mudi	目的
 mudj	牡丹
@@ -52810,6 +52811,8 @@ ofed	Э
 ofed	Ю
 ofed	Я
 ofed	Ё
+ofer	𖿲
+ofer	𖿳
 ofex	а
 ofex	б
 ofex	в
@@ -206568,6 +206571,7 @@ uzls	收拢
 uzlu	收录
 uzlw	受累
 uzly	首轮
+uzm	是怎么
 uzmd	收买
 uzmf	守门
 uzmg	𥙰
@@ -214433,6 +214437,7 @@ wv	为止
 wv	未知
 wvai	无障碍
 wvbb	文质彬彬
+wvbm	我这边
 wvdj	围追堵截
 wvdr	为之动容
 wvfu	无政府
@@ -231663,6 +231668,7 @@ zorm	唨
 zorm	𠱯
 zorn	𨀨
 zosi	作死
+zosm	做什么
 zosv	作祟
 zota	𪎲
 zotb	葄
