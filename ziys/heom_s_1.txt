@@ -2399,6 +2399,7 @@ bgzp	不攻自破
 bgzu	闭关自守
 bgzv	八竿子打不着
 bh	帮
+bh	不会
 bhb	膀
 bhba	不会吧
 bhbh	帮帮
@@ -3189,6 +3190,7 @@ biyr	不齿于人
 biys	必用
 biyu	比喻
 biyy	避孕
+biyy	编程语言
 biyz	必有
 bizi	鼻子
 bizo	比作
@@ -3683,6 +3685,7 @@ bkrf	病人
 bkrm	不堪入目
 bkrn	𨆱
 bkrn	𬦴
+bkro	病弱
 bkrs	病容
 bkru	并入
 bkru	不可饶恕
@@ -3808,6 +3811,7 @@ blih	鬓乱钗横
 blij	半路出家
 blix	兵临城下
 bliy	碧螺春
+blj	不理解
 bljd	兵来将挡
 bljj	濒临绝境
 bljl	不良记录
@@ -3954,9 +3958,9 @@ bmhu	辩护
 bmhu	㲢
 bmhv	变回
 bmhx	变化
-bmi	扁
 bmi	编程
 bmia	变差
+bmib	扁
 bmib	𣝜
 bmic	䪻
 bmie	便车
@@ -5614,6 +5618,7 @@ bwbu	北部
 bwbw	不闻不问
 bwcc	鋇
 bwcc	嗯。。。一开始挺疼的然后就是感觉肚子胀胀的很疼嗯，第二天醒来就是那种喉咙痛，身底下痛，就是那种肌肉萎缩了，然后呢，不想动的那种剧痛然后还有就是那种肚子里特别胀的感觉，像是被卡车碾了似的，但是呢，你又还活着，还能动缓了几天，要是有人揉的话，那应该一天或者半天应该就能好但是走路的话，腿会有点不适应然后，药是无味的不是固体是粉末偶尔会有些液体吃了之后首先是头晕其次是脸红到后来就没意识了有一种灼烧感  然后有点痛  加快的话就有点麻  就感觉有东西在撞你肚子一样，并且能感觉到肚子里有东西在往外顶，然后第2天肚子会胀胀的，酸酸的，很不想动，到后期还会瞳孔失交，看东西都有重影是正常的[憨笑]
+bwci	背刺
 bwcj	悲惨
 bwcp	䥯
 bwcp	鉳
@@ -18921,6 +18926,7 @@ glyg	迋
 glyi	广义
 glyk	光影
 glyr	光源
+glyu	鼓浪屿
 glyy	光晕
 glze	光泽
 glzi	光子
@@ -31236,6 +31242,7 @@ jbvf	䌝
 jbvf	𦈟
 jbvh	紧张
 jbvi	禁止
+jbvi	进制
 jbvj	进展
 jbvm	䌍
 jbvm	嫤
@@ -35547,6 +35554,7 @@ jqxl	就像
 jqxm	酒仙
 jqxn	九霄
 jqxu	就绪
+jqy	腱鞘炎
 jqya	𨖏
 jqyc	就要
 jqye	就业
@@ -39447,7 +39455,7 @@ kuip	廤
 kuir	𣗺
 kuis	瞌睡虫
 kuiu	苦楚
-kuj	窟
+kuj	看手机
 kuj	跨世纪
 kuje	𪌓
 kuji	枯寂
@@ -39456,6 +39464,7 @@ kujn	裤脚
 kujp	枯竭
 kujq	苦酒
 kujt	𥧋
+kuju	窟
 kuju	窋
 kuju	𥈷
 kuk	刳
@@ -50520,7 +50529,7 @@ nbhj	捏把汗
 nbht	牛不喝水强按头
 nbig	难不成
 nbiu	拿不出手
-nbjq	那不就
+nbj	那不就
 nbju	那不就是
 nbke	怒不可遏
 nblu	鸟不拉屎
@@ -51320,6 +51329,7 @@ njtm	那几天
 njtm	𦶈
 njtp	戁
 njts	莮
+nju	那就是
 njug	男生
 njui	男士
 njuj	南山
@@ -196578,6 +196588,7 @@ sru	算术
 srua	算啥
 srui	算是
 srui	算式
+srul	酸爽
 sruu	算数
 srvh	算账
 srww	酸味
@@ -204749,6 +204760,8 @@ ujsm	騸
 ujsr	𩦐
 ujsv	十几岁
 ujt	善
+ujta	𦏂
+ujtd	身娇体弱易推倒
 ujte	芟
 ujte	㪨
 ujte	𦺭
@@ -204763,6 +204776,7 @@ ujto	𦳫
 ujtp	删帖
 ujtq	羴
 ujtr	苫
+ujtr	身娇体弱
 ujtr	譱
 ujtr	𦏂
 ujtu	𦎞
@@ -209255,6 +209269,7 @@ viqo	贽
 viqo	扻
 viqp	扺
 viqp	𰑔
+viqq	直球
 viqq	只求
 viqq	挚
 viqq	𫐋
@@ -212928,6 +212943,7 @@ whfg	望风
 whfj	往返
 whfu	王府
 whfw	王妃
+whfw	枉费
 whge	网格
 whgl	忘光
 whgo	王国
@@ -212975,6 +212991,7 @@ whkn	𡯁
 whku	无话可说
 whku	尢
 whkv	辋
+whl	玩坏了
 whld	往来
 whle	忘了
 whle	𢁶
@@ -213243,6 +213260,7 @@ wjhg	𨉝
 wjhh	𪂧
 wjhi	笂
 wjhi	𢓃
+wjhk	玩坏
 wjhk	笂
 wjhk	𢓃
 wjhn	𠝪
@@ -214387,10 +214405,11 @@ wuxx	无瑕
 wuxy	温室效应
 wuy	迕
 wuya	乌鸦
-wuyb	齬
+wuyb	逜
 wuyc	勿要
 wuyc	誤
 wuyc	䫓
+wuyd	齬
 wuye	物业
 wuyf	䖚
 wuyf	譕
@@ -214412,6 +214431,7 @@ wuyp	䜑
 wuyp	𧆹
 wuyr	无缘
 wuyr	勿施于人
+wuyr	五缘
 wuyr	逜
 wuyr	齬
 wuys	无用
@@ -222275,6 +222295,7 @@ ycbu	覞
 ycbu	𠕻
 ycbu	𥃺
 ycbv	䁏
+ycbw	要被
 ycbx	舀
 yccb	鑰
 yccc	药草
@@ -230026,6 +230047,7 @@ zadc	砸到
 zadc	匝道
 zadf	紮
 zadi	咋地
+zadr	砸断
 zaeb	沞
 zaec	濽
 zaee	𣸐
@@ -231497,6 +231519,7 @@ zmqu	奏鸣曲式
 zmuo	怎么说
 zmur	走马上任
 zmuy	贼眉鼠眼
+zmvd	怎么知道
 zmve	怎么着
 zmvm	怎么这么
 zmvy	怎么这样

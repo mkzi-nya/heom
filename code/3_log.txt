@@ -500,6 +500,7 @@ vuig	5
 vutn	5
 wfyi	5
 wjlu	5
+wuyr	5
 wwbk	5
 wwhr	5
 wwmi	5
@@ -1158,7 +1159,6 @@ wumk	4
 wump	4
 wuni	4
 wunv	4
-wuyr	4
 wwho	4
 wwlc	4
 wwmg	4
@@ -1394,6 +1394,7 @@ taef	4
 tino	4
 toop	4
 tshg	4
+ujtr	4
 uiob	4
 uigi	4
 ujlh	4

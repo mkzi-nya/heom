@@ -20135,7 +20135,7 @@ IP地址	ipdv
 捏把汗	nbhj
 难不成	nbig
 拿不出手	nbiu
-那不就	nbjq
+那不就	nbj
 那不就是	nbju
 怒不可遏	nbke
 鸟不拉屎	nblu
@@ -30258,6 +30258,7 @@ IP地址	ipdv
 志气	viqi
 知情	viqk
 之前	viqm
+直球	viqq
 只求	viqq
 职权	viqr
 支取	viqu
@@ -39356,7 +39357,7 @@ IP地址	ipdv
 庇	bii
 拌	bjqq
 扁	bmh
-扁	bmi
+扁	bmib
 扁	bmm
 刨	bcpn
 褒	bcy
@@ -42481,7 +42482,7 @@ IP地址	ipdv
 魁	kvh
 馈	kvno
 枯	kud
-窟	kuj
+窟	kuju
 侃	kjo
 捆	kyq
 呵	kerr
@@ -42666,6 +42667,7 @@ IP地址	ipdv
 开发区	kfq
 快捷键	kjj
 看见了	kjl
+看手机	kuj
 跨世纪	kuj
 口水战	kuv
 可以了	kyl
@@ -52298,3 +52300,22 @@ wiki	wiki
 𖿳	ofer
 没事的	mud
 我这边	wvbm
+不会	bh
+酸爽	srul
+身娇体弱	ujtr
+身娇体弱易推倒	ujtd
+病弱	bkro
+要被	ycbw
+玩坏	wjhk
+玩坏了	whl
+那就是	nju
+鼓浪屿	glyu
+五缘	wuyr
+背刺	bwci
+枉费	whfw
+怎么知道	zmvd
+编程语言	biyy
+进制	jbvi
+不理解	blj
+砸断	zadr
+腱鞘炎	jqy

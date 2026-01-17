@@ -1016,7 +1016,8 @@
 忢	wumt
 𧎻	wuna
 𩝕	wune
-齬	wuyb
+逜	wuyb
+齬	wuyd
 覹	wwbd
 𫌭	wwbe
 𧲝	wwhg
@@ -1910,6 +1911,7 @@
 𱇏	tong
 鼪	ugha
 𬸆	ughd
+𦏂	ujta
 𮸌	uioc
 鯴	uina
 鰣	uinc
