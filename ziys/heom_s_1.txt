@@ -623,6 +623,7 @@ anrj	安然
 anrj	𠰑
 anrt	啽
 anrz	按揉
+anse	暗色
 ansj	䮗
 ansj	𨲊
 ansj	𩭢
@@ -206267,6 +206268,7 @@ uxfw	手续费
 uxhg	耍横
 uxho	𤔙
 uxhx	说瞎话
+uxhx	水仙花
 uxie	𰵯
 uxiu	甚嚣尘上
 uxiw	𱝃
@@ -208591,6 +208593,7 @@ viau	𥔊
 viav	𬺁
 vib	脂
 vib	炙
+viba	制霸
 viba	膱
 vibb	䐭
 vibb	𢅁
@@ -213126,6 +213129,7 @@ wiki	wiki
 wikq	无处可去
 wima	无重码
 wimj	望尘莫及
+wind	windows
 winm	未成年
 winr	未成年人
 wiqu	望穿秋水
@@ -218433,6 +218437,7 @@ xnov	𠏕
 xnp	枭
 xnpb	小品
 xnpb	𢛘
+xnph	小胖
 xnpk	恔
 xnpk	㤊
 xnpm	小片
