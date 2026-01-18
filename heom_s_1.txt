@@ -3728,6 +3728,7 @@ bkzi	饼子
 bl	本来
 blbj	波澜不惊
 blbl	不伦不类
+blbl	哔哩哔哩
 blbo	白萝卜
 blbq	不离不弃
 blbq	变来变去
@@ -228435,6 +228436,7 @@ yyio	贠
 yyir	晕船
 yyir	异于常人
 yyiw	一跃成为
+yyix	应用程序
 yyiz	运筹
 yyj	有意见
 yyja	𨍆

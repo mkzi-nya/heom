@@ -52324,3 +52324,5 @@ wiki	wiki
 水仙花	uxhx
 小胖	xnph
 windows	wind
+哔哩哔哩	blbl
+应用程序	yyix

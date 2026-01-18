@@ -3728,6 +3728,7 @@ _	;b
 本来	bl
 波澜不惊	blbj
 不伦不类	blbl
+哔哩哔哩	blbl
 白萝卜	blbo
 不离不弃	blbq
 变来变去	blbq
@@ -228435,6 +228436,7 @@ windows	wind
 晕船	yyir
 异于常人	yyir
 一跃成为	yyiw
+应用程序	yyix
 运筹	yyiz
 有意见	yyj
 𨍆	yyja
