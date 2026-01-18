@@ -3727,8 +3727,8 @@ _	;b
 饼子	bkzi
 本来	bl
 波澜不惊	blbj
-不伦不类	blbl
 哔哩哔哩	blbl
+不伦不类	blbl
 白萝卜	blbo
 不离不弃	blbq
 变来变去	blbq
@@ -214441,8 +214441,8 @@ windows	wind
 维族	wwzu
 畏罪	wwzv
 嗡嗡作响	wwzx
-无线	wx
 微信	wx
+无线	wx
 戊戌变法	wxbf
 无线电	wxdm
 无需多说	wxdu
