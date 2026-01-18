@@ -12547,6 +12547,7 @@ dvii	𠫨
 dvij	𢈹
 dvik	𬤣
 dvis	对冲
+dvjb	对劲
 dvjg	党政机关
 dvji	堆积
 dvji	轛
@@ -15404,6 +15405,7 @@ fjwf	反问
 fjwh	藩王
 fjwj	饭碗
 fjww	范围
+fjww	反胃
 fjx	分界线
 fjxb	翻新
 fjxj	费尽心机
@@ -190284,8 +190286,8 @@ qmdu	櫏
 qmdu	𣘝
 qmdv	𣟋
 qmdx	轻描淡写
-qme	潜
 qme	浅
+qme	潜
 qmea	潛
 qmea	濳
 qmeb	灊
@@ -201312,6 +201314,7 @@ tzvv	緰
 tzwf	贪赃枉法
 tzwt	𡇧
 tzww	头尾
+tzww	投喂
 tzx	投降
 tzxi	偷袭
 tzxl	头像

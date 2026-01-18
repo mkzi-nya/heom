@@ -12687,6 +12687,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 𢈹	dvij
 𬤣	dvik
 对冲	dvis
+对劲	dvjb
 党政机关	dvjg
 堆积	dvji
 轛	dvji
@@ -15596,6 +15597,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 藩王	fjwh
 饭碗	fjwj
 范围	fjww
+反胃	fjww
 分界线	fjx
 翻新	fjxb
 费尽心机	fjxj
@@ -190835,8 +190837,8 @@ python	pyth
 𣘝	qmdu
 𣟋	qmdv
 轻描淡写	qmdx
-潜	qme
 浅	qme
+潜	qme
 潛	qmea
 濳	qmea
 灊	qmeb
@@ -201979,6 +201981,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 贪赃枉法	tzwf
 𡇧	tzwt
 头尾	tzww
+投喂	tzww
 投降	tzx
 偷袭	tzxi
 头像	tzxl

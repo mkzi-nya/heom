@@ -44240,6 +44240,7 @@ IP地址	ipdv
 勤	qbt
 抢	qlq
 渠	que
+浅	qme
 潜	qme
 弃	qiy
 倾	qko
@@ -44269,7 +44270,6 @@ IP地址	ipdv
 拳	qrf
 洽	qxe
 歧	qiye
-浅	qme
 禽	qbob
 劝	qre
 顷	qkp
@@ -52326,3 +52326,6 @@ wiki	wiki
 小胖	xnph
 windows	wind
 应用程序	yyix
+反胃	fjww
+投喂	tzww
+对劲	dvjb
