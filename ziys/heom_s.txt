@@ -190,6 +190,7 @@ _	;b
 賹	aibt
 𩪂	aibt
 𧵨	aibv
+艾草	aicc
 爱才	aicd
 鑀	aice
 銰	aick
@@ -8918,6 +8919,7 @@ cytus	cytu
 丹顶鹤	ddhe
 打道回府	ddhf
 㶡	ddhf
+带坏	ddhk
 䈆	ddhk
 䲦	ddhk
 堵得慌	ddhl
@@ -206398,6 +206400,7 @@ http://mhtlim.top/usage/usage.html	uomk
 顺路	uylu
 失业率	uylv
 上有老下有小	uylx
+顺毛	uymc
 𨺠	uynu
 㥧	uypc
 双眼皮	uypi

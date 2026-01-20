@@ -190,6 +190,7 @@ aibm	癌变
 aibt	賹
 aibt	𩪂
 aibv	𧵨
+aicc	艾草
 aicd	爱才
 aice	鑀
 aick	銰
@@ -8918,6 +8919,7 @@ ddhc	簤
 ddhe	丹顶鹤
 ddhf	打道回府
 ddhf	㶡
+ddhk	带坏
 ddhk	䈆
 ddhk	䲦
 ddhl	堵得慌
@@ -206398,6 +206400,7 @@ uyli	顺利
 uylu	顺路
 uylv	失业率
 uylx	上有老下有小
+uymc	顺毛
 uynu	𨺠
 uypc	㥧
 uypi	双眼皮
