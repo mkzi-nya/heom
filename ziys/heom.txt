@@ -12276,6 +12276,7 @@ _	;b
 吃定	iidk
 吃点	iidm
 吃掉	iidn
+吃多	iido
 褫夺	iido
 楚楚动人	iidr
 尺度	iidu
@@ -35068,6 +35069,7 @@ IP地址	ipdv
 眼不见为净	ybjj
 阴茎	ybjk
 由表及里	ybjl
+阴间	ybjm
 引荐	ybjm
 音节	ybjp
 饮酒	ybjq
@@ -52332,6 +52334,7 @@ windows	wind
 顺毛	uymc
 带坏	ddhk
 艾草	aicc
+终末	vsmo
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -232040,6 +232043,8 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 尾杀	wwua
 曲绘	quhv
 笨萌	bfmg
+鱼言鱼语	yyyy
+猫言猫语	mymy
 git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull
 git fetch origin && git reset --hard origin/main && git clean -fd	pull

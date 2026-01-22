@@ -28037,6 +28037,7 @@ GDP	gdp
 吃掉	iidn
 㓼	iidn
 𪌫	iidn
+吃多	iido
 褫夺	iido
 㮛	iido
 慗	iidp
@@ -210116,6 +210117,7 @@ PPT	ppt
 蛛丝马迹	vsmj
 祌	vsml
 𤯚	vsmm
+终末	vsmo
 𩅧	vsmo
 朝三暮四	vsms
 𩅧	vsmv
@@ -221114,6 +221116,7 @@ windows	wind
 㪦	ybjk
 由表及里	ybjl
 𨋙	ybjl
+阴间	ybjm
 引荐	ybjm
 音节	ybjp
 音阶	ybjp

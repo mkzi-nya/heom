@@ -28037,6 +28037,7 @@ iidm	𫛶
 iidn	吃掉
 iidn	㓼
 iidn	𪌫
+iido	吃多
 iido	褫夺
 iido	㮛
 iidp	慗
@@ -210116,6 +210117,7 @@ vsmh	指桑骂槐
 vsmj	蛛丝马迹
 vsml	祌
 vsmm	𤯚
+vsmo	终末
 vsmo	𩅧
 vsms	朝三暮四
 vsmv	𩅧
@@ -221114,6 +221116,7 @@ ybjk	阴茎
 ybjk	㪦
 ybjl	由表及里
 ybjl	𨋙
+ybjm	阴间
 ybjm	引荐
 ybjp	音节
 ybjp	音阶

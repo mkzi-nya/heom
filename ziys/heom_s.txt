@@ -28344,6 +28344,7 @@ https://milcalc.netlify.app/	ifqi
 吃掉	iidn
 㓼	iidn
 𪌫	iidn
+吃多	iido
 褫夺	iido
 㮛	iido
 慗	iidp
@@ -50169,6 +50170,7 @@ milthm	milt
 没有免费的午餐	mymc
 摸一摸	mymo
 某月某日	mymr
+猫言猫语	mymy
 贸易逆差	myni
 每一年	mynm
 面有难色	myns
@@ -210845,6 +210847,7 @@ http://mhtlim.top/usage/usage.html	uomk
 蛛丝马迹	vsmj
 祌	vsml
 𤯚	vsmm
+终末	vsmo
 𩅧	vsmo
 朝三暮四	vsms
 𩅧	vsmv
@@ -221897,6 +221900,7 @@ windows	wind
 㪦	ybjk
 由表及里	ybjl
 𨋙	ybjl
+阴间	ybjm
 引荐	ybjm
 音节	ybjp
 音阶	ybjp
@@ -229511,6 +229515,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 一言一行	yyyx
 隐隐约约	yyyy
 犹犹豫豫	yyyy
+鱼言鱼语	yyyy
 云游	yyyz
 运载	yyzd
 言犹在耳	yyze

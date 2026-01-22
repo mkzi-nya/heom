@@ -28344,6 +28344,7 @@ iidm	𫛶
 iidn	吃掉
 iidn	㓼
 iidn	𪌫
+iido	吃多
 iido	褫夺
 iido	㮛
 iidp	慗
@@ -50169,6 +50170,7 @@ myly	没有理由
 mymc	没有免费的午餐
 mymo	摸一摸
 mymr	某月某日
+mymy	猫言猫语
 myni	贸易逆差
 mynm	每一年
 myns	面有难色
@@ -210845,6 +210847,7 @@ vsmh	指桑骂槐
 vsmj	蛛丝马迹
 vsml	祌
 vsmm	𤯚
+vsmo	终末
 vsmo	𩅧
 vsms	朝三暮四
 vsmv	𩅧
@@ -221897,6 +221900,7 @@ ybjk	阴茎
 ybjk	㪦
 ybjl	由表及里
 ybjl	𨋙
+ybjm	阴间
 ybjm	引荐
 ybjp	音节
 ybjp	音阶
@@ -229511,6 +229515,7 @@ yyyx	奄奄一息
 yyyx	一言一行
 yyyy	隐隐约约
 yyyy	犹犹豫豫
+yyyy	鱼言鱼语
 yyyz	云游
 yyzd	运载
 yyze	言犹在耳
