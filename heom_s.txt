@@ -52030,6 +52030,7 @@ n-buna	nbna
 女人	nvrf
 女色	nvse
 女童	nvts
+女同	nvts
 女神	nvuf
 女生	nvug
 女士	nvui
@@ -201552,6 +201553,7 @@ PPT	ppt
 沙哑	uaya
 訯	uaye
 𧫝	uaye
+啥样	uayh
 傻眼	uayj
 𢼵	uayk
 𨘉	uayo
@@ -205607,6 +205609,7 @@ PPT	ppt
 书香门第	uxmd
 𩈥	uxme
 𩤤	uxmf
+刷满	uxmj
 𩉆	uxmw
 耍弄	uxns
 刷屏	uxpk

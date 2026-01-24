@@ -52030,6 +52030,7 @@ nvqr	女权
 nvrf	女人
 nvse	女色
 nvts	女童
+nvts	女同
 nvuf	女神
 nvug	女生
 nvui	女士
@@ -201552,6 +201553,7 @@ uaxn	傻笑
 uaya	沙哑
 uaye	訯
 uaye	𧫝
+uayh	啥样
 uayj	傻眼
 uayk	𢼵
 uayo	𨘉
@@ -205607,6 +205609,7 @@ uxm	耍
 uxmd	书香门第
 uxme	𩈥
 uxmf	𩤤
+uxmj	刷满
 uxmw	𩉆
 uxns	耍弄
 uxpk	刷屏
