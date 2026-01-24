@@ -18740,7 +18740,7 @@ gmx	革命性
 gmxk	刮目相看
 gmxq	鬼迷心窍
 gmyq	哥们义气
-gn	功能
+gn	给你
 gnby	敢怒不敢言
 gndt	国难当头
 gndu	高难度
@@ -21586,6 +21586,7 @@ hdso	𣢇
 hdsr	还算
 hdst	駴
 hdtc	海涛
+hdtd	海苔
 hdth	海棠
 hdti	孩提
 hdtj	海滩
@@ -33289,6 +33290,7 @@ jmgf	鸡鸣狗吠
 jmgk	见怪
 jmgm	𰉱
 jmgo	见过
+jmgo	坚果
 jmgo	𡑯
 jmgp	趝
 jmgr	监管
@@ -51517,6 +51519,7 @@ npne	䯅
 npng	陧
 npng	隉
 npnm	隉
+npnp	捏捏
 npo	镍
 npoe	镊
 npok	敜
@@ -208955,6 +208958,7 @@ vjjd	轏
 vjji	战绩
 vjji	輚
 vjjl	湛江
+vjjl	沾酱
 vjjl	斬
 vjjm	战舰
 vjjo	蹔
@@ -215239,12 +215243,11 @@ xidu	吸毒
 xidv	棲
 xidw	栖
 xidx	新陈代谢
-xie	戏
 xie	洗
-xie	浠
+xie	戏
 xiea	漝
-xieb	澙
-xiec	𩾼
+xieb	浠
+xiec	澙
 xied	滊
 xiee	喜恶
 xief	潟
@@ -215253,6 +215256,7 @@ xief	濕
 xief	澙
 xief	𩾼
 xieg	𤄬
+xieh	𩾼
 xiei	汐
 xiei	𤃪
 xiek	溪

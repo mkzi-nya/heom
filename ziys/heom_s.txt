@@ -18965,7 +18965,7 @@ github	gith
 刮目相看	gmxk
 鬼迷心窍	gmxq
 哥们义气	gmyq
-功能	gn
+给你	gn
 敢怒不敢言	gnby
 国难当头	gndt
 高难度	gndu
@@ -21842,6 +21842,7 @@ github	gith
 还算	hdsr
 駴	hdst
 海涛	hdtc
+海苔	hdtd
 海棠	hdth
 孩提	hdti
 海滩	hdtj
@@ -33612,6 +33613,7 @@ php -S 127.0.0.1:8000	iphp
 见怪	jmgk
 𰉱	jmgm
 见过	jmgo
+坚果	jmgo
 𡑯	jmgo
 趝	jmgp
 监管	jmgr
@@ -51969,6 +51971,7 @@ n-buna	nbna
 陧	npng
 隉	npng
 隉	npnm
+捏捏	npnp
 镍	npo
 镊	npoe
 敜	npok
@@ -209685,6 +209688,7 @@ http://mhtlim.top/usage/usage.html	uomk
 战绩	vjji
 輚	vjji
 湛江	vjjl
+沾酱	vjjl
 斬	vjjl
 战舰	vjjm
 蹔	vjjo
@@ -216002,12 +216006,11 @@ windows	wind
 棲	xidv
 栖	xidw
 新陈代谢	xidx
-戏	xie
 洗	xie
-浠	xie
+戏	xie
 漝	xiea
-澙	xieb
-𩾼	xiec
+浠	xieb
+澙	xiec
 滊	xied
 喜恶	xiee
 潟	xief
@@ -216016,6 +216019,7 @@ windows	wind
 澙	xief
 𩾼	xief
 𤄬	xieg
+𩾼	xieh
 汐	xiei
 𤃪	xiei
 溪	xiek
