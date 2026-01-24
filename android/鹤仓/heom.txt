@@ -46274,6 +46274,7 @@ IP地址	ipdv
 维	wwv
 稳	wfh
 卫	wws
+尾	wws
 网	whb
 晚	wja
 湾	wje
@@ -46305,7 +46306,6 @@ IP地址	ipdv
 挖	wa
 慰	wwsp
 汪	whe
-尾	wws
 窝	woj
 魏	wwhi
 晤	wua
@@ -52335,6 +52335,8 @@ windows	wind
 带坏	ddhk
 艾草	aicc
 终末	vsmo
+猫尾	mcww
+猫尾草	mwc
 㕶	ngrm
 㕶	nnrm
 礼	limu

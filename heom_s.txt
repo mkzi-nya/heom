@@ -46752,6 +46752,7 @@ IP地址	ipdv
 罞	mcwh
 茅屋	mcwu
 𤲰	mcwu
+猫尾	mcww
 毛线	mcx
 貌相	mcxl
 冒险	mcxm
@@ -49422,6 +49423,7 @@ IP地址	ipdv
 𧳬	mwbu
 脢	mwby
 䍙	mwby
+猫尾草	mwc
 每次	mwci
 鎂	mwck
 没错	mwco

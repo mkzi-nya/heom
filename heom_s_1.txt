@@ -46752,6 +46752,7 @@ mcvw	媌
 mcwh	罞
 mcwu	茅屋
 mcwu	𤲰
+mcww	猫尾
 mcx	毛线
 mcxl	貌相
 mcxm	冒险
@@ -49422,6 +49423,7 @@ mwbu	睸
 mwbu	𧳬
 mwby	脢
 mwby	䍙
+mwc	猫尾草
 mwci	每次
 mwck	鎂
 mwco	没错
