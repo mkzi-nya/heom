@@ -5999,6 +5999,7 @@ byfu	不由分说
 byfw	别有风味
 bygd	不应该
 bygr	不用管
+bygu	不应该是
 byhf	必有后福
 byhx	必有回响
 byjb	不要紧
@@ -6614,6 +6615,7 @@ cgbd	才高八斗
 cgc	曾
 cgca	曽
 cgcg	层层
+cgcg	蹭蹭
 cgch	㣒
 cgci	层次
 cgcl	鄫
@@ -31956,6 +31958,7 @@ jiiv	𪅹
 jiiw	𥾊
 jiix	麡
 jiiy	𦇧
+jiiz	记仇
 jij	寄
 jij	擊
 jij	警察局
@@ -52218,6 +52221,7 @@ nryi	暖意
 ns	弄
 ns	浓
 nsb	脓
+nsbc	宁死不从
 nsbq	宁死不屈
 nsbv	膿
 nsco	弄错
@@ -204384,6 +204388,7 @@ uiwu	事物
 uiwu	十五
 uiww	视为
 uix	事先
+uixb	实心
 uixi	实习
 uixk	实行
 uixl	事项
@@ -230497,6 +230502,7 @@ zduh	在上
 zdui	在世
 zduo	再说
 zdup	自动上屏
+zduu	想到啥说啥
 zdv	甾
 zdve	再者
 zdvf	災

@@ -5931,6 +5931,7 @@ _	;b
 别有风味	byfw
 不应该	bygd
 不用管	bygr
+不应该是	bygu
 必有后福	byhf
 必有回响	byhx
 不要紧	byjb
@@ -6522,6 +6523,7 @@ _	;b
 曾	cgc
 曽	cgca
 层层	cgcg
+蹭蹭	cgcg
 㣒	cgch
 层次	cgci
 鄫	cgcl
@@ -31635,6 +31637,7 @@ IP地址	ipdv
 𥾊	jiiw
 麡	jiix
 𦇧	jiiy
+记仇	jiiz
 寄	jij
 擊	jij
 警察局	jij
@@ -51766,6 +51769,7 @@ n-buna	nbna
 弄	ns
 浓	ns
 脓	nsb
+宁死不从	nsbc
 宁死不屈	nsbq
 膿	nsbv
 弄错	nsco
@@ -203686,6 +203690,7 @@ PPT	ppt
 十五	uiwu
 视为	uiww
 事先	uix
+实心	uixb
 实习	uixi
 实行	uixk
 事项	uixl
@@ -229677,6 +229682,7 @@ windows	wind
 在世	zdui
 再说	zduo
 自动上屏	zdup
+想到啥说啥	zduu
 甾	zdv
 再者	zdve
 災	zdvf
