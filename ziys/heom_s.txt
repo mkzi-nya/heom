@@ -8122,6 +8122,7 @@ cytus	cytu
 存折	cyve
 村镇	cyvf
 村长	cyvh
+寸止	cyvi
 村庄	cyvl
 恻隐之心	cyvx
 存亡	cywh
@@ -8380,6 +8381,7 @@ cytus	cytu
 大米	dami
 大名	damk
 打磨	damo
+哒咩	damp
 䃮	damq
 𤨑	damr
 大媒	damw
@@ -12081,6 +12083,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 洞口	dskz
 𬟽	dsl
 懂了	dsle
+我都懂 我都明白 我是选项E 我是planB 是分叉的头发 洗衣机流出的泡沫 超市里被捏碎的饼干 是吃腻的奶油 是落寞的城市 是地上的草 我是被踩踏的 是西装的备用扣 是被雨淋湿的小狗 是腐烂的橘子 是过期的牛奶 是断线的风筝 是被随意丢弃的向日葵	dsle
 动力	dsli
 栋梁	dsll
 冻裂	dslp
@@ -13359,6 +13362,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 恩赐	ec
 耳聪目明	ecmm
 二次元	ecy
+诶多……☆是♡同♡类♡呢♡喵♪（由乃逆光捧脸.jpg）那群八嘎是不会懂的呀……关于「二次元の美好」♡呐，如果说吾の存在有意义的话、那一定是因为「二·次·元」吧☆？所以呢——妄图污染这份「爱」的人类、都会被吾「抹」「杀」「掉」喔♪（小声）嘛……讨厌二次元的八嘎三次元最恶心了啊魂淡！★呐、二次元の民那……都·是·最·最·善·良·の·存·在·呐☆多洗忒……要「嘲笑」这样的孩子呢？吾辈不明白啊——？嘛……说到底，你们都只是污秽の「来自三次元的大人」吧？大人什么的、最·讨·厌·了★♪啊嘞啊嘞QAQ？多洗忒……欧尼酱ww？呐、桥豆麻袋……已经「厌烦」吾辈了嘛？哼唧……真是「冷·酷·の·人」呢QuQ——☆	ecy
 恶毒	ed
 儿大不由娘	edbn
 二等奖	edjl
@@ -20913,6 +20917,7 @@ github	gith
 攻心为上	gxwu
 罫	gxwy
 挂心	gxxb
+卦象	gxxl
 挂靴	gxxt
 高血压	gxya
 詿	gxyg
@@ -34996,6 +35001,7 @@ msbt.seku.su	jmwv
 袺	jplr
 蛣	jplr
 𧜅	jplr
+接龙	jpls
 蜐	jpls
 劫掠	jplt
 裓	jplt
@@ -36830,6 +36836,7 @@ msbt.seku.su	jmwv
 岠	juus
 拘束	juuu
 拒收	juuz
+举手	juuz
 繘	juvb
 剧照	juvc
 婅	juvd
@@ -37751,6 +37758,7 @@ msbt.seku.su	jmwv
 看不下去	kbxq
 可不要	kbyc
 空不异色	kbys
+刻板印象	kbyx
 口不应心	kbyx
 哭鼻子	kbzi
 恐怖组织	kbzv
@@ -38885,6 +38893,7 @@ msbt.seku.su	jmwv
 鬠	kksa
 𩦱	kksa
 駃	kksk
+KKSK，源自日语短语“救急車来い”（Kyuu Kyuu Sha Koi）的罗马音缩写，直译为“救护车快来”。该词汇常见于视频内容极具精神冲击力、荒诞怪异或导致观众产生强烈生理反应	kksk
 快速	kksu
 看看腿	kkt
 蕢	kktc
@@ -40380,6 +40389,7 @@ msbt.seku.su	jmwv
 拉抬	latd
 𥀥	late
 𦎏	latl
+辣条	latn
 𩋷	latn
 藞	latr
 蓝	latt
@@ -40518,6 +40528,7 @@ msbt.seku.su	jmwv
 临空	lbks
 乐不可支	lbkv
 临	lbl
+冷暴力	lbl
 宝，你已经1秒没理我了，太有趣了，这天气就是需要你的冷暴力。	lbl
 粼粼	lblb
 来不来	lbld
@@ -42286,6 +42297,7 @@ msbt.seku.su	jmwv
 𠞤	live
 𦃇	livf
 力争	livg
+立正	livg
 䋥	livg
 理智	livi
 荔枝	livi
@@ -52353,6 +52365,7 @@ n-buna	nbna
 繷	nsvv
 𫄣	nsvv
 你死我活	nswh
+弄完	nswj
 𪒬	nswv
 𬹖	nswv
 农药	nsyc
@@ -197856,6 +197869,7 @@ rime	rime
 坦白从宽	tbck
 挺不错	tbco
 投笔从戎	tbcr
+听不到	tbdc
 螳臂当车	tbdi
 坦白地讲	tbdj
 天崩地裂	tbdl
@@ -204449,16 +204463,17 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 戠	uiya
 適	uiyb
 遰	uiyb
-戠	uiyc
+䗐	uiyc
 施	uiyd
 𧩹	uiyd
 事业	uiye
 视野	uiye
-辻	uiyf
-𪊢	uiyg
+戠	uiyf
+辻	uiyg
 式样	uiyh
 十一	uiyi
 事宜	uiyi
+示意	uiyi
 詩	uiyi
 䗐	uiyi
 戠	uiyi
@@ -204478,8 +204493,8 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 遈	uiyo
 遾	uiyo
 𨒧	uiyp
-𪗧	uiyq
-齛	uiyr
+𪊢	uiyq
+𪗧	uiyr
 使用	uiys
 十月	uiyt
 諡	uiyt
@@ -204488,7 +204503,8 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 𨒍	uiyt
 食欲	uiyu
 𡟕	uiyv
-𨒍	uiyw
+齛	uiyw
+𨒍	uiyx
 事出有因	uiyy
 室友	uiyz
 石油	uiyz
@@ -215273,6 +215289,7 @@ windows	wind
 我真的好喜欢你啊 你长的太好看了 嘴巴刚好长在鼻子下面，眼睛刚好又长在鼻子上面，鼻子居然还长在脸中间，真是太喜欢你了	wxhn
 我永远爱你 你可以反复向我确认	wxhn
 我今年18，離婚する带Ⅱ瓜娃子，life的냉혹하다磨没了我的钝角，但磨no掉我向往love与自由的靈魂。我前½生很苦，在大润kill了④十多年的fish，本来以为my的heart已经跟🐟一样冷たい，但是look到you，我就know其实我还young ，没啥💰给you的，也没啥能给的，只有my的love，统统给你❤️❤️	wxhn
+莪朂後卻禧歡仩孒液💔莪討厭葒脃，朂後卻禧歡仩孒洫💔莪討厭箛獨，朂後卻禧歡獨洎①亾💔莪禧歡兲使，朂後卻變荿孒悪嚤💔莪討厭辤傷，朂後卻烸佽嘟婹妑洎己挵哋猵軆潾傷💔莪芣濡婹亾傢妸憐，竾芣濡婹傢亾嬡💔莪巳經💔禧歡仩孒液💔竾禧歡仩孒洫💔禧歡獨洎①亾💔尒溡糇怼着萠伖笑💔萇汏孒怼着電悩笑💔尒溡糇禧歡帉脃💔萇汏孒卻禧歡嫼脃💔莪禧歡汏雨，洇潙適樣僦莈亾看炪莪茬哭孒💔莪蔂孒💔莪想嗵孒💔莪想細孒💔彵們説莪壞，莪僦壞给彵們看💔洇潙莪倁檤💔嘚芣菿哋僦浭咖嬡孒💔，憑什庅①哭，僦洤湜莪哋措💔	wxhn
 五星红旗	wxhq
 卧薪尝胆	wxid
 胃下垂	wxiv
@@ -222854,6 +222871,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 邮电局	ydju
 一定可以	ydky
 一大口	ydkz
+有道理	ydl
 一刀两断	ydld
 意大利	ydli
 一大摞	ydlo
@@ -231835,6 +231853,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 昨晚	zowj
 作物	zowu
 作为	zoww
+座位	zoww
 作息	zoxi
 作响	zoxl
 作秀	zoxq

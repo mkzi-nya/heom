@@ -8002,6 +8002,7 @@ _	;b
 存折	cyve
 村镇	cyvf
 村长	cyvh
+寸止	cyvi
 村庄	cyvl
 恻隐之心	cyvx
 存亡	cywh
@@ -8238,6 +8239,7 @@ _	;b
 大米	dami
 大名	damk
 打磨	damo
+哒咩	damp
 䃮	damq
 𤨑	damr
 大媒	damw
@@ -20666,6 +20668,7 @@ GDP	gdp
 攻心为上	gxwu
 罫	gxwy
 挂心	gxxb
+卦象	gxxl
 挂靴	gxxt
 高血压	gxya
 詿	gxyg
@@ -34650,6 +34653,7 @@ IP地址	ipdv
 袺	jplr
 蛣	jplr
 𧜅	jplr
+接龙	jpls
 蜐	jpls
 劫掠	jplt
 裓	jplt
@@ -36480,6 +36484,7 @@ IP地址	ipdv
 岠	juus
 拘束	juuu
 拒收	juuz
+举手	juuz
 繘	juvb
 剧照	juvc
 婅	juvd
@@ -37389,6 +37394,7 @@ IP地址	ipdv
 看不下去	kbxq
 可不要	kbyc
 空不异色	kbys
+刻板印象	kbyx
 口不应心	kbyx
 哭鼻子	kbzi
 恐怖组织	kbzv
@@ -39983,6 +39989,7 @@ IP地址	ipdv
 拉抬	latd
 𥀥	late
 𦎏	latl
+辣条	latn
 𩋷	latn
 藞	latr
 蓝	latt
@@ -40121,6 +40128,7 @@ IP地址	ipdv
 临空	lbks
 乐不可支	lbkv
 临	lbl
+冷暴力	lbl
 粼粼	lblb
 来不来	lbld
 𬮟	lblf
@@ -41885,6 +41893,7 @@ IP地址	ipdv
 𠞤	live
 𦃇	livf
 力争	livg
+立正	livg
 䋥	livg
 理智	livi
 荔枝	livi
@@ -51872,6 +51881,7 @@ n-buna	nbna
 繷	nsvv
 𫄣	nsvv
 你死我活	nswh
+弄完	nswj
 𪒬	nswv
 𬹖	nswv
 农药	nsyc
@@ -197167,6 +197177,7 @@ PPT	ppt
 坦白从宽	tbck
 挺不错	tbco
 投笔从戎	tbcr
+听不到	tbdc
 螳臂当车	tbdi
 坦白地讲	tbdj
 天崩地裂	tbdl
@@ -203714,16 +203725,17 @@ PPT	ppt
 戠	uiya
 適	uiyb
 遰	uiyb
-戠	uiyc
+䗐	uiyc
 施	uiyd
 𧩹	uiyd
 事业	uiye
 视野	uiye
-辻	uiyf
-𪊢	uiyg
+戠	uiyf
+辻	uiyg
 式样	uiyh
 十一	uiyi
 事宜	uiyi
+示意	uiyi
 詩	uiyi
 䗐	uiyi
 戠	uiyi
@@ -203743,8 +203755,8 @@ PPT	ppt
 遈	uiyo
 遾	uiyo
 𨒧	uiyp
-𪗧	uiyq
-齛	uiyr
+𪊢	uiyq
+𪗧	uiyr
 使用	uiys
 十月	uiyt
 諡	uiyt
@@ -203753,7 +203765,8 @@ PPT	ppt
 𨒍	uiyt
 食欲	uiyu
 𡟕	uiyv
-𨒍	uiyw
+齛	uiyw
+𨒍	uiyx
 事出有因	uiyy
 室友	uiyz
 石油	uiyz
@@ -222019,6 +222032,7 @@ windows	wind
 邮电局	ydju
 一定可以	ydky
 一大口	ydkz
+有道理	ydl
 一刀两断	ydld
 意大利	ydli
 一大摞	ydlo
@@ -230953,6 +230967,7 @@ windows	wind
 昨晚	zowj
 作物	zowu
 作为	zoww
+座位	zoww
 作息	zoxi
 作响	zoxl
 作秀	zoxq

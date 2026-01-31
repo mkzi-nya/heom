@@ -15602,6 +15602,7 @@ IP地址	ipdv
 可比性	kbxk
 看不下去	kbxq
 可不要	kbyc
+刻板印象	kbyx
 口不应心	kbyx
 空不异色	kbys
 哭鼻子	kbzi
@@ -52350,3 +52351,16 @@ windows	wind
 刷满	uxmj
 啥样	uayh
 女同	nvts
+冷暴力	lbl
+有道理	ydl
+举手	juuz
+示意	uiyi
+听不到	tbdc
+立正	livg
+寸止	cyvi
+哒咩	damp
+座位	zoww
+卦象	gxxl
+辣条	latn
+弄完	nswj
+接龙	jpls

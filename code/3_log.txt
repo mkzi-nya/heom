@@ -482,6 +482,7 @@ uihr	5
 uijk	5
 uimb	5
 uiti	5
+uiyi	5
 uiyk	5
 uiyt	5
 ulhe	5
@@ -1100,7 +1101,6 @@ uimk	4
 uimo	4
 uirj	4
 uivj	4
-uiyi	4
 uiyj	4
 ujbm	4
 ujgj	4

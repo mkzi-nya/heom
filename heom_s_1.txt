@@ -8002,6 +8002,7 @@ cyvd	村寨
 cyve	存折
 cyvf	村镇
 cyvh	村长
+cyvi	寸止
 cyvl	村庄
 cyvx	恻隐之心
 cywh	存亡
@@ -8238,6 +8239,7 @@ damh	𤤊
 dami	大米
 damk	大名
 damo	打磨
+damp	哒咩
 damq	䃮
 damr	𤨑
 damw	大媒
@@ -20666,6 +20668,7 @@ gxwg	罣
 gxwu	攻心为上
 gxwy	罫
 gxxb	挂心
+gxxl	卦象
 gxxt	挂靴
 gxya	高血压
 gxyg	詿
@@ -34650,6 +34653,7 @@ jplr	袷
 jplr	袺
 jplr	蛣
 jplr	𧜅
+jpls	接龙
 jpls	蜐
 jplt	劫掠
 jplt	裓
@@ -36480,6 +36484,7 @@ juur	崌
 juus	岠
 juuu	拘束
 juuz	拒收
+juuz	举手
 juvb	繘
 juvc	剧照
 juvd	婅
@@ -37389,6 +37394,7 @@ kbxk	可比性
 kbxq	看不下去
 kbyc	可不要
 kbys	空不异色
+kbyx	刻板印象
 kbyx	口不应心
 kbzi	哭鼻子
 kbzv	恐怖组织
@@ -39983,6 +39989,7 @@ lata	邋遢
 latd	拉抬
 late	𥀥
 latl	𦎏
+latn	辣条
 latn	𩋷
 latr	藞
 latt	蓝
@@ -40121,6 +40128,7 @@ lbkq	獜
 lbks	临空
 lbkv	乐不可支
 lbl	临
+lbl	冷暴力
 lblb	粼粼
 lbld	来不来
 lblf	𬮟
@@ -41885,6 +41893,7 @@ livd	𦃊
 live	𠞤
 livf	𦃇
 livg	力争
+livg	立正
 livg	䋥
 livi	理智
 livi	荔枝
@@ -51872,6 +51881,7 @@ nsvl	浓妆
 nsvv	繷
 nsvv	𫄣
 nswh	你死我活
+nswj	弄完
 nswv	𪒬
 nswv	𬹖
 nsyc	农药
@@ -197167,6 +197177,7 @@ tb	特别
 tbck	坦白从宽
 tbco	挺不错
 tbcr	投笔从戎
+tbdc	听不到
 tbdi	螳臂当车
 tbdj	坦白地讲
 tbdl	天崩地裂
@@ -203714,16 +203725,17 @@ uiya	識
 uiya	戠
 uiyb	適
 uiyb	遰
-uiyc	戠
+uiyc	䗐
 uiyd	施
 uiyd	𧩹
 uiye	事业
 uiye	视野
-uiyf	辻
-uiyg	𪊢
+uiyf	戠
+uiyg	辻
 uiyh	式样
 uiyi	十一
 uiyi	事宜
+uiyi	示意
 uiyi	詩
 uiyi	䗐
 uiyi	戠
@@ -203743,8 +203755,8 @@ uiyo	諟
 uiyo	遈
 uiyo	遾
 uiyp	𨒧
-uiyq	𪗧
-uiyr	齛
+uiyq	𪊢
+uiyr	𪗧
 uiys	使用
 uiyt	十月
 uiyt	諡
@@ -203753,7 +203765,8 @@ uiyt	齛
 uiyt	𨒍
 uiyu	食欲
 uiyv	𡟕
-uiyw	𨒍
+uiyw	齛
+uiyx	𨒍
 uiyy	事出有因
 uiyz	室友
 uiyz	石油
@@ -222019,6 +222032,7 @@ ydjp	一大截
 ydju	邮电局
 ydky	一定可以
 ydkz	一大口
+ydl	有道理
 ydld	一刀两断
 ydli	意大利
 ydlo	一大摞
@@ -230953,6 +230967,7 @@ zowf	作文
 zowj	昨晚
 zowu	作物
 zoww	作为
+zoww	座位
 zoxi	作息
 zoxl	作响
 zoxq	作秀
