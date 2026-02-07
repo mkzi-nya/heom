@@ -11868,6 +11868,7 @@ drjm	短见
 drjn	断交
 drjt	断绝
 drju	断句
+drju	短剧
 drjw	待人接物
 drkd	断开
 drkm	遁入空门
@@ -12485,6 +12486,7 @@ duoh	𠉩
 duoi	𩞾
 duoj	𠉩
 duoy	𠉩
+dup	短视频
 dupa	𠣰
 dupb	毒品
 dupc	頓
@@ -205989,6 +205991,7 @@ uuxl	属相
 uuxm	竖线
 uuxp	书写
 uuxq	蜀绣
+uuxs	肾上腺素
 uuxt	数学
 uuxw	硕士学位
 uuxx	属下
@@ -209108,6 +209111,7 @@ vilk	指令
 vilk	𫔵
 vill	质量
 vill	𧓸
+vilm	直链
 vilm	𢃜
 viln	治疗
 vilo	直落
@@ -213025,6 +213029,7 @@ whfj	往返
 whfu	王府
 whfw	王妃
 whfw	枉费
+whg	违和感
 whge	网格
 whgl	忘光
 whgo	王国
@@ -214741,6 +214746,7 @@ wwhc	䫋
 wwhc	𦪒
 wwhd	危害
 wwhe	为何
+wwhe	违和
 wwhf	䈧
 wwhf	𩴞
 wwhg	𧲝

@@ -52364,6 +52364,12 @@ windows	wind
 辣条	latn
 弄完	nswj
 接龙	jpls
+短剧	drju
+短视频	dup
+违和	wwhe
+违和感	whg
+直链	vilm
+肾上腺素	uuxs
 㕶	ngrm
 㕶	nnrm
 礼	limu
