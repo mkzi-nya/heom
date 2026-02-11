@@ -21509,7 +21509,8 @@ hdis	害虫
 hdit	𥁐
 hdiu	害处
 hdiu	华灯初上
-hdj	害
+hdj	蝴蝶结
+hdj	🎀
 hdje	𢻜
 hdjk	海景
 hdjl	还将
@@ -25645,8 +25646,8 @@ hxdo	槬
 hxdp	化蝶
 hxdp	杹
 hxdp	椛
-hxds	华东
 hxds	滑动
+hxds	华东
 hxe	滑
 hxea	澮
 hxec	𤁪
@@ -32618,6 +32619,7 @@ jkjk	静静
 jkjm	精简
 jkjn	救苦救难
 jkjp	境界
+jkjp	警戒
 jkjq	敬酒
 jkjr	𠳬
 jkjt	警觉
@@ -197780,6 +197782,7 @@ tgki	痋
 tgks	腾空
 tglj	谈古论今
 tglt	𤳘
+tgmj	藤蔓
 tgml	天刚蒙蒙亮
 tgmt	霯
 tgno	腾挪
@@ -204150,6 +204153,7 @@ ujvs	山中
 ujvt	市井之徒
 ujvt	姍
 ujvu	食君之禄，忠君之事
+ujvu	山竹
 ujvv	扇坠
 ujwa	山洼
 ujwj	世界屋脊
@@ -204265,6 +204269,7 @@ ukyr	社科院
 ukyu	㲤
 ukzv	水可载舟
 ul	双
+ul	示例
 ulbi	双臂
 ulbj	始料不及
 ulbk	𧴅
@@ -210690,6 +210695,7 @@ vusg	駐
 vusg	𨲈
 vusi	蛛丝
 vusi	屬
+vusk	这是什么情况
 vusk	𡱱
 vusl	斸
 vusl	𣃁

@@ -21783,7 +21783,8 @@ github	gith
 𥁐	hdit
 害处	hdiu
 华灯初上	hdiu
-害	hdj
+蝴蝶结	hdj
+🎀	hdj
 𢻜	hdje
 海景	hdjk
 还将	hdjl
@@ -25932,8 +25933,8 @@ github	gith
 化蝶	hxdp
 杹	hxdp
 椛	hxdp
-华东	hxds
 滑动	hxds
+华东	hxds
 滑	hxe
 澮	hxea
 𤁪	hxec
@@ -32960,6 +32961,7 @@ php -S 127.0.0.1:8000	iphp
 精简	jkjm
 救苦救难	jkjn
 境界	jkjp
+警戒	jkjp
 敬酒	jkjq
 𠳬	jkjr
 警觉	jkjt
@@ -198474,6 +198476,7 @@ rime	rime
 腾空	tgks
 谈古论今	tglj
 𤳘	tglt
+藤蔓	tgmj
 天刚蒙蒙亮	tgml
 霯	tgmt
 腾挪	tgno
@@ -204888,6 +204891,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 市井之徒	ujvt
 姍	ujvt
 食君之禄，忠君之事	ujvu
+山竹	ujvu
 扇坠	ujvv
 山洼	ujwa
 世界屋脊	ujwj
@@ -205003,6 +205007,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 㲤	ukyu
 水可载舟	ukzv
 双	ul
+示例	ul
 双臂	ulbi
 始料不及	ulbj
 𧴅	ulbk
@@ -211460,6 +211465,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𨲈	vusg
 蛛丝	vusi
 屬	vusi
+这是什么情况	vusk
 𡱱	vusk
 斸	vusl
 𣃁	vusl
