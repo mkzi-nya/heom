@@ -24612,6 +24612,7 @@ IP地址	ipdv
 丝带	sidd
 死党	sidh
 死敌	sidi
+私发	sifa
 司法	sifa
 四分	siff
 四方	sifh
@@ -48319,7 +48320,6 @@ GDP	gdp
 桂花	gvh
 龟速	gvs
 浩瀚	hch
-豪绅	hcu
 何妨	hef
 何尝	hei
 皇权	hlq
@@ -52376,3 +52376,11 @@ windows	wind
 示例	ul
 蝴蝶结	hdj
 🎀	hdj
+炸毛	vamc
+耗时	hcu
+无欲无求	wywq
+纸皮	vipi
+指挥	vihv
+溜狗	lqgz
+咏唱	ysih
+烟花	yjhx

@@ -1298,6 +1298,7 @@
 𢔂	yjvb
 𩗷	yjvh
 𩳢	yjvl
+𥶿	yjxa
 𬤠	yjib
 珚	yjms
 礹	yjmx
@@ -1479,9 +1480,10 @@
 軾	uijs
 𱛬	uiub
 耭	jiqh
-徝	vivq
-犆	vivr
-𥮖	vivt
+製	vivq
+徝	vivr
+犆	vivt
+𥮖	vivw
 蓭	antb
 𦺽	antc
 𡏼	aogg
@@ -1949,7 +1951,7 @@
 𥠽	vikd
 邅	vjyd
 𱌵	vjyg
-𬘨	vivw
+𬘨	vivx
 𦉂	vsoa
 𢨱	vshb
 淽	vieh
@@ -3099,7 +3101,7 @@
 氏	viph
 𧊙	vils
 𥒗	viix
-𨟾	vipi
+𨟾	vipl
 𨻆	vinr
 𩻼	vins
 𱉛	vios

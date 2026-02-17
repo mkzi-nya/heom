@@ -21372,7 +21372,7 @@ GDP	gdp
 薧	hctp
 好痛	hcts
 𦳁	hctu
-豪绅	hcu
+耗时	hcu
 𡽝	hcub
 好少	hcuc
 𱛧	hcud
@@ -44120,6 +44120,7 @@ IP地址	ipdv
 流过	lqgo
 留给	lqgw
 塯	lqgw
+溜狗	lqgz
 留	lqh
 飅	lqha
 𢔲	lqhb
@@ -195160,6 +195161,7 @@ PPT	ppt
 泀	sier
 汜	sieu
 㴲	sieu
+私发	sifa
 司法	sifa
 𥹊	sifc
 四分	siff
@@ -206197,6 +206199,7 @@ PPT	ppt
 牐	valx
 砟	vam
 䄍	vama
+炸毛	vamc
 𥀈	vame
 闸门	vamf
 蚱蜢	vamg
@@ -208199,6 +208202,7 @@ PPT	ppt
 巵	vihu
 智慧	vihv
 稙	vihv
+指挥	vihv
 製	vihv
 徝	vihv
 犆	vihv
@@ -208534,9 +208538,10 @@ PPT	ppt
 鴲	vipf
 𥭡	vipg
 氏	viph
-𨟾	vipi
+纸皮	vipi
 只盼	vipj
 只凭	vipk
+𨟾	vipl
 制片	vipm
 㥀	vipm
 𢡒	vipm
@@ -208766,14 +208771,15 @@ PPT	ppt
 綕	vivp
 𬘨	vivp
 紙	vivp
-徝	vivq
-犆	vivr
+製	vivq
+徝	vivr
 之中	vivs
-𥮖	vivt
+犆	vivt
 蜘蛛	vivu
 支柱	vivu
 直追	vivv
-𬘨	vivw
+𥮖	vivw
+𬘨	vivx
 只准	vivy
 质问	viw
 之外	viwd
@@ -214572,6 +214578,7 @@ windows	wind
 无以为继	wywj
 无依无靠	wywk
 无忧无虑	wywl
+无欲无求	wywq
 无影无踪	wywz
 为伊消得人憔悴	wyxc
 物以稀为贵	wyxg
@@ -224633,6 +224640,7 @@ windows	wind
 𩗷	yjhw
 眼花	yjhx
 衣锦还乡	yjhx
+烟花	yjhx
 𥶿	yjhx
 欲拒还迎	yjhy
 咽喉	yjhz
@@ -225164,6 +225172,7 @@ windows	wind
 黤	yjwv
 有惊无险	yjwx
 郁金香	yjx
+𥶿	yjxa
 演戏	yjxi
 用尽心机	yjxj
 言行	yjxk
@@ -226534,6 +226543,7 @@ windows	wind
 𪇛	ysif
 廱	ysig
 用场	ysih
+咏唱	ysih
 泳池	ysii
 𢧳	ysii
 𦨤	ysii

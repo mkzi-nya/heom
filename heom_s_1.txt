@@ -21372,7 +21372,7 @@ hctp	好帖
 hctp	薧
 hcts	好痛
 hctu	𦳁
-hcu	豪绅
+hcu	耗时
 hcub	𡽝
 hcuc	好少
 hcud	𱛧
@@ -44120,6 +44120,7 @@ lqgn	㙀
 lqgo	流过
 lqgw	留给
 lqgw	塯
+lqgz	溜狗
 lqh	留
 lqha	飅
 lqhb	𢔲
@@ -195160,6 +195161,7 @@ sieo	泤
 sier	泀
 sieu	汜
 sieu	㴲
+sifa	私发
 sifa	司法
 sifc	𥹊
 siff	四分
@@ -206197,6 +206199,7 @@ valw	炸雷
 valx	牐
 vam	砟
 vama	䄍
+vamc	炸毛
 vame	𥀈
 vamf	闸门
 vamg	蚱蜢
@@ -208199,6 +208202,7 @@ vihu	卮
 vihu	巵
 vihv	智慧
 vihv	稙
+vihv	指挥
 vihv	製
 vihv	徝
 vihv	犆
@@ -208534,9 +208538,10 @@ vipe	𪉆
 vipf	鴲
 vipg	𥭡
 viph	氏
-vipi	𨟾
+vipi	纸皮
 vipj	只盼
 vipk	只凭
+vipl	𨟾
 vipm	制片
 vipm	㥀
 vipm	𢡒
@@ -208766,14 +208771,15 @@ vivp	娡
 vivp	綕
 vivp	𬘨
 vivp	紙
-vivq	徝
-vivr	犆
+vivq	製
+vivr	徝
 vivs	之中
-vivt	𥮖
+vivt	犆
 vivu	蜘蛛
 vivu	支柱
 vivv	直追
-vivw	𬘨
+vivw	𥮖
+vivx	𬘨
 vivy	只准
 viw	质问
 viwd	之外
@@ -214572,6 +214578,7 @@ wywi	无冤无仇
 wywj	无以为继
 wywk	无依无靠
 wywl	无忧无虑
+wywq	无欲无求
 wywz	无影无踪
 wyxc	为伊消得人憔悴
 wyxg	物以稀为贵
@@ -224633,6 +224640,7 @@ yjhv	𩳢
 yjhw	𩗷
 yjhx	眼花
 yjhx	衣锦还乡
+yjhx	烟花
 yjhx	𥶿
 yjhy	欲拒还迎
 yjhz	咽喉
@@ -225164,6 +225172,7 @@ yjwu	𪑈
 yjwv	黤
 yjwx	有惊无险
 yjx	郁金香
+yjxa	𥶿
 yjxi	演戏
 yjxj	用尽心机
 yjxk	言行
@@ -226534,6 +226543,7 @@ ysif	鷛
 ysif	𪇛
 ysig	廱
 ysih	用场
+ysih	咏唱
 ysii	泳池
 ysii	𢧳
 ysii	𦨤

@@ -138,6 +138,7 @@ yuyb	7
 zitd	7
 zsse	7
 jike	7
+vihv	7
 dmmc	7
 futb	7
 fulo	7
@@ -268,7 +269,6 @@ yumb	6
 yumn	6
 yzhw	6
 ziyr	6
-vihv	6
 bihp	6
 booi	6
 djmj	6
@@ -1238,6 +1238,7 @@ yjff	4
 yjgt	4
 yjhk	4
 yjhr	4
+yjhx	4
 yjiu	4
 yjmm	4
 yjmo	4
