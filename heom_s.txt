@@ -224639,6 +224639,7 @@ windows	wind
 𩳢	yjhv
 𩗷	yjhw
 眼花	yjhx
+演化	yjhx
 烟花	yjhx
 衣锦还乡	yjhx
 𥶿	yjhx
@@ -225172,7 +225173,8 @@ windows	wind
 黤	yjwv
 有惊无险	yjwx
 郁金香	yjx
-𥶿	yjxa
+衣锦还乡	yjxa
+𥶿	yjxb
 演戏	yjxi
 用尽心机	yjxj
 言行	yjxk

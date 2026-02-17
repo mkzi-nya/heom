@@ -50212,6 +50212,7 @@ GDP	gdp
 越扯越远	yiyy
 一击毙命	yjbm
 油尽灯枯	yjdk
+演化	yjhx
 烟花	yjhx
 衣锦还乡	yjhx
 演唱	yjih
@@ -97559,7 +97560,8 @@ windows	wind
 𢔂	yjvb
 𩗷	yjvh
 𩳢	yjvl
-𥶿	yjxa
+衣锦还乡	yjxa
+𥶿	yjxb
 𬤠	yjib
 珚	yjms
 礹	yjmx
