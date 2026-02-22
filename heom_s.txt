@@ -6517,6 +6517,7 @@ _	;b
 才发现	cfx
 餐风饮露	cfyl
 曾	cg
+蹭	cg
 㬝	cgaa
 䁬	cgba
 𦠇	cgba
@@ -37339,6 +37340,7 @@ IP地址	ipdv
 块	k
 可以	k
 卡	ka
+可爱	ka
 胩	kab
 髂	kabr
 鉲	kacy
@@ -48632,6 +48634,7 @@ IP地址	ipdv
 苗子	mnzi
 苗族	mnzu
 摸	mo
+莫	mo
 冐	moab
 默哀	moai
 𣋟	moai
@@ -185498,6 +185501,7 @@ $	ofhb
 ‵	okzxcx
 ′	okzxcy
 呣	om
+哦莫	om
 呒	omr
 唔	on
 嗯	onr

@@ -6615,6 +6615,7 @@ cfwn	𦊃
 cfx	才发现
 cfyl	餐风饮露
 cg	曾
+cg	蹭
 cgaa	㬝
 cgba	䁬
 cgba	𦠇
@@ -37702,6 +37703,7 @@ k	Ǩ
 k	Ƙ
 k	К
 ka	卡
+ka	可爱
 ka	か
 ka	カ
 kab	胩
@@ -49068,6 +49070,7 @@ mnzd	妙哉
 mnzi	苗子
 mnzu	苗族
 mo	摸
+mo	莫
 mo	も
 mo	モ
 moab	冐
@@ -186031,6 +186034,7 @@ okzxcw	〞
 okzxcx	‵
 okzxcy	′
 om	呣
+om	哦莫
 omh	：
 omr	呒
 on	唔

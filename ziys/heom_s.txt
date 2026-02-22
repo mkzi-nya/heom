@@ -6615,6 +6615,7 @@ Caonima～(∠・ω< )⌒☆	caon
 才发现	cfx
 餐风饮露	cfyl
 曾	cg
+蹭	cg
 㬝	cgaa
 䁬	cgba
 𦠇	cgba
@@ -37702,6 +37703,7 @@ msbt.seku.su	jmwv
 Ƙ	k
 К	k
 卡	ka
+可爱	ka
 か	ka
 カ	ka
 胩	kab
@@ -49068,6 +49070,7 @@ milthm	milt
 苗子	mnzi
 苗族	mnzu
 摸	mo
+莫	mo
 も	mo
 モ	mo
 冐	moab
@@ -186031,6 +186034,7 @@ $	ofhb
 ‵	okzxcx
 ′	okzxcy
 呣	om
+哦莫	om
 ：	omh
 呒	omr
 唔	on
