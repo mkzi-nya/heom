@@ -205487,6 +205487,7 @@ usld	瘦死骆驼比马大
 uslj	声嘶力竭
 usm	是什么
 usmd	是什么东东
+usmk	是什么情况
 usms	是什么意思
 usqm	声色犬马
 usrg	视死如归
@@ -213706,6 +213707,7 @@ wlxu	歪理邪说
 wlye	五粮液
 wm	我们
 wm	完美
+wm	唔呣
 wmbm	闻名不如见面
 wmbt	万马奔腾
 wmbv	萎靡不振
