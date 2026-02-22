@@ -5223,6 +5223,7 @@ _	;b
 不仅	bujb
 𨋞	bujb
 不急	buji
+补给	buji
 布景	bujk
 不胜酒力	bujl
 部件	bujm
@@ -6522,8 +6523,8 @@ _	;b
 才高八斗	cgbd
 曾	cgc
 曽	cgca
-层层	cgcg
 蹭蹭	cgcg
+层层	cgcg
 㣒	cgch
 层次	cgci
 鄫	cgcl
@@ -34410,6 +34411,7 @@ IP地址	ipdv
 𩩰	jpba
 解包	jpbc
 洁白	jpbd
+解绑	jpbh
 结伴	jpbj
 接班	jpbj
 结冰	jpbk
@@ -35371,6 +35373,7 @@ IP地址	ipdv
 眷恋	jrlm
 𣬏	jrlp
 蜷	jrlu
+眷侣	jrlv
 寄人篱下	jrlx
 䣺	jrmb
 琄	jrmb
@@ -188574,6 +188577,7 @@ PPT	ppt
 秦	qbq
 瞧不起	qbq
 擒	qbqb
+亲亲	qbqb
 捦	qbqc
 㩒	qbqf
 亲戚	qbqi
@@ -193660,6 +193664,7 @@ PPT	ppt
 嵶	rouh
 弱势	roui
 嵶	roum
+弱受	rouz
 婼	rov
 弱者	rove
 弱智	rovi
@@ -199318,6 +199323,7 @@ PPT	ppt
 舔舐	tmui
 天山	tmuj
 天书	tmuu
+田薯	tmuu
 天水	tmuv
 投名状	tmv
 天真	tmvf
@@ -201289,6 +201295,7 @@ PPT	ppt
 𩜶	tzov
 偷拍	tzpd
 头皮	tzpi
+投屏	tzpk
 投票	tzpn
 愉	tzpn
 愉	tzpv
@@ -206321,6 +206328,7 @@ PPT	ppt
 榨油	vayz
 渣滓	vazi
 准备	vb
+这不	vb
 皱巴巴	vbba
 治标不治本	vbbb
 止步不前	vbbq
@@ -209745,6 +209753,7 @@ PPT	ppt
 知其然	vqrj
 赵钱孙李	vqsl
 知其所以然	vqsr
+真情实感	vqug
 知情识趣	vquq
 准确性	vqx
 周期性	vqxk
@@ -223847,6 +223856,7 @@ windows	wind
 𭣧	yiqg
 𦓻	yiqh
 一起	yiqi
+仪器	yiqi
 𢩼	yiqi
 揖	yiqj
 捙	yiqj
@@ -225184,6 +225194,7 @@ windows	wind
 养精蓄锐	yjxr
 验血	yjxt
 延续	yjxu
+眼瞎	yjxx
 眼下	yjxx
 烟熏	yjxy
 以儆效尤	yjxy
@@ -226759,6 +226770,7 @@ windows	wind
 月底	ytdi
 约旦	ytdj
 约定	ytdk
+越多	ytdo
 越冬	ytds
 阅读	ytdu
 乐队	ytdv
@@ -226953,6 +226965,7 @@ windows	wind
 𧀲	yttu
 一统天下	yttx
 岄	ytub
+越少	ytuc
 跃升	ytug
 越是	ytui
 嶽	ytuk

@@ -3051,6 +3051,7 @@ _	;b
 层高	cggc
 才高八斗	cgbd
 层次	cgci
+蹭蹭	cgcg
 层层	cgcg
 层叠	cgdp
 从古到今	cgdj
@@ -36194,6 +36195,7 @@ IP地址	ipdv
 养精蓄锐	yjxr
 验血	yjxt
 延续	yjxu
+眼瞎	yjxx
 眼下	yjxx
 烟熏	yjxy
 烟瘾	yjyb
@@ -52344,7 +52346,6 @@ windows	wind
 实心	uixb
 宁死不从	nsbc
 不应该是	bygu
-蹭蹭	cgcg
 捏捏	npnp
 坚果	jmgo
 海苔	hdtd
@@ -52385,6 +52386,18 @@ windows	wind
 指挥	vihv
 溜狗	lqgz
 咏唱	ysih
+补给	buji
+田薯	tmuu
+投屏	tzpk
+仪器	yiqi
+亲亲	qbqb
+真情实感	vqug
+这不	vb
+越多	ytdo
+越少	ytuc
+弱受	rouz
+解绑	jpbh
+眷侣	jrlv
 㕶	ngrm
 㕶	nnrm
 礼	limu

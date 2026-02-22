@@ -5290,6 +5290,7 @@ buja	备受煎熬
 bujb	不仅
 bujb	𨋞
 buji	不急
+buji	补给
 bujk	布景
 bujl	不胜酒力
 bujm	部件
@@ -6620,8 +6621,8 @@ cgba	𦠇
 cgbd	才高八斗
 cgc	曾
 cgca	曽
-cgcg	层层
 cgcg	蹭蹭
+cgcg	层层
 cgch	㣒
 cgci	层次
 cgcl	鄫
@@ -34759,6 +34760,7 @@ jpba	𦝨
 jpba	𩩰
 jpbc	解包
 jpbd	洁白
+jpbh	解绑
 jpbj	结伴
 jpbj	接班
 jpbk	结冰
@@ -35720,6 +35722,7 @@ jrle	𧎖
 jrlm	眷恋
 jrlp	𣬏
 jrlu	蜷
+jrlv	眷侣
 jrlx	寄人篱下
 jrmb	䣺
 jrmb	琄
@@ -189161,6 +189164,7 @@ qbpw	钦佩
 qbq	秦
 qbq	瞧不起
 qbqb	擒
+qbqb	亲亲
 qbqc	捦
 qbqf	㩒
 qbqi	亲戚
@@ -194287,6 +194291,7 @@ rou	若是
 rouh	嵶
 roui	弱势
 roum	嵶
+rouz	弱受
 rov	婼
 rove	弱者
 rovi	弱智
@@ -200019,6 +200024,7 @@ tmui	天使
 tmui	舔舐
 tmuj	天山
 tmuu	天书
+tmuu	田薯
 tmuv	天水
 tmv	投名状
 tmvf	天真
@@ -201994,6 +202000,7 @@ tzov	偸
 tzov	𩜶
 tzpd	偷拍
 tzpi	头皮
+tzpk	投屏
 tzpn	投票
 tzpn	愉
 tzpv	愉
@@ -207089,6 +207096,7 @@ vayx	䛽
 vayz	榨油
 vazi	渣滓
 vb	准备
+vb	这不
 vbba	皱巴巴
 vbbb	治标不治本
 vbbq	止步不前
@@ -210516,6 +210524,7 @@ vqqu	珍禽奇兽
 vqrj	知其然
 vqsl	赵钱孙李
 vqsr	知其所以然
+vqug	真情实感
 vquq	知情识趣
 vqx	准确性
 vqxk	周期性
@@ -224688,6 +224697,7 @@ yiqf	湙
 yiqg	𭣧
 yiqh	𦓻
 yiqi	一起
+yiqi	仪器
 yiqi	𢩼
 yiqj	揖
 yiqj	捙
@@ -226027,6 +226037,7 @@ yjxq	研修
 yjxr	养精蓄锐
 yjxt	验血
 yjxu	延续
+yjxx	眼瞎
 yjxx	眼下
 yjxy	烟熏
 yjxy	以儆效尤
@@ -227605,6 +227616,7 @@ ytdh	一条道跑到黑
 ytdi	月底
 ytdj	约旦
 ytdk	约定
+ytdo	越多
 ytds	越冬
 ytdu	阅读
 ytdv	乐队
@@ -227799,6 +227811,7 @@ yttr	䖃
 yttu	𧀲
 yttx	一统天下
 ytub	岄
+ytuc	越少
 ytug	跃升
 ytui	越是
 ytuk	嶽
