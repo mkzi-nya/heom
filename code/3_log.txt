@@ -507,6 +507,7 @@ wwhr	5
 wwmi	5
 wwmu	5
 wwuu	5
+wwyu	5
 xiif	5
 xins	5
 xirf	5
@@ -957,12 +958,14 @@ jidj	4
 jige	4
 jiie	4
 jilc	4
+jili	4
 jimb	4
 jinj	4
 jirl	4
 jisi	4
 jitm	4
 jitr	4
+jiuu	4
 jivu	4
 jiyc	4
 jiyu	4
@@ -1164,7 +1167,6 @@ wwho	4
 wwlc	4
 wwmg	4
 wwng	4
-wwyu	4
 xibr	4
 xigo	4
 xihu	4

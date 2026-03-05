@@ -394,6 +394,7 @@ _	;b
 奥林匹克	alpk
 按劳取酬	alqi
 阿联酋	alqq
+爱丽丝	als
 安乐死	alsi
 按理说	aluo
 暧昧	am
@@ -5865,6 +5866,7 @@ _	;b
 败兴而归	bxeg
 变戏法	bxfa
 不相符	bxfu
+不锈钢	bxg
 不惜工本	bxgb
 兵行诡道	bxgd
 八仙过海	bxgh
@@ -7475,6 +7477,7 @@ _	;b
 窓	csjp
 䡯	csjp
 𨍉	csjp
+从句	csju
 财色兼收	csju
 从军	csjy
 沧桑坎坷	cskk
@@ -9118,6 +9121,7 @@ _	;b
 㩐	dfqi
 扥	dfqu
 答非所问	dfsw
+倒反天罡	dftg
 电风扇	dfu
 打发时间	dfuj
 大幅上升	dfuu
@@ -26205,6 +26209,7 @@ GDP	gdp
 鲎	hzf
 后方	hzfh
 胡作非为	hzfw
+后盖	hzgd
 后跟	hzgf
 𪄗	hzgf
 𪇂	hzgf
@@ -26845,6 +26850,7 @@ GDP	gdp
 吵嘴	iczv
 拆	id
 程度	id
+充电宝	idb
 𧸿	idbf
 豺	idbh
 䐤	idbm
@@ -31643,9 +31649,9 @@ IP地址	ipdv
 𥳏	jiit
 基础	jiiu
 𪅹	jiiv
-𥾊	jiiw
+𢁂	jiiw
 麡	jiix
-𦇧	jiiy
+𥾊	jiiy
 记仇	jiiz
 寄	jij
 擊	jij
@@ -31764,6 +31770,7 @@ IP地址	ipdv
 皍	jilg
 𥫶	jilh
 激励	jili
+吉利	jili
 蟣	jili
 𧓓	jili
 蟻	jili
@@ -31796,7 +31803,7 @@ IP地址	ipdv
 积累	jilw
 䶓	jilx
 𧐐	jily
-𧉍	jilz
+𧓓	jilz
 玑	jim
 𥕂	jima
 机敏	jimb
@@ -31956,18 +31963,19 @@ IP地址	ipdv
 㰟	jioo
 𩚮	jioo
 䂑	jiop
-𰳁	jioq
+𧉍	jioq
 佶	jior
 𰽲	jior
 㔕	jios
 𣱗	jios
-𠋻	jiot
+𰳁	jiot
 䚐	jiou
 𩞊	jiou
 偈	jiov
-𠍃	jiow
-𩜆	jiox
-𰽕	jioy
+𠋻	jiow
+𠍃	jiox
+𩜆	jioy
+𰽕	jioz
 悸	jip
 𥭌	jipa
 极品	jipb
@@ -31976,6 +31984,7 @@ IP地址	ipdv
 𥭜	jipd
 忣	jipe
 𩴃	jipf
+𦇧	jipg
 愱	jipk
 憿	jipk
 𢜭	jipl
@@ -32228,18 +32237,19 @@ IP地址	ipdv
 𡹪	jium
 㞦	jiun
 𣯅	jiuo
-旣	jiup
-穊	jiuq
-𣄯	jiur
-𩠨	jius
-𪘥	jiut
+覬	jiup
+旣	jiuq
+穊	jiur
+𣄯	jius
+𩠨	jiut
 技术	jiuu
+奇数	jiuu
 既成事实	jiuu
 覬	jiuu
 积水	jiuv
-𱌸	jiuw
+𪘥	jiuw
 𡽉	jiux
-𢁂	jiuy
+𱌸	jiuy
 棘手	jiuz
 继	jiv
 幾	jiv
@@ -42476,6 +42486,7 @@ IP地址	ipdv
 𪋾	lkjs
 凌驾	lkjx
 领军	lkjy
+零氪	lkke
 𤷖	lkke
 𰺊	lkke
 㾉	lkki
@@ -50318,6 +50329,7 @@ n-buna	nbna
 难得糊涂	ndht
 能	ndi
 奶茶	ndia
+QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 𣉘	ndia
 熋	ndif
 𡮙	ndif
@@ -50774,6 +50786,7 @@ n-buna	nbna
 腻歪	niwd
 逆袭	nixi
 逆行	nixk
+逆向	nixl
 逆	niy
 迡	niya
 𡎿	niyg
@@ -52289,6 +52302,7 @@ n-buna	nbna
 也	o
 哦	o
 噢	o
+也不是	obu
 」	oc
 哦对	od
 藕断丝连	odsl
@@ -204951,6 +204965,7 @@ PPT	ppt
 䠼	uuhv
 毺	uuhv
 书画	uuhx
+啥时候	uuhz
 书	uui
 术	uui
 树杈	uuia
@@ -205832,6 +205847,7 @@ PPT	ppt
 收藏	uzch
 身在曹营心在汉	uzch
 首次	uzci
+手残	uzcj
 受挫	uzco
 鏉	uzco
 收存	uzcy
@@ -210814,6 +210830,7 @@ PPT	ppt
 主卧	vuwo
 诸位	vuww
 助威	vuww
+主谓	vuww
 真实性	vux
 猪心	vuxb
 主席	vuxi
@@ -211059,6 +211076,7 @@ PPT	ppt
 沾沾自喜	vvzx
 掌握	vw
 周围	vw
+主谓宾	vwb
 中文版	vwbj
 战无不胜	vwbu
 知无不言	vwby
@@ -211082,6 +211100,7 @@ PPT	ppt
 抓	vx
 这些	vx
 膼	vxbb
+抓包	vxbc
 忠孝不能两全	vxbq
 抓捕	vxbu
 锥心刺骨	vxcg
@@ -212066,6 +212085,7 @@ PPT	ppt
 五分钟	wfv
 文摘	wfvd
 文章	wfvh
+蚊帐	wfvh
 文职	wfvi
 问斩	wfvj
 妏	wfvk
@@ -214478,13 +214498,14 @@ windows	wind
 謂	wwyb
 詴	wwyb
 遺	wwyc
-𥅵	wwyd
+䜜	wwyd
 𩏉	wwye
 𨖿	wwyf
 䜅	wwyg
 喂养	wwyh
 唯一	wwyi
 威严	wwyj
+𥅵	wwyk
 亹	wwym
 斖	wwym
 遗	wwyo
@@ -214496,6 +214517,7 @@ windows	wind
 立	wwyt
 位于	wwyu
 万无一失	wwyu
+谓语	wwyu
 䜜	wwyu
 𥅵	wwyu
 逶	wwyv
@@ -217274,6 +217296,7 @@ windows	wind
 㘋	xmrc
 𠯟	xmrd
 闲人	xmrf
+仙人	xmrf
 嘕	xmrf
 显然	xmrj
 咞	xmrj
@@ -217363,6 +217386,7 @@ windows	wind
 先生	xmug
 献上	xmuh
 现实	xmui
+限时	xmui
 卸磨杀驴	xmul
 崄	xmum
 𡸃	xmum
@@ -217577,6 +217601,7 @@ windows	wind
 𢓮	xnhb
 𩙮	xnhb
 消耗	xnhc
+小号	xnhc
 小孩	xnhd
 筿	xnhd
 篠	xnhd
@@ -230492,6 +230517,7 @@ windows	wind
 自重	zivs
 自主	zivu
 自助	zivu
+资助	zivu
 純	zivu
 甾	zivw
 緇	zivw

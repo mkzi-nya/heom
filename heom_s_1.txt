@@ -394,6 +394,7 @@ alfp	按劳分配
 alpk	奥林匹克
 alqi	按劳取酬
 alqq	阿联酋
+als	爱丽丝
 alsi	安乐死
 aluo	按理说
 am	暧昧
@@ -5865,6 +5866,7 @@ bxdx	碧血丹心
 bxeg	败兴而归
 bxfa	变戏法
 bxfu	不相符
+bxg	不锈钢
 bxgb	不惜工本
 bxgd	兵行诡道
 bxgh	八仙过海
@@ -7475,6 +7477,7 @@ csjo	𰷥
 csjp	窓
 csjp	䡯
 csjp	𨍉
+csju	从句
 csju	财色兼收
 csjy	从军
 cskk	沧桑坎坷
@@ -9118,6 +9121,7 @@ dfq	扽
 dfqi	㩐
 dfqu	扥
 dfsw	答非所问
+dftg	倒反天罡
 dfu	电风扇
 dfuj	打发时间
 dfuu	大幅上升
@@ -26205,6 +26209,7 @@ hzf	糇
 hzf	鲎
 hzfh	后方
 hzfw	胡作非为
+hzgd	后盖
 hzgf	后跟
 hzgf	𪄗
 hzgf	𪇂
@@ -26845,6 +26850,7 @@ iczo	炒作
 iczv	吵嘴
 id	拆
 id	程度
+idb	充电宝
 idbf	𧸿
 idbh	豺
 idbm	䐤
@@ -31643,9 +31649,9 @@ jiis	𥣩
 jiit	𥳏
 jiiu	基础
 jiiv	𪅹
-jiiw	𥾊
+jiiw	𢁂
 jiix	麡
-jiiy	𦇧
+jiiy	𥾊
 jiiz	记仇
 jij	寄
 jij	擊
@@ -31764,6 +31770,7 @@ jilf	卽
 jilg	皍
 jilh	𥫶
 jili	激励
+jili	吉利
 jili	蟣
 jili	𧓓
 jili	蟻
@@ -31796,7 +31803,7 @@ jilv	纪律
 jilw	积累
 jilx	䶓
 jily	𧐐
-jilz	𧉍
+jilz	𧓓
 jim	玑
 jima	𥕂
 jimb	机敏
@@ -31956,18 +31963,19 @@ jion	𰽕
 jioo	㰟
 jioo	𩚮
 jiop	䂑
-jioq	𰳁
+jioq	𧉍
 jior	佶
 jior	𰽲
 jios	㔕
 jios	𣱗
-jiot	𠋻
+jiot	𰳁
 jiou	䚐
 jiou	𩞊
 jiov	偈
-jiow	𠍃
-jiox	𩜆
-jioy	𰽕
+jiow	𠋻
+jiox	𠍃
+jioy	𩜆
+jioz	𰽕
 jip	悸
 jipa	𥭌
 jipb	极品
@@ -31976,6 +31984,7 @@ jipc	懻
 jipd	𥭜
 jipe	忣
 jipf	𩴃
+jipg	𦇧
 jipk	愱
 jipk	憿
 jipl	𢜭
@@ -32228,18 +32237,19 @@ jium	峜
 jium	𡹪
 jiun	㞦
 jiuo	𣯅
-jiup	旣
-jiuq	穊
-jiur	𣄯
-jius	𩠨
-jiut	𪘥
+jiup	覬
+jiuq	旣
+jiur	穊
+jius	𣄯
+jiut	𩠨
 jiuu	技术
+jiuu	奇数
 jiuu	既成事实
 jiuu	覬
 jiuv	积水
-jiuw	𱌸
+jiuw	𪘥
 jiux	𡽉
-jiuy	𢁂
+jiuy	𱌸
 jiuz	棘手
 jiv	继
 jiv	幾
@@ -42476,6 +42486,7 @@ lkjr	䡼
 lkjs	𪋾
 lkjx	凌驾
 lkjy	领军
+lkke	零氪
 lkke	𤷖
 lkke	𰺊
 lkki	㾉
@@ -50318,6 +50329,7 @@ ndho	耐火
 ndht	难得糊涂
 ndi	能
 ndia	奶茶
+ndia	QQㄋㄟㄋㄟ好喝到咩噗茶
 ndia	𣉘
 ndif	熋
 ndif	𡮙
@@ -50774,6 +50786,7 @@ nivu	𰬳
 niwd	腻歪
 nixi	逆袭
 nixk	逆行
+nixl	逆向
 niy	逆
 niya	迡
 niyg	𡎿
@@ -52289,6 +52302,7 @@ nzzz	念兹在兹
 o	也
 o	哦
 o	噢
+obu	也不是
 oc	」
 od	哦对
 odsl	藕断丝连
@@ -204951,6 +204965,7 @@ uuhv	赎回
 uuhv	䠼
 uuhv	毺
 uuhx	书画
+uuhz	啥时候
 uui	书
 uui	术
 uuia	树杈
@@ -205832,6 +205847,7 @@ uzce	手册
 uzch	收藏
 uzch	身在曹营心在汉
 uzci	首次
+uzcj	手残
 uzco	受挫
 uzco	鏉
 uzcy	收存
@@ -210814,6 +210830,7 @@ vuwl	𨞕
 vuwo	主卧
 vuww	诸位
 vuww	助威
+vuww	主谓
 vux	真实性
 vuxb	猪心
 vuxi	主席
@@ -211059,6 +211076,7 @@ vvzv	浊者自浊
 vvzx	沾沾自喜
 vw	掌握
 vw	周围
+vwb	主谓宾
 vwbj	中文版
 vwbu	战无不胜
 vwby	知无不言
@@ -211082,6 +211100,7 @@ vwyr	這
 vx	抓
 vx	这些
 vxbb	膼
+vxbc	抓包
 vxbq	忠孝不能两全
 vxbu	抓捕
 vxcg	锥心刺骨
@@ -212066,6 +212085,7 @@ wfv	紋
 wfv	五分钟
 wfvd	文摘
 wfvh	文章
+wfvh	蚊帐
 wfvi	文职
 wfvj	问斩
 wfvk	妏
@@ -214478,13 +214498,14 @@ wwya	威压
 wwyb	謂
 wwyb	詴
 wwyc	遺
-wwyd	𥅵
+wwyd	䜜
 wwye	𩏉
 wwyf	𨖿
 wwyg	䜅
 wwyh	喂养
 wwyi	唯一
 wwyj	威严
+wwyk	𥅵
 wwym	亹
 wwym	斖
 wwyo	遗
@@ -214496,6 +214517,7 @@ wwyt	违约
 wwyt	立
 wwyu	位于
 wwyu	万无一失
+wwyu	谓语
 wwyu	䜜
 wwyu	𥅵
 wwyv	逶
@@ -217274,6 +217296,7 @@ xmrc	嗛
 xmrc	㘋
 xmrd	𠯟
 xmrf	闲人
+xmrf	仙人
 xmrf	嘕
 xmrj	显然
 xmrj	咞
@@ -217363,6 +217386,7 @@ xmuf	献身
 xmug	先生
 xmuh	献上
 xmui	现实
+xmui	限时
 xmul	卸磨杀驴
 xmum	崄
 xmum	𡸃
@@ -217577,6 +217601,7 @@ xnhb	䬘
 xnhb	𢓮
 xnhb	𩙮
 xnhc	消耗
+xnhc	小号
 xnhd	小孩
 xnhd	筿
 xnhd	篠
@@ -230492,6 +230517,7 @@ zivr	自传
 zivs	自重
 zivu	自主
 zivu	自助
+zivu	资助
 zivu	純
 zivw	甾
 zivw	緇
