@@ -216,6 +216,7 @@ jihr	6
 jijk	6
 jimu	6
 jinm	6
+jiql	6
 jiti	6
 jmli	6
 jnnf	6
@@ -428,7 +429,6 @@ jilo	5
 jimk	5
 jinu	5
 jind	5
-jiql	5
 jisc	5
 jitc	5
 jitj	5

@@ -9074,6 +9074,7 @@ _	;b
 得票	depn
 大而全	deqr
 嘚	der
+第二人格	derg
 𠵨	deri
 𨁽	deri
 嘚瑟	dese
@@ -11652,6 +11653,7 @@ _	;b
 荡秋千	dqq
 丢弃	dqqi
 丢钱	dqqm
+斗蛐蛐	dqqu
 的确如此	dqrc
 丢人	dqrf
 𠲍	dqri
@@ -32000,12 +32002,12 @@ IP地址	ipdv
 耤	jiqa
 𢰒	jiqb
 𢱣	jiqb
-䣢	jiqc
-𨜒	jiqd
+㨈	jiqc
+䣢	jiqd
 技	jiqe
 𪄸	jiqf
 擮	jiqg
-耭	jiqh
+𨜒	jiqh
 机器	jiqi
 及其	jiqi
 撠	jiqi
@@ -32014,12 +32016,14 @@ IP地址	ipdv
 激情	jiqk
 耭	jiqk
 极强	jiql
+机枪	jiql
 揤	jiql
 㨈	jiql
 䣢	jiql
 𨜒	jiql
 几千	jiqm
 技巧	jiqn
+耭	jiqo
 急切	jiqp
 𢭄	jiqp
 击球	jiqq
@@ -37662,6 +37666,7 @@ IP地址	ipdv
 咳	kdro
 嘅	kdru
 开赛	kdsd
+开锁	kdso
 𡳂	kdst
 蒈	kdt
 开膛	kdth
@@ -193092,6 +193097,7 @@ PPT	ppt
 韧劲	rfjb
 軠	rfjg
 軔	rfjh
+人机	rfji
 人际	rfji
 軔	rfji
 軔	rfjk
@@ -199059,6 +199065,7 @@ PPT	ppt
 推了推	tltv
 脱离实际	tluj
 屠龙之技	tlvj
+泰勒展开	tlvk
 天伦之乐	tlvl
 天籁之声	tlvu
 天理昭昭	tlvv
@@ -222932,8 +222939,8 @@ windows	wind
 养伤	yhuh
 崵	yhuh
 𫵵	yhuh
-仰视	yhui
 样式	yhui
+仰视	yhui
 野火烧不尽	yhuj
 岟	yhuk
 阳朔	yhuo

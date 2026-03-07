@@ -49,6 +49,7 @@ _	;b
 开合	kdhe
 划破	hxpo
 瞳仁	tsrf
+样式	yhui
 仰视	yhui
 身侧	ufce
 跳蛋	tndj
@@ -23685,6 +23686,7 @@ IP地址	ipdv
 认出	rfiu
 人家	rfjx
 韧劲	rfjb
+人机	rfji
 人际	rfji
 人间	rfjm
 任教	rfjn
@@ -35756,7 +35758,6 @@ IP地址	ipdv
 养身	yhuf
 养生	yhug
 养伤	yhuh
-样式	yhui
 阳朔	yhuo
 引火烧身	yhuu
 野火烧不尽	yhuj
@@ -52427,3 +52428,8 @@ windows	wind
 后盖	hzgd
 小号	xnhc
 QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
+机枪	jiql
+斗蛐蛐	dqqu
+泰勒展开	tlvk
+开锁	kdso
+第二人格	derg

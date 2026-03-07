@@ -451,8 +451,9 @@
 𩧱	jinz
 𣔽	jidy
 𱇺	jidz
-䣢	jiqc
-𨜒	jiqd
+㨈	jiqc
+䣢	jiqd
+𨜒	jiqh
 㘍	jirs
 嘰	jirt
 𠿠	jirv
@@ -1483,7 +1484,7 @@
 𠚅	viub
 軾	uijs
 𱛬	uiub
-耭	jiqh
+耭	jiqo
 製	vivq
 徝	vivr
 犆	vivt

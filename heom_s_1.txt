@@ -9074,6 +9074,7 @@ depf	当耳旁风
 depn	得票
 deqr	大而全
 der	嘚
+derg	第二人格
 deri	𠵨
 deri	𨁽
 dese	嘚瑟
@@ -11652,6 +11653,7 @@ dqpm	单枪匹马
 dqq	荡秋千
 dqqi	丢弃
 dqqm	丢钱
+dqqu	斗蛐蛐
 dqrc	的确如此
 dqrf	丢人
 dqri	𠲍
@@ -32000,12 +32002,12 @@ jiq	挤
 jiqa	耤
 jiqb	𢰒
 jiqb	𢱣
-jiqc	䣢
-jiqd	𨜒
+jiqc	㨈
+jiqd	䣢
 jiqe	技
 jiqf	𪄸
 jiqg	擮
-jiqh	耭
+jiqh	𨜒
 jiqi	机器
 jiqi	及其
 jiqi	撠
@@ -32014,12 +32016,14 @@ jiqj	揖
 jiqk	激情
 jiqk	耭
 jiql	极强
+jiql	机枪
 jiql	揤
 jiql	㨈
 jiql	䣢
 jiql	𨜒
 jiqm	几千
 jiqn	技巧
+jiqo	耭
 jiqp	急切
 jiqp	𢭄
 jiqq	击球
@@ -37662,6 +37666,7 @@ kdrj	慨然
 kdro	咳
 kdru	嘅
 kdsd	开赛
+kdso	开锁
 kdst	𡳂
 kdt	蒈
 kdth	开膛
@@ -193092,6 +193097,7 @@ rfiu	认出
 rfjb	韧劲
 rfjg	軠
 rfjh	軔
+rfji	人机
 rfji	人际
 rfji	軔
 rfjk	軔
@@ -199059,6 +199065,7 @@ tltq	挑来挑去
 tltv	推了推
 tluj	脱离实际
 tlvj	屠龙之技
+tlvk	泰勒展开
 tlvl	天伦之乐
 tlvu	天籁之声
 tlvv	天理昭昭
@@ -222932,8 +222939,8 @@ yhug	养生
 yhuh	养伤
 yhuh	崵
 yhuh	𫵵
-yhui	仰视
 yhui	样式
+yhui	仰视
 yhuj	野火烧不尽
 yhuk	岟
 yhuo	阳朔
