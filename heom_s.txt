@@ -15787,14 +15787,15 @@ _	;b
 𥰛	fuhd
 𩳎	fuhd
 符合	fuhe
+复合	fuhe
 復	fuhe
 稪	fuhe
 箙	fuhe
 𥳇	fuhe
 𥷱	fuhe
 鴔	fuhf
-箙	fuhg
-𥳇	fuhh
+稪	fuhg
+箙	fuhh
 䑧	fuhi
 䘀	fuhi
 䠵	fuhi
@@ -15804,7 +15805,7 @@ _	;b
 𧒂	fuhi
 𧒙	fuhi
 阜	fuhj
-𥷱	fuhk
+𥳇	fuhk
 风声鹤唳	fuhl
 𪂀	fuhl
 𣥋	fuhm
@@ -15821,8 +15822,8 @@ _	;b
 䄮	fuho
 颫	fuho
 𦨈	fuho
-𦨈	fuhp
-甶	fuhq
+𥷱	fuhp
+𦨈	fuhq
 𨺅	fuhr
 𥱀	fuhs
 𦨋	fuhs
@@ -15837,7 +15838,7 @@ _	;b
 𦩡	fuhw
 孵化	fuhx
 复婚	fuhy
-𦩡	fuhz
+甶	fuhz
 福	fui
 府	fui
 祔	fuia
@@ -16353,10 +16354,11 @@ _	;b
 符咒	fuvz
 福州	fuvz
 抚慰	fuw
-𦿁	fuwa
-𩋨	fuwb
-𩍏	fuwc
+𦩡	fuwa
+𦿁	fuwb
+𩋨	fuwc
 罦	fuwd
+𩍏	fuwe
 罘	fuwf
 富翁	fuwg
 圑	fuwi
@@ -21078,6 +21080,7 @@ GDP	gdp
 哈	har
 𡄟	hare
 何必	hb
+好叭	hb
 汉堡包	hbbc
 还不错	hbco
 货不对板	hbdb
@@ -32338,6 +32341,7 @@ IP地址	ipdv
 畸形	jixk
 吉祥	jixl
 机箱	jixl
+迹向	jixl
 极限	jixm
 绩效	jixn
 机械	jixp
@@ -52280,6 +52284,7 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 𤟦	nzkk
 牛仔裤	nzku
 脑子里	nzli
+那怎么办	nzmb
 𥀫	nzme
 䨲	nzmi
 䰭	nzmi
@@ -225559,6 +225564,7 @@ windows	wind
 𨠸	ykmm
 英模	ykmo
 䨍	ykmt
+荧幕	ykmu
 璄	ykmu
 璎	ykmv
 䃷	ykmv

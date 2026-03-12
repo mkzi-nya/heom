@@ -101,6 +101,7 @@ wwnv	8
 yjnv	8
 bcmu	7
 bjyj	7
+fuhe	7
 fulk	7
 fuqi	7
 guyr	7
@@ -196,7 +197,6 @@ birj	6
 dhhh	6
 dnhr	6
 fhhs	6
-fuhe	6
 fuvi	6
 gchj	6
 hchj	6

@@ -15995,14 +15995,15 @@ fuhd	𤙤
 fuhd	𥰛
 fuhd	𩳎
 fuhe	符合
+fuhe	复合
 fuhe	復
 fuhe	稪
 fuhe	箙
 fuhe	𥳇
 fuhe	𥷱
 fuhf	鴔
-fuhg	箙
-fuhh	𥳇
+fuhg	稪
+fuhh	箙
 fuhi	䑧
 fuhi	䘀
 fuhi	䠵
@@ -16012,7 +16013,7 @@ fuhi	𥲛
 fuhi	𧒂
 fuhi	𧒙
 fuhj	阜
-fuhk	𥷱
+fuhk	𥳇
 fuhl	风声鹤唳
 fuhl	𪂀
 fuhm	𣥋
@@ -16029,8 +16030,8 @@ fuho	复活
 fuho	䄮
 fuho	颫
 fuho	𦨈
-fuhp	𦨈
-fuhq	甶
+fuhp	𥷱
+fuhq	𦨈
 fuhr	𨺅
 fuhs	𥱀
 fuhs	𦨋
@@ -16045,7 +16046,7 @@ fuhw	甶
 fuhw	𦩡
 fuhx	孵化
 fuhy	复婚
-fuhz	𦩡
+fuhz	甶
 fui	福
 fui	府
 fuia	祔
@@ -16561,10 +16562,11 @@ fuvy	𡞪
 fuvz	符咒
 fuvz	福州
 fuw	抚慰
-fuwa	𦿁
-fuwb	𩋨
-fuwc	𩍏
+fuwa	𦩡
+fuwb	𦿁
+fuwc	𩋨
 fuwd	罦
+fuwe	𩍏
 fuwf	罘
 fuwg	富翁
 fuwi	圑
@@ -21351,6 +21353,7 @@ haqm	哈欠
 har	哈
 hare	𡄟
 hb	何必
+hb	好叭
 hbbc	汉堡包
 hbco	还不错
 hbdb	货不对板
@@ -32680,6 +32683,7 @@ jixk	记性
 jixk	畸形
 jixl	吉祥
 jixl	机箱
+jixl	迹向
 jixm	极限
 jixn	绩效
 jixp	机械
@@ -52775,6 +52779,7 @@ nzkb	獳
 nzkk	𤟦
 nzku	牛仔裤
 nzli	脑子里
+nzmb	那怎么办
 nzme	𥀫
 nzmi	䨲
 nzmi	䰭
@@ -202675,6 +202680,7 @@ udmk	𩂝
 udmp	釃
 udn	色
 udnj	蜀道难
+udnj	$cmd{\r\n噫吁戲　危いかな高い哉\r\n蜀道の難きは青天に上るよりも難し\r\n蚕叢と魚鳧と\r\n国を開くこと　何ぞ茫然たる\r\n爾來　四萬八千歳\r\n秦塞と人煙を通ぜず\r\n西のかた太白に当りて鳥道有り\r\n以て峨眉の頂を橫絶すべし\r\n地崩れ山摧けて壯士死し\r\n然る後に天梯　石棧　方に鉤連す\r\n上には六竜回日の高標有り\r\n下には衝波逆折の迴川有り\r\n黄鶴の飛ぶも尚ほ過ぐるを得ず\r\n猿猱　度らんと欲して　攀援を愁ふ\r\n青泥　何ぞ盤盤たる\r\n百歩に九折して巖巒を縈る\r\n參を捫で井を歷て　仰ぎて脅息し\r\n手を以て膺を撫して　坐して長嘆す\r\n君に問ふ　西遊して何れの時にか還らんと\r\n畏途巉巖　攀づ可からず\r\n但だ見る　悲鳥の古木に号び\r\n雄は飛び雌を従へて　林間を遶るを\r\n又聞く　子規の夜月に啼きて空山に愁ふるを\r\n蜀道の難きは　青天に上るよりも難し\r\n人をして　此れを聴きて朱顔を凋ましむ\r\n連峰　天を去ること尺に盈たず\r\n枯松倒に掛かりて　絕壁に倚る\r\n飛湍　瀑流　争ひて喧豗し\r\n崖を砯ち石を転じて　萬壑雷す\r\n其の険なるや此くの若し\r\n嗟　爾　遠道の人、胡為れぞ来れる哉\r\n剣閣は崢嶸として崔嵬たり\r\n一夫　関に当れば万夫も開く莫し\r\n守る所　或いは親に匪ずんば\r\n化して狼と豺とに為らん\r\n朝に猛虎を避け\r\n夕べに長蛇を避く\r\n牙を磨き血を吮ひ\r\n人を殺すこと麻の如し\r\n錦城は楽しと伝ふと雖も\r\n早く家に還るに如かず\r\n蜀道の難きは　青天に上るよりも難し\r\n身を側てて西望し　長く咨嗟す\r\n,蜀道の難}
 udnt	蜀道难，难于上青天
 udqf	适得其反
 udqi	水到渠成
@@ -226403,6 +226409,7 @@ ykmm	迎面
 ykmm	𨠸
 ykmo	英模
 ykmt	䨍
+ykmu	荧幕
 ykmu	璄
 ykmv	璎
 ykmv	䃷

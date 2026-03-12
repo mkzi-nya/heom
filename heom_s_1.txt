@@ -15787,14 +15787,15 @@ fuhd	𤙤
 fuhd	𥰛
 fuhd	𩳎
 fuhe	符合
+fuhe	复合
 fuhe	復
 fuhe	稪
 fuhe	箙
 fuhe	𥳇
 fuhe	𥷱
 fuhf	鴔
-fuhg	箙
-fuhh	𥳇
+fuhg	稪
+fuhh	箙
 fuhi	䑧
 fuhi	䘀
 fuhi	䠵
@@ -15804,7 +15805,7 @@ fuhi	𥲛
 fuhi	𧒂
 fuhi	𧒙
 fuhj	阜
-fuhk	𥷱
+fuhk	𥳇
 fuhl	风声鹤唳
 fuhl	𪂀
 fuhm	𣥋
@@ -15821,8 +15822,8 @@ fuho	复活
 fuho	䄮
 fuho	颫
 fuho	𦨈
-fuhp	𦨈
-fuhq	甶
+fuhp	𥷱
+fuhq	𦨈
 fuhr	𨺅
 fuhs	𥱀
 fuhs	𦨋
@@ -15837,7 +15838,7 @@ fuhw	甶
 fuhw	𦩡
 fuhx	孵化
 fuhy	复婚
-fuhz	𦩡
+fuhz	甶
 fui	福
 fui	府
 fuia	祔
@@ -16353,10 +16354,11 @@ fuvy	𡞪
 fuvz	符咒
 fuvz	福州
 fuw	抚慰
-fuwa	𦿁
-fuwb	𩋨
-fuwc	𩍏
+fuwa	𦩡
+fuwb	𦿁
+fuwc	𩋨
 fuwd	罦
+fuwe	𩍏
 fuwf	罘
 fuwg	富翁
 fuwi	圑
@@ -21078,6 +21080,7 @@ haqm	哈欠
 har	哈
 hare	𡄟
 hb	何必
+hb	好叭
 hbbc	汉堡包
 hbco	还不错
 hbdb	货不对板
@@ -32338,6 +32341,7 @@ jixk	记性
 jixk	畸形
 jixl	吉祥
 jixl	机箱
+jixl	迹向
 jixm	极限
 jixn	绩效
 jixp	机械
@@ -52280,6 +52284,7 @@ nzkb	獳
 nzkk	𤟦
 nzku	牛仔裤
 nzli	脑子里
+nzmb	那怎么办
 nzme	𥀫
 nzmi	䨲
 nzmi	䰭
@@ -225559,6 +225564,7 @@ ykmm	迎面
 ykmm	𨠸
 ykmo	英模
 ykmt	䨍
+ykmu	荧幕
 ykmu	璄
 ykmv	璎
 ykmv	䃷
