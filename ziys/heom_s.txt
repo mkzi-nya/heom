@@ -1393,6 +1393,7 @@ _	;b
 鬢	bbsc
 驞	bbsc
 鬂	bbsc
+濒死	bbsi
 髩	bbss
 棒棒糖	bbth
 蹦蹦跳跳	bbtt
@@ -5991,6 +5992,7 @@ _	;b
 不依不饶	bybr
 暴饮暴食	bybu
 百依百顺	bybu
+不孕不育	byby
 贬义词	byc
 褒义词	byci
 不一定	byd
@@ -15960,6 +15962,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 垺	fugd
 䞯	fugd
 𡏪	fugd
+赋格	fuge
 㙏	fuge
 𧼱	fuge
 䞜	fugf
@@ -28767,6 +28770,7 @@ https://milcalc.netlify.app/	ifqi
 迟误	iiwu
 颤颤巍巍	iiww
 痴心	iixb
+吃席	iixi
 耻笑	iixn
 吃些	iixp
 持续	iixu
@@ -193456,6 +193460,7 @@ $cmd{你是怎么加入此群的？\r\n□ 朋友推荐\r\n□ 从网上获知\r
 亲自出马	qzim
 起早摸黑	qzmh
 千载难逢	qznf
+前奏曲	qzq
 穷则思变	qzsb
 起早贪黑	qzth
 确凿无疑	qzwy

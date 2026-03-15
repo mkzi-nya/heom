@@ -1393,6 +1393,7 @@ bbs	鬓
 bbsc	鬢
 bbsc	驞
 bbsc	鬂
+bbsi	濒死
 bbss	髩
 bbth	棒棒糖
 bbtt	蹦蹦跳跳
@@ -5991,6 +5992,7 @@ bybj	不一般
 bybr	不依不饶
 bybu	暴饮暴食
 bybu	百依百顺
+byby	不孕不育
 byc	贬义词
 byci	褒义词
 byd	不一定
@@ -15960,6 +15962,7 @@ fugd	覆盖
 fugd	垺
 fugd	䞯
 fugd	𡏪
+fuge	赋格
 fuge	㙏
 fuge	𧼱
 fugf	䞜
@@ -28767,6 +28770,7 @@ iiwq	㽚
 iiwu	迟误
 iiww	颤颤巍巍
 iixb	痴心
+iixi	吃席
 iixn	耻笑
 iixp	吃些
 iixu	持续
@@ -193456,6 +193460,7 @@ qzgy	青藏高原
 qzim	亲自出马
 qzmh	起早摸黑
 qznf	千载难逢
+qzq	前奏曲
 qzsb	穷则思变
 qzth	起早贪黑
 qzwy	确凿无疑
