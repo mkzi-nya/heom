@@ -3647,6 +3647,7 @@ _	;b
 不可名状	bkmv
 并没	bkmw
 靐	bkmw
+并没有	bkmy
 饼	bkn
 𫚎	bkna
 不可能吧	bknb
@@ -6542,6 +6543,7 @@ Caonima～(∠・ω< )⌒☆	caon
 测出	ceiu
 测距	ceju
 测控	ceks
+侧栏	celj
 测量	cell
 侧脸	celm
 策略	celt
@@ -193501,6 +193503,7 @@ $cmd{你是怎么加入此群的？\r\n□ 朋友推荐\r\n□ 从网上获知\r
 遁	qyyu
 群友	qyyz
 裙子	qyzi
+群组	qyzu
 亲自	qz
 签字笔	qzbi
 千姿百态	qzbt
@@ -196436,6 +196439,8 @@ rime	rime
 什么东东	smdd
 什么东西	smdx
 死马当活马医	smdy
+死梅花	smh
+=ᗜ ‸ ᗜ=	smh
 四面楚歌	smig
 四目交投	smjt
 索马里	smli

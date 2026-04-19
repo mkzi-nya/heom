@@ -3586,6 +3586,7 @@ _	;b
 不可名状	bkmv
 并没	bkmw
 靐	bkmw
+并没有	bkmy
 饼	bkn
 𫚎	bkna
 不可能吧	bknb
@@ -6444,6 +6445,7 @@ _	;b
 测出	ceiu
 测距	ceju
 测控	ceks
+侧栏	celj
 测量	cell
 侧脸	celm
 策略	celt
@@ -192905,6 +192907,7 @@ PPT	ppt
 遁	qyyu
 群友	qyyz
 裙子	qyzi
+群组	qyzu
 亲自	qz
 签字笔	qzbi
 千姿百态	qzbt

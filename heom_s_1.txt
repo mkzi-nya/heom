@@ -3586,6 +3586,7 @@ bkmo	病魔
 bkmv	不可名状
 bkmw	并没
 bkmw	靐
+bkmy	并没有
 bkn	饼
 bkna	𫚎
 bknb	不可能吧
@@ -6444,6 +6445,7 @@ cein	廁
 ceiu	测出
 ceju	测距
 ceks	测控
+celj	侧栏
 cell	测量
 celm	侧脸
 celt	策略
@@ -192905,6 +192907,7 @@ qyyu	其言也善
 qyyu	遁
 qyyz	群友
 qyzi	裙子
+qyzu	群组
 qz	亲自
 qzbi	签字笔
 qzbt	千姿百态
