@@ -1,0 +1,3 @@
+$cmd(set(base-ime-active=1),[鹤仓])	urf
+$cmd(set(base-ime-active=2),[倉])	urf
+$cmd(set(base-ime-active=5),[日仓])	urf

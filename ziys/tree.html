@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>码表树状图</title>
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<style>
+:root{
+  --bg:#121212; --fg:#e0e0e0; --accent:#4caf50;
+}
+html,body{
+  margin:0;padding:0;width:100%;height:100%;
+  background:var(--bg);color:var(--fg);
+  font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  overflow:hidden;
+}
+#query{
+  position:fixed;top:0;left:0;width:100%;z-index:10;
+  padding:12px 16px;font-size:1.1rem;
+  background:#1e1e1e;border:none;outline:none;color:var(--fg);
+}
+#tree-container{
+  position:absolute;top:56px;left:0;right:0;bottom:0;
+  touch-action:pan-x pan-y;cursor:grab;
+}
+.node circle{fill:var(--accent);}/* 圆点颜色 */
+.node text{fill:var(--fg);font-size:.85rem;user-select:none;}
+.link{fill:none;stroke:var(--fg);stroke-width:1px;opacity:.6;}
+@font-face {
+  font-family: 'PlangothicP1';
+  src: url('../Plangothic-Web-V2.9.5779/PlangothicP1-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PlangothicP2';
+  src: url('../Plangothic-Web-V2.9.5779/PlangothicP2-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+html, body {
+  font-family: 'PlangothicP1', 'PlangothicP2', sans-serif;
+}
+
+</style>
+</head>
+
+<body>
+<input id="query" placeholder="输入编码或字符…" autocomplete="off">
+<div id="tree-container"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script>
+(async ()=>{
+  /* ---------- 1. 载入码表 ---------- */
+  const resp = await fetch('./heom.txt')
+        .catch(()=>alert('无法加载 heom.txt'));
+  if(!resp || !resp.ok) return;
+  const txt = await resp.text();
+
+  /* ---------- 2. 双向索引 ---------- */
+  const code2chars = new Map(), char2codes = new Map();
+  txt.split(/[\r\n]+/).forEach(l=>{
+    const [ch,code] = l.trim().split(/\s+/);
+    if(!ch||!code) return;
+    (code2chars.get(code)||code2chars.set(code,new Set()).get(code)).add(ch);
+    (char2codes.get(ch)||char2codes.set(ch,new Set()).get(ch)).add(code);
+  });
+
+  /* ---------- 3. 画布与缩放 ---------- */
+  const container = document.getElementById('tree-container');
+  const svg = d3.select(container).append('svg')
+        .attr('width','100%').attr('height','100%');
+  const g = svg.append('g');
+const zoom = d3.zoom()
+    .scaleExtent([0.25, 8])
+    .wheelDelta(e => -1.7 * e.deltaY) // 将缩放速度提高到 1.5 倍
+    .on('zoom', e => g.attr('transform', e.transform));
+  svg.call(zoom);
+  const center = ()=>{const r=container.getBoundingClientRect();
+                      svg.call(zoom.transform,d3.zoomIdentity.translate(r.width/2,40));};
+  window.addEventListener('resize',center); center();
+
+  /* ---------- 4. 输入处理 ---------- */
+  const q = document.getElementById('query');
+  let timer=null;
+  q.addEventListener('input',()=>{
+    clearTimeout(timer);
+    timer=setTimeout(()=>render(q.value.trim()),150);
+  });
+
+  /* ---------- 5. 渲染 ---------- */
+function render(raw) {
+  g.selectAll('*').remove();
+  if (!raw) return;
+
+  const showMessage = (msg) => {
+    g.append('text')
+      .attr('x', 20)
+      .attr('y', 40)
+      .attr('fill', '#ff5555')
+      .attr('font-size', '1.1rem')
+      .text(msg);
+  };
+
+  // 拆分输入为多个部分（编码或字符）
+  const parts = raw.split(',').map(s => s.trim()).filter(Boolean);
+  if (parts.length === 0) {
+    showMessage(`未找到「${raw}」`);
+    return;
+  }
+
+  const codes = new Set();
+
+  for (const part of parts) {
+    const isCode = /^[a-zA-Z\*]+$/.test(part);
+    if (isCode) {
+      const matched = matchCodes(part.toLowerCase());
+      if (matched.length === 0) {
+        // 检查是否是现有编码的前缀
+        let hasChild = false;
+        for (const c of code2chars.keys()) {
+          if (c.startsWith(part.toLowerCase())) {
+            hasChild = true;
+            break;
+          }
+        }
+        if (!hasChild) {
+          showMessage(`未找到「${part}」`);
+          return;
+        }
+      }
+      matched.forEach(c => codes.add(c));
+    } else {
+      if (char2codes.has(part)) {
+        char2codes.get(part).forEach(c => codes.add(c));
+      } else {
+        showMessage(`未找到「${part}」`);
+        return;
+      }
+    }
+  }
+
+  if (codes.size === 0) {
+    showMessage(`未找到「${raw}」`);
+    return;
+  }
+
+  // 构建树结构
+  const { root, nodeMap } = buildTreeData([...codes]);
+  const hierarchy = d3.hierarchy(root);
+
+  computeStats(hierarchy);
+  collapseByDefault(hierarchy);
+
+  // 始终统一由 expandPath 执行展开逻辑
+  expandPath(hierarchy, raw);
+
+  const layout = d3.tree().nodeSize([30, 80]);
+  update(hierarchy);
+  center();
+
+  function update(source) {
+    layout(hierarchy);
+
+    const link = g.selectAll('path.link')
+      .data(hierarchy.links(), d => d.target.id || (d.target.id = Math.random()));
+    link.join(
+      enter => enter.append('path').attr('class', 'link')
+        .attr('d', d3.linkHorizontal().x(d => d.y).y(d => d.x)),
+      update => update.transition().duration(160)
+        .attr('d', d3.linkHorizontal().x(d => d.y).y(d => d.x)),
+      exit => exit.remove()
+    );
+
+    const node = g.selectAll('g.node')
+      .data(hierarchy.descendants(), d => d.id || (d.id = Math.random()));
+    const nodeEnter = node.enter().append('g').attr('class', 'node')
+      .attr('transform', d => `translate(${d.y},${d.x})`)
+      .on('click', (e, d) => { toggle(d); update(d); e.stopPropagation(); });
+
+    nodeEnter.append('circle').attr('r', 4);
+    nodeEnter.append('text')
+      .attr('dy', '.32em')
+      .attr('x', d => d.children ? -8 : 8)
+      .attr('text-anchor', d => d.children ? 'end' : 'start')
+      .text(label);
+
+    node.merge(nodeEnter).transition().duration(160)
+      .attr('transform', d => `translate(${d.y},${d.x})`)
+      .select('text')
+      .attr('x', d => d.children ? -8 : 8)
+      .attr('text-anchor', d => d.children ? 'end' : 'start')
+      .text(label);
+
+    node.exit().remove();
+  }
+
+  function label(d) {
+    let t = d.data.name;
+    if (d._children) {
+      const arr = [];
+      if (d.data.descCount) arr.push(d.data.descCount);
+      if (d.data.codeTotal) arr.push(d.data.codeTotal);
+      if (arr.length) t += ` (${arr.join(',')})`;
+    }
+    return t;
+  }
+
+  function toggle(d) {
+    if (d.children) {
+      d._children = d.children;
+      d.children = null;
+    } else {
+      d.children = d._children;
+      d._children = null;
+    }
+  }
+}
+
+
+  /* ---------- 6. 匹配编码 ---------- */
+  function matchCodes(pat){
+    const star = pat.endsWith('**')?2:pat.endsWith('*')?1:0;
+    const base = star?pat.slice(0,-star):pat;
+    const res=[];
+    for(const c of code2chars.keys()){
+      if(!c.startsWith(base)) continue;
+      if(!star) res.push(c);
+      else if(star===1 && c.length===base.length+1) res.push(c);
+      else if(star===2 && c.length===base.length+2) res.push(c);
+    }
+    return res;
+  }
+
+  /* ---------- 7. 构建含前缀字符的树 ---------- */
+  function buildTreeData(codes){
+    const root={name:'',children:[],type:'root',_charSet:new Set()};
+    const nodeMap=new Map(); nodeMap.set('',root);
+
+    function ensureLetterNode(parent,letter,prefix){
+      let child=parent.children.find(n=>n.type==='letter' && n.name===letter);
+      if(!child){
+        child={name:letter,children:[],type:'letter',_charSet:new Set()};
+        parent.children.push(child);
+      }
+      nodeMap.set(prefix,child);
+      return child;
+    }
+
+    /* 7.1 建立字母节点 */
+    codes.forEach(code=>{
+      let cur=root,pre='';
+      for(const l of code){
+        pre+=l;
+        cur=ensureLetterNode(cur,l,pre);
+      }
+    });
+
+    /* 7.2 挂载字符节点（对应完整编码） */
+    for(const [code,charSet] of code2chars){
+      const node=nodeMap.get(code);
+      if(!node) continue;
+      for(const ch of charSet){
+        if(node._charSet.has(ch)) continue;
+        node._charSet.add(ch);
+        node.children.push({name:ch,type:'char'});
+      }
+    }
+    return {root,nodeMap};
+  }
+
+  /* ---------- 8. 统计后代节点与编码数量 ---------- */
+function computeStats(h){
+  const node = h;
+  let codesSelf = 0;
+
+  // 当前节点是否为 char，决定是否统计为 char 数量
+  if(node.data.type === 'char'){
+    codesSelf = 1;
+  } else {
+    codesSelf = 0;
+  }
+
+  let desc = 0, total = codesSelf;
+
+  (node.children || []).forEach(child => {
+    computeStats(child);
+    desc += child.data.descCount + 1; // +1 是因为 child 本身是一个子节点
+    total += child.data.codeTotal;    // 累加子树中的 char 数量
+  });
+
+  node.data.descCount = desc;
+  node.data.codeTotal = total;
+}
+
+
+  /* ---------- 9. 折叠策略 ---------- */
+  function collapseByDefault(node){
+    if(node.depth && node.data.codeTotal>1){
+      if(node.children){
+        node._children=node.children;
+        node.children=null;
+      }
+    }
+    (node.children||node._children||[]).forEach(collapseByDefault);
+  }
+
+  /* ---------- 10. 展开至指定编码 ---------- */
+function expandPath(rootHierarchy, raw) {
+  const parts = raw.split(',').map(s => s.trim()).filter(Boolean); // 拆分多个编码或字符
+  const codesToExpand = new Set();
+
+  for (const part of parts) {
+    const isCode = /^[a-zA-Z\*]+$/.test(part);
+    if (isCode) {
+      codesToExpand.add(part.toLowerCase());
+    } else {
+      if (char2codes.has(part)) {
+        char2codes.get(part).forEach(c => codesToExpand.add(c));
+      }
+    }
+  }
+
+  for (const code of codesToExpand) {
+    let cur = rootHierarchy;
+    for (let i = 0; i < code.length; i++) {
+      const l = code[i];
+      const children = cur.children || cur._children || [];
+      const next = children.find(n => n.data.name === l && n.data.type === 'letter');
+      if (!next) break;
+
+      // 展开当前节点
+      if (!cur.children) {
+        cur.children = cur._children;
+        cur._children = null;
+      }
+
+      // 最后一个字母：也展开它的 children（显示字符）
+      if (i === code.length - 1) {
+        if (!next.children) {
+          next.children = next._children;
+          next._children = null;
+        }
+      }
+
+      cur = next;
+    }
+  }
+}
+
+})();
+</script>
+</body>
+</html>
