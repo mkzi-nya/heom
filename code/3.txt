@@ -1594,6 +1594,7 @@
 襆	fuly
 襥	fulz
 𮔅	fuoa
+𦺉	fuig
 𠓗	funa
 𤙤	fudf
 𥰛	fudg
@@ -2245,7 +2246,7 @@
 𨼬	xpna
 𨲋	bisk
 𩭧	bisp
-𣀣	fuig
+𣀣	fuih
 韉	jmfb
 鶼	jmfc
 蠒	jmmx
@@ -2414,11 +2415,11 @@
 𩷸	fhna
 麬	fudp
 𪂋	fubp
-蛗	fuih
-𠪻	fuij
-𥲛	fuim
-𧒂	fuiq
-𧒙	fuir
+蛗	fuij
+𠪻	fuim
+𥲛	fuiq
+𧒂	fuir
+𧒙	fuiv
 鳬	funp
 𤭟	funq
 𦨡	funr

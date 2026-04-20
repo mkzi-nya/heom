@@ -40387,7 +40387,6 @@ IP地址	ipdv
 访	fhi
 飞	fwn
 非	fwl
-夫	fuq
 犯	fjk
 疯	fgk
 丰	fgq
@@ -40400,6 +40399,7 @@ IP地址	ipdv
 付	fuo
 罚	faw
 扶	fuq
+夫	fuq
 封	fgg
 纺	fhv
 泛	fje
@@ -52531,3 +52531,8 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 群组	qyzu
 侧栏	celj
 并没有	bkmy
+我去	wq
+早说	zcuo
+还挺	hdtk
+脆皮	cvpi
+扶梯	futi
