@@ -5326,7 +5326,6 @@ _	;b
 惚	bupp
 不配	bupw
 捕	buq
-补全	buq
 抪	buqb
 㨐	buqd
 擈	buqd
@@ -5337,6 +5336,7 @@ _	;b
 不巧	buqn
 不求	buqq
 不全	buqr
+补全	buqr
 𱋝	buqr
 不缺	buqt
 不去	buqu
@@ -5819,6 +5819,7 @@ _	;b
 紴	bwve
 卑职	bwvi
 北站	bwvj
+备战	bwvj
 綼	bwvj
 絥	bwvk
 悲壮	bwvl
@@ -50517,6 +50518,7 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 年复一年	nfyn
 能	ng
 𨶙	ngap
+能把	ngba
 年过半百	ngbb
 能动	ngds
 年高德劭	ngdu
@@ -194118,6 +194120,7 @@ PPT	ppt
 臑	rubb
 乳白	rubd
 人善被人欺	rubq
+人事不知	rubv
 肗	rubv
 鑐	rucb
 入室操戈	rucg
@@ -196088,6 +196091,7 @@ PPT	ppt
 算是	srui
 算式	srui
 酸爽	srul
+虽然说	sruo
 算数	sruu
 算账	srvh
 酸味	srww
@@ -204798,6 +204802,7 @@ PPT	ppt
 双刃剑	urjm
 水乳交融	urjr
 世人皆知	urjv
+输入框	urk
 视如寇仇	urki
 生日快乐	urkl
 闩	urlm
@@ -230915,7 +230920,7 @@ windows	wind
 怎么就	zmjq
 怎么看	zmkj
 怎么可能	zmkn
-怎么了	zmle
+怎么了	zml
 祖母绿	zmlv
 怎么能	zmng
 怎么你了	zmnl
@@ -232016,6 +232021,7 @@ windows	wind
 尊称	zyig
 𬤢	zyii
 尊崇	zyis
+最优解	zyj
 鶎	zyjf
 遵纪	zyji
 尊敬	zyjk

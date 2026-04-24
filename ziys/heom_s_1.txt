@@ -5393,7 +5393,6 @@ bupn	补票
 bupp	惚
 bupw	不配
 buq	捕
-buq	补全
 buqb	抪
 buqd	㨐
 buqd	擈
@@ -5404,6 +5403,7 @@ buql	步枪
 buqn	不巧
 buqq	不求
 buqr	不全
+buqr	补全
 buqr	𱋝
 buqt	不缺
 buqu	不去
@@ -5890,6 +5890,7 @@ bwve	背着
 bwve	紴
 bwvi	卑职
 bwvj	北站
+bwvj	备战
 bwvj	綼
 bwvk	絥
 bwvl	悲壮
@@ -50997,6 +50998,7 @@ nfyj	齳
 nfyn	年复一年
 ng	能
 ngap	𨶙
+ngba	能把
 ngbb	年过半百
 ngds	能动
 ngdu	年高德劭
@@ -194748,6 +194750,7 @@ rub	乳
 rubb	臑
 rubd	乳白
 rubq	人善被人欺
+rubv	人事不知
 rubv	肗
 rucb	鑐
 rucg	入室操戈
@@ -196760,6 +196763,7 @@ srua	算啥
 srui	算是
 srui	算式
 srul	酸爽
+sruo	虽然说
 sruu	算数
 srvh	算账
 srww	酸味
@@ -205544,6 +205548,7 @@ urji	视如己出
 urjm	双刃剑
 urjr	水乳交融
 urjv	世人皆知
+urk	输入框
 urki	视如寇仇
 urkl	生日快乐
 urlm	闩
@@ -231802,7 +231807,7 @@ zmjq	怎么就
 zmkj	怎么看
 zmkn	怎么可能
 zmkn	怎…怎么可能嘛（委屈极了，可爱的小眼睛里充满了泪花）人家就是要饭见（小粉拳紧紧捏着裙角，小脚丫轻轻的跺了下地板）不喜欢人家的都是小笨蛋（第一次骂人所以害怕的哭了出来，两个小粉拳揉着眼角，还打了个奶嗝）
-zmle	怎么了
+zml	怎么了
 zmlv	祖母绿
 zmng	怎么能
 zmnl	怎么你了
@@ -232920,6 +232925,7 @@ zyhx	自由化
 zyig	尊称
 zyii	𬤢
 zyis	尊崇
+zyj	最优解
 zyjf	鶎
 zyji	遵纪
 zyjk	尊敬
