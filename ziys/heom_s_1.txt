@@ -11193,6 +11193,7 @@ dnlt	大难临头
 dnlu	对你来说
 dnlw	掉泪
 dnmb	刁民
+dnmc	掉毛
 dnmf	调门
 dnmf	殦
 dnmg	𣩰
@@ -30297,6 +30298,7 @@ iutz	锄头
 iuuf	出身
 iuug	出生
 iuug	畜生
+iuui	初始
 iuui	厨师
 iuuj	出山
 iuul	䢺
@@ -51778,6 +51780,7 @@ nmqp	捻
 nmqq	辇
 nmqr	拈
 nmrb	躎
+nmrf	黏人
 nmrf	蹨
 nmrh	跈
 nmrj	𨇍
@@ -215400,6 +215403,7 @@ wwxp	猥亵
 wwxq	维修
 wwxs	为兄
 wwxx	歪歪斜斜
+wwxy	微醺
 wwy	违
 wwya	威压
 wwyb	謂
@@ -222523,6 +222527,7 @@ ybzw	淫贼
 ybzx	一不做，二不休
 ybzy	有鼻子有眼
 yc	要
+yc	一次
 ycaa	㿢
 ycag	曜
 ycai	要隘
@@ -231809,6 +231814,7 @@ zmkn	怎么可能
 zmkn	怎…怎么可能嘛（委屈极了，可爱的小眼睛里充满了泪花）人家就是要饭见（小粉拳紧紧捏着裙角，小脚丫轻轻的跺了下地板）不喜欢人家的都是小笨蛋（第一次骂人所以害怕的哭了出来，两个小粉拳揉着眼角，还打了个奶嗝）
 zml	怎么了
 zmlv	祖母绿
+zmna	怎么呐
 zmng	怎么能
 zmnl	怎么你了
 zmq	奏鸣曲

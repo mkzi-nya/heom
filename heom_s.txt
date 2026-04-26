@@ -11047,6 +11047,7 @@ _	;b
 对你来说	dnlu
 掉泪	dnlw
 刁民	dnmb
+掉毛	dnmc
 调门	dnmf
 殦	dnmf
 𣩰	dnmg
@@ -29968,6 +29969,7 @@ IP地址	ipdv
 出身	iuuf
 出生	iuug
 畜生	iuug
+初始	iuui
 厨师	iuui
 出山	iuuj
 䢺	iuul
@@ -51295,6 +51297,7 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 辇	nmqq
 拈	nmqr
 躎	nmrb
+黏人	nmrf
 蹨	nmrf
 跈	nmrh
 𨇍	nmrj
@@ -214597,6 +214600,7 @@ windows	wind
 维修	wwxq
 为兄	wwxs
 歪歪斜斜	wwxx
+微醺	wwxy
 违	wwy
 威压	wwya
 謂	wwyb
@@ -221679,6 +221683,7 @@ windows	wind
 一不做，二不休	ybzx
 有鼻子有眼	ybzy
 要	yc
+一次	yc
 㿢	ycaa
 曜	ycag
 要隘	ycai
@@ -230922,6 +230927,7 @@ windows	wind
 怎么可能	zmkn
 怎么了	zml
 祖母绿	zmlv
+怎么呐	zmna
 怎么能	zmng
 怎么你了	zmnl
 奏鸣曲	zmq
