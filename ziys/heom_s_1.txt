@@ -44670,6 +44670,7 @@ lqks	留空
 lqkw	癅
 lqkz	流寇
 lql	榴莲
+lqle	溜了
 lqlh	流浪
 lqlh	䰘
 lqlh	蟉
