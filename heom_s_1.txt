@@ -23398,7 +23398,7 @@ hmxm	很明显
 hmyj	鸿门宴
 hmyt	黄毛丫头
 hmyx	回眸一笑
-hn	湖南
+hn	还能
 hnbi	海纳百川
 hncj	海内存知己
 hndc	海南岛
@@ -36724,6 +36724,7 @@ jx	佳
 jxao	夹袄
 jxb	胛
 jxbb	嘉宾
+jxbc	家暴
 jxbc	𥋣
 jxbe	睱
 jxbe	腵
@@ -50795,6 +50796,7 @@ niqp	抳
 niqq	泥鳅
 niqu	掜
 nirc	𠽬
+nirf	拟人
 nirf	𨀀
 nirp	呢
 nirp	跜
@@ -187949,6 +187951,7 @@ povd	㛘
 povf	𦃡
 povj	破绽
 powf	𦍁
+powh	破妄
 poww	颇为
 poww	破位
 poxi	婆媳
@@ -194636,6 +194639,7 @@ rzwx	人在屋檐下
 rzxk	柔性
 rzxm	肉馅
 rzyj	肉眼
+rzyj	肉燕
 rzyu	肉欲
 rzyz	荣宗耀祖
 rzzb	⺼
@@ -208417,6 +208421,7 @@ vijo	疐
 vijo	䡹
 vijo	𨆧
 vijo	𨎉
+vijp	肢解
 vijp	嗭
 vijq	𨎉
 vijt	直觉
@@ -209025,11 +209030,11 @@ vjci	𧮺
 vjcm	𨭖
 vjcr	鉆
 vjcv	𨫀
+vjd	栈
 vjda	㮵
 vjdc	栈道
 vjdi	占地
 vjdi	棧
-vjdj	栈
 vjdj	椫
 vjdj	樿
 vjdm	站点
@@ -212090,6 +212095,7 @@ wfl	闻
 wfl	蚊
 wfld	文莱
 wfle	阌
+wfle	问了
 wfli	纹理
 wflj	违法乱纪
 wfll	威风凛凛
@@ -228155,6 +228161,7 @@ yuwi	一事无成
 yuwi	罻
 yuwi	𪑆
 yuwj	圉
+yuwj	鱼丸
 yuwk	有恃无恐
 yuwl	一时无两
 yuwl	𨜖

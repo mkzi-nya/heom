@@ -41395,7 +41395,7 @@ IP地址	ipdv
 痪	hrk
 堕	hvng
 鲩	hrnu
-湖南	hn
+还能	hn
 好处	hi
 后面	hm
 回去	hq
@@ -45996,7 +45996,7 @@ IP地址	ipdv
 爪	vxh
 毡	vjh
 茁	vot
-栈	vjdj
+栈	vjd
 栅	vadm
 芷	vitm
 锥	vvo
@@ -52549,6 +52549,13 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 黏人	nmrf
 一次	yc
 溜了	lqle
+破妄	powh
+肢解	vijp
+拟人	nirf
+问了	wfle
+家暴	jxbc
+肉燕	rzyj
+鱼丸	yuwj
 㕶	ngrm
 㕶	nnrm
 礼	limu

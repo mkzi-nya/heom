@@ -23398,7 +23398,7 @@ GDP	gdp
 鸿门宴	hmyj
 黄毛丫头	hmyt
 回眸一笑	hmyx
-湖南	hn
+还能	hn
 海纳百川	hnbi
 海内存知己	hncj
 海南岛	hndc
@@ -36724,6 +36724,7 @@ IP地址	ipdv
 夹袄	jxao
 胛	jxb
 嘉宾	jxbb
+家暴	jxbc
 𥋣	jxbc
 睱	jxbe
 腵	jxbe
@@ -50795,6 +50796,7 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 泥鳅	niqq
 掜	niqu
 𠽬	nirc
+拟人	nirf
 𨀀	nirf
 呢	nirp
 跜	nirp
@@ -187949,6 +187951,7 @@ $	otm
 𦃡	povf
 破绽	povj
 𦍁	powf
+破妄	powh
 颇为	poww
 破位	poww
 婆媳	poxi
@@ -194636,6 +194639,7 @@ PPT	ppt
 柔性	rzxk
 肉馅	rzxm
 肉眼	rzyj
+肉燕	rzyj
 肉欲	rzyu
 荣宗耀祖	rzyz
 ⺼	rzzb
@@ -208417,6 +208421,7 @@ PPT	ppt
 䡹	vijo
 𨆧	vijo
 𨎉	vijo
+肢解	vijp
 嗭	vijp
 𨎉	vijq
 直觉	vijt
@@ -209025,11 +209030,11 @@ PPT	ppt
 𨭖	vjcm
 鉆	vjcr
 𨫀	vjcv
+栈	vjd
 㮵	vjda
 栈道	vjdc
 占地	vjdi
 棧	vjdi
-栈	vjdj
 椫	vjdj
 樿	vjdj
 站点	vjdm
@@ -212090,6 +212095,7 @@ PPT	ppt
 蚊	wfl
 文莱	wfld
 阌	wfle
+问了	wfle
 纹理	wfli
 违法乱纪	wflj
 威风凛凛	wfll
@@ -228155,6 +228161,7 @@ windows	wind
 罻	yuwi
 𪑆	yuwi
 圉	yuwj
+鱼丸	yuwj
 有恃无恐	yuwk
 一时无两	yuwl
 𨜖	yuwl
