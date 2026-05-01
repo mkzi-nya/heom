@@ -43807,7 +43807,6 @@ IP地址	ipdv
 镎	naoq
 肭	nab
 艿	ndts
-蛲	ncl
 陧	npng
 衄	nvh
 锘	noo
@@ -43843,6 +43842,7 @@ IP地址	ipdv
 恁	nbo
 暖	nra
 闹	ncl
+蛲	ncl
 弄	nsm
 鸟	nnp
 挪	noq
@@ -52556,3 +52556,5 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 家暴	jxbc
 肉燕	rzyj
 鱼丸	yuwj
+志愿	viyr
+吃瓜	iigx

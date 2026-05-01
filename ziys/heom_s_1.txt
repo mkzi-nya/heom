@@ -28486,6 +28486,7 @@ iigt	𧺧
 iigt	𧺿
 iigu	持股
 iigu	䞾
+iigx	吃瓜
 iih	斥
 iih	鸱
 iiha	䰡
@@ -50759,8 +50760,8 @@ ncku	峱
 ncku	𤞍
 nckw	㺁
 nckw	𤷻
-ncl	蛲
 ncl	闹
+ncl	蛲
 nclb	鬧
 ncle	弄错了
 ncli	脑力
@@ -209527,14 +209528,14 @@ virf	𨂂
 virg	咥
 virg	㗌
 virg	㗧
-virh	𠮡
+virh	𨕕
 viri	之日
 viri	趵
 viri	跱
 viri	䟡
 viri	𨃯
-virj	𨁷
-virk	𡂒
+virj	𠮡
+virk	𨁷
 virl	㘉
 virl	躑
 virl	𡁉
@@ -209543,6 +209544,7 @@ virm	趵
 virm	䟡
 virm	𠮡
 virm	𨁷
+virn	𡂒
 viro	踬
 viro	踶
 viro	𫪪
@@ -209755,6 +209757,7 @@ viyp	誌
 viyq	遲
 viyr	支援
 viyr	职员
+viyr	志愿
 viyr	𨕕
 viys	只用
 viyt	制约

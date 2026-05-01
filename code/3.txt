@@ -971,6 +971,7 @@
 旘	viyx
 𨑨	viyy
 𤿙	vied
+𨕕	virh
 㮵	vjda
 𫘰	vjna
 𧒝	vjsa
@@ -1954,8 +1955,8 @@
 𫛠	vadk
 軽	vijd
 𡌴	vijl
-𠮡	virh
-𨁷	virj
+𠮡	virj
+𨁷	virk
 酈	vimw
 𣨋	vimx
 𫟞	viiw
@@ -3119,7 +3120,7 @@
 𱉛	vios
 鼅	viot
 𱌄	viox
-𡂒	virk
+𡂒	virn
 𩯈	visb
 𬺁	viav
 氊	vjha

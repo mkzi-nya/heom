@@ -1141,6 +1141,7 @@ viqm	4
 viti	4
 vivo	4
 viye	4
+viyr	4
 vjdm	4
 vjnm	4
 vjui	4

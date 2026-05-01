@@ -28158,6 +28158,7 @@ GDP	gdp
 𧺿	iigt
 持股	iigu
 䞾	iigu
+吃瓜	iigx
 斥	iih
 鸱	iih
 䰡	iiha
@@ -50282,8 +50283,8 @@ n-buna	nbna
 𤞍	ncku
 㺁	nckw
 𤷻	nckw
-蛲	ncl
 闹	ncl
+蛲	ncl
 鬧	nclb
 弄错了	ncle
 脑力	ncli
@@ -208752,14 +208753,14 @@ PPT	ppt
 咥	virg
 㗌	virg
 㗧	virg
-𠮡	virh
+𨕕	virh
 之日	viri
 趵	viri
 跱	viri
 䟡	viri
 𨃯	viri
-𨁷	virj
-𡂒	virk
+𠮡	virj
+𨁷	virk
 㘉	virl
 躑	virl
 𡁉	virl
@@ -208768,6 +208769,7 @@ PPT	ppt
 䟡	virm
 𠮡	virm
 𨁷	virm
+𡂒	virn
 踬	viro
 踶	viro
 𫪪	viro
@@ -208980,6 +208982,7 @@ PPT	ppt
 遲	viyq
 支援	viyr
 职员	viyr
+志愿	viyr
 𨕕	viyr
 只用	viys
 制约	viyt
