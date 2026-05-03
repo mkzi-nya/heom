@@ -26017,7 +26017,7 @@ GDP	gdp
 𣝂	hydi
 混蛋	hydj
 楎	hydj
-很有道理	hydl
+好有道理	hydl
 𩏖	hydl
 㮯	hydo
 棍	hydp
@@ -196539,6 +196539,7 @@ PPT	ppt
 𧀌	suto
 愬	sutp
 𦎄	sutp
+速通	suts
 四世同堂	sutt
 莤	sutw
 俗世	suu
@@ -230575,6 +230576,7 @@ windows	wind
 自认	zirf
 嗞	ziri
 自然	zirj
+孜然	zirj
 自若	ziro
 𧿞	ziro
 𨀥	ziro

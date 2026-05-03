@@ -26017,7 +26017,7 @@ hydh	好勇斗狠
 hydi	𣝂
 hydj	混蛋
 hydj	楎
-hydl	很有道理
+hydl	好有道理
 hydl	𩏖
 hydo	㮯
 hydp	棍
@@ -196539,6 +196539,7 @@ suto	藗
 suto	𧀌
 sutp	愬
 sutp	𦎄
+suts	速通
 sutt	四世同堂
 sutw	莤
 suu	俗世
@@ -230575,6 +230576,7 @@ zird	吇
 zirf	自认
 ziri	嗞
 zirj	自然
+zirj	孜然
 ziro	自若
 ziro	𧿞
 ziro	𨀥
