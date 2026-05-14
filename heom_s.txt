@@ -13644,6 +13644,7 @@ _	;b
 二年级	enji
 奀	enmk
 𱴨	enmp
+嗯呐	enna
 𱄉	ennp
 𱃹	ennu
 𬲷	ennv
@@ -20788,6 +20789,7 @@ GDP	gdp
 𠃌	gymn
 䃂	gymp
 棍母	gymu
+滚木	gymu
 𥕦	gymv
 鲧	gyn
 鰥	gyne
@@ -26666,6 +26668,7 @@ GDP	gdp
 插嘴	iazv
 成本	ib
 除暴安良	ibal
+差别不大	ibbd
 吃不饱穿不暖	ibbn
 差不多了	ibdl
 差不多	ibdo
@@ -26865,6 +26868,7 @@ GDP	gdp
 𤰬	icwh
 出此下策	icxc
 抄袭	icxi
+潮汐	icxi
 吵醒	icxk
 朝向	icxl
 朝鲜	icxm
@@ -45877,6 +45881,7 @@ IP地址	ipdv
 论	ly
 乐业安居	lyaj
 另一半	lyb
+另一边	lyb
 腀	lybb
 力有不逮	lybd
 立于不败之地	lybd
@@ -63919,7 +63924,6 @@ $	ofhb
 檭	okdcav
 𭩺	okdcbm
 𧢔	okdcbuu
-𭴑	okdcc
 𰘌	okdcc
 𬂾	okdcd
 𣛞	okdce
@@ -72660,6 +72664,7 @@ $	ofhb
 𭦃	okfca
 脊	okfcb
 𮭉	okfcbhf
+𭴑	okfcc
 𫃘	okfcfq
 𡔇	okfcg
 𮰡	okfcg
@@ -186178,6 +186183,7 @@ $	otm
 跑腿	pctv
 𡾌	pcuf
 炮声	pcug
+抛尸	pcui
 抛售	pcuz
 跑着	pcve
 疱疹	pcvf
@@ -187458,6 +187464,7 @@ $	otm
 平卧	pkwo
 评委	pkww
 平息	pkxi
+评析	pkxi
 平行	pkxk
 贫困线	pkxm
 评选	pkxr
@@ -195252,6 +195259,7 @@ PPT	ppt
 死敌	sidi
 蜤	sidi
 杫	sidm
+死掉	sidn
 榹	sidn
 楒	sidp
 枱	sidr
@@ -206069,6 +206077,7 @@ PPT	ppt
 寿命	uzmk
 首末	uzmo
 守墓	uzmu
+首字母	uzmu
 𦣻	uzmu
 手拿	uzn
 收纳	uzna
@@ -212819,8 +212828,9 @@ windows	wind
 琓	wjmu
 𢀗	wjmu
 完美	wjmw
-鯇	wjna
+完呐	wjna
 𦙵	wjnb
+鯇	wjnc
 万能	wjng
 䖤	wjni
 万难	wjnj
@@ -214840,6 +214850,7 @@ windows	wind
 心肝	xbgj
 信不过	xbgo
 款	xbgo
+新冠	xbgr
 新股	xbgu
 𡌜	xbgu
 新贵	xbgv
@@ -216472,6 +216483,7 @@ windows	wind
 兴盛	xkug
 形式	xkui
 形势	xkui
+姓式	xkui
 行善	xkuj
 兴衰	xkuk
 𡶭	xkun
@@ -221134,6 +221146,7 @@ windows	wind
 ⺄	yazv
 因	yb
 一边	yb
+一半	yb
 闉	ybag
 阴暗	yban
 誾	ybar
@@ -229468,6 +229481,7 @@ windows	wind
 再	z
 子	z
 咋	za
+早安安	zaa
 臜	zab
 𦠛	zaba
 臢	zabc

@@ -13644,6 +13644,7 @@ eniz	恩仇
 enji	二年级
 enmk	奀
 enmp	𱴨
+enna	嗯呐
 ennp	𱄉
 ennu	𱃹
 ennv	𬲷
@@ -20788,6 +20789,7 @@ gymm	𡈧
 gymn	𠃌
 gymp	䃂
 gymu	棍母
+gymu	滚木
 gymv	𥕦
 gyn	鲧
 gyne	鰥
@@ -26666,6 +26668,7 @@ iazu	插足
 iazv	插嘴
 ib	成本
 ibal	除暴安良
+ibbd	差别不大
 ibbn	吃不饱穿不暖
 ibdl	差不多了
 ibdo	差不多
@@ -26865,6 +26868,7 @@ icwd	罺
 icwh	𤰬
 icxc	出此下策
 icxi	抄袭
+icxi	潮汐
 icxk	吵醒
 icxl	朝向
 icxm	朝鲜
@@ -45877,6 +45881,7 @@ lxzi	两下子
 ly	论
 lyaj	乐业安居
 lyb	另一半
+lyb	另一边
 lybb	腀
 lybd	力有不逮
 lybd	立于不败之地
@@ -63919,7 +63924,6 @@ okdcan	𬅎
 okdcav	檭
 okdcbm	𭩺
 okdcbuu	𧢔
-okdcc	𭴑
 okdcc	𰘌
 okdcd	𬂾
 okdce	𣛞
@@ -72660,6 +72664,7 @@ okfc	𬊝
 okfca	𭦃
 okfcb	脊
 okfcbhf	𮭉
+okfcc	𭴑
 okfcfq	𫃘
 okfcg	𡔇
 okfcg	𮰡
@@ -186178,6 +186183,7 @@ pctu	鞄
 pctv	跑腿
 pcuf	𡾌
 pcug	炮声
+pcui	抛尸
 pcuz	抛售
 pcve	跑着
 pcvf	疱疹
@@ -187458,6 +187464,7 @@ pkwf	平稳
 pkwo	平卧
 pkww	评委
 pkxi	平息
+pkxi	评析
 pkxk	平行
 pkxm	贫困线
 pkxr	评选
@@ -195252,6 +195259,7 @@ sidh	死党
 sidi	死敌
 sidi	蜤
 sidm	杫
+sidn	死掉
 sidn	榹
 sidp	楒
 sidr	枱
@@ -206069,6 +206077,7 @@ uzmi	璹
 uzmk	寿命
 uzmo	首末
 uzmu	守墓
+uzmu	首字母
 uzmu	𦣻
 uzn	手拿
 uzna	收纳
@@ -212819,8 +212828,9 @@ wjmu	䩊
 wjmu	琓
 wjmu	𢀗
 wjmw	完美
-wjna	鯇
+wjna	完呐
 wjnb	𦙵
+wjnc	鯇
 wjng	万能
 wjni	䖤
 wjnj	万难
@@ -214840,6 +214850,7 @@ xbge	新歌
 xbgj	心肝
 xbgo	信不过
 xbgo	款
+xbgr	新冠
 xbgu	新股
 xbgu	𡌜
 xbgv	新贵
@@ -216472,6 +216483,7 @@ xktz	行头
 xkug	兴盛
 xkui	形式
 xkui	形势
+xkui	姓式
 xkuj	行善
 xkuk	兴衰
 xkun	𡶭
@@ -221134,6 +221146,7 @@ yazo	雅座
 yazv	⺄
 yb	因
 yb	一边
+yb	一半
 ybag	闉
 yban	阴暗
 ybar	誾
@@ -229468,6 +229481,7 @@ z	在
 z	再
 z	子
 za	咋
+zaa	早安安
 zab	臜
 zaba	𦠛
 zabc	臢

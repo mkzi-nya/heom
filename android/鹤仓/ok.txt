@@ -10699,7 +10699,7 @@
 檭	okdcav
 𭩺	okdcbm
 𧢔	okdcbuu
-𭴑	okdcc
+𭴑	okfcc
 𰘌	okdcc
 𬂾	okdcd
 𣛞	okdce
