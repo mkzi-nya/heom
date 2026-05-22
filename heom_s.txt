@@ -53223,6 +53223,7 @@ $	ofhb
 也就	oj
 也就是	oju
 也就是	oju
+也快	ok
 日	oka
 曰	oka
 昌	okaa
@@ -194255,6 +194256,7 @@ PPT	ppt
 㨎	ruqk
 扖	ruqo
 弱势群体	ruqt
+入取	ruqu
 嚅	rur
 人山人海	rurh
 如诗如画	rurh
@@ -199172,6 +199174,7 @@ PPT	ppt
 捅娄子	tlzi
 天	tm
 舔	tm
+他妈	tm
 天啊	tmaa
 晪	tmac
 闐	tmac
@@ -199201,6 +199204,7 @@ PPT	ppt
 䥖	tmck
 鍩	tmcr
 鈿	tmcw
+他妈的	tmd
 天大	tmda
 天道	tmdc
 他妈的	tmde
@@ -206063,6 +206067,7 @@ PPT	ppt
 十字路口	uzlk
 受凉	uzll
 收敛	uzlm
+手链	uzlm
 狩猎	uzlp
 收留	uzlq
 收拢	uzls
@@ -212333,6 +212338,7 @@ PPT	ppt
 攚	wgqr
 嗡	wgr
 外国人	wgrf
+歪果仁	wgrf
 𠰈	wgri
 聬	wgsm
 𩮬	wgsm

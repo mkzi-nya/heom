@@ -53223,6 +53223,7 @@ oizi	🟪
 oj	也就
 oju	也就是
 oju	也就是
+ok	也快
 oka	日
 oka	曰
 okaa	昌
@@ -194255,6 +194256,7 @@ ruqi	如期
 ruqk	㨎
 ruqo	扖
 ruqt	弱势群体
+ruqu	入取
 rur	嚅
 rurh	人山人海
 rurh	如诗如画
@@ -199172,6 +199174,7 @@ tlxi	跳梁小丑
 tlzi	捅娄子
 tm	天
 tm	舔
+tm	他妈
 tmaa	天啊
 tmac	晪
 tmac	闐
@@ -199201,6 +199204,7 @@ tmci	天赐
 tmck	䥖
 tmcr	鍩
 tmcw	鈿
+tmd	他妈的
 tmda	天大
 tmdc	天道
 tmde	他妈的
@@ -206063,6 +206067,7 @@ uzlk	首领
 uzlk	十字路口
 uzll	受凉
 uzlm	收敛
+uzlm	手链
 uzlp	狩猎
 uzlq	收留
 uzls	收拢
@@ -212333,6 +212338,7 @@ wgqq	万古千秋
 wgqr	攚
 wgr	嗡
 wgrf	外国人
+wgrf	歪果仁
 wgri	𠰈
 wgsm	聬
 wgsm	𩮬
