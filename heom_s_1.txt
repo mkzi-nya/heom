@@ -30008,6 +30008,7 @@ iuwj	斣
 iuwm	𱊬
 iuwo	歜
 iuwu	储物
+iux	出息
 iuxb	初心
 iuxi	出席
 iuxi	除夕
@@ -48160,6 +48161,7 @@ mkdj	名单
 mkdl	椧
 mkdm	名店
 mkdr	明断
+mkds	没看懂
 mke	溟
 mked	梅开二度
 mkee	名额
@@ -51008,6 +51010,7 @@ njui	男士
 njuj	南山
 njul	男双
 njuo	难说
+njux	年久失修
 njuz	难受
 njv	婻
 njvc	难找
@@ -223118,6 +223121,7 @@ yhxi	异乎寻常
 yhxk	阳性
 yhxl	洋相
 yhxm	阳线
+yhxu	杨絮
 yhxv	鱼和熊掌
 yhye	𧫛
 yhye	𨖌
@@ -224387,6 +224391,7 @@ yiwu	䵝
 yiwv	运筹帷幄之中
 yiwv	畩
 yiww	以为
+yiww	运筹帷幄
 yiwx	𢈶
 yiwy	𢦕
 yiwz	𤬩
@@ -230951,6 +230956,7 @@ zmdu	怎么读
 zmdy	自鸣得意
 zmgd	怎么搞的
 zmgh	走马观花
+zmgj	怎么感觉
 zmhu	怎么回事
 zmhv	怎么会
 zmhy	怎么还有

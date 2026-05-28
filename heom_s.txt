@@ -30008,6 +30008,7 @@ IP地址	ipdv
 𱊬	iuwm
 歜	iuwo
 储物	iuwu
+出息	iux
 初心	iuxb
 出席	iuxi
 除夕	iuxi
@@ -48160,6 +48161,7 @@ IP地址	ipdv
 椧	mkdl
 名店	mkdm
 明断	mkdr
+没看懂	mkds
 溟	mke
 梅开二度	mked
 名额	mkee
@@ -51008,6 +51010,7 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 南山	njuj
 男双	njul
 难说	njuo
+年久失修	njux
 难受	njuz
 婻	njv
 难找	njvc
@@ -223118,6 +223121,7 @@ windows	wind
 阳性	yhxk
 洋相	yhxl
 阳线	yhxm
+杨絮	yhxu
 鱼和熊掌	yhxv
 𧫛	yhye
 𨖌	yhye
@@ -224387,6 +224391,7 @@ windows	wind
 运筹帷幄之中	yiwv
 畩	yiwv
 以为	yiww
+运筹帷幄	yiww
 𢈶	yiwx
 𢦕	yiwy
 𤬩	yiwz
@@ -230951,6 +230956,7 @@ windows	wind
 自鸣得意	zmdy
 怎么搞的	zmgd
 走马观花	zmgh
+怎么感觉	zmgj
 怎么回事	zmhu
 怎么会	zmhv
 怎么还有	zmhy
