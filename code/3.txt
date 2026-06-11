@@ -758,6 +758,7 @@
 𦭲	qitw
 𦫡	qity
 𰰴	qiuc
+𧰙	qiuh
 斉	qiyg
 𩹵	qiyh
 盀	qiym
@@ -2960,8 +2961,8 @@
 𦪊	qifr
 𨉸	qifs
 𩲪	qift
-𡹘	qiuh
-𥫟	qium
+𡹘	qium
+𥫟	qiun
 𢺷	qijk
 𤺗	qika
 𬨂	qikb

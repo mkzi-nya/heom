@@ -30,6 +30,7 @@ _	;b
 證	vgy
 鐘	vsc
 臨	lbs
+何尝	hei
 水群	uvqy
 积雪	jixt
 尸体	uit
@@ -11822,7 +11823,7 @@ _	;b
 唱独角戏	idjx
 拆机	idji
 拆建	idjm
-拆借	idjp
+拆解	idjp
 赤道几内亚	idjy
 拆开	idkd
 拆了	idle
@@ -48332,7 +48333,6 @@ GDP	gdp
 龟速	gvs
 浩瀚	hch
 何妨	hef
-何尝	hei
 皇权	hlq
 火势	hou
 活着	hov
@@ -52586,3 +52586,7 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 运筹帷幄	yiww
 杨絮	yhxu
 年久失修	njux
+岐视	qiui
+歌单	gedj
+一节课	yjk
+手序	uzxu

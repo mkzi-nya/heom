@@ -17468,6 +17468,7 @@ GDP	gdp
 𪄎	gedf
 咯噔	gedg
 各地	gedi
+歌单	gedj
 韚	gedj
 格调	gedn
 麧	gedn
@@ -21841,8 +21842,8 @@ GDP	gdp
 㹇	hehv
 㿣	hehv
 荷花	hehx
-诃	hei
 何尝	hei
+诃	hei
 喝茶	heia
 和差	heia
 𰵿	heib
@@ -26927,7 +26928,7 @@ GDP	gdp
 船到江心补漏迟	idji
 拆建	idjm
 㼮	idjn
-拆借	idjp
+拆解	idjp
 唱独角戏	idjx
 赤道几内亚	idjy
 瘥	idk
@@ -189631,16 +189632,18 @@ PPT	ppt
 起身	qiuf
 𡻰	qiuf
 齐声	qiug
-𡹘	qiuh
+𧰙	qiuh
 其实	qiui
 起誓	qiui
+岐视	qiui
 𧰙	qiui
 青城山	qiuj
 嵠	qiuk
 𧰙	qiuk
 轻车熟路	qiul
 岓	qiul
-𥫟	qium
+𡹘	qium
+𥫟	qiun
 㠌	qiuo
 𡷞	qiup
 𡹓	qiup
@@ -206199,6 +206202,7 @@ PPT	ppt
 首选	uzxr
 瘦削	uzxt
 手续	uzxu
+手序	uzxu
 收下	uzxx
 受训	uzxy
 熟	uzy
@@ -224896,6 +224900,7 @@ windows	wind
 盐焗	yjju
 㝚	yjjv
 严峻	yjjy
+一节课	yjk
 𤟟	yjka
 𤡥	yjkb
 𥜒	yjkc

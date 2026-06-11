@@ -17468,6 +17468,7 @@ gede	𪌣
 gedf	𪄎
 gedg	咯噔
 gedi	各地
+gedj	歌单
 gedj	韚
 gedn	格调
 gedn	麧
@@ -21841,8 +21842,8 @@ hehu	呵护
 hehv	㹇
 hehv	㿣
 hehx	荷花
-hei	诃
 hei	何尝
+hei	诃
 heia	喝茶
 heia	和差
 heib	𰵿
@@ -26927,7 +26928,7 @@ idji	拆机
 idji	船到江心补漏迟
 idjm	拆建
 idjn	㼮
-idjp	拆借
+idjp	拆解
 idjx	唱独角戏
 idjy	赤道几内亚
 idk	瘥
@@ -189631,16 +189632,18 @@ qiue	𡹉
 qiuf	起身
 qiuf	𡻰
 qiug	齐声
-qiuh	𡹘
+qiuh	𧰙
 qiui	其实
 qiui	起誓
+qiui	岐视
 qiui	𧰙
 qiuj	青城山
 qiuk	嵠
 qiuk	𧰙
 qiul	轻车熟路
 qiul	岓
-qium	𥫟
+qium	𡹘
+qiun	𥫟
 qiuo	㠌
 qiup	𡷞
 qiup	𡹓
@@ -206199,6 +206202,7 @@ uzxp	手写
 uzxr	首选
 uzxt	瘦削
 uzxu	手续
+uzxu	手序
 uzxx	收下
 uzxy	受训
 uzy	熟
@@ -224896,6 +224900,7 @@ yjjt	𥤴
 yjju	盐焗
 yjjv	㝚
 yjjy	严峻
+yjk	一节课
 yjka	𤟟
 yjkb	𤡥
 yjkc	𥜒
