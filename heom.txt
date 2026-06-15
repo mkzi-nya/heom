@@ -39659,8 +39659,8 @@ IP地址	ipdv
 才	c
 此	ciy
 从	cs
-次	ci
-此	ci
+词	ci
+辞	ci
 村	cy
 参	cj
 猜	cdk
@@ -39683,7 +39683,7 @@ IP地址	ipdv
 册	ceb
 操	ccq
 错	co
-词	cii
+瓷	cii
 餐	cjy
 辞	cih
 曹	cct
@@ -51395,7 +51395,7 @@ $	ofhb
 ₓ	ofxb
 安装	a
 比较	b
-词库	c
+次	c
 地	d
 复杂	fuza
 复	f
@@ -52595,6 +52595,8 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 又是	yu
 好大的	hdd
 嗯嗯	ee
+仓库	ck
+词库	ciku
 㕶	ngrm
 㕶	nnrm
 礼	limu

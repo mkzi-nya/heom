@@ -6124,7 +6124,7 @@ _	;b
 不自在	bzzd
 才	c
 此	c
-词库	c
+次	c
 ㄘ	c
 χ	c
 Χ	c
@@ -6786,8 +6786,8 @@ Caonima～(∠・ω< )⌒☆	caon
 存乎一心	chyx
 藏在	chzd
 此话怎讲	chzj
-次	ci
-此	ci
+词	ci
+辞	ci
 慈爱	ciai
 Ciallo～(∠・ω< )⌒☆	cial
 𝑪𝒊𝒂𝒍𝒍𝒐～(∠・ω< )⌒☆	cial
@@ -6859,7 +6859,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 𥴺	cihp
 词汇	cihv
 此后	cihz
-词	cii
+瓷	cii
 祠	cii
 粢	cii
 㢀	ciib
@@ -6896,6 +6896,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 㓨	cikn
 刾	cikn
 疵	cikp
+词库	ciku
 蠀	cilc
 辞了	cile
 磁力	cili
@@ -7292,6 +7293,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 参赞	cjzj
 促进作用	cjzy
 参考	ck
+仓库	ck
 摧枯拉朽	cklx
 才可能	ckng
 从来	cl

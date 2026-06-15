@@ -6044,7 +6044,7 @@ bzyu	不在于
 bzzd	不自在
 c	才
 c	此
-c	词库
+c	次
 ca	擦
 cabm	擦边
 cabw	擦背
@@ -6675,8 +6675,8 @@ chyv	沧海遗珠
 chyx	存乎一心
 chzd	藏在
 chzj	此话怎讲
-ci	次
-ci	此
+ci	词
+ci	辞
 ciai	慈爱
 cian	此岸
 cib	赐
@@ -6739,7 +6739,7 @@ cihp	𢓗
 cihp	𥴺
 cihv	词汇
 cihz	此后
-cii	词
+cii	瓷
 cii	祠
 cii	粢
 ciib	㢀
@@ -6776,6 +6776,7 @@ cike	刺客
 cikn	㓨
 cikn	刾
 cikp	疵
+ciku	词库
 cilc	蠀
 cile	辞了
 cili	磁力
@@ -7172,6 +7173,7 @@ cjzc	惨遭
 cjzj	参赞
 cjzy	促进作用
 ck	参考
+ck	仓库
 cklx	摧枯拉朽
 ckng	才可能
 cl	从来
