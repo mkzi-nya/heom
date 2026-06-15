@@ -21506,6 +21506,7 @@ GDP	gdp
 喝倒彩	hdcd
 𠔑	hdch
 好多次	hdci
+好大的	hdd
 横刀夺爱	hdda
 海盗	hddc
 海带	hddd
@@ -27649,6 +27650,7 @@ GDP	gdp
 憕	igpt
 𢜼	igpt
 撑	igq
+传感器	igq
 成亲	igqb
 挰	igqg
 摚	igqg
@@ -29295,6 +29297,7 @@ IP地址	ipdv
 汌	irel
 船夫	irfu
 堾	irga
+传感	irgj
 穿过	irgo
 串供	irgs
 传给	irgw
@@ -227229,6 +227232,7 @@ windows	wind
 月租	ytzu
 与	yu
 欲	yu
+又是	yu
 昱	yua
 𦩞	yuaa
 㬂	yuab

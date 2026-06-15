@@ -21506,6 +21506,7 @@ hdcc	海草
 hdcd	喝倒彩
 hdch	𠔑
 hdci	好多次
+hdd	好大的
 hdda	横刀夺爱
 hddc	海盗
 hddd	海带
@@ -27649,6 +27650,7 @@ igpp	𢟊
 igpt	憕
 igpt	𢜼
 igq	撑
+igq	传感器
 igqb	成亲
 igqg	挰
 igqg	摚
@@ -29295,6 +29297,7 @@ irdv	船队
 irel	汌
 irfu	船夫
 irga	堾
+irgj	传感
 irgo	穿过
 irgs	串供
 irgw	传给
@@ -227229,6 +227232,7 @@ ytzi	月子
 ytzu	月租
 yu	与
 yu	欲
+yu	又是
 yua	昱
 yuaa	𦩞
 yuab	㬂
