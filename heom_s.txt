@@ -210689,6 +210689,7 @@ PPT	ppt
 住处	vuiu
 朱唇	vuiy
 煮	vuj
+直升机	vuj
 者	vuja
 朝	vujb
 㝉	vujc
@@ -220407,8 +220408,8 @@ windows	wind
 㰨	xxro
 㰺	xxro
 𢝅	xxrp
-熙熙攘攘	xxrr
 香香软软	xxrr
+熙熙攘攘	xxrr
 栩栩如生	xxru
 先小人后君子	xxrz
 騢	xxse

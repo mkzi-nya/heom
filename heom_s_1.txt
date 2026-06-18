@@ -210689,6 +210689,7 @@ vuis	𪊹
 vuiu	住处
 vuiy	朱唇
 vuj	煮
+vuj	直升机
 vuja	者
 vujb	朝
 vujc	㝉
@@ -220407,8 +220408,8 @@ xxrn	选贤任能
 xxro	㰨
 xxro	㰺
 xxrp	𢝅
-xxrr	熙熙攘攘
 xxrr	香香软软
+xxrr	熙熙攘攘
 xxru	栩栩如生
 xxrz	先小人后君子
 xxse	騢

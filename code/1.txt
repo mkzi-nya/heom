@@ -34730,6 +34730,7 @@ IP地址	ipdv
 夏日	xxri
 欣喜若狂	xxrk
 选贤任能	xxrn
+香香软软	xxrr
 熙熙攘攘	xxrr
 栩栩如生	xxru
 先小人后君子	xxrz
@@ -51780,7 +51781,6 @@ $	ofhb
 油纸伞	yvs
 宣纸	xrvi
 猫娘	mcnl
-香香软软	xxrr
 小萝莉	xll
 小男娘	xnn
 男娘	njnl
@@ -52598,3 +52598,4 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 仓库	ck
 词库	ciku
 烽閻鸞錵	fylh
+直升机	vuj
