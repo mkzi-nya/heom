@@ -4048,6 +4048,7 @@ _	;b
 变身	bmuf
 边上	bmuh
 辨识	bmui
+扁食	bmui
 表面上看	bmuk
 峅	bmut
 变数	bmuu
@@ -4133,6 +4134,7 @@ _	;b
 邊	bmys
 兵马俑	bmys
 便于	bmyu
+闭目养神	bmyu
 不名一文	bmyw
 卞	bmyy
 便有	bmyz
@@ -5426,6 +5428,8 @@ _	;b
 补习	buxi
 不行	buxk
 不想	buxl
+不祥	buxl
+不详	buxl
 不限	buxm
 不孝	buxn
 不屑	buxp
@@ -216677,6 +216681,7 @@ windows	wind
 香精	xljk
 湘江	xljl
 相见	xljm
+详见	xljm
 香蕉	xljn
 橡胶	xljn
 详解	xljp
@@ -232062,6 +232067,7 @@ windows	wind
 遵从	zycs
 樽	zyd
 坐以待毙	zydb
+自有大儒为我辩经	zydj
 自由度	zydu
 自有分寸	zyfc
 燇	zyfi

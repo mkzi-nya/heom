@@ -4111,6 +4111,7 @@ bmtt	䒪
 bmuf	变身
 bmuh	边上
 bmui	辨识
+bmui	扁食
 bmuk	表面上看
 bmut	峅
 bmuu	变数
@@ -4196,6 +4197,7 @@ bmyr	邉
 bmys	邊
 bmys	兵马俑
 bmyu	便于
+bmyu	闭目养神
 bmyw	不名一文
 bmyy	卞
 bmyz	便有
@@ -5496,6 +5498,8 @@ buxi	不惜
 buxi	补习
 buxk	不行
 buxl	不想
+buxl	不祥
+buxl	不详
 buxm	不限
 buxn	不孝
 buxp	不屑
@@ -217513,6 +217517,7 @@ xlji	相机
 xljk	香精
 xljl	湘江
 xljm	相见
+xljm	详见
 xljn	香蕉
 xljn	橡胶
 xljp	详解
@@ -232985,6 +232990,7 @@ zycn	𤮐
 zycs	遵从
 zyd	樽
 zydb	坐以待毙
+zydj	自有大儒为我辩经
 zydu	自由度
 zyfc	自有分寸
 zyfi	燇
