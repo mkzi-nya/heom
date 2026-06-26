@@ -186383,6 +186383,17 @@ oyw	Ⅴ
 oyy	①
 oyy	Ⅰ
 oz	「
+ozi	⿰
+ozi	⿱
+ozi	⿲
+ozi	⿳
+ozi	⿴
+ozi	⿵
+ozi	⿶
+ozi	⿷
+ozi	⿸
+ozi	⿹
+ozi	⿺
 p	平
 p	屁
 p	便宜

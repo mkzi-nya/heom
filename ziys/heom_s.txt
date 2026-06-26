@@ -186383,6 +186383,17 @@ $	otm
 ①	oyy
 Ⅰ	oyy
 「	oz
+⿰	ozi
+⿱	ozi
+⿲	ozi
+⿳	ozi
+⿴	ozi
+⿵	ozi
+⿶	ozi
+⿷	ozi
+⿸	ozi
+⿹	ozi
+⿺	ozi
 平	p
 屁	p
 便宜	p
