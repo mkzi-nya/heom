@@ -1,3 +1,4 @@
+.DS_Store	dsst
 ;	：
 ;a	！
 ;b	_
@@ -34230,7 +34231,6 @@ jmwo	𪒫
 jmwq	举目无亲
 jmwr	𪒹
 jmwu	奸污
-jmwv	msbt.seku.su
 jmww	键位
 jmww	𢆦
 jmxb	坚信
