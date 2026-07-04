@@ -188695,8 +188695,8 @@ qbps	懄
 qbpu	琴谱
 qbpw	钦佩
 qbq	秦
+qbq	擒
 qbq	瞧不起
-qbqb	擒
 qbqb	亲亲
 qbqc	捦
 qbqf	㩒

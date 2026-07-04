@@ -188695,8 +188695,8 @@ PPT	ppt
 琴谱	qbpu
 钦佩	qbpw
 秦	qbq
+擒	qbq
 瞧不起	qbq
-擒	qbqb
 亲亲	qbqb
 捦	qbqc
 㩒	qbqf
