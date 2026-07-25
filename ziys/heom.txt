@@ -47149,7 +47149,6 @@ IP地址	ipdv
 愿	yrmp
 音	yby
 洋	yhe
-压	yam
 迎	yky
 扬	yhq
 移	yih
@@ -47187,6 +47186,7 @@ IP地址	ipdv
 盈	ykn
 渔	yuem
 牙	yam
+压	yam
 裕	yul
 忧	yzp
 圆	yrw
