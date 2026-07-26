@@ -37236,8 +37236,8 @@ jxju	加剧
 jxjx	加价
 jxjy	将信将疑
 jxjy	渐行渐远
-jxk	架
 jxk	夹
+jxk	架
 jxk	夾
 jxka	𤟚
 jxkb	𦙺
@@ -221854,8 +221854,8 @@ yall	雅量
 yaln	𧈝
 yalv	𧓪
 yalv	𰿴
-yam	牙
 yam	压
+yam	牙
 yam	亞
 yama	亚麻
 yama	𣉩

@@ -41910,6 +41910,7 @@ IP地址	ipdv
 疾	jik
 叫	jn
 皎	jn
+夹	jxk
 架	jxk
 锦	jbo
 仅	jbo
@@ -41987,7 +41988,6 @@ IP地址	ipdv
 圾	jig
 冀	jil
 筋	jbhs
-夹	jxk
 骄	jnnl
 俭	jmom
 碱	jmm
@@ -47185,8 +47185,8 @@ IP地址	ipdv
 羊	yhtq
 盈	ykn
 渔	yuem
-牙	yam
 压	yam
+牙	yam
 裕	yul
 忧	yzp
 圆	yrw
