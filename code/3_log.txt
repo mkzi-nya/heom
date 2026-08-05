@@ -455,6 +455,7 @@ mibu	5
 mwdd	5
 mwmd	5
 mwmu	5
+ncbu	5
 piyj	5
 pktj	5
 qill	5
@@ -1034,7 +1035,6 @@ mobd	4
 monj	4
 mori	4
 munf	4
-ncbu	4
 nciu	4
 nkjk	4
 pbmc	4

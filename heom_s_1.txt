@@ -50260,14 +50260,16 @@ nbzi	牛鼻子
 nc	闹
 ncab	閙
 ncb	脑
-ncba	𩩀
+ncba	𥆲
 ncbb	臑
 ncbb	𧴓
+ncbc	𩩀
 ncbe	𥀮
 ncbk	脳
 ncbk	腝
 ncbm	𧴙
 ncbu	脑部
+ncbu	脑补
 ncbu	髐
 ncbu	𥆲
 ncbu	𩩀

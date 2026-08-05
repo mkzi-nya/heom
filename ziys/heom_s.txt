@@ -50740,14 +50740,16 @@ n-buna	nbna
 闹	nc
 閙	ncab
 脑	ncb
-𩩀	ncba
+𥆲	ncba
 臑	ncbb
 𧴓	ncbb
+𩩀	ncbc
 𥀮	ncbe
 脳	ncbk
 腝	ncbk
 𧴙	ncbm
 脑部	ncbu
+脑补	ncbu
 髐	ncbu
 𥆲	ncbu
 𩩀	ncbu

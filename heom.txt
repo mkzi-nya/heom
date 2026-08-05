@@ -52637,6 +52637,7 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 一只	yv
 一滩	yitj
 赶稿	gjgc
+脑补	ncbu
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -97215,7 +97216,8 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 𩈐	mwmb
 䜸	mwmh
 𠪃	mwmi
-𩩀	ncba
+𥆲	ncba
+𩩀	ncbc
 𫍢	ncia
 𥧤	nkja
 噛	npra
