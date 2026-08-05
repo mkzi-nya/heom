@@ -1177,6 +1177,7 @@ bane	鮁
 bane	𱅄
 bank	鮁
 bank	𩹏
+banm	八年
 bano	魞
 banu	鲃
 banu	䰾
@@ -8923,6 +8924,7 @@ dddb	𰘀
 dddc	带到
 dddd	点点滴滴
 dddd	单打独斗
+dddd	滴滴答答
 ddde	棣
 dddk	待定
 dddm	带点
@@ -15669,6 +15671,7 @@ fjx	分界线
 fjxb	翻新
 fjxj	费尽心机
 fjxk	反省
+fjxk	繁星
 fjxl	反向
 fjxm	返现
 fjxn	返校
@@ -16407,8 +16410,8 @@ fuql	𢯋
 fuqm	肤浅
 fuqm	付钱
 fuqm	𱉎
-fuqn	浮桥
 fuqn	拂
+fuqn	浮桥
 fuqo	麸
 fuqq	抙
 fuqr	掊
@@ -16632,6 +16635,7 @@ fuxr	复选
 fuxs	父兄
 fuxu	抚恤
 fuxx	服下
+fuxx	拂下
 fuy	膚
 fuya	𥪚
 fuyb	复印
@@ -18543,6 +18547,7 @@ gjg	赶
 gjg	趕
 gjga	尴尬
 gjga	蒽…那个…好尬哦……，（杏眼瞪圆，嘴唇微嘟，脸颊显出薄雾日出般的润红，露出羞怯的神色，玉指捏着衣角轻杝摆动，圆润的脚趾抓紧地板）
+gjgc	赶稿
 gjge	干戈
 gjgh	各家各户
 gjgj	敢干
@@ -25132,6 +25137,7 @@ hupe	𢽨
 hupf	𪂒
 hupj	湖畔
 hupo	湖泊
+hupo	琥珀
 hupp	惚
 hupr	𠯳
 hups	恗
@@ -26226,6 +26232,7 @@ hxuj	崋
 hxuo	话说
 hxut	混淆视听
 hxuu	花束
+hxuz	画手
 hxv	婳
 hxvc	花招
 hxvf	回形针
@@ -31528,6 +31535,7 @@ jfyl	金风玉露
 jfyu	绝非易事
 jg	结果
 jg	尽管
+jg	几个
 jgbg	见怪不怪
 jgbg	将功补过
 jgbh	金箍棒
@@ -37091,6 +37099,7 @@ jwxx	基围虾
 jwzi	金无足赤
 jx	加
 jx	佳
+jx	几下
 jxao	夹袄
 jxb	胛
 jxbb	嘉宾
@@ -39400,6 +39409,7 @@ ksbm	腔
 ksbu	恐怖
 ksch	空仓
 kscu	錓
+ksdh	空荡
 ksdh	空挡
 ksdi	空地
 ksds	空洞
@@ -40507,6 +40517,7 @@ lave	𥀰
 lavf	𪇹
 lavo	𰬼
 lavu	蜡烛
+lavu	拉住
 lavv	𦅶
 lavv	𦆻
 lawh	拉网
@@ -41303,6 +41314,7 @@ lfuv	轮番上阵
 lfvs	两分钟
 lfyf	罗敷有夫
 lg	冷
+lg	了个
 lgao	冷傲
 lgbe	睖
 lgbe	𩩡
@@ -42774,6 +42786,7 @@ ljvw	𫝮
 ljvz	兰州
 ljwh	拦网
 ljwj	罱
+ljww	烂尾
 ljww	阑尾
 ljxk	逻辑性
 ljxl	垃圾箱
@@ -42784,6 +42797,7 @@ ljy	斓
 ljya	蓝牙
 ljyb	略见一斑
 ljyb	譋
+ljyc	懒腰
 ljyc	拦腰
 ljyd	灵机一动
 ljyj	連
@@ -44554,6 +44568,7 @@ lpyz	老朋友
 lpzv	咧嘴
 lq	六
 lq	溜
+lqbd	留白
 lqbd	六百
 lqbg	屡劝不改
 lqbg	𥆦
@@ -48379,6 +48394,7 @@ miyd	𥹄
 miyd	𨒲
 miye	𨒲
 miyh	䛑
+miyj	眯眼
 miyt	蜜月
 miyt	謐
 miyu	谜语
@@ -50254,6 +50270,7 @@ mwye	每页
 mwyf	旀
 mwyh	每样
 mwyi	美意
+mwyj	眉眼
 mwym	𩫍
 mwyr	美元
 mwys	没用
@@ -189893,7 +189910,7 @@ qilc	蜞
 qilc	帺
 qilc	褀
 qild	起来
-qile	起床了
+qile	起了
 qile	蚑
 qilf	䗩
 qilf	𬮩
@@ -190572,6 +190589,7 @@ qklk	清零
 qklk	轻灵
 qkll	清凉
 qklm	清廉
+qklp	清冽
 qkls	青龙
 qklv	情侣
 qklz	青楼
@@ -190689,6 +190707,7 @@ qkxk	庆幸
 qkxl	倾向
 qkxl	清香
 qkxm	清闲
+qkxn	轻笑
 qkxp	倾斜
 qkxq	清秀
 qkxu	情绪
@@ -195386,6 +195405,7 @@ sahp	𥸗
 sahr	撒欢
 saht	䬃
 saht	𢓔
+sahx	撒花
 saib	𠬙
 saib	𪠡
 saie	𣀯
@@ -199845,6 +199865,7 @@ tkwj	听完
 tkwn	甼
 tkwn	𦉬
 tkxb	听信
+tkxi	停息
 tkxl	挺像
 tkxm	挺闲
 tkxp	停歇
@@ -200308,6 +200329,7 @@ tnks	调控
 tnl	蜩
 tnlc	頫
 tnld	螩
+tnle	挑了
 tnlg	𨾾
 tnli	调理
 tnlk	条令
@@ -200676,8 +200698,10 @@ toru	鼉
 toru	𨂫
 torv	𨁡
 tory	跅
-tosa	𩧐
+tosa	𢑠
 tosb	鬌
+tosc	𩧐
+tosd	托腮
 tosd	駞
 tosd	驝
 tosd	𢑠
@@ -203813,6 +203837,7 @@ uhho	𤔚
 uhhr	扄
 uhhu	商户
 uhhv	上回
+uhhx	上滑
 uhhx	赏花
 uhi	上场
 uhie	上车
@@ -218921,6 +218946,7 @@ xnyf	𤟞
 xnyg	𪛀
 xnyh	小样
 xnyi	效益
+xnyi	笑意
 xnyj	消炎
 xnyk	效应
 xnyk	詨
@@ -219536,6 +219562,7 @@ xql	袖
 xqlb	䗛
 xqld	想起来
 xqle	想起了
+xqle	响起了
 xqli	修理
 xqlj	小桥流水人家
 xqlk	螑
@@ -225095,6 +225122,7 @@ yiti	蓺
 yiti	萟
 yiti	芸
 yiti	義
+yitj	一滩
 yitj	䔱
 yitk	艾
 yitk	蓺
@@ -225147,6 +225175,7 @@ yiue	鶃
 yiuf	一身
 yiug	医生
 yiug	一生
+yiug	一声
 yiuh	以上
 yiui	意识
 yiui	仪式
@@ -225772,6 +225801,7 @@ yjjm	𫛩
 yjjn	眼角
 yjjn	𮴼
 yjjp	眼界
+yjjp	眼睫
 yjjq	研究
 yjjr	厌倦
 yjjt	𥤴
@@ -226777,6 +226807,7 @@ ykyg	逞
 ykyh	营养
 ykyj	应验
 ykyk	萤萤
+ykyk	盈盈
 ykyk	韺
 ykyr	影院
 ykyr	𠮳
@@ -228321,11 +228352,12 @@ yufk	𥹔
 yufl	𩝗
 yufm	衣食父母
 yufm	𱉰
-yufn	𩋤
+yufn	𧃠
 yufo	玉佛
 yufo	𣢒
 yufo	𥸪
-yufp	𰬻
+yufp	𩋤
+yufq	𰬻
 yufr	誉
 yuft	煜
 yufu	预付
@@ -228988,7 +229020,7 @@ yutv	羭
 yutv	萮
 yutv	蕍
 yutw	𬝁
-yutx	𧃠
+yutx	𠧇
 yuty	菸
 yutz	芋头
 yuu	屿
@@ -229172,6 +229204,7 @@ yuys	謣
 yuys	迃
 yuyt	预约
 yuyt	愉悦
+yuyt	逾越
 yuyt	𠧇
 yuyu	鱼鱼
 yuyu	一生一世
@@ -229201,6 +229234,7 @@ yuzz	以身作则
 yv	一直
 yv	一致
 yv	已知
+yv	一只
 yvbg	有志不在年高
 yvbi	圆珠笔
 yvbj	一知半解

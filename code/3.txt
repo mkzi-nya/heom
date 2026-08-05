@@ -1437,6 +1437,7 @@
 𩩘	yubp
 諭	yunq
 迃	yusa
+𠧇	yutx
 袬	yuac
 諭	yuad
 鄆	yyba
@@ -2280,6 +2281,8 @@
 蓺	yijs
 萟	yijt
 芸	yijw
+𢑠	tosa
+𩧐	tosc
 臸	viaq
 𡍶	viar
 𥒓	viat
@@ -3059,7 +3062,6 @@
 𫘞	tonl
 𬴎	tonm
 𧿶	tora
-𩧐	tosa
 𧧉	toya
 𩩅	tsba
 𨈹	tshc
@@ -3407,9 +3409,9 @@
 𩝗	yufl
 𰾆	yurg
 𢡎	yupa
-𧃠	yutx
-𩋤	yufn
-𰬻	yufp
+𧃠	yufn
+𩋤	yufp
+𰬻	yufq
 𪑝	yuwa
 𪍝	yyda
 𤸈	yzkb

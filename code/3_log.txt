@@ -663,6 +663,7 @@ jmtf	5
 jmmi	5
 yiyk	5
 yuio	5
+tosd	5
 bibe	5
 bidj	5
 binh	5
@@ -1278,6 +1279,7 @@ yumf	4
 yuvn	4
 yuyn	4
 yuys	4
+yuyt	4
 yybl	4
 yybj	4
 yymm	4
@@ -1751,7 +1753,6 @@ tkhg	4
 tkmn	4
 tomd	4
 tord	4
-tosd	4
 toyp	4
 tsbr	4
 tshr	4

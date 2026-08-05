@@ -1123,6 +1123,7 @@ _	;b
 𱅄	bane
 鮁	bank
 𩹏	bank
+八年	banm
 魞	bano
 鲃	banu
 䰾	banu
@@ -8778,6 +8779,7 @@ _	;b
 带到	dddc
 点点滴滴	dddd
 单打独斗	dddd
+滴滴答答	dddd
 棣	ddde
 待定	dddk
 带点	dddm
@@ -15460,6 +15462,7 @@ _	;b
 翻新	fjxb
 费尽心机	fjxj
 反省	fjxk
+繁星	fjxk
 反向	fjxl
 返现	fjxm
 返校	fjxn
@@ -16196,8 +16199,8 @@ _	;b
 肤浅	fuqm
 付钱	fuqm
 𱉎	fuqm
-浮桥	fuqn
 拂	fuqn
+浮桥	fuqn
 麸	fuqo
 抙	fuqq
 掊	fuqr
@@ -16421,6 +16424,7 @@ _	;b
 父兄	fuxs
 抚恤	fuxu
 服下	fuxx
+拂下	fuxx
 膚	fuy
 𥪚	fuya
 复印	fuyb
@@ -18300,6 +18304,7 @@ GDP	gdp
 赶	gjg
 趕	gjg
 尴尬	gjga
+赶稿	gjgc
 干戈	gjge
 各家各户	gjgh
 敢干	gjgj
@@ -24842,6 +24847,7 @@ GDP	gdp
 𪂒	hupf
 湖畔	hupj
 湖泊	hupo
+琥珀	hupo
 惚	hupp
 𠯳	hupr
 恗	hups
@@ -25936,6 +25942,7 @@ GDP	gdp
 话说	hxuo
 混淆视听	hxut
 花束	hxuu
+画手	hxuz
 婳	hxv
 花招	hxvc
 回形针	hxvf
@@ -31187,6 +31194,7 @@ IP地址	ipdv
 绝非易事	jfyu
 结果	jg
 尽管	jg
+几个	jg
 见怪不怪	jgbg
 将功补过	jgbg
 金箍棒	jgbh
@@ -36739,6 +36747,7 @@ IP地址	ipdv
 金无足赤	jwzi
 加	jx
 佳	jx
+几下	jx
 夹袄	jxao
 胛	jxb
 嘉宾	jxbb
@@ -39023,6 +39032,7 @@ IP地址	ipdv
 恐怖	ksbu
 空仓	ksch
 錓	kscu
+空荡	ksdh
 空挡	ksdh
 空地	ksdi
 空洞	ksds
@@ -40104,6 +40114,7 @@ IP地址	ipdv
 𪇹	lavf
 𰬼	lavo
 蜡烛	lavu
+拉住	lavu
 𦅶	lavv
 𦆻	lavv
 拉网	lawh
@@ -40896,6 +40907,7 @@ IP地址	ipdv
 两分钟	lfvs
 罗敷有夫	lfyf
 冷	lg
+了个	lg
 冷傲	lgao
 睖	lgbe
 𩩡	lgbe
@@ -42367,6 +42379,7 @@ IP地址	ipdv
 兰州	ljvz
 拦网	ljwh
 罱	ljwj
+烂尾	ljww
 阑尾	ljww
 逻辑性	ljxk
 垃圾箱	ljxl
@@ -42377,6 +42390,7 @@ IP地址	ipdv
 蓝牙	ljya
 略见一斑	ljyb
 譋	ljyb
+懒腰	ljyc
 拦腰	ljyc
 灵机一动	ljyd
 連	ljyj
@@ -44146,6 +44160,7 @@ IP地址	ipdv
 咧嘴	lpzv
 六	lq
 溜	lq
+留白	lqbd
 六百	lqbd
 屡劝不改	lqbg
 𥆦	lqbg
@@ -47940,6 +47955,7 @@ IP地址	ipdv
 𨒲	miyd
 𨒲	miye
 䛑	miyh
+眯眼	miyj
 蜜月	miyt
 謐	miyt
 谜语	miyu
@@ -49808,6 +49824,7 @@ IP地址	ipdv
 旀	mwyf
 每样	mwyh
 美意	mwyi
+眉眼	mwyj
 𩫍	mwym
 美元	mwyr
 没用	mwys
@@ -189291,7 +189308,7 @@ PPT	ppt
 帺	qilc
 褀	qilc
 起来	qild
-起床了	qile
+起了	qile
 蚑	qile
 䗩	qilf
 𬮩	qilf
@@ -189970,6 +189987,7 @@ PPT	ppt
 轻灵	qklk
 清凉	qkll
 清廉	qklm
+清冽	qklp
 青龙	qkls
 情侣	qklv
 青楼	qklz
@@ -190087,6 +190105,7 @@ PPT	ppt
 倾向	qkxl
 清香	qkxl
 清闲	qkxm
+轻笑	qkxn
 倾斜	qkxp
 清秀	qkxq
 情绪	qkxu
@@ -194712,6 +194731,7 @@ PPT	ppt
 撒欢	sahr
 䬃	saht
 𢓔	saht
+撒花	sahx
 𠬙	saib
 𪠡	saib
 𣀯	saie
@@ -199124,6 +199144,7 @@ PPT	ppt
 甼	tkwn
 𦉬	tkwn
 听信	tkxb
+停息	tkxi
 挺像	tkxl
 挺闲	tkxm
 停歇	tkxp
@@ -199586,6 +199607,7 @@ PPT	ppt
 蜩	tnl
 頫	tnlc
 螩	tnld
+挑了	tnle
 𨾾	tnlg
 调理	tnli
 条令	tnlk
@@ -199952,8 +199974,10 @@ PPT	ppt
 𨂫	toru
 𨁡	torv
 跅	tory
-𩧐	tosa
+𢑠	tosa
 鬌	tosb
+𩧐	tosc
+托腮	tosd
 駞	tosd
 驝	tosd
 𢑠	tosd
@@ -203055,6 +203079,7 @@ PPT	ppt
 扄	uhhr
 商户	uhhu
 上回	uhhv
+上滑	uhhx
 赏花	uhhx
 上场	uhi
 上车	uhie
@@ -218083,6 +218108,7 @@ windows	wind
 𪛀	xnyg
 小样	xnyh
 效益	xnyi
+笑意	xnyi
 消炎	xnyj
 效应	xnyk
 詨	xnyk
@@ -218698,6 +218724,7 @@ windows	wind
 䗛	xqlb
 想起来	xqld
 想起了	xqle
+响起了	xqle
 修理	xqli
 小桥流水人家	xqlj
 螑	xqlk
@@ -224231,6 +224258,7 @@ windows	wind
 萟	yiti
 芸	yiti
 義	yiti
+一滩	yitj
 䔱	yitj
 艾	yitk
 蓺	yitk
@@ -224283,6 +224311,7 @@ windows	wind
 一身	yiuf
 医生	yiug
 一生	yiug
+一声	yiug
 以上	yiuh
 意识	yiui
 仪式	yiui
@@ -224907,6 +224936,7 @@ windows	wind
 眼角	yjjn
 𮴼	yjjn
 眼界	yjjp
+眼睫	yjjp
 研究	yjjq
 厌倦	yjjr
 𥤴	yjjt
@@ -225912,6 +225942,7 @@ windows	wind
 营养	ykyh
 应验	ykyj
 萤萤	ykyk
+盈盈	ykyk
 韺	ykyk
 影院	ykyr
 𠮳	ykyr
@@ -227449,11 +227480,12 @@ windows	wind
 𩝗	yufl
 衣食父母	yufm
 𱉰	yufm
-𩋤	yufn
+𧃠	yufn
 玉佛	yufo
 𣢒	yufo
 𥸪	yufo
-𰬻	yufp
+𩋤	yufp
+𰬻	yufq
 誉	yufr
 煜	yuft
 预付	yufu
@@ -228116,7 +228148,7 @@ windows	wind
 萮	yutv
 蕍	yutv
 𬝁	yutw
-𧃠	yutx
+𠧇	yutx
 菸	yuty
 芋头	yutz
 屿	yuu
@@ -228300,6 +228332,7 @@ windows	wind
 迃	yuys
 预约	yuyt
 愉悦	yuyt
+逾越	yuyt
 𠧇	yuyt
 鱼鱼	yuyu
 一生一世	yuyu
@@ -228329,6 +228362,7 @@ windows	wind
 一直	yv
 一致	yv
 已知	yv
+一只	yv
 有志不在年高	yvbg
 圆珠笔	yvbi
 一知半解	yvbj

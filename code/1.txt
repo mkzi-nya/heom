@@ -7243,6 +7243,7 @@ _	;b
 付清	fuqk
 富强	fuql
 肤浅	fuqm
+拂	fuqn
 浮桥	fuqn
 福寿齐天	fuqt
 浮生若梦	furm
@@ -16275,6 +16276,7 @@ IP地址	ipdv
 空白	ksbd
 恐怖	ksbu
 空仓	ksch
+空荡	ksdh
 空挡	ksdh
 空地	ksdi
 空洞	ksds
@@ -17333,6 +17335,7 @@ IP地址	ipdv
 兰州	ljvz
 拉锯战	ljvj
 拦网	ljwh
+烂尾	ljww
 阑尾	ljww
 垃圾箱	ljxl
 蓝线	ljxm
@@ -17340,6 +17343,7 @@ IP地址	ipdv
 拦下	ljxx
 逻辑性	ljxk
 蓝牙	ljya
+懒腰	ljyc
 拦腰	ljyc
 灵机一动	ljyd
 略见一斑	ljyb
@@ -17871,6 +17875,7 @@ IP地址	ipdv
 烈焰	lpyj
 猎鹰	lpyk
 咧嘴	lpzv
+留白	lqbd
 六百	lqbd
 屡劝不改	lqbg
 溜冰	lqbk
@@ -22305,7 +22310,7 @@ IP地址	ipdv
 气流	qilq
 歧路	qilu
 七律	qilv
-起床了	qile
+起了	qile
 起码	qima
 起锚	qimc
 启蒙	qimg
@@ -27911,6 +27916,7 @@ IP地址	ipdv
 上火	uhho
 商户	uhhu
 上回	uhhv
+上滑	uhhx
 赏花	uhhx
 上车	uhie
 商城	uhig
@@ -40468,7 +40474,6 @@ IP地址	ipdv
 焚	ffdf
 孚	fubd
 肪	fhb
-拂	fuqn
 讽	fgi
 俘	fuod
 咐	furi
@@ -52605,3 +52610,30 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 闭目养神	bmyu
 自有大儒为我辩经	zydj
 扁食	bmui
+繁星	fjxk
+停息	tkxi
+拉住	lavu
+盈盈	ykyk
+笑意	xnyi
+琥珀	hupo
+几下	jx
+清冽	qklp
+八年	banm
+拂下	fuxx
+眉眼	mwyj
+轻笑	qkxn
+逾越	yuyt
+了个	lg
+画手	hxuz
+托腮	tosd
+眼睫	yjjp
+响起了	xqle
+滴滴答答	dddd
+撒花	sahx
+一声	yiug
+挑了	tnle
+几个	jg
+眯眼	miyj
+一只	yv
+一滩	yitj
+赶稿	gjgc
