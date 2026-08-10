@@ -202615,6 +202615,7 @@ ufso	伸缩
 ufso	𦜜
 ufsr	神算
 ufsu	神速
+ufsu	申诉
 ufsu	駪
 ufsv	深邃
 uft	甚
@@ -207933,6 +207934,7 @@ vhgj	墇
 vhgj	𧽣
 vhgq	𡑄
 vhgr	掌管
+vhgr	长官
 vhgu	掌故
 vhgv	掌柜
 vhgv	㙣

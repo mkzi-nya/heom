@@ -203372,6 +203372,7 @@ $cmd{\r\n噫吁戲　危いかな高い哉\r\n蜀道の難きは青天に上る�
 𦜜	ufso
 神算	ufsr
 神速	ufsu
+申诉	ufsu
 駪	ufsu
 深邃	ufsv
 甚	uft
@@ -208724,6 +208725,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𧽣	vhgj
 𡑄	vhgq
 掌管	vhgr
+长官	vhgr
 掌故	vhgu
 掌柜	vhgv
 㙣	vhgv

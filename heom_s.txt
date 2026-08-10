@@ -202615,6 +202615,7 @@ PPT	ppt
 𦜜	ufso
 神算	ufsr
 神速	ufsu
+申诉	ufsu
 駪	ufsu
 深邃	ufsv
 甚	uft
@@ -207933,6 +207934,7 @@ PPT	ppt
 𧽣	vhgj
 𡑄	vhgq
 掌管	vhgr
+长官	vhgr
 掌故	vhgu
 掌柜	vhgv
 㙣	vhgv
