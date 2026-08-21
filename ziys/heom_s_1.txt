@@ -10795,8 +10795,8 @@ dlgj	第六感
 dlhd	雕梁画栋
 dlhg	度量衡
 dlib	大路朝天，各走一边
+dlj	倒垃圾
 dljx	打了鸡血
-dljy	邓丽君
 dlle	带来了
 dlmb	顶礼膜拜
 dlmm	对立面
@@ -31151,6 +31151,7 @@ jbje	䆮
 jbje	寖
 jbji	紧急
 jbji	谨记
+jbji	禁忌
 jbjl	讲不讲理
 jbjn	近郊
 jbjp	进阶
@@ -47448,6 +47449,7 @@ mdqm	鿺
 mdqn	卖俏
 mdr	唛
 mdr	迈入
+mdrc	免打扰
 mdrc	嘪
 mdre	𠿆
 mdrk	𪡃
@@ -190381,6 +190383,7 @@ qiyo	䐡
 qiyp	𪗅
 qiyq	齎
 qiyr	起源
+qiyr	祈愿
 qiyr	竒
 qiys	启用
 qiys	迉

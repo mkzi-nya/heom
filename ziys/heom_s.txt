@@ -10795,8 +10795,8 @@ deepseek	deep
 雕梁画栋	dlhd
 度量衡	dlhg
 大路朝天，各走一边	dlib
+倒垃圾	dlj
 打了鸡血	dljx
-邓丽君	dljy
 带来了	dlle
 顶礼膜拜	dlmb
 对立面	dlmm
@@ -31151,6 +31151,7 @@ php -S 127.0.0.1:8000	iphp
 寖	jbje
 紧急	jbji
 谨记	jbji
+禁忌	jbji
 讲不讲理	jbjl
 近郊	jbjn
 进阶	jbjp
@@ -47448,6 +47449,7 @@ KKSK，源自日语短语“救急車来い”（Kyuu Kyuu Sha Koi）的罗马�
 卖俏	mdqn
 唛	mdr
 迈入	mdr
+免打扰	mdrc
 嘪	mdrc
 𠿆	mdre
 𪡃	mdrk
@@ -190381,6 +190383,7 @@ python	pyth
 𪗅	qiyp
 齎	qiyq
 起源	qiyr
+祈愿	qiyr
 竒	qiyr
 启用	qiys
 迉	qiys
