@@ -1,0 +1,336 @@
+version: 2.10.0
+apkFileName: にゃん.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 26
+  targetSdkVersion: 36
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 0
+  versionName: 1
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  commonMain/default/manifest: 8
+  commonMain/default/linkdata/module: 8
+  commonMain/default/linkdata/package_androidx.annotation/0_annotation.knm: 8
+  commonMain/default/linkdata/package_androidx.collection.internal/0_internal.knm: 8
+  commonMain/default/linkdata/package_androidx.collection.internal/1_internal.knm: 8
+  commonMain/default/linkdata/package_androidx.collection/0_collection.knm: 8
+  commonMain/default/linkdata/package_androidx.collection/1_collection.knm: 8
+  commonMain/default/linkdata/package_androidx.collection/2_collection.knm: 8
+  commonMain/default/linkdata/package_androidx.collection/3_collection.knm: 8
+  commonMain/default/linkdata/package_androidx.collection/4_collection.knm: 8
+  commonMain/default/linkdata/package_androidx.collection/5_collection.knm: 8
+  commonMain/default/linkdata/package_androidx.collection/6_collection.knm: 8
+  commonMain/default/linkdata/package_androidx.lifecycle/0_lifecycle.knm: 8
+  commonMain/default/linkdata/package_androidx.lifecycle/1_lifecycle.knm: 8
+  commonMain/default/linkdata/package_androidx.lifecycle/2_lifecycle.knm: 8
+  commonMain/default/linkdata/package_androidx.lifecycle/3_lifecycle.knm: 8
+  commonMain/default/linkdata/package_androidx.lifecycle/4_lifecycle.knm: 8
+  commonMain/default/linkdata/package_androidx.lifecycle/5_lifecycle.knm: 8
+  commonMain/default/linkdata/package_androidx.lifecycle/6_lifecycle.knm: 8
+  commonMain/default/linkdata/package_androidx.window.core.layout/0_layout.knm: 8
+  commonMain/default/linkdata/package_androidx.window.core.layout/1_layout.knm: 8
+  commonMain/default/linkdata/package_androidx.window.core/0_core.knm: 8
+  commonMain/default/linkdata/package_androidx.window/0_window.knm: 0
+  commonMain/default/linkdata/package_androidx/0_androidx.knm: 0
+  commonMain/default/linkdata/package_kotlinx.coroutines.channels/00_channels.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.channels/01_channels.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.channels/02_channels.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.channels/03_channels.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.channels/04_channels.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.channels/05_channels.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.channels/06_channels.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.channels/07_channels.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.channels/08_channels.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.channels/09_channels.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow.internal/00_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow.internal/01_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow.internal/02_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow.internal/03_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow.internal/04_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow.internal/05_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow.internal/06_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow.internal/07_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow.internal/08_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow.internal/09_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/00_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/01_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/02_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/03_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/04_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/05_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/06_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/07_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/08_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/09_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/10_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/11_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/12_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/13_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/14_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/15_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/16_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/17_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/18_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/19_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/20_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/21_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/22_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.flow/23_flow.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/00_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/01_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/02_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/03_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/04_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/05_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/06_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/07_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/08_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/09_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/10_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/11_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/12_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/13_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/14_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/15_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/16_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/17_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/18_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/19_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/20_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.internal/21_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.intrinsics/0_intrinsics.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.intrinsics/1_intrinsics.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.selects/0_selects.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.selects/1_selects.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.selects/2_selects.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.selects/3_selects.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.selects/4_selects.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.sync/0_sync.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines.sync/1_sync.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/00_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/01_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/02_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/03_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/04_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/05_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/06_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/07_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/08_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/09_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/10_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/11_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/12_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/13_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/14_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/15_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/16_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/17_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/18_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/19_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/20_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/21_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/22_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/23_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/24_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/25_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/26_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/27_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/28_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/29_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/30_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/31_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/32_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/33_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/34_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.coroutines/35_coroutines.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.builtins/0_builtins.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.builtins/1_builtins.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.builtins/2_builtins.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.descriptors/0_descriptors.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.descriptors/1_descriptors.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.descriptors/2_descriptors.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.descriptors/3_descriptors.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.encoding/0_encoding.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.encoding/1_encoding.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.encoding/2_encoding.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.encoding/3_encoding.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.encoding/4_encoding.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/00_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/01_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/02_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/03_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/04_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/05_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/06_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/07_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/08_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/09_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/10_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/11_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/12_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/13_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/14_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/15_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/16_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/17_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/18_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/19_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/20_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/21_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/22_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.internal/23_internal.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.modules/0_modules.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.modules/1_modules.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.modules/2_modules.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization.modules/3_modules.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization/00_serialization.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization/01_serialization.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization/02_serialization.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization/03_serialization.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization/04_serialization.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization/05_serialization.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization/06_serialization.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization/07_serialization.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization/08_serialization.knm: 8
+  commonMain/default/linkdata/package_kotlinx.serialization/09_serialization.knm: 8
+  commonMain/default/linkdata/root_package/0_.knm: 0
+  concurrentMain/default/manifest: 8
+  concurrentMain/default/linkdata/module: 8
+  concurrentMain/default/linkdata/package_kotlinx.coroutines.channels/0_channels.knm: 8
+  concurrentMain/default/linkdata/package_kotlinx.coroutines.internal/0_internal.knm: 8
+  concurrentMain/default/linkdata/package_kotlinx.coroutines.internal/1_internal.knm: 8
+  concurrentMain/default/linkdata/package_kotlinx.coroutines/0_coroutines.knm: 8
+  concurrentMain/default/linkdata/package_kotlinx.coroutines/1_coroutines.knm: 8
+  concurrentMain/default/linkdata/package_kotlinx.coroutines/2_coroutines.knm: 8
+  linuxMain/default/manifest: 8
+  linuxMain/default/linkdata/module: 8
+  linuxMain/default/linkdata/package_androidx.collection.internal/0_internal.knm: 8
+  linuxMain/default/linkdata/package_androidx.collection/0_collection.knm: 0
+  linuxMain/default/linkdata/package_androidx/0_androidx.knm: 0
+  linuxMain/default/linkdata/root_package/0_.knm: 0
+  nativeMain/default/manifest: 8
+  nativeMain/default/linkdata/module: 8
+  nativeMain/default/linkdata/package_androidx.collection.internal/0_internal.knm: 8
+  nativeMain/default/linkdata/package_androidx.collection.internal/1_internal.knm: 8
+  nativeMain/default/linkdata/package_androidx.collection/0_collection.knm: 0
+  nativeMain/default/linkdata/package_androidx/0_androidx.knm: 0
+  nativeMain/default/linkdata/package_kotlinx.coroutines.flow.internal/0_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.flow.internal/1_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.internal/00_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.internal/01_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.internal/02_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.internal/03_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.internal/04_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.internal/05_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.internal/06_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.internal/07_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.internal/08_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines.internal/09_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines/00_coroutines.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines/01_coroutines.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines/02_coroutines.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines/03_coroutines.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines/04_coroutines.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines/05_coroutines.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines/06_coroutines.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines/07_coroutines.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines/08_coroutines.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.coroutines/09_coroutines.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.serialization.internal/0_internal.knm: 8
+  nativeMain/default/linkdata/package_kotlinx.serialization/0_serialization.knm: 8
+  nativeMain/default/linkdata/root_package/0_.knm: 0
+  nativeOtherMain/default/manifest: 8
+  nativeOtherMain/default/linkdata/module: 8
+  nativeOtherMain/default/linkdata/package_kotlinx.coroutines/0_coroutines.knm: 8
+  nonJvmMain/default/manifest: 8
+  nonJvmMain/default/linkdata/module: 8
+  nonJvmMain/default/linkdata/package_androidx.annotation/0_annotation.knm: 8
+  nonJvmMain/default/linkdata/package_androidx.collection.internal/0_internal.knm: 8
+  nonJvmMain/default/linkdata/package_androidx.collection.internal/1_internal.knm: 8
+  nonJvmMain/default/linkdata/package_androidx.collection/0_collection.knm: 8
+  nonJvmMain/default/linkdata/package_androidx.lifecycle/0_lifecycle.knm: 8
+  nonJvmMain/default/linkdata/package_androidx.lifecycle/1_lifecycle.knm: 8
+  nonJvmMain/default/linkdata/package_androidx/0_androidx.knm: 0
+  nonJvmMain/default/linkdata/root_package/0_.knm: 0
+  unixMain/default/manifest: 8
+  unixMain/default/linkdata/module: 8
+  unixMain/default/linkdata/package_androidx.collection.internal/0_internal.knm: 8
+  unixMain/default/linkdata/package_androidx.collection/0_collection.knm: 0
+  unixMain/default/linkdata/package_androidx/0_androidx.knm: 0
+  unixMain/default/linkdata/root_package/0_.knm: 0
+  webMain/default/manifest: 8
+  webMain/default/linkdata/module: 8
+  webMain/default/linkdata/package_androidx.collection.internal/0_internal.knm: 8
+  webMain/default/linkdata/package_androidx.collection/0_collection.knm: 0
+  webMain/default/linkdata/package_androidx/0_androidx.knm: 0
+  webMain/default/linkdata/root_package/0_.knm: 0
+doNotCompress:
+- resources.arsc
+- META-INF/androidx.activity_activity-ktx.version
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.annotation_annotation-experimental.version
+- META-INF/androidx.appcompat_appcompat-resources.version
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.browser_browser.version
+- META-INF/androidx.cardview_cardview.version
+- META-INF/androidx.constraintlayout_constraintlayout.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core-ktx.version
+- META-INF/androidx.core_core-viewtree.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview-poolingcontainer.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.dynamicanimation_dynamicanimation.version
+- META-INF/androidx.emoji2_emoji2-views-helper.version
+- META-INF/androidx.emoji2_emoji2.version
+- META-INF/androidx.exifinterface_exifinterface.version
+- META-INF/androidx.fragment_fragment-ktx.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core-ktx.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-process.version
+- META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.navigation_navigation-common.version
+- META-INF/androidx.navigation_navigation-fragment.version
+- META-INF/androidx.navigation_navigation-runtime.version
+- META-INF/androidx.navigation_navigation-ui.version
+- META-INF/androidx.profileinstaller_profileinstaller.version
+- META-INF/androidx.recyclerview_recyclerview.version
+- META-INF/androidx.savedstate_savedstate-ktx.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.security_security-crypto.version
+- META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.startup_startup-runtime.version
+- META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.tracing_tracing.version
+- META-INF/androidx.transition_transition.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager2_viewpager2.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/androidx.window_window-java.version
+- META-INF/androidx.window_window.version
+- META-INF/com.google.android.material_material.version
+- META-INF/kotlinx_coroutines_android.version
+- META-INF/kotlinx_coroutines_core.version
+- png
