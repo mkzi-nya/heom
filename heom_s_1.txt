@@ -230307,6 +230307,7 @@ zgxn	增效
 zgxr	增选
 zgya	譄
 zgya	𪙭
+zgyi	增益
 zgyj	赠言
 zgyl	自古以来
 zgyp	左顾右盼
