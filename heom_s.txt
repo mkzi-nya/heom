@@ -14921,6 +14921,7 @@ _	;b
 方框	fhkl
 放宽	fhkr
 防控	fhks
+防窥	fhkv
 符号看象限	fhkx
 肺活量	fhl
 芳邻	fhlb
@@ -25207,6 +25208,7 @@ GDP	gdp
 䅏	hvhu
 会徽	hvhv
 𡢕	hvhv
+会话	hvhx
 绘画	hvhx
 回话	hvhx
 会后	hvhz
@@ -33154,7 +33156,8 @@ IP地址	ipdv
 江水	jluv
 缰	jlv
 漿	jlv
-繦	jlva
+螿	jlva
+繦	jlvb
 槳	jlvd
 江浙	jlve
 漿	jlve
@@ -33163,6 +33166,7 @@ IP地址	ipdv
 捡了芝麻，丢了西瓜	jlvg
 𡑶	jlvg
 奖章	jlvh
+降智	jlvi
 將	jlvi
 繈	jlvi
 螿	jlvi
@@ -207147,6 +207151,7 @@ PPT	ppt
 㪿	veul
 这首	veuz
 折寿	veuz
+遮罩	vevc
 嫬	vevf
 这张	vevh
 𦅄	vevk
@@ -228024,6 +228029,7 @@ windows	wind
 玉佩	yupw
 𢛨	yupy
 揄	yuq
+扬声器	yuq
 𬛼	yuqa
 𢯮	yuqb
 㧒	yuqc

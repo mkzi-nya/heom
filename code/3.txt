@@ -2284,6 +2284,8 @@
 芸	yijw
 𢑠	tosa
 𩧐	tosc
+螿	jlva
+繦	jlvb
 臸	viaq
 𡍶	viar
 𥒓	viat
@@ -2617,7 +2619,6 @@
 𥾊	jiiy
 𦇧	jipg
 𪊆	jixa
-繦	jlva
 𣠷	jmdb
 𥴱	jmhz
 馢	jmik

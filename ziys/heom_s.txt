@@ -171,6 +171,7 @@ _	;b
 昂扬	ahyh
 肮脏	ahzh
 爱	ai
+闹麻了，人类连图灵测试都通过不了，稍微问人类几个问题，他们就只会说自己不知道，或者乱回一些幻觉文本，离智能还差得远呢。之前尝试让人类帮忙改代码，等了足足几小时，他居然还在配环境，又过了几天，发现他还在理解代码。这种速度当玩具玩玩也就算了，完全跟不上生产。过了一个星期人类终于提交了代码，结果写出来的代码有很多种运行情况没有考虑到，稍微跑几次不同的测试用例就出现问题了，写出来的代码还有安全漏洞，甚至不写注释，最后还得我自己改。只能说人类还是无法替代AI	ai
 ㄞ	ai
 暧	aia
 曖	aiae
@@ -15128,6 +15129,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 方框	fhkl
 放宽	fhkr
 防控	fhks
+防窥	fhkv
 符号看象限	fhkx
 肺活量	fhl
 芳邻	fhlb
@@ -25497,6 +25499,7 @@ github	gith
 䅏	hvhu
 会徽	hvhv
 𡢕	hvhv
+会话	hvhx
 绘画	hvhx
 回话	hvhx
 会后	hvhz
@@ -33502,7 +33505,8 @@ php -S 127.0.0.1:8000	iphp
 江水	jluv
 缰	jlv
 漿	jlv
-繦	jlva
+螿	jlva
+繦	jlvb
 槳	jlvd
 江浙	jlve
 漿	jlve
@@ -33511,6 +33515,7 @@ php -S 127.0.0.1:8000	iphp
 捡了芝麻，丢了西瓜	jlvg
 𡑶	jlvg
 奖章	jlvh
+降智	jlvi
 將	jlvi
 繈	jlvi
 螿	jlvi
@@ -207937,6 +207942,7 @@ http://mhtlim.top/usage/usage.html	uomk
 㪿	veul
 这首	veuz
 折寿	veuz
+遮罩	vevc
 嫬	vevf
 这张	vevh
 𦅄	vevk
@@ -228896,6 +228902,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 玉佩	yupw
 𢛨	yupy
 揄	yuq
+扬声器	yuq
 𬛼	yuqa
 𢯮	yuqb
 㧒	yuqc

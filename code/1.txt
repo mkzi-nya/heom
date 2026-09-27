@@ -11063,6 +11063,7 @@ _	;b
 挥霍	hvho
 恢弘	hvhs
 会徽	hvhv
+会话	hvhx
 绘画	hvhx
 回话	hvhx
 会后	hvhz
@@ -52644,3 +52645,7 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 免打扰	mdrc
 倒垃圾	dlj
 增益	zgyi
+遮罩	vevc
+扬声器	yuq
+防窥	fhkv
+降智	jlvi

@@ -665,6 +665,7 @@ jmmi	5
 yiyk	5
 yuio	5
 tosd	5
+jlvi	5
 bibe	5
 bidj	5
 binh	5
@@ -1592,7 +1593,6 @@ jimd	4
 jitk	4
 jitu	4
 jiyx	4
-jlvi	4
 jmdi	4
 jmhf	4
 jmtb	4

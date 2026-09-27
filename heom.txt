@@ -11063,6 +11063,7 @@ _	;b
 挥霍	hvho
 恢弘	hvhs
 会徽	hvhv
+会话	hvhx
 绘画	hvhx
 回话	hvhx
 会后	hvhz
@@ -52644,6 +52645,10 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 免打扰	mdrc
 倒垃圾	dlj
 增益	zgyi
+遮罩	vevc
+扬声器	yuq
+防窥	fhkv
+降智	jlvi
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -98805,6 +98810,8 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 芸	yijw
 𢑠	tosa
 𩧐	tosc
+螿	jlva
+繦	jlvb
 臸	viaq
 𡍶	viar
 𥒓	viat
@@ -99138,7 +99145,6 @@ QQㄋㄟㄋㄟ好喝到咩噗茶	ndia
 𥾊	jiiy
 𦇧	jipg
 𪊆	jixa
-繦	jlva
 𣠷	jmdb
 𥴱	jmhz
 馢	jmik
