@@ -1,0 +1,26 @@
+# --- heom: dict build ---
+*.log
+.DS_Store
+
+# --- reverse: large binaries / generated ---
+reverse/dist/
+reverse/build/
+reverse/assets/nya.tar
+reverse/lib/
+reverse/_logic/
+reverse/original/
+reverse/original.apk
+reverse/smali*/
+reverse/kotlin/
+reverse/META-INF/
+reverse/apktool.yml.bak
+*.apk
+*.idsig
+*.ap_
+/tmp/
+verify_rebuild/
+
+# --- dotnet ---
+.config/
+reverse/res/
+reverse/unknown/

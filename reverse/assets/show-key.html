@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>按键显示 - 日夜模式</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            transition: background-color 0.5s ease;
+        }
+        
+        /* 日间模式 */
+        body.day-mode {
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        
+        /* 夜间模式 */
+        body.night-mode {
+            background-color: #222;
+            color: #eee;
+        }
+        
+        .key-display {
+            width: 100px;
+            height: 100px;
+            border-radius: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 32px;
+            box-shadow: 0 4px 0 rgba(0, 0, 0, 0.2), 
+                        0 0 20px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            position: relative;
+            margin-bottom: 30px;
+        }
+        
+        /* 日间模式按键样式 */
+        body.day-mode .key-display {
+            background-color: #fff;
+            color: #333;
+            border: 1px solid #ddd;
+        }
+        
+        /* 夜间模式按键样式 */
+        body.night-mode .key-display {
+            background-color: #444;
+            color: white;
+            border: 1px solid #333;
+        }
+        
+        .key-display::before {
+            content: "按键";
+            position: absolute;
+            bottom: 10px;
+            font-size: 14px;
+            opacity: 0.7;
+        }
+        
+        .key-display.active {
+            transform: translateY(4px);
+            box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 
+                        0 0 20px 5px rgba(0, 200, 255, 0.7);
+        }
+        
+        /* 日间模式激活状态 */
+        body.day-mode .key-display.active {
+            background-color: #e0e0e0;
+        }
+        
+        /* 夜间模式激活状态 */
+        body.night-mode .key-display.active {
+            background-color: #555;
+        }
+        
+        .mode-toggle {
+            padding: 8px 16px;
+            border-radius: 20px;
+            border: none;
+            background-color: #555;
+            color: white;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s ease;
+            outline: none;
+        }
+        
+        body.day-mode .mode-toggle {
+            background-color: #ddd;
+            color: #333;
+        }
+        
+        .mode-toggle:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body class="night-mode">
+    <div class="key-display" id="keyDisplay"></div>
+    <script>
+        const keyDisplay = document.getElementById('keyDisplay');
+        const body = document.body;
+        
+        function onKeyDown(keyChar){
+            if ([...keyChar].length == 1) {
+                keyDisplay.textContent =keyChar.toUpperCase();
+                keyDisplay.classList.add('active');
+            }
+        }
+        
+        function onKeyUp(keyChar){
+            keyDisplay.classList.remove('active');
+        }    
+        // 按键处理
+        document.addEventListener('keydown', (e) => {
+            if (e.repeat) return;
+            onKeyDown(e.key);
+        });
+        
+        document.addEventListener('keyup', (e) => {
+            onKeyUp(e.key);
+        });
+        
+        function setMode(isNightMode){
+            if (isNightMode) {
+                body.classList.remove('day-mode');
+                body.classList.add('night-mode');
+            } else {
+                body.classList.remove('night-mode');
+                body.classList.add('day-mode');
+            }
+        }
+                
+        if(window.androidBridge){
+        	setMode(window.androidBridge.getNightMode());                
+        }
+    </script>
+</body>
+</html>

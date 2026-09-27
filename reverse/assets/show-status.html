@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>击键速度</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: transparent;
+            font-family: 'Roboto', monospace;
+            -webkit-tap-highlight-color: transparent;
+            overflow: hidden;
+        }
+
+        .compact-display {
+            display: flex;
+            align-items: baseline;
+            padding: 4px 8px;
+            background-color: rgba(0, 0, 0, 0.7);
+            border-radius: 4px;
+            color: white;
+            font-size: 12px;
+            line-height: 1.2;
+            white-space: nowrap;
+        }
+
+        .speed-value {
+            font-weight: bold;
+            min-width: 24px;
+            text-align: right;
+            display: inline-block;
+        }
+
+        .speed-separator {
+            margin: 0 4px;
+            opacity: 0.6;
+        }
+
+        .unit {
+            font-size: 10px;
+            opacity: 0.8;
+            margin-left: 2px;
+        }
+    </style>
+</head>
+<body>
+    <div class="compact-display">
+        <span class="speed-value" id="currentSpeed">0.0</span>
+        <span class="speed-separator">/</span>
+        <span class="speed-value" id="averageSpeed">0.0</span>
+        <span class="unit">键/秒</span>
+    </div>
+
+    <script>
+        const currentSpeedEl = document.getElementById('currentSpeed');
+        const averageSpeedEl = document.getElementById('averageSpeed');
+
+        // 统计数据
+        let stats = {
+            keyPressTimes: [],    // 记录每次按键的时间戳
+            totalKeys: 0,         // 总按键数
+            startTime: null       // 测试开始时间
+        };
+
+        function onKeyUp(keyChar){
+        } 
+
+        // 输入处理函数
+        function onKeyDown() {
+            const now = Date.now();
+
+            stats.keyPressTimes.push(now);
+            stats.totalKeys++;
+
+            if (!stats.startTime) {
+                stats.startTime = now;
+            }
+
+            calculateSpeeds();
+        }
+
+        // 事件监听
+        document.addEventListener('keydown', function(e) {
+            if (e.repeat) return;
+            onKeyDown();
+        });
+
+        // 计算速度
+        function calculateSpeeds() {
+            const times = stats.keyPressTimes;
+            const now = Date.now();
+
+            // 当前速度（最近3次按键）
+            if (times.length >= 2) {
+                const recentTimes = times.slice(-3);
+                const timeWindow = recentTimes[recentTimes.length - 1] - recentTimes[0];
+                const currentSpeed = timeWindow > 0 ?
+                    ((recentTimes.length - 1) / (timeWindow / 1000)).toFixed(1) : "0.0";
+                currentSpeedEl.textContent = currentSpeed;
+            }
+
+            // 平均速度
+            if (stats.startTime && now > stats.startTime) {
+                const averageSpeed = (stats.totalKeys / ((now - stats.startTime) / 1000)).toFixed(1);
+                averageSpeedEl.textContent = averageSpeed;
+            }
+        }
+
+        // 自动调整大小
+        function resizeDisplay() {
+            const display = document.querySelector('.compact-display');
+            display.style.transform = `scale(${Math.min(window.innerWidth / 150, 1)})`;
+        }
+
+        window.addEventListener('resize', resizeDisplay);
+        resizeDisplay();
+    </script>
+</body>
+</html>
