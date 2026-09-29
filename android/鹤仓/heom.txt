@@ -43960,7 +43960,7 @@ IP地址	ipdv
 骗	pmn
 彭	pgg
 炮	pcf
-膨	pgbh
+膨	pgb
 佩	pwo
 旁	ph
 陪	pwn
@@ -43984,7 +43984,7 @@ IP地址	ipdv
 萍	pkt
 盼	pjb
 盆	pf
-碰	pg
+朋	pg
 飘	pnm
 扑	puq
 泡	pce
@@ -50433,7 +50433,7 @@ GDP	gdp
 美	mw
 哪	n
 浓	ns
-屁	p
+碰	p
 期	q
 起	qi
 入	r

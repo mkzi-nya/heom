@@ -185872,7 +185872,7 @@ $	otm
 Ⅰ	oyy
 「	oz
 平	p
-屁	p
+碰	p
 便宜	p
 怕	pa
 鈀	pacu
@@ -186450,15 +186450,15 @@ $	otm
 盆栽	pfzd
 盆子	pfzi
 喷嘴	pfzv
-碰	pg
+朋	pg
 䦕	pgaj
 閛	pgaj
 䦕	pgat
 朋	pgb
+膨	pgb
 𢽩	pgbe
 𦚝	pgbe
 鵬	pgbf
-膨	pgbh
 碰壁	pgbi
 𧴂	pgbj
 鹏	pgbm

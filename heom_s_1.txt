@@ -185872,7 +185872,7 @@ oyy	①
 oyy	Ⅰ
 oz	「
 p	平
-p	屁
+p	碰
 p	便宜
 pa	怕
 pacu	鈀
@@ -186450,15 +186450,15 @@ pfz	票贩子
 pfzd	盆栽
 pfzi	盆子
 pfzv	喷嘴
-pg	碰
+pg	朋
 pgaj	䦕
 pgaj	閛
 pgat	䦕
 pgb	朋
+pgb	膨
 pgbe	𢽩
 pgbe	𦚝
 pgbf	鵬
-pgbh	膨
 pgbi	碰壁
 pgbj	𧴂
 pgbm	鹏
